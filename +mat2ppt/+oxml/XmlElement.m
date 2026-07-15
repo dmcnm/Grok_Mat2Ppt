@@ -24,6 +24,9 @@ classdef XmlElement < handle
         attribValues_ cell = {}
         children_ cell = {}      % XmlElement handles
         parent_ = []             % XmlElement or []
+        % Ordered xmlns decls on this element: {prefix, uri}; prefix '' = default
+        % Mirrors lxml element.nsmap order for re-serialize identity.
+        nsDecls_ cell = {}
     end
 
     methods
@@ -184,6 +187,25 @@ classdef XmlElement < handle
             else
                 s = string(t);
             end
+        end
+
+        function setNsDecls(obj, decls)
+            %SETNSDECLS  Store ordered xmlns decls {prefix,uri} cell rows.
+            % prefix '' (empty char) means default xmlns.
+            if isempty(decls)
+                obj.nsDecls_ = {};
+            else
+                obj.nsDecls_ = decls;
+            end
+        end
+
+        function decls = getNsDecls(obj)
+            %GETNSDECLS  Ordered {prefix, uri} cell (Nx2) or {}.
+            decls = obj.nsDecls_;
+        end
+
+        function tf = hasNsDecls(obj)
+            tf = ~isempty(obj.nsDecls_);
         end
     end
 

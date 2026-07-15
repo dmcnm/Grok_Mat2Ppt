@@ -5,7 +5,7 @@ classdef OpcPackage < handle
 %   pkg.save(path)
 %
 %   Ported from python-pptx 1.0.2: src/pptx/opc/package.py::OpcPackage
-%   M1-focused: load parts, re-serialize XmlPart content types on save.
+%   M1: load parts; on save re-serialize XmlParts, regenerate CT + .rels.
 
     properties (Access = private)
         blobMap_   % membername -> uint8
@@ -25,30 +25,47 @@ classdef OpcPackage < handle
         function save(obj, pkg_file)
             outMap = containers.Map("KeyType", "char", "ValueType", "any");
             keys = obj.blobMap_.keys;
+
+            % Build part list + content types for CT regeneration
+            partNames = {};
+            partCTs = containers.Map("KeyType", "char", "ValueType", "char");
             for i = 1:numel(keys)
                 member = keys{i};
-                partname = "/" + string(member);
+                if strcmp(member, "[Content_Types].xml")
+                    continue
+                end
+                if endsWith(string(member), ".rels")
+                    continue
+                end
+                partname = char("/" + string(member));
+                partNames{end+1} = partname; %#ok<AGROW>
                 ct = mat2ppt.opc.content_type_for_part(partname, obj.defaults_, obj.overrides_);
-                isRels = endsWith(string(member), ".rels");
-                isCT = strcmp(member, "[Content_Types].xml");
+                partCTs(partname) = char(string(ct));
+            end
+            outMap("[Content_Types].xml") = mat2ppt.opc.build_content_types_xml_(partNames, partCTs);
 
-                if isKey(obj.xmlParts_, char(partname))
-                    % XmlPart: re-serialize element
-                    elm = obj.xmlParts_(char(partname));
-                    outMap(member) = mat2ppt.oxml.serialize_part_xml(elm);
-                elseif isRels || isCT
-                    % parse+serialize relationship and content-types streams
-                    % (python regenerates these; we re-serialize loaded tree)
-                    if isKey(obj.xmlParts_, char(partname))
-                        outMap(member) = mat2ppt.oxml.serialize_part_xml(obj.xmlParts_(char(partname)));
+            for i = 1:numel(keys)
+                member = keys{i};
+                if strcmp(member, "[Content_Types].xml")
+                    continue
+                end
+                partname = char("/" + string(member));
+                isRels = endsWith(string(member), ".rels");
+
+                if isRels
+                    if isKey(obj.xmlParts_, partname)
+                        outMap(member) = mat2ppt.opc.serialize_rels_sorted_(obj.xmlParts_(partname));
                     else
                         try
                             elm = mat2ppt.oxml.parse_xml(obj.blobMap_(member));
-                            outMap(member) = mat2ppt.oxml.serialize_part_xml(elm);
+                            outMap(member) = mat2ppt.opc.serialize_rels_sorted_(elm);
                         catch
                             outMap(member) = obj.blobMap_(member);
                         end
                     end
+                elseif isKey(obj.xmlParts_, partname)
+                    elm = obj.xmlParts_(partname);
+                    outMap(member) = mat2ppt.oxml.serialize_part_xml(elm);
                 else
                     outMap(member) = obj.blobMap_(member);
                 end

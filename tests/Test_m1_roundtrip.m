@@ -33,9 +33,8 @@ classdef Test_m1_roundtrip < matlab.unittest.TestCase
                 end
             end
             fprintf(1, "M1 L1 parts identical: %d / %d (diff %d)\n", nMatch, numel(oKeys), nDiff);
-            % L0 required; L1 tracked until serialize/rels regeneration matches lxml fully
-            testCase.verifyGreaterThanOrEqual(nMatch, 5, "Expected some opaque parts to match verbatim");
-            % Full L1 is milestone exit; keep suite green while serializer is brought up
+            testCase.verifyEqual(nMatch, numel(oKeys), ...
+                sprintf("M1 L1 requires all parts byte-identical; got %d/%d", nMatch, numel(oKeys)));
         end
     end
 end
