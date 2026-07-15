@@ -128,6 +128,29 @@ classdef OpcPackage < handle
             obj.overrides_(pn) = char(string(contentType));
         end
 
+        function add_blob_part(obj, partname, blob, contentType)
+            %ADD_BLOB_PART  Insert opaque binary part (images/media) (P7-W3).
+            arguments
+                obj
+                partname
+                blob
+                contentType
+            end
+            pn = char(string(partname));
+            if ~startsWith(string(pn), "/")
+                pn = ["/" + string(pn)];
+                pn = char(pn);
+            end
+            member = pn;
+            if startsWith(string(member), "/")
+                member = member(2:end);
+            end
+            obj.blobMap_(member) = uint8(blob(:));
+            if ~mat2ppt.isAbsent(contentType) && strlength(string(contentType)) > 0
+                obj.overrides_(pn) = char(string(contentType));
+            end
+        end
+
         function rId = add_relationship(obj, sourcePartname, reltype, targetPartname)
             %ADD_RELATIONSHIP  Internal rel from source to target; returns rId.
             arguments

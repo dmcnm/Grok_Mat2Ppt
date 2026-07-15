@@ -53,6 +53,58 @@ classdef SlideShapes < mat2ppt.shared.Collection
             sh = obj.item(obj.length);
         end
 
+        function sh = add_picture(obj, imagePath, left, top, width, height)
+            %ADD_PICTURE  Embed image file as p:pic (python SlideShapes.add_picture).
+            %   width/height optional (omit or [] for native size / aspect preserve).
+            arguments
+                obj
+                imagePath
+                left
+                top
+                width = []
+                height = []
+            end
+            imagePath = char(string(imagePath));
+            [nativeCx, nativeCy, ext, contentType] = mat2ppt.util.image_size_emu(imagePath);
+            % scale
+            if mat2ppt.isAbsent(width) && mat2ppt.isAbsent(height)
+                cx = nativeCx;
+                cy = nativeCy;
+            elseif ~mat2ppt.isAbsent(width) && mat2ppt.isAbsent(height)
+                cx = mat2ppt.util.Length.toEmuInt_(width);
+                cy = int64(round(double(nativeCy) * double(cx) / double(nativeCx)));
+            elseif mat2ppt.isAbsent(width) && ~mat2ppt.isAbsent(height)
+                cy = mat2ppt.util.Length.toEmuInt_(height);
+                cx = int64(round(double(nativeCx) * double(cy) / double(nativeCy)));
+            else
+                cx = mat2ppt.util.Length.toEmuInt_(width);
+                cy = mat2ppt.util.Length.toEmuInt_(height);
+            end
+
+            % package: next media part + slide relationship
+            [pkg, slidePn] = mat2ppt.shapes.SlideShapes.pkg_slide_(obj.parent_);
+            mediaPn = mat2ppt.shapes.SlideShapes.next_media_partname_(pkg, ext);
+            fid = fopen(imagePath, "rb");
+            if fid < 0
+                error("mat2ppt:IOError", "Cannot open image %s", imagePath);
+            end
+            cleaner = onCleanup(@() fclose(fid));
+            blob = fread(fid, inf, "*uint8");
+            pkg.add_blob_part(mediaPn, blob, contentType);
+            rId = pkg.add_relationship(slidePn, mat2ppt.opc.RELATIONSHIP_TYPE.IMAGE, mediaPn);
+
+            sid = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+            name = sprintf("Picture %d", sid - 1);
+            [~, fname, fext] = fileparts(imagePath);
+            desc = [fname, fext];
+            pic = mat2ppt.shapes.Picture.new_pic_elm(sid, name, left, top, ...
+                mat2ppt.util.Emu(cx), mat2ppt.util.Emu(cy), rId, desc);
+            mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, pic);
+            obj.rebuild_items_();
+            sh = obj.item(obj.length);
+        end
+
         function sh = add_table(obj, rows, cols, left, top, width, height)
             %ADD_TABLE  Graphic frame with rows x cols table (1-based cell API).
             %   Returns |GraphicFrame|; use .table() for |Table|.
@@ -119,6 +171,46 @@ classdef SlideShapes < mat2ppt.shared.Collection
     end
 
     methods (Static, Access = private)
+        function [pkg, slidePn] = pkg_slide_(parent)
+            p = parent;
+            for k = 1:12
+                if ismethod(p, "part")
+                    pr = p.part();
+                    if isstruct(pr) && isfield(pr, "package") && isfield(pr, "partname")
+                        pkg = pr.package;
+                        slidePn = pr.partname;
+                        return
+                    end
+                end
+                if ismethod(p, "parent")
+                    p = p.parent();
+                elseif ismethod(p, "presentation")
+                    % Slide
+                    prs = p.presentation();
+                    pkg = prs.package();
+                    if ismethod(p, "partname")
+                        slidePn = p.partname();
+                        return
+                    end
+                else
+                    break
+                end
+            end
+            error("mat2ppt:AttributeError", "Cannot resolve package/slide for picture");
+        end
+
+        function pn = next_media_partname_(pkg, ext)
+            names = pkg.list_partnames();
+            maxN = 0;
+            for i = 1:numel(names)
+                tok = regexp(char(names(i)), "^/ppt/media/image(\d+)\.", "tokens", "once");
+                if ~isempty(tok)
+                    maxN = max(maxN, str2double(tok{1}));
+                end
+            end
+            pn = sprintf("/ppt/media/image%d.%s", maxN + 1, char(string(ext)));
+        end
+
         function prst = prst_for_enum_(e)
             n = char(string(e.name));
             switch upper(n)
