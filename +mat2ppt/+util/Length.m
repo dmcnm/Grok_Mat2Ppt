@@ -72,10 +72,9 @@ classdef Length
         end
     end
 
-    methods (Static, Access = {?mat2ppt.util.Length, ?mat2ppt.util.Inches, ...
-            ?mat2ppt.util.Centipoints, ?mat2ppt.util.Cm, ?mat2ppt.util.Emu, ...
-            ?mat2ppt.util.Mm, ?mat2ppt.util.Pt})
+    methods (Static)
         function e = toEmuInt_(x)
+            %TOEMUINT_  Coerce Length or numeric to int64 EMUs (package-wide helper).
             if isa(x, "mat2ppt.util.Length")
                 e = x.emu;
                 return
