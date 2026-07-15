@@ -9,3 +9,11 @@ results/
 *.pptx.bak
 /out/
 /tmp/
+
+# docs guide build
+docs/node_modules/
+docs/package-lock.json
+docs/package.json
+docs/_build_guide.js
+examples/out_*.pptx
+

@@ -48,13 +48,31 @@ ch = s.shapes().item(s.shapes().length).chart();  % GraphicFrame.chart
 
 `mat2ppt.Presentation` is a **class** (`+mat2ppt/Presentation.m`), not a factory function.
 
+## User guide and examples
+
+| Resource | Location |
+|----------|----------|
+| **Word user guide** (slides, text, tables, images, charts…) | [`docs/Mat2Ppt_User_Guide.docx`](docs/Mat2Ppt_User_Guide.docx) |
+| **Runnable MATLAB examples** | [`examples/`](examples/) — `ex01_hello_title.m` … `ex08_showcase.m` |
+| Examples index | [`examples/README.md`](examples/README.md) |
+
+```matlab
+addpath('C:\Users\dougl\Repos\MSOffice_Grok\Mat2Ppt');
+cd('C:\Users\dougl\Repos\MSOffice_Grok\Mat2Ppt\examples');
+ex01_hello_title   % writes out_ex01_hello_title.pptx
+ex04_table
+ex05_picture
+ex06_chart
+```
+
 ## Layout
 
 ```
 +mat2ppt/              Toolbox package (MATLAB)
 resources/templates/   Built-in templates (from python-pptx, byte-identical)
+examples/              Runnable MATLAB scripts that create .pptx files
 tests/                 matlab.unittest suite
-docs/                  API / user docs
+docs/                  User guide (.docx) + topic notes
 LICENSE, NOTICE        MIT + attribution
 RELEASE.md             Campaign release notes
 ```
