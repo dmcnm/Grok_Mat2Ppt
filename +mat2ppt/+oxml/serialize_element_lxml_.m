@@ -57,6 +57,8 @@ function s = serialize_element_lxml_(elm, pfxOfUri, rootDecls, isRoot)
 
     % Namespace decls: on any element that carried them in the source document
     % (lxml keeps local xmlns:p14 etc. on the declaring element).
+    % On part roots, also merge rootDecls for URIs introduced later (e.g. c:chart
+    % on a template slide that only had a/p/r) so Office does not repair/drop them.
     declParts = strings(0);
     if elm.hasNsDecls()
         decls = elm.getNsDecls();
@@ -69,8 +71,14 @@ function s = serialize_element_lxml_(elm, pfxOfUri, rootDecls, isRoot)
                 declParts(end+1) = sprintf('xmlns:%s="%s"', pfx, u); %#ok<AGROW>
             end
         end
-    elseif isRoot && ~isempty(rootDecls)
-        declParts = rootDecls;
+    end
+    if isRoot && ~isempty(rootDecls)
+        for i = 1:numel(rootDecls)
+            d = rootDecls(i);
+            if ~any(declParts == d)
+                declParts(end+1) = d; %#ok<AGROW>
+            end
+        end
     end
 
     head = "<" + string(openName);
