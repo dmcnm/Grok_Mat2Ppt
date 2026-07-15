@@ -1,9 +1,10 @@
 # Mat2Ppt
 
 MATLAB toolbox that ports **python-pptx v1.0.2** for creating and updating
-PowerPoint `.pptx` packages. Target behavior: the same public API call sequence
-produces package parts equivalent to python-pptx (XML parts byte-identical by
-default).
+PowerPoint `.pptx` packages. Target behavior: the same authoring operations
+produce package parts equivalent to python-pptx (XML parts byte-identical by
+default). Public names track python-pptx; **collection indices are 1-based** in
+MATLAB (python-pptx is 0-based).
 
 ## Status
 
@@ -16,9 +17,15 @@ Grok PRT in `C:\Users\dougl\Grok\MSOffice`.
 +mat2ppt/              Toolbox package (MATLAB)
 resources/templates/   Built-in templates (from python-pptx, byte-identical)
 tests/                 matlab.unittest suite
-docs/                  API / user docs
+docs/                  API / user docs (see docs/indexing.md)
 LICENSE, NOTICE        MIT + attribution
 ```
+
+## Indexing
+
+**All Mat2Ppt public collection indices are 1-based** (first item = 1).  
+See **[docs/indexing.md](docs/indexing.md)** for the full rule, conversion to
+python-pptx’s 0-based API, and what does *not* change (`.pptx` bytes, plain MATLAB arrays).
 
 ## Requirements
 
