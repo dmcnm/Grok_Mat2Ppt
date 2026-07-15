@@ -8,8 +8,20 @@ MATLAB (python-pptx is 0-based).
 
 ## Status
 
-Phase 0 bootstrap. Product code lands incrementally by work package under the
-Grok PRT in `C:\Users\dougl\Grok\MSOffice`.
+Phase 0 bootstrap complete; Phase 1 starting. Product code lands incrementally
+by work package under the Grok PRT in `C:\Users\dougl\Grok\MSOffice`.
+
+## Quick start (target API)
+
+```matlab
+addpath('C:\Users\dougl\Repos\MSOffice_Grok\Mat2Ppt');  % or install path
+prs = mat2ppt.Presentation();           % class at package root (Option C)
+% prs = mat2ppt.Presentation("in.pptx");
+prs.save("out.pptx");                   % M1: parts match python-pptx
+```
+
+`mat2ppt.Presentation` is a **class** (`+mat2ppt/Presentation.m`), not a factory
+function. Full authoring APIs land in later work packages.
 
 ## Layout
 
