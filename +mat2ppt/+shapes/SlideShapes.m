@@ -42,7 +42,14 @@ classdef SlideShapes < mat2ppt.shared.Collection
         end
 
         function sh = add_textbox(obj, left, top, width, height)
-            sh = obj.add_shape("rect", left, top, width, height);
+            %ADD_TEXTBOX  Free-floating text box (python SlideShapes.add_textbox).
+            sid = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+            name = sprintf("TextBox %d", sid - 1);
+            sp = mat2ppt.oxml.shapes.new_textbox_sp(sid, name, left, top, width, height);
+            mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, sp);
+            obj.rebuild_items_();
+            sh = obj.item(obj.length);
         end
     end
 
@@ -50,6 +57,7 @@ classdef SlideShapes < mat2ppt.shared.Collection
         function rebuild_items_(obj)
             kids = obj.spTree_.getchildren();
             items = {};
+            maxId = 1;
             for i = 1:numel(kids)
                 ln = char(kids{i}.localName());
                 switch ln
@@ -64,8 +72,15 @@ classdef SlideShapes < mat2ppt.shared.Collection
                     otherwise
                         % nvGrpSpPr etc. skip
                 end
+                if any(strcmp(ln, {'sp', 'pic', 'cxnSp', 'grpSp', 'graphicFrame'}))
+                    idv = items{end}.shape_id();  % reliable; shape_id_ uses char cells
+                    if ~isempty(idv) && idv > maxId
+                        maxId = idv;
+                    end
+                end
             end
             obj.items_ = items;
+            obj.nextId_ = maxId + 1;
         end
     end
 

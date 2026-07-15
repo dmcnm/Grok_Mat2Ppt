@@ -20,7 +20,7 @@ function sldId = add_sldId_(presElm, rId)
         insertAt = numel(kids) + 1;
         for i = 1:numel(kids)
             ln = char(kids{i}.localName());
-            if any(strcmp(ln, {"sldSz", "notesSz", "defaultTextStyle"}))
+            if any(strcmp(ln, {'sldSz', 'notesSz', 'defaultTextStyle'}))
                 insertAt = i;
                 break
             end

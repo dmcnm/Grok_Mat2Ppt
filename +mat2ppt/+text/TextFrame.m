@@ -72,11 +72,19 @@ classdef TextFrame < mat2ppt.shared.ParentedElementProxy
 
         function t = get.text(obj)
             ps = obj.paragraphs();
-            parts = strings(0);
+            parts = cell(1, 0);
             for i = 1:numel(ps)
-                parts(end+1) = string(ps{i}.text); %#ok<AGROW>
+                parts{end+1} = char(string(ps{i}.text)); %#ok<AGROW>
             end
-            t = join(parts, newline);
+            % Drop a single trailing empty paragraph (common after clear/set)
+            while numel(parts) > 1 && strlength(string(parts{end})) == 0
+                parts(end) = [];
+            end
+            if isempty(parts)
+                t = "";
+            else
+                t = string(strjoin(parts, newline));
+            end
         end
 
         function set.text(obj, value)

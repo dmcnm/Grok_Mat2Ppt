@@ -1,46 +1,25 @@
 function sp = new_placeholder_sp(id_, name, phType, orient, sz, idx)
 %NEW_PLACEHOLDER_SP  Minimal p:sp placeholder (python CT_Shape.new_placeholder_sp).
 %
-%   phType/orient/sz/idx may be [] to omit optional ph attributes.
+%   Built with OxmlElement (no per-node xmlns redeclarations).
 
-    ns = mat2ppt.oxml.nsdecls("a", "p");
-    nameEsc = mat2ppt.oxml.escape_xml_attr_(char(string(name)));
-    lines = {
-        ['<p:sp ' ns '>']
-        '  <p:nvSpPr>'
-        ['    <p:cNvPr id="' num2str(id_) '" name="' nameEsc '"/>']
-        '    <p:cNvSpPr>'
-        '      <a:spLocks noGrp="1"/>'
-        '    </p:cNvSpPr>'
-        '    <p:nvPr/>'
-        '  </p:nvSpPr>'
-        '  <p:spPr/>'
-        '</p:sp>'
-        };
-    sp = mat2ppt.oxml.parse_xml(strjoin(lines, newline));
-    % locate nvPr and add p:ph
-    nvSpPr = sp.find("p:nvSpPr");
-    if isempty(nvSpPr)
-        kids = sp.getchildren();
-        nvSpPr = kids{1};
-    end
-    nvPr = [];
-    gk = nvSpPr.getchildren();
-    for i = 1:numel(gk)
-        if strcmp(char(gk{i}.localName()), "nvPr")
-            nvPr = gk{i};
-            break
-        end
-    end
-    if isempty(nvPr)
-        nvPr = mat2ppt.oxml.OxmlElement("p:nvPr");
-        nvSpPr.append(nvPr);
-    end
+    sp = mat2ppt.oxml.OxmlElement("p:sp");
+    nvSpPr = mat2ppt.oxml.OxmlElement("p:nvSpPr");
+    cNvPr = mat2ppt.oxml.OxmlElement("p:cNvPr");
+    cNvPr.set("id", char(string(id_)));
+    cNvPr.set("name", char(string(name)));
+    nvSpPr.append(cNvPr);
+    cNvSpPr = mat2ppt.oxml.OxmlElement("p:cNvSpPr");
+    locks = mat2ppt.oxml.OxmlElement("a:spLocks");
+    locks.set("noGrp", "1");
+    cNvSpPr.append(locks);
+    nvSpPr.append(cNvSpPr);
+    nvPr = mat2ppt.oxml.OxmlElement("p:nvPr");
     ph = mat2ppt.oxml.OxmlElement("p:ph");
     if ~mat2ppt.isAbsent(phType) && strlength(string(phType)) > 0
         ph.set("type", char(string(phType)));
     end
-    if ~mat2ppt.isAbsent(idx)
+    if ~mat2ppt.isAbsent(idx) && strlength(string(idx)) > 0
         ph.set("idx", char(string(idx)));
     end
     if ~mat2ppt.isAbsent(orient) && strlength(string(orient)) > 0
@@ -50,23 +29,22 @@ function sp = new_placeholder_sp(id_, name, phType, orient, sz, idx)
         ph.set("sz", char(string(sz)));
     end
     nvPr.append(ph);
+    nvSpPr.append(nvPr);
+    sp.append(nvSpPr);
+    sp.append(mat2ppt.oxml.OxmlElement("p:spPr"));
 
     hasTf = true;
     if ~mat2ppt.isAbsent(phType)
         t = char(string(phType));
-        if any(strcmp(t, {"pic", "tbl", "chart", "dgm", "media", "clipArt", "sldImg"}))
+        if any(strcmp(t, {'pic', 'tbl', 'chart', 'dgm', 'media', 'clipArt', 'sldImg'}))
             hasTf = false;
         end
     end
     if hasTf
-        tbLines = {
-            ['<p:txBody ' mat2ppt.oxml.nsdecls("a", "p") '>']
-            '  <a:bodyPr/>'
-            '  <a:lstStyle/>'
-            '  <a:p/>'
-            '</p:txBody>'
-            };
-        tb = mat2ppt.oxml.parse_xml(strjoin(tbLines, newline));
-        sp.append(tb);
+        txBody = mat2ppt.oxml.OxmlElement("p:txBody");
+        txBody.append(mat2ppt.oxml.OxmlElement("a:bodyPr"));
+        txBody.append(mat2ppt.oxml.OxmlElement("a:lstStyle"));
+        txBody.append(mat2ppt.oxml.OxmlElement("a:p"));
+        sp.append(txBody);
     end
 end

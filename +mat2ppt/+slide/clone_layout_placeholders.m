@@ -26,7 +26,8 @@ function clone_layout_placeholders(slide, slideLayout)
             continue
         end
         phType = mat2ppt.shapes.PlaceholderMixin.placeholder_type(spElm);
-        if any(strcmp(phType, {"dt", "ftr", "sldNum"}))
+        % char cells (not string cells) — strcmp must match char phType
+        if any(strcmp(char(string(phType)), {'dt', 'ftr', 'sldNum'}))
             continue
         end
         [orient, sz, idx] = mat2ppt.slide.ph_attrs_(spElm);
