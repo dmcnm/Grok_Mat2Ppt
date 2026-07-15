@@ -14,10 +14,14 @@ classdef FillFormat < handle
         function obj = FillFormat(parentElm)
             if nargin >= 1
                 obj.parentElm_ = parentElm;
+                obj.rehydrate_();
             end
         end
 
         function t = type(obj)
+            if isempty(obj.type_)
+                obj.rehydrate_();
+            end
             t = obj.type_;
         end
 
@@ -28,7 +32,7 @@ classdef FillFormat < handle
                 kids = obj.parentElm_.getchildren();
                 for i = numel(kids):-1:1
                     ln = char(kids{i}.localName());
-                    if any(strcmp(ln, {"noFill","solidFill","gradFill","blipFill","pattFill","grpFill"}))
+                    if any(strcmp(ln, {'noFill','solidFill','gradFill','blipFill','pattFill','grpFill'}))
                         obj.parentElm_.remove(kids{i});
                     end
                 end
@@ -47,7 +51,7 @@ classdef FillFormat < handle
                 kids = obj.parentElm_.getchildren();
                 for i = numel(kids):-1:1
                     ln = char(kids{i}.localName());
-                    if any(strcmp(ln, {"noFill","solidFill","gradFill","blipFill","pattFill","grpFill"}))
+                    if any(strcmp(ln, {'noFill','solidFill','gradFill','blipFill','pattFill','grpFill'}))
                         obj.parentElm_.remove(kids{i});
                     end
                 end
@@ -79,6 +83,26 @@ classdef FillFormat < handle
             end
             obj.fore_color().rgb = rgb;
             obj.foreRgb_ = rgb;
+        end
+    end
+
+    methods (Access = private)
+        function rehydrate_(obj)
+            if isempty(obj.parentElm_) || ~isvalid(obj.parentElm_)
+                return
+            end
+            kids = obj.parentElm_.getchildren();
+            for i = 1:numel(kids)
+                ln = char(kids{i}.localName());
+                if strcmp(ln, 'solidFill')
+                    obj.solidElm_ = kids{i};
+                    obj.type_ = mat2ppt.enum.MSO_FILL.SOLID;
+                    return
+                elseif strcmp(ln, 'noFill')
+                    obj.type_ = mat2ppt.enum.MSO_FILL.BACKGROUND;
+                    return
+                end
+            end
         end
     end
 

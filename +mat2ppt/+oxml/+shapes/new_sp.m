@@ -1,7 +1,7 @@
 function sp = new_sp(shapeId, name, left, top, width, height, prst)
-%NEW_SP  Minimal p:sp autoshape tree (python-pptx CT_Shape skeleton).
+%NEW_SP  p:sp autoshape (python CT_Shape.new_autoshape_sp).
 %
-%   Ported from python-pptx oxml/shapes/autoshape.py patterns (P5-W2).
+%   Includes p:style and centered bodyPr like python-pptx 1.0.2.
 
     if nargin < 7 || mat2ppt.isAbsent(prst)
         prst = "rect";
@@ -38,11 +38,44 @@ function sp = new_sp(shapeId, name, left, top, width, height, prst)
     spPr.append(prstGeom);
     sp.append(spPr);
 
-    % txBody minimal
+    % default autoshape style (python new_autoshape_sp)
+    style = mat2ppt.oxml.OxmlElement("p:style");
+    lnRef = mat2ppt.oxml.OxmlElement("a:lnRef");
+    lnRef.set("idx", "1");
+    sc = mat2ppt.oxml.OxmlElement("a:schemeClr");
+    sc.set("val", "accent1");
+    lnRef.append(sc);
+    style.append(lnRef);
+    fillRef = mat2ppt.oxml.OxmlElement("a:fillRef");
+    fillRef.set("idx", "3");
+    sc2 = mat2ppt.oxml.OxmlElement("a:schemeClr");
+    sc2.set("val", "accent1");
+    fillRef.append(sc2);
+    style.append(fillRef);
+    effectRef = mat2ppt.oxml.OxmlElement("a:effectRef");
+    effectRef.set("idx", "2");
+    sc3 = mat2ppt.oxml.OxmlElement("a:schemeClr");
+    sc3.set("val", "accent1");
+    effectRef.append(sc3);
+    style.append(effectRef);
+    fontRef = mat2ppt.oxml.OxmlElement("a:fontRef");
+    fontRef.set("idx", "minor");
+    sc4 = mat2ppt.oxml.OxmlElement("a:schemeClr");
+    sc4.set("val", "lt1");
+    fontRef.append(sc4);
+    style.append(fontRef);
+    sp.append(style);
+
     txBody = mat2ppt.oxml.OxmlElement("p:txBody");
-    txBody.append(mat2ppt.oxml.OxmlElement("a:bodyPr"));
+    bodyPr = mat2ppt.oxml.OxmlElement("a:bodyPr");
+    bodyPr.set("rtlCol", "0");
+    bodyPr.set("anchor", "ctr");
+    txBody.append(bodyPr);
     txBody.append(mat2ppt.oxml.OxmlElement("a:lstStyle"));
     p = mat2ppt.oxml.OxmlElement("a:p");
+    pPr = mat2ppt.oxml.OxmlElement("a:pPr");
+    pPr.set("algn", "ctr");
+    p.append(pPr);
     txBody.append(p);
     sp.append(txBody);
 end

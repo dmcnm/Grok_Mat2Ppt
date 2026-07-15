@@ -144,6 +144,12 @@ classdef TextFrame < mat2ppt.shared.ParentedElementProxy
                 lst = obj.txBody_.p_lst();
             else
                 lst = {};
+                kids = obj.txBody_.getchildren();
+                for i = 1:numel(kids)
+                    if strcmp(char(kids{i}.localName()), "p")
+                        lst{end+1} = kids{i}; %#ok<AGROW>
+                    end
+                end
             end
             if isempty(lst)
                 obj.add_paragraph();

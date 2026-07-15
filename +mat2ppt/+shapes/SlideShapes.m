@@ -34,7 +34,8 @@ classdef SlideShapes < mat2ppt.shared.Collection
             end
             sid = obj.nextId_;
             obj.nextId_ = obj.nextId_ + 1;
-            name = sprintf("%s %d", prst, sid);
+            baseName = mat2ppt.shapes.SlideShapes.basename_for_prst_(prst);
+            name = sprintf("%s %d", baseName, sid - 1);
             sp = mat2ppt.oxml.shapes.new_sp(sid, name, left, top, width, height, prst);
             mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, sp);
             obj.rebuild_items_();
@@ -94,6 +95,18 @@ classdef SlideShapes < mat2ppt.shared.Collection
                 case "RIGHT_ARROW", prst = "rightArrow";
                 otherwise
                     prst = "rect";
+            end
+        end
+
+        function name = basename_for_prst_(prst)
+            prst = char(string(prst));
+            switch prst
+                case "rect", name = "Rectangle";
+                case "ellipse", name = "Oval";
+                case "roundRect", name = "Rounded Rectangle";
+                case "rightArrow", name = "Right Arrow";
+                otherwise
+                    name = prst;
             end
         end
     end
