@@ -7,6 +7,14 @@ classdef PackURI
         uri (1,1) string
     end
 
+    properties (Dependent, SetAccess = private)
+        baseURI
+        filename
+        ext
+        membername
+        rels_uri
+    end
+
     methods
         function obj = PackURI(pack_uri_str)
             pack_uri_str = string(pack_uri_str);
@@ -22,32 +30,52 @@ classdef PackURI
         function tf = eq(a, b), tf = string(a) == string(b); end
 
         function v = get.baseURI(obj)
+            % Directory of the pack URI (posix), e.g. /ppt/presentation.xml -> /ppt
             u = char(obj.uri);
             if strcmp(u, "/")
                 v = "/";
                 return
             end
-            [p, ~] = fileparts(strrep(u, "/", filesep));
-            v = strrep(p, filesep, "/");
-            if isempty(v), v = "/"; end
-            if v(1) ~= "/", v = ["/" + string(v)]; v = char(v); end
+            parts = split(string(u), "/");
+            % parts(1) empty before first /
+            if numel(parts) <= 2
+                v = "/";
+                return
+            end
+            v = char("/" + join(parts(2:end-1), "/"));
         end
 
         function v = get.filename(obj)
             u = char(obj.uri);
-            if strcmp(u, "/"), v = ""; return; end
-            [~, name, ext] = fileparts(strrep(u, "/", filesep));
-            v = [name, ext];
+            if strcmp(u, "/")
+                v = "";
+                return
+            end
+            parts = split(string(u), "/");
+            v = char(parts(end));
         end
 
         function v = get.ext(obj)
-            [~, ~, e] = fileparts(obj.filename);
-            if ~isempty(e) && e(1) == ".", v = e(2:end); else, v = e; end
+            fn = obj.filename;
+            if isempty(fn)
+                v = "";
+                return
+            end
+            tokens = split(string(fn), ".");
+            if numel(tokens) < 2
+                v = "";
+            else
+                v = char(tokens(end));
+            end
         end
 
         function v = get.membername(obj)
             u = char(obj.uri);
-            if strcmp(u, "/"), v = ""; else, v = u(2:end); end
+            if strcmp(u, "/")
+                v = "";
+            else
+                v = u(2:end);
+            end
         end
 
         function r = get.rels_uri(obj)
@@ -59,9 +87,10 @@ classdef PackURI
             end
             base = obj.baseURI;
             fn = obj.filename;
-            rels = sprintf("%s/_rels/%s.rels", base, fn);
-            if startsWith(string(rels), "//")
-                rels = extractAfter(string(rels), 1);
+            if strcmp(base, "/")
+                rels = sprintf("/_rels/%s.rels", fn);
+            else
+                rels = sprintf("%s/_rels/%s.rels", base, fn);
             end
             r = mat2ppt.opc.PackURI(rels);
         end
@@ -69,30 +98,39 @@ classdef PackURI
 
     methods (Static)
         function u = from_rel_ref(baseURI, relative_ref)
-            % Join and normalize like posixpath.abspath
-            baseURI = char(string(baseURI));
-            relative_ref = char(string(relative_ref));
-            if baseURI(end) ~= "/"
-                joined = [baseURI, "/", relative_ref];
+            % Join and normalize like posixpath.abspath (OPC pack URIs).
+            baseURI = string(baseURI);
+            relative_ref = string(relative_ref);
+            relative_ref = strrep(relative_ref, "\", "/");
+            if startsWith(relative_ref, "/")
+                joined = relative_ref;
             else
-                joined = [baseURI, relative_ref];
+                if ~endsWith(baseURI, "/")
+                    baseURI = baseURI + "/";
+                end
+                joined = baseURI + relative_ref;
             end
             joined = strrep(joined, "\", "/");
             % collapse .. and .
-            parts = split(string(joined), "/");
+            parts = split(joined, "/");
             stack = strings(0);
             for i = 1:numel(parts)
                 p = parts(i);
                 if p == "" || p == "."
                     continue
                 elseif p == ".."
-                    if ~isempty(stack), stack(end) = []; end
+                    if ~isempty(stack)
+                        stack(end) = [];
+                    end
                 else
                     stack(end+1) = p; %#ok<AGROW>
                 end
             end
-            absu = "/" + join(stack, "/");
-            if strlength(absu) == 0, absu = "/"; end
+            if isempty(stack)
+                absu = "/";
+            else
+                absu = "/" + join(stack, "/");
+            end
             u = mat2ppt.opc.PackURI(absu);
         end
     end

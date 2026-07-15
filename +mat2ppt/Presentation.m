@@ -56,6 +56,34 @@ classdef Presentation < handle
             end
             cp = obj.coreProps_;
         end
+
+        function elm = presentation_element(obj)
+            %PRESENTATION_ELEMENT  Root p:presentation of /ppt/presentation.xml.
+            elm = obj.pkg_.xml_part_element("/ppt/presentation.xml");
+            if isempty(elm)
+                error("mat2ppt:InvalidPackage", "Missing /ppt/presentation.xml");
+            end
+        end
+
+        function s = slides(obj)
+            %SLIDES  |Slides| collection (1-based). Empty on default template.
+            s = mat2ppt.slide.Slides(obj);
+        end
+
+        function sm = slide_masters(obj)
+            %SLIDE_MASTERS  |SlideMasters| collection (1-based).
+            sm = mat2ppt.slide.SlideMasters(obj);
+        end
+
+        function sm = slide_master(obj)
+            %SLIDE_MASTER  First slide master (common single-master case).
+            sm = obj.slide_masters().item(1);
+        end
+
+        function layouts = slide_layouts(obj)
+            %SLIDE_LAYOUTS  Layouts of the first slide master (1-based).
+            layouts = obj.slide_master().slide_layouts();
+        end
     end
 end
 
