@@ -50,7 +50,8 @@ classdef GraphicFrame < mat2ppt.shapes.BaseShape
             if isempty(elm)
                 error("mat2ppt:ValueError", "chart part %s missing", chartPn);
             end
-            ch = mat2ppt.chart.Chart(elm, []);
+            partInfo = struct("package", pkg, "partname", chartPn);
+            ch = mat2ppt.chart.Chart(elm, partInfo);
         end
     end
 

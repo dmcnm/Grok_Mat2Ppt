@@ -31,35 +31,96 @@ classdef Chart < handle
         end
 
         function plot = first_plot(obj)
-            plot = mat2ppt.oxml.chart.CT_Plot.first_plot(obj.plotArea());
+            %FIRST_PLOT  First Plot object (or [] if none).
+            ps = obj.plots();
+            if ps.length() < 1
+                plot = [];
+            else
+                plot = ps.item(1);
+            end
+        end
+
+        function ps = plots(obj)
+            %PLOTS  1-based |Plots| collection under plotArea.
+            ps = mat2ppt.chart.Plots(obj.plotArea(), obj);
+        end
+
+        function sc = series(obj)
+            %SERIES  SeriesCollection of first plot (python Chart.series).
+            p = obj.first_plot();
+            if isempty(p)
+                error("mat2ppt:ValueError", "chart has no plot");
+            end
+            sc = p.series();
         end
 
         function n = series_count(obj)
-            plot = obj.first_plot();
-            n = mat2ppt.oxml.chart.CT_Plot.series_count(plot);
+            sc = obj.series();
+            n = sc.length();
         end
 
         function sers = series_elements(obj)
             %SERIES_ELEMENTS  Raw c:ser cells (document order).
-            sers = mat2ppt.oxml.chart.CT_Plot.series_elements(obj.first_plot());
+            p = obj.first_plot();
+            if isempty(p)
+                sers = {};
+                return
+            end
+            sers = mat2ppt.oxml.chart.CT_Plot.series_elements(p.element());
         end
 
         function name = series_name(obj, idx)
             %SERIES_NAME  1-based series name from cache.
-            sers = obj.series_elements();
-            n = numel(sers);
-            idx = double(idx);
-            if idx < 1 || idx > n || idx ~= floor(idx)
-                error("mat2ppt:IndexOutOfRange", ...
-                    "series index %g out of range 1..%d", idx, n);
-            end
-            name = mat2ppt.oxml.chart.CT_Series.series_name(sers{idx});
+            sc = obj.series();
+            name = sc.item(idx).name();
         end
 
         function tf = has_legend(obj)
             ch = mat2ppt.oxml.chart.CT_ChartSpace.chart_element(obj.chartSpace_);
             leg = mat2ppt.oxml.chart.CT_Legend.find_legend(ch);
             tf = ~isempty(leg);
+        end
+
+        function leg = legend(obj)
+            %LEGEND  |Legend| or [] if absent.
+            ch = mat2ppt.oxml.chart.CT_ChartSpace.chart_element(obj.chartSpace_);
+            legElm = mat2ppt.oxml.chart.CT_Legend.find_legend(ch);
+            if isempty(legElm)
+                leg = [];
+            else
+                leg = mat2ppt.chart.Legend(legElm);
+            end
+        end
+
+        function set_has_legend(obj, value)
+            %SET_HAS_LEGEND  Add default legend or remove (python has_legend).
+            ch = mat2ppt.oxml.chart.CT_ChartSpace.chart_element(obj.chartSpace_);
+            if isempty(ch)
+                error("mat2ppt:ValueError", "chart element missing");
+            end
+            if ~logical(value)
+                kids = ch.getchildren();
+                for i = numel(kids):-1:1
+                    if strcmp(char(kids{i}.localName()), "legend")
+                        ch.remove(kids{i});
+                    end
+                end
+                return
+            end
+            if obj.has_legend()
+                return
+            end
+            leg = mat2ppt.oxml.chart.CT_Legend.new_legend("r");
+            % insert before dispBlanksAs if present
+            kids = ch.getchildren();
+            insertIdx = numel(kids) + 1;
+            for i = 1:numel(kids)
+                if strcmp(char(kids{i}.localName()), "dispBlanksAs")
+                    insertIdx = i;
+                    break
+                end
+            end
+            ch.insert(insertIdx, leg);
         end
 
         function tf = has_category_axis(obj)
@@ -72,6 +133,80 @@ classdef Chart < handle
             tf = ~isempty(mat2ppt.oxml.chart.CT_Axis.find_valAx(pa));
         end
 
+        function ax = category_axis(obj)
+            %CATEGORY_AXIS  |Axis| for catAx (or dateAx/valAx fallback).
+            pa = obj.plotArea();
+            elm = mat2ppt.oxml.chart.CT_Axis.find_catAx(pa);
+            if isempty(elm)
+                axes = mat2ppt.oxml.chart.CT_Axis.list_axes(pa);
+                if isempty(axes)
+                    error("mat2ppt:ValueError", "chart has no category axis");
+                end
+                elm = axes{1};
+            end
+            ax = mat2ppt.chart.Axis(elm);
+        end
+
+        function ax = value_axis(obj)
+            %VALUE_AXIS  |Axis| for valAx.
+            pa = obj.plotArea();
+            elm = mat2ppt.oxml.chart.CT_Axis.find_valAx(pa);
+            if isempty(elm)
+                error("mat2ppt:ValueError", "chart has no value axis");
+            end
+            ax = mat2ppt.chart.Axis(elm);
+        end
+
+        function replace_data(obj, chartData)
+            %REPLACE_DATA  Rebuild series caches + (optional) xlsx from chartData (P9-W4).
+            arguments
+                obj
+                chartData mat2ppt.chart.CategoryChartData
+            end
+            ct = obj.chart_type();
+            newCs = mat2ppt.oxml.parse_xml(chartData.xml_string(ct));
+            % preserve externalData from old chartSpace
+            oldExt = [];
+            kidsOld = obj.chartSpace_.getchildren();
+            for i = 1:numel(kidsOld)
+                if strcmp(char(kidsOld{i}.localName()), "externalData")
+                    oldExt = kidsOld{i};
+                    break
+                end
+            end
+            % clear chartSpace children
+            kids = obj.chartSpace_.getchildren();
+            for i = numel(kids):-1:1
+                obj.chartSpace_.remove(kids{i});
+            end
+            % append rebuilt content
+            newKids = newCs.getchildren();
+            for i = 1:numel(newKids)
+                obj.chartSpace_.append(newKids{i});
+            end
+            if ~isempty(oldExt)
+                % re-attach preserved externalData (xlsx rel)
+                obj.chartSpace_.append(oldExt);
+            end
+            % refresh embedded workbook when package available
+            if ~isempty(obj.chartPart_) && isstruct(obj.chartPart_) ...
+                    && isfield(obj.chartPart_, "package") && isfield(obj.chartPart_, "partname")
+                pkg = obj.chartPart_.package;
+                chartPn = obj.chartPart_.partname;
+                try
+                    xlsxPn = mat2ppt.opc.related_partname_by_type(pkg, chartPn, ...
+                        mat2ppt.opc.RELATIONSHIP_TYPE.PACKAGE);
+                    if ~isempty(xlsxPn)
+                        pkg.add_blob_part(xlsxPn, chartData.xlsx_blob(), ...
+                            mat2ppt.opc.CONTENT_TYPE.SML_SHEET);
+                    end
+                catch
+                end
+                % ensure xml map refreshed
+                pkg.replace_xml_part(chartPn, obj.chartSpace_);
+            end
+        end
+
         function ct = chart_type(obj)
             %CHART_TYPE  Best-effort XL_CHART_TYPE for first plot (shell).
             XL = mat2ppt.enum.XL_CHART_TYPE;
@@ -79,11 +214,11 @@ classdef Chart < handle
             if isempty(plot)
                 error("mat2ppt:ValueError", "chart has no plot");
             end
-            ln = char(string(plot.localName()));
+            ln = plot.plot_type();
             switch ln
                 case "barChart"
-                    barDir = mat2ppt.oxml.chart.CT_Plot.barDir_val(plot);
-                    grp = mat2ppt.oxml.chart.CT_Plot.grouping_val(plot);
+                    barDir = plot.barDir();
+                    grp = plot.grouping();
                     if strcmp(barDir, "bar")
                         if strcmp(grp, "stacked")
                             ct = XL.BAR_STACKED;
