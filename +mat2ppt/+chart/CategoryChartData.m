@@ -95,6 +95,19 @@ classdef CategoryChartData < handle
             blob = w.xlsx_blob();
         end
 
+        function xml = xml_string(obj, chartType)
+            %XML_STRING  Full c:chartSpace document for chartType.
+            w = mat2ppt.chart.ChartXmlWriter(chartType, obj);
+            xml = w.xml();
+        end
+
+        function blob = xml_bytes(obj, chartType)
+            %XML_BYTES  UTF-8 uint8 of chart XML document.
+            xml = obj.xml_string(chartType);
+            blob = unicode2native(char(xml), "UTF-8");
+            blob = uint8(blob(:)');
+        end
+
         function T = as_table(obj)
             %AS_TABLE  Cell matrix: header row + category | series columns.
             ns = obj.series_count();

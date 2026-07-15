@@ -129,6 +129,30 @@ classdef SlideShapes < mat2ppt.shared.Collection
             obj.rebuild_items_();
             sh = obj.item(obj.length);
         end
+
+        function sh = add_chart(obj, chartType, left, top, width, height, chartData)
+            %ADD_CHART  Embed category chart graphicFrame + ChartPart (P8-W6).
+            %   chartData is CategoryChartData/ChartData. Returns GraphicFrame.
+            arguments
+                obj
+                chartType
+                left
+                top
+                width
+                height
+                chartData mat2ppt.chart.CategoryChartData
+            end
+            [pkg, slidePn] = mat2ppt.shapes.SlideShapes.pkg_slide_(obj.parent_);
+            [~, rId] = mat2ppt.parts.ChartPart.new_in_package(pkg, slidePn, chartType, chartData);
+            sid = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+            name = sprintf("Chart %d", sid - 1);
+            gf = mat2ppt.oxml.shapes.new_chart_graphicFrame( ...
+                sid, name, rId, left, top, width, height);
+            mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, gf);
+            obj.rebuild_items_();
+            sh = obj.item(obj.length);
+        end
     end
 
     methods (Access = private)

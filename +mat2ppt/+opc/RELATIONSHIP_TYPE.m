@@ -12,6 +12,8 @@ classdef RELATIONSHIP_TYPE
         IMAGE = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image"
         THEME = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme"
         HYPERLINK = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink"
+        CHART = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/chart"
+        PACKAGE = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/package"
     end
 end
 
