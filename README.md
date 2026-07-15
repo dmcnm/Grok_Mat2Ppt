@@ -38,8 +38,10 @@ LICENSE, NOTICE        MIT + attribution
 | Topic | Rule | Doc |
 |-------|------|-----|
 | Collection indices | **1-based** (first item = 1) | [docs/indexing.md](docs/indexing.md) |
+| Collection access | **`.item(k)`** and **`collection(k)`** | [docs/collections.md](docs/collections.md) |
 | Python `None` (absent) | Pass **`[]` or `missing`** | [docs/absent_and_errors.md](docs/absent_and_errors.md) |
 | Failures | `mat2ppt:*` id + helpful message | same |
+| Font metrics (P4+) | **B1:** file-based parity when font bytes available; else fallback + D# | [docs/font_metrics.md](docs/font_metrics.md) |
 
 ## Requirements
 
