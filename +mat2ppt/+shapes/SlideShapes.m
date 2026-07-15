@@ -194,8 +194,10 @@ classdef SlideShapes < mat2ppt.shared.Collection
         end
     end
 
-    methods (Static, Access = private)
+    methods (Static)
         function [pkg, slidePn] = pkg_slide_(parent)
+            %PKG_SLIDE_  Resolve package + slide partname from shape parent chain.
+            %   Public for GraphicFrame.chart (P9-W1) and media adders.
             p = parent;
             for k = 1:12
                 if ismethod(p, "part")

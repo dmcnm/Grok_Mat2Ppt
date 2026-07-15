@@ -9,14 +9,21 @@ classdef GraphicFrame < mat2ppt.shapes.BaseShape
         end
 
         function t = shape_type(obj)
-            t = mat2ppt.enum.MSO_SHAPE_TYPE.TABLE;  % default for table frames
-            if obj.has_table()
+            if obj.has_chart()
+                t = mat2ppt.enum.MSO_SHAPE_TYPE.CHART;
+            elseif obj.has_table()
+                t = mat2ppt.enum.MSO_SHAPE_TYPE.TABLE;
+            else
                 t = mat2ppt.enum.MSO_SHAPE_TYPE.TABLE;
             end
         end
 
         function tf = has_table(obj)
             tf = ~isempty(obj.find_tbl_());
+        end
+
+        function tf = has_chart(obj)
+            tf = ~isempty(obj.find_chart_rId_());
         end
 
         function tbl = table(obj)
@@ -27,6 +34,24 @@ classdef GraphicFrame < mat2ppt.shapes.BaseShape
             end
             tbl = mat2ppt.table.Table(tElm, obj);
         end
+
+        function ch = chart(obj)
+            %CHART  |Chart| for chart graphic frames (P9-W1).
+            if ~obj.has_chart()
+                error("mat2ppt:ValueError", "GraphicFrame does not contain a chart");
+            end
+            rId = obj.find_chart_rId_();
+            [pkg, slidePn] = mat2ppt.shapes.SlideShapes.pkg_slide_(obj.parent_);
+            chartPn = mat2ppt.opc.related_partname(pkg, slidePn, rId);
+            if isempty(chartPn)
+                error("mat2ppt:ValueError", "chart relationship %s not found", rId);
+            end
+            elm = pkg.xml_part_element(chartPn);
+            if isempty(elm)
+                error("mat2ppt:ValueError", "chart part %s missing", chartPn);
+            end
+            ch = mat2ppt.chart.Chart(elm, []);
+        end
     end
 
     methods (Access = private)
@@ -35,6 +60,25 @@ classdef GraphicFrame < mat2ppt.shapes.BaseShape
             r = mat2ppt.oxml.evaluate_xpath(obj.sp_, ".//a:tbl");
             if ~isempty(r)
                 t = r{1};
+            end
+        end
+
+        function rId = find_chart_rId_(obj)
+            rId = [];
+            r = mat2ppt.oxml.evaluate_xpath(obj.sp_, ".//c:chart");
+            if isempty(r)
+                return
+            end
+            R = "http://schemas.openxmlformats.org/officeDocument/2006/relationships";
+            got = r{1}.get(sprintf("{%s}id", R));
+            if mat2ppt.isAbsent(got)
+                got = r{1}.get("r:id");
+            end
+            if mat2ppt.isAbsent(got)
+                got = r{1}.get("id");
+            end
+            if ~mat2ppt.isAbsent(got)
+                rId = char(string(got));
             end
         end
     end
