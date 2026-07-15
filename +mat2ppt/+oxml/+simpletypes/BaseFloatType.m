@@ -1,0 +1,11 @@
+classdef BaseFloatType
+%BASEFLOATTYPE  Ported from python-pptx oxml/simpletypes.py
+    methods (Static)
+        function v = from_xml(xmlValue), v = str2double(string(xmlValue)); end
+        function s = to_xml(value)
+            mat2ppt.oxml.simpletypes.BaseSimpleType.validate_float(value);
+            s = char(string(double(value)));
+        end
+        function validate(value), mat2ppt.oxml.simpletypes.BaseSimpleType.validate_float(value); end
+    end
+end
