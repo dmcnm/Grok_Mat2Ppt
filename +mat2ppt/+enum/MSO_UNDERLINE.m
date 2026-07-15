@@ -1,0 +1,36 @@
+classdef MSO_UNDERLINE
+%MSO_UNDERLINE  Alias of mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.
+%
+%   Ported from python-pptx 1.0.2: MSO_UNDERLINE = MSO_TEXT_UNDERLINE_TYPE
+
+    properties (Constant)
+        NONE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.NONE
+        DASH_HEAVY_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DASH_HEAVY_LINE
+        DASH_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DASH_LINE
+        DASH_LONG_HEAVY_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DASH_LONG_HEAVY_LINE
+        DASH_LONG_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DASH_LONG_LINE
+        DOT_DASH_HEAVY_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DOT_DASH_HEAVY_LINE
+        DOT_DASH_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DOT_DASH_LINE
+        DOT_DOT_DASH_HEAVY_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DOT_DOT_DASH_HEAVY_LINE
+        DOT_DOT_DASH_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DOT_DOT_DASH_LINE
+        DOTTED_HEAVY_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DOTTED_HEAVY_LINE
+        DOTTED_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DOTTED_LINE
+        DOUBLE_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.DOUBLE_LINE
+        HEAVY_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.HEAVY_LINE
+        SINGLE_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.SINGLE_LINE
+        WAVY_DOUBLE_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.WAVY_DOUBLE_LINE
+        WAVY_HEAVY_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.WAVY_HEAVY_LINE
+        WAVY_LINE = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.WAVY_LINE
+        WORDS = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.WORDS
+        MIXED = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.MIXED
+    end
+
+    methods (Static)
+        function m = from_xml(xmlValue)
+            m = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.from_xml(xmlValue);
+        end
+        function x = to_xml(value)
+            x = mat2ppt.enum.MSO_TEXT_UNDERLINE_TYPE.to_xml(value);
+        end
+    end
+end

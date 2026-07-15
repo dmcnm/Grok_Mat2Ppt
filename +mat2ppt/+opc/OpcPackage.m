@@ -83,6 +83,33 @@ classdef OpcPackage < handle
                 parts(end+1) = "/" + string(m); %#ok<AGROW>
             end
         end
+
+        function elm = xml_part_element(obj, partname)
+            %XML_PART_ELEMENT  Parsed XmlElement for partname, or [].
+            pn = char(string(partname));
+            if isKey(obj.xmlParts_, pn)
+                elm = obj.xmlParts_(pn);
+            else
+                elm = [];
+            end
+        end
+
+        function replace_xml_part(obj, partname, elm)
+            %REPLACE_XML_PART  Update in-memory XML part (for CoreProperties edits).
+            arguments
+                obj
+                partname
+                elm (1,1) mat2ppt.oxml.XmlElement
+            end
+            pn = char(string(partname));
+            obj.xmlParts_(pn) = elm;
+            % keep blobMap member name in sync for inventory
+            member = pn;
+            if startsWith(string(member), "/")
+                member = member(2:end);
+            end
+            obj.blobMap_(member) = mat2ppt.oxml.serialize_part_xml(elm);
+        end
     end
 
     methods (Access = private)

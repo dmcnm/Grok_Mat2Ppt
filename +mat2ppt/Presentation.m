@@ -10,6 +10,7 @@ classdef Presentation < handle
 
     properties (Access = private)
         pkg_
+        coreProps_ = []  % cached CoreProperties or []
     end
 
     methods
@@ -43,5 +44,18 @@ classdef Presentation < handle
             %PACKAGE  Underlying OpcPackage (advanced).
             pkg = obj.pkg_;
         end
+
+        function cp = core_properties(obj)
+            %CORE_PROPERTIES  Dublin Core metadata for this package.
+            if isempty(obj.coreProps_)
+                elm = obj.pkg_.xml_part_element("/docProps/core.xml");
+                if isempty(elm)
+                    error("mat2ppt:InvalidPackage", "Missing /docProps/core.xml");
+                end
+                obj.coreProps_ = mat2ppt.parts.CoreProperties(elm);
+            end
+            cp = obj.coreProps_;
+        end
     end
 end
+
