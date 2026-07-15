@@ -20,8 +20,18 @@ function name = next_ph_name_(phType, shapeId, orient)
             base = "Picture Placeholder";
         case "media"
             base = "Media Placeholder";
+        case "sldImg"
+            base = "Slide Image Placeholder";
+        case "sldNum"
+            base = "Slide Number Placeholder";
+        case "notes"
+            base = "Notes Placeholder";
         otherwise
             base = "Placeholder";
+    end
+    % python notes body uses "Notes Placeholder N"
+    if strcmp(t, "body")
+        base = "Notes Placeholder";
     end
     if ~mat2ppt.isAbsent(orient) && strcmp(char(string(orient)), "vert")
         base = ["Vertical " base];

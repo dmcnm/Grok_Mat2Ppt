@@ -51,6 +51,12 @@ classdef Run < mat2ppt.shared.ParentedElementProxy
             rPr = obj.ensure_rPr_();
             f = mat2ppt.text.Font(rPr);
         end
+
+        function h = hyperlink(obj)
+            %HYPERLINK  |Hyperlink| for this run (P6-W7).
+            rPr = obj.ensure_rPr_();
+            h = mat2ppt.text.Hyperlink(rPr, obj);
+        end
     end
 
     methods (Access = private)

@@ -156,6 +156,51 @@ classdef OpcPackage < handle
             relsElm.append(rel);
             obj.replace_xml_part(relsPn, relsElm);
         end
+
+        function rId = add_external_relationship(obj, sourcePartname, reltype, targetUrl)
+            %ADD_EXTERNAL_RELATIONSHIP  External TargetMode rel (e.g. hyperlink URL).
+            arguments
+                obj
+                sourcePartname
+                reltype
+                targetUrl
+            end
+            src = char(string(sourcePartname));
+            srcPu = mat2ppt.opc.PackURI(src);
+            relsPn = char(srcPu.rels_uri);
+            relsElm = obj.xml_part_element(relsPn);
+            if isempty(relsElm)
+                PR = "http://schemas.openxmlformats.org/package/2006/relationships";
+                relsElm = mat2ppt.oxml.XmlElement(sprintf("{%s}Relationships", PR));
+                relsElm.setNsDecls({"", PR});
+            end
+            rId = mat2ppt.opc.next_rId_(relsElm);
+            PR = "http://schemas.openxmlformats.org/package/2006/relationships";
+            rel = mat2ppt.oxml.XmlElement(sprintf("{%s}Relationship", PR));
+            rel.set("Id", rId);
+            rel.set("Type", char(string(reltype)));
+            rel.set("Target", char(string(targetUrl)));
+            rel.set("TargetMode", "External");
+            relsElm.append(rel);
+            obj.replace_xml_part(relsPn, relsElm);
+        end
+
+        function url = external_target(obj, sourcePartname, rId)
+            %EXTERNAL_TARGET  Target URL of External relationship, or [].
+            src = mat2ppt.opc.PackURI(char(string(sourcePartname)));
+            relsElm = obj.xml_part_element(char(src.rels_uri));
+            url = [];
+            if isempty(relsElm), return; end
+            rId = char(string(rId));
+            kids = relsElm.getchildren();
+            for i = 1:numel(kids)
+                el = kids{i};
+                if ~strcmp(char(el.localName()), "Relationship"), continue; end
+                if ~strcmp(char(string(el.get("Id"))), rId), continue; end
+                url = char(string(el.get("Target")));
+                return
+            end
+        end
     end
 
     methods (Access = private)

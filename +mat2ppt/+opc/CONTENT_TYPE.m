@@ -17,6 +17,7 @@ classdef CONTENT_TYPE
         PML_SLIDE_LAYOUT = "application/vnd.openxmlformats-officedocument.presentationml.slideLayout+xml"
         PML_SLIDE_MASTER = "application/vnd.openxmlformats-officedocument.presentationml.slideMaster+xml"
         DML_CHART = "application/vnd.openxmlformats-officedocument.drawingml.chart+xml"
+        OFC_THEME = "application/vnd.openxmlformats-officedocument.theme+xml"
         BMP = "image/bmp"
         GIF = "image/gif"
         JPEG = "image/jpeg"

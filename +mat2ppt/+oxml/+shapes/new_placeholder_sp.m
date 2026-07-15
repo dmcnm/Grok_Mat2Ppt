@@ -36,7 +36,8 @@ function sp = new_placeholder_sp(id_, name, phType, orient, sz, idx)
     hasTf = true;
     if ~mat2ppt.isAbsent(phType)
         t = char(string(phType));
-        if any(strcmp(t, {'pic', 'tbl', 'chart', 'dgm', 'media', 'clipArt', 'sldImg'}))
+        % No text frame for picture-like / slide image / slide number (python)
+        if any(strcmp(t, {'pic', 'tbl', 'chart', 'dgm', 'media', 'clipArt', 'sldImg', 'sldNum'}))
             hasTf = false;
         end
     end

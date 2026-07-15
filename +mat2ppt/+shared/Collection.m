@@ -40,5 +40,15 @@ classdef Collection < handle
                 [varargout{1:nargout}] = builtin("subsref", obj, s);
             end
         end
+
+        function set_items_(obj, items)
+            %SET_ITEMS_  Replace collection contents (package helpers).
+            if iscell(items)
+                obj.items_ = items;
+            else
+                obj.items_ = {};
+            end
+        end
     end
 end
+
