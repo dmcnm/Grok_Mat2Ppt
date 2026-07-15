@@ -1,0 +1,21 @@
+Mat2Ppt
+=======
+
+Mat2Ppt is a MATLAB port of the python-pptx library.
+
+This product includes material derived from python-pptx:
+
+  python-pptx
+  Copyright (c) 2013 Steve Canny, https://github.com/scanny
+  Licensed under the MIT License
+
+  Reference clone (read-only for this port):
+    Tag:    v1.0.2
+    Commit: 278b47b
+
+The default presentation template and related binary/XML resources under
+resources/templates/ are copied from python-pptx src/pptx/templates/ without
+modification.
+
+See LICENSE for the Mat2Ppt license text. Upstream python-pptx license text
+is MIT and is reproduced in the python-pptx distribution.

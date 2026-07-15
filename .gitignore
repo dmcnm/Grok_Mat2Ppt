@@ -1,0 +1,11 @@
+*.asv
+*.m~
+.DS_Store
+Thumbs.db
+slprj/
+*.slxc
+codegen/
+results/
+*.pptx.bak
+/out/
+/tmp/
