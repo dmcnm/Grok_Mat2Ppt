@@ -89,6 +89,12 @@ classdef CategoryChartData < handle
             ref = sprintf('Sheet1!$%s$2:$%s$%d', col, col, n + 1);
         end
 
+        function blob = xlsx_blob(obj)
+            %XLSX_BLOB  Embedded Excel package bytes (delegates to workbook writer).
+            w = mat2ppt.chart.CategoryWorkbookWriter(obj);
+            blob = w.xlsx_blob();
+        end
+
         function T = as_table(obj)
             %AS_TABLE  Cell matrix: header row + category | series columns.
             ns = obj.series_count();
