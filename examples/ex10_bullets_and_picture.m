@@ -1,5 +1,7 @@
-%% ex10_bullets_and_picture — Title + bullets (left) + image (right)
-% Uses Title and Content for bullets, then add_picture on the right.
+%% ex10_bullets_and_picture — Two Content: bullets (left) + rocket photo (right)
+% Layout: "Two Content" (same pattern as showcase slide 3 / your sample).
+% Query layouts first with ex00_list_layouts or:
+%   layouts = prs.slide_layouts();  % .length, .item(i), .get_by_name(name)
 
 addpath(fullfile(fileparts(mfilename("fullpath")), ".."));
 outDir = fileparts(mfilename("fullpath"));
@@ -16,24 +18,37 @@ if ~isfile(imgPath)
 end
 
 prs = mat2ppt.Presentation();
-lay = prs.slide_layouts().get_by_name("Title and Content");
+
+% List layouts (optional demo)
+layouts = prs.slide_layouts();
+fprintf("Using layout 'Two Content' (index among %d layouts)\n", layouts.length);
+for i = 1:layouts.length
+    if layouts.item(i).name == "Two Content"
+        fprintf("  Two Content is layouts.item(%d)\n", i);
+    end
+end
+
+lay = layouts.get_by_name("Two Content");
 s = prs.slides().add_slide(lay);
 
-s.shapes().item(1).text_frame().text = "Bullets next to a rocket photo";
+% Two Content shapes (1-based): 1=title, 2=left body, 3=right body
+s.shapes().item(1).text_frame().text = "Two Content: bullets + rocket";
 
-body = s.shapes().item(2).text_frame();
-body.clear();
-ps = body.paragraphs();
-ps{1}.text = "Launch photography";
+bodyL = s.shapes().item(2).text_frame();
+bodyL.clear();
+ps = bodyL.paragraphs();
+ps{1}.text = "Left column bullets";
 ps{1}.level = 0;
-p2 = body.add_paragraph();
-p2.text = "JPEG inserted with add_picture";
+p2 = bodyL.add_paragraph();
+p2.text = "JPEG via add_picture on the right";
 p2.level = 1;
-p3 = body.add_paragraph();
-p3.text = "Sized on the right of the slide";
+p3 = bodyL.add_paragraph();
+p3.text = "Right placeholder can hold text too";
 p3.level = 0;
 
-% Place image on the right half of the slide
+s.shapes().item(3).text_frame().text = "Right column label";
+
+% Picture over the right half (matches your Two Content sample)
 s.shapes().add_picture(imgPath, ...
     mat2ppt.util.Inches(5.2), mat2ppt.util.Inches(1.6), ...
     mat2ppt.util.Inches(4.0), mat2ppt.util.Inches(4.5));
