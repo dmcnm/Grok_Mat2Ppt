@@ -21,11 +21,13 @@ docs/                  API / user docs (see docs/indexing.md)
 LICENSE, NOTICE        MIT + attribution
 ```
 
-## Indexing
+## Indexing, absent values, and errors
 
-**All Mat2Ppt public collection indices are 1-based** (first item = 1).  
-See **[docs/indexing.md](docs/indexing.md)** for the full rule, conversion to
-python-pptx’s 0-based API, and what does *not* change (`.pptx` bytes, plain MATLAB arrays).
+| Topic | Rule | Doc |
+|-------|------|-----|
+| Collection indices | **1-based** (first item = 1) | [docs/indexing.md](docs/indexing.md) |
+| Python `None` (absent) | Pass **`[]` or `missing`** | [docs/absent_and_errors.md](docs/absent_and_errors.md) |
+| Failures | `mat2ppt:*` id + helpful message | same |
 
 ## Requirements
 
