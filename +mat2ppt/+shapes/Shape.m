@@ -25,5 +25,11 @@ classdef Shape < mat2ppt.shapes.BaseShape
         function ln = line(obj)
             ln = mat2ppt.dml.LineFormat(obj);
         end
+
+        function tf = text_frame(obj)
+            %TEXT_FRAME  |TextFrame| for this shape (p:txBody).
+            tf = mat2ppt.text.TextFrame.from_shape_element(obj.sp_, obj);
+        end
     end
 end
+
