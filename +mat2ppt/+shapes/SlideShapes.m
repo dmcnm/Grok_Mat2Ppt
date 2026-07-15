@@ -52,6 +52,31 @@ classdef SlideShapes < mat2ppt.shared.Collection
             obj.rebuild_items_();
             sh = obj.item(obj.length);
         end
+
+        function sh = add_table(obj, rows, cols, left, top, width, height)
+            %ADD_TABLE  Graphic frame with rows x cols table (1-based cell API).
+            %   Returns |GraphicFrame|; use .table() for |Table|.
+            arguments
+                obj
+                rows (1,1) double
+                cols (1,1) double
+                left
+                top
+                width
+                height
+            end
+            if rows < 1 || cols < 1 || rows ~= floor(rows) || cols ~= floor(cols)
+                error("mat2ppt:ValueError", "rows and cols must be positive integers");
+            end
+            sid = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+            name = sprintf("Table %d", sid - 1);
+            gf = mat2ppt.oxml.shapes.new_table_graphicFrame( ...
+                sid, name, rows, cols, left, top, width, height);
+            mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, gf);
+            obj.rebuild_items_();
+            sh = obj.item(obj.length);
+        end
     end
 
     methods (Access = private)
@@ -61,20 +86,28 @@ classdef SlideShapes < mat2ppt.shared.Collection
             maxId = 1;
             for i = 1:numel(kids)
                 ln = char(kids{i}.localName());
+                added = false;
                 switch ln
                     case "sp"
                         items{end+1} = mat2ppt.shapes.Shape(kids{i}, obj.parent_); %#ok<AGROW>
+                        added = true;
                     case "pic"
                         items{end+1} = mat2ppt.shapes.Picture(kids{i}, obj.parent_); %#ok<AGROW>
+                        added = true;
                     case "cxnSp"
                         items{end+1} = mat2ppt.shapes.Connector(kids{i}, obj.parent_); %#ok<AGROW>
+                        added = true;
                     case "grpSp"
                         items{end+1} = mat2ppt.shapes.GroupShape(kids{i}, obj.parent_); %#ok<AGROW>
+                        added = true;
+                    case "graphicFrame"
+                        items{end+1} = mat2ppt.shapes.GraphicFrame(kids{i}, obj.parent_); %#ok<AGROW>
+                        added = true;
                     otherwise
                         % nvGrpSpPr etc. skip
                 end
-                if any(strcmp(ln, {'sp', 'pic', 'cxnSp', 'grpSp', 'graphicFrame'}))
-                    idv = items{end}.shape_id();  % reliable; shape_id_ uses char cells
+                if added
+                    idv = items{end}.shape_id();
                     if ~isempty(idv) && idv > maxId
                         maxId = idv;
                     end
