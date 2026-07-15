@@ -110,6 +110,52 @@ classdef OpcPackage < handle
             end
             obj.blobMap_(member) = mat2ppt.oxml.serialize_part_xml(elm);
         end
+
+        function add_xml_part(obj, partname, elm, contentType)
+            %ADD_XML_PART  Insert/replace XML part and content-type override (P6-W3).
+            arguments
+                obj
+                partname
+                elm (1,1) mat2ppt.oxml.XmlElement
+                contentType
+            end
+            pn = char(string(partname));
+            if ~startsWith(string(pn), "/")
+                pn = ["/" + string(pn)];
+                pn = char(pn);
+            end
+            obj.replace_xml_part(pn, elm);
+            obj.overrides_(pn) = char(string(contentType));
+        end
+
+        function rId = add_relationship(obj, sourcePartname, reltype, targetPartname)
+            %ADD_RELATIONSHIP  Internal rel from source to target; returns rId.
+            arguments
+                obj
+                sourcePartname
+                reltype
+                targetPartname
+            end
+            src = char(string(sourcePartname));
+            tgt = char(string(targetPartname));
+            srcPu = mat2ppt.opc.PackURI(src);
+            relsPn = char(srcPu.rels_uri);
+            relsElm = obj.xml_part_element(relsPn);
+            if isempty(relsElm)
+                PR = "http://schemas.openxmlformats.org/package/2006/relationships";
+                relsElm = mat2ppt.oxml.XmlElement(sprintf("{%s}Relationships", PR));
+                relsElm.setNsDecls({"", PR});
+            end
+            rId = mat2ppt.opc.next_rId_(relsElm);
+            targetRef = mat2ppt.opc.relative_pack_ref(src, tgt);
+            PR = "http://schemas.openxmlformats.org/package/2006/relationships";
+            rel = mat2ppt.oxml.XmlElement(sprintf("{%s}Relationship", PR));
+            rel.set("Id", rId);
+            rel.set("Type", char(string(reltype)));
+            rel.set("Target", targetRef);
+            relsElm.append(rel);
+            obj.replace_xml_part(relsPn, relsElm);
+        end
     end
 
     methods (Access = private)

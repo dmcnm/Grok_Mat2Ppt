@@ -16,9 +16,53 @@ classdef Slides < mat2ppt.shared.Collection
         function prs = presentation(obj)
             prs = obj.prs_;
         end
+
+        function slide = add_slide(obj, slideLayout)
+            %ADD_SLIDE  New slide based on layout (P6-W3 package wiring).
+            arguments
+                obj
+                slideLayout (1,1) mat2ppt.slide.SlideLayout
+            end
+            pkg = obj.prs_.package();
+            n = obj.next_slide_number_();
+            slidePn = sprintf("/ppt/slides/slide%d.xml", n);
+            sldElm = mat2ppt.oxml.slide.CT_Slide.new();
+            pkg.add_xml_part(slidePn, sldElm, mat2ppt.opc.CONTENT_TYPE.PML_SLIDE);
+            % slide -> layout relationship
+            pkg.add_relationship(slidePn, mat2ppt.opc.RELATIONSHIP_TYPE.SLIDE_LAYOUT, ...
+                slideLayout.partname());
+            % presentation -> slide relationship
+            rId = pkg.add_relationship("/ppt/presentation.xml", ...
+                mat2ppt.opc.RELATIONSHIP_TYPE.SLIDE, slidePn);
+            % sldIdLst entry
+            mat2ppt.slide.add_sldId_(obj.prs_.presentation_element(), rId);
+            % keep presentation XML in package map
+            pkg.replace_xml_part("/ppt/presentation.xml", obj.prs_.presentation_element());
+            slide = mat2ppt.slide.Slide(sldElm, slidePn, obj.prs_);
+            mat2ppt.slide.clone_layout_placeholders(slide, slideLayout);
+            % re-persist slide after placeholder clone
+            pkg.replace_xml_part(slidePn, sldElm);
+            obj.rebuild_();
+            % return the collection member (same tree)
+            slide = obj.item(obj.length);
+        end
     end
 
     methods (Access = private)
+        function n = next_slide_number_(obj)
+            pkg = obj.prs_.package();
+            names = pkg.list_partnames();
+            maxN = 0;
+            for i = 1:numel(names)
+                pn = char(names(i));
+                tok = regexp(pn, "^/ppt/slides/slide(\d+)\.xml$", "tokens", "once");
+                if ~isempty(tok)
+                    maxN = max(maxN, str2double(tok{1}));
+                end
+            end
+            n = maxN + 1;
+        end
+
         function rebuild_(obj)
             pkg = obj.prs_.package();
             presElm = obj.prs_.presentation_element();
