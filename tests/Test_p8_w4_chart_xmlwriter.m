@@ -50,12 +50,24 @@ classdef Test_p8_w4_chart_xmlwriter < matlab.unittest.TestCase
             testCase.verifyTrue(contains(xml, "c:legend"));
         end
 
+        function pieChartXml(testCase)
+            data = mat2ppt.chart.CategoryChartData();
+            data.set_categories({"A", "B"});
+            data.add_series("Share", [40, 60]);
+            w = mat2ppt.chart.ChartXmlWriter(mat2ppt.enum.XL_CHART_TYPE.PIE, data);
+            xml = string(char(w.xml()));
+            testCase.verifyTrue(contains(xml, "c:pieChart"));
+            testCase.verifyTrue(contains(xml, 'varyColors val="1"'));
+            testCase.verifyTrue(contains(xml, ">Share<"));
+            testCase.verifyTrue(contains(xml, "40"));
+        end
+
         function unsupportedTypeErrors(testCase)
             data = mat2ppt.chart.CategoryChartData();
             data.set_categories({"A"});
             data.add_series("S", 1);
             testCase.verifyError(@() mat2ppt.chart.ChartXmlWriter( ...
-                mat2ppt.enum.XL_CHART_TYPE.PIE, data), "mat2ppt:notYetPorted");
+                mat2ppt.enum.XL_CHART_TYPE.XY_SCATTER, data), "mat2ppt:notYetPorted");
         end
     end
 end

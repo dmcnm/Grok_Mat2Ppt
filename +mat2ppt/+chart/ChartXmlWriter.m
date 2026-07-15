@@ -23,13 +23,18 @@ function writer = ChartXmlWriter(chartType, chartData)
     lineTypes = [ ...
         XL.LINE.value, XL.LINE_MARKERS.value, XL.LINE_MARKERS_STACKED.value, ...
         XL.LINE_MARKERS_STACKED_100.value, XL.LINE_STACKED.value, XL.LINE_STACKED_100.value];
+    pieTypes = [ ...
+        XL.PIE.value, XL.PIE_EXPLODED.value, ...
+        XL.DOUGHNUT.value, XL.DOUGHNUT_EXPLODED.value];
 
     if any(ctVal == barCol)
         writer = mat2ppt.chart.BarChartXmlWriter(chartType, chartData);
     elseif any(ctVal == lineTypes)
         writer = mat2ppt.chart.LineChartXmlWriter(chartType, chartData);
+    elseif any(ctVal == pieTypes)
+        writer = mat2ppt.chart.PieChartXmlWriter(chartType, chartData);
     else
         error("mat2ppt:notYetPorted", ...
-            "XML writer for chart type %s not yet implemented (P8-W4/W5)", ctName);
+            "XML writer for chart type %s not yet implemented (P8 residual)", ctName);
     end
 end
