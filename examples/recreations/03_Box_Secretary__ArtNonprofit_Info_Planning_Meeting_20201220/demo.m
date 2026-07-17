@@ -43,18 +43,6 @@ sp.text_frame().text = 'Informational and Planning MeetingDecember 20, 2020';
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Overview';
@@ -67,18 +55,6 @@ sp.text_frame().text = 'Summary of Current Project and StatusOverview of Potenti
 %% ===== Slide 3 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
@@ -96,18 +72,6 @@ sp.text_frame().text = 'Mother Seton Hall Nearly 1/3 Complete!!!';
 %% ===== Slide 4 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1226), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1072559));
@@ -173,18 +137,6 @@ sh.add_connector('line', mat2ppt.util.Emu(5750894), mat2ppt.util.Emu(3531943), m
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1141774));
 sp.text_frame().text = 'Non-profit PurposesAsset Protection';
@@ -197,18 +149,6 @@ sp.text_frame().text = 'Asset protection is critical to fundraising in parishes/
 %% ===== Slide 6 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1141774));
@@ -223,18 +163,6 @@ sp.text_frame().text = 'Holy Child is pioneering something newNever before have 
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1141774));
 sp.text_frame().text = 'Non-profit PurposesConnecting School Communities and Museums';
@@ -248,18 +176,6 @@ sp.text_frame().text = 'Reproductions shouldn’t be the only art children seeMo
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1141774));
 sp.text_frame().text = 'Non-profit PurposesConnecting Likeminded School Communities';
@@ -272,18 +188,6 @@ sp.text_frame().text = 'Serve as central resource to connect classical schools t
 %% ===== Slide 9 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1226), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1106605));
@@ -302,18 +206,6 @@ sp.text_frame().text = 'Set board meeting dates for regular meetingsSet due date
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2955441), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Questions and Feedback';
@@ -322,18 +214,6 @@ sp.text_frame().text = 'Questions and Feedback';
 %% ===== Slide 11 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image2.jpeg
-img = fullfile(assets, 'image2.jpeg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525929), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
-end
-
-% picture MasterLogo_image3.jpg
-img = fullfile(assets, 'image3.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(10638881), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));

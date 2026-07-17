@@ -13,6 +13,23 @@
       "file": "slide1.xml",
       "shapes": [
         {
+          "type": "pic",
+          "id": 7,
+          "name": "MasterLogo_image1.jpeg",
+          "x": 0,
+          "y": 1143000,
+          "cx": 2286000,
+          "cy": 5729288,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId13",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
           "type": "sp",
           "id": 2050,
           "name": "Rectangle 2",
@@ -1729,16 +1746,28 @@
           "type": "graphicFrame",
           "id": 5,
           "name": "Chart 4",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": -152400,
+          "y": 1066800,
+          "cx": 2971800,
+          "cy": 2146300,
           "prst": null,
           "flipH": null,
           "flipV": null,
           "text": "",
           "content": "chart",
-          "chart_rId": "rId3"
+          "chart_rId": "rId3",
+          "chart_data": {
+            "chart_type": "PIE",
+            "series_name": "Sales",
+            "categories": [
+              "1st Qtr",
+              "2nd Qtr"
+            ],
+            "values": [
+              28.0,
+              72.0
+            ]
+          }
         },
         {
           "type": "sp",
@@ -1770,16 +1799,28 @@
           "type": "graphicFrame",
           "id": 9,
           "name": "Chart 8",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": -152400,
+          "y": 2965102,
+          "cx": 2971800,
+          "cy": 2146300,
           "prst": null,
           "flipH": null,
           "flipV": null,
           "text": "",
           "content": "chart",
-          "chart_rId": "rId4"
+          "chart_rId": "rId4",
+          "chart_data": {
+            "chart_type": "PIE",
+            "series_name": "Sales",
+            "categories": [
+              "1st Qtr",
+              "2nd Qtr"
+            ],
+            "values": [
+              65.0,
+              35.0
+            ]
+          }
         },
         {
           "type": "sp",
@@ -1811,16 +1852,28 @@
           "type": "graphicFrame",
           "id": 13,
           "name": "Chart 12",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": -170543,
+          "y": 4800600,
+          "cx": 2971800,
+          "cy": 2146300,
           "prst": null,
           "flipH": null,
           "flipV": null,
           "text": "",
           "content": "chart",
-          "chart_rId": "rId5"
+          "chart_rId": "rId5",
+          "chart_data": {
+            "chart_type": "PIE",
+            "series_name": "Sales",
+            "categories": [
+              "1st Qtr",
+              "2nd Qtr"
+            ],
+            "values": [
+              75.0,
+              25.0
+            ]
+          }
         },
         {
           "type": "sp",
@@ -2380,5 +2433,6 @@
     "image7.png",
     "image8.png",
     "image9.png"
-  ]
+  ],
+  "master_layout_pics": 1
 }

@@ -43,18 +43,6 @@ sp.text_frame().text = 'Douglas CoombsJuly 1, 2022, Rev. 1';
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Transaction InformationData Request';
@@ -67,18 +55,6 @@ sp.text_frame().text = 'A payment flow to properly understand what Checkout.com 
 %% ===== Slide 3 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
 
 % connector Connector: Elbow 33
 sh.add_connector('bentConnector3', mat2ppt.util.Emu(6539551), mat2ppt.util.Emu(2438050), mat2ppt.util.Emu(8265640), mat2ppt.util.Emu(5392890));
@@ -131,18 +107,6 @@ sh.add_connector('straightConnector1', mat2ppt.util.Emu(3043451), mat2ppt.util.E
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(110836), mat2ppt.util.Emu(46180), mat2ppt.util.Emu(12081164), mat2ppt.util.Emu(876687));
 sp.text_frame().text = 'Website Donor FormsEntry Point for Project Funding';
@@ -169,18 +133,6 @@ sp = sh.add_shape('rightArrow', mat2ppt.util.Emu(4087905), mat2ppt.util.Emu(4840
 %% ===== Slide 5 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(110836), mat2ppt.util.Emu(46180), mat2ppt.util.Emu(12081164), mat2ppt.util.Emu(876687));
@@ -235,18 +187,6 @@ sp.text_frame().text = '$15,250 of $30,000 Raised';
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Bank Account Info';
@@ -265,18 +205,6 @@ end
 %% ===== Slide 7 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
@@ -303,18 +231,6 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Legalese on Website';
@@ -327,18 +243,6 @@ sp.text_frame().text = 'Legal entity name: The Saint Luke GuildGoverning jurisdi
 %% ===== Slide 9 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
@@ -353,18 +257,6 @@ sp.text_frame().text = 'https://www.saintlukeguild.com/about-usRefund PolicyThe 
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
-
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Regulatory Documents';
@@ -377,18 +269,6 @@ sp.text_frame().text = 'License required to operate the businessNM_SoS_InitialRe
 %% ===== Slide 11 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
-
-% picture MasterLogo_image1.jpg
-img = fullfile(assets, 'image1.jpg');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
-end
-
-% picture MasterLogo_image2.png
-img = fullfile(assets, 'image2.png');
-if isfile(img)
-    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
-end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
