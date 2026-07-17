@@ -10,6 +10,11 @@ classdef TextFrame < mat2ppt.shared.ParentedElementProxy
     properties (Dependent)
         text
         word_wrap
+        margin_left
+        margin_right
+        margin_top
+        margin_bottom
+        vertical_anchor
     end
 
     methods
@@ -136,9 +141,82 @@ classdef TextFrame < mat2ppt.shared.ParentedElementProxy
                 bodyPr.set("wrap", "none");
             end
         end
+
+        function v = get.margin_left(obj)
+            %MARGIN_LEFT  Inset from left (EMU); default 91440 when attr absent.
+            v = obj.margin_get_("lIns", 91440);
+        end
+        function set.margin_left(obj, emu)
+            obj.margin_set_("lIns", emu);
+        end
+
+        function v = get.margin_right(obj)
+            v = obj.margin_get_("rIns", 91440);
+        end
+        function set.margin_right(obj, emu)
+            obj.margin_set_("rIns", emu);
+        end
+
+        function v = get.margin_top(obj)
+            v = obj.margin_get_("tIns", 45720);
+        end
+        function set.margin_top(obj, emu)
+            obj.margin_set_("tIns", emu);
+        end
+
+        function v = get.margin_bottom(obj)
+            v = obj.margin_get_("bIns", 45720);
+        end
+        function set.margin_bottom(obj, emu)
+            obj.margin_set_("bIns", emu);
+        end
+
+        function v = get.vertical_anchor(obj)
+            %VERTICAL_ANCHOR  MSO_VERTICAL_ANCHOR or [] if inherited (absent).
+            bodyPr = obj.bodyPr_();
+            if isempty(bodyPr)
+                v = [];
+                return
+            end
+            raw = bodyPr.get("anchor");
+            if mat2ppt.isAbsent(raw)
+                v = [];
+            else
+                v = mat2ppt.enum.MSO_VERTICAL_ANCHOR.from_xml(char(string(raw)));
+            end
+        end
+
+        function set.vertical_anchor(obj, value)
+            bodyPr = obj.ensure_bodyPr_();
+            if mat2ppt.isAbsent(value)
+                bodyPr.removeAttr("anchor");
+            else
+                bodyPr.set("anchor", mat2ppt.enum.MSO_VERTICAL_ANCHOR.to_xml(value));
+            end
+        end
     end
 
     methods (Access = private)
+        function v = margin_get_(obj, attr, defaultEmu)
+            bodyPr = obj.bodyPr_();
+            if isempty(bodyPr)
+                v = mat2ppt.util.Emu(defaultEmu);
+                return
+            end
+            raw = bodyPr.get(attr);
+            if mat2ppt.isAbsent(raw)
+                v = mat2ppt.util.Emu(defaultEmu);
+            else
+                v = mat2ppt.util.Emu(str2double(string(raw)));
+            end
+        end
+
+        function margin_set_(obj, attr, emu)
+            bodyPr = obj.ensure_bodyPr_();
+            e = mat2ppt.util.Length.toEmuInt_(emu);
+            bodyPr.set(attr, char(string(e)));
+        end
+
         function ensure_one_paragraph_(obj)
             if ismethod(obj.txBody_, "p_lst")
                 lst = obj.txBody_.p_lst();
