@@ -151,6 +151,22 @@ classdef OpcPackage < handle
             end
         end
 
+        function blob = get_blob(obj, partname)
+            %GET_BLOB  Opaque part bytes, or [] if missing (R6 media SHA reuse).
+            pn = char(string(partname));
+            if startsWith(string(pn), "/")
+                member = pn(2:end);
+            else
+                member = pn;
+            end
+            if isKey(obj.blobMap_, member)
+                blob = obj.blobMap_(member);
+            else
+                blob = [];
+            end
+        end
+
+
         function rId = add_relationship(obj, sourcePartname, reltype, targetPartname)
             %ADD_RELATIONSHIP  Internal rel from source to target; returns rId.
             arguments

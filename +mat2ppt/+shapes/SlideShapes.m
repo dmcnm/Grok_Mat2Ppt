@@ -279,7 +279,64 @@ classdef SlideShapes < mat2ppt.shared.Collection
             obj.rebuild_items_();
             sh = obj.item(obj.length);
         end
+
+        function sh = add_movie(obj, movieFile, left, top, width, height, posterFrame, mimeType)
+            %ADD_MOVIE  Embed video as movie p:pic (python SlideShapes.add_movie).
+            %   EXPERIMENTAL twin of python-pptx: size required; poster optional
+            %   (default speaker.png); mime_type defaults to video/unknown.
+            arguments
+                obj
+                movieFile
+                left
+                top
+                width
+                height
+                posterFrame = []
+                mimeType = mat2ppt.opc.CONTENT_TYPE.VIDEO
+            end
+            video = mat2ppt.media.Video.from_path(movieFile, mimeType);
+            [pkg, slidePn] = mat2ppt.shapes.SlideShapes.pkg_slide_(obj.parent_);
+
+            % dual MEDIA + VIDEO relationships to same media part
+            mediaPn = mat2ppt.parts.MediaPart.get_or_add_media_partname(pkg, video);
+            mediaRId = pkg.add_relationship(slidePn, mat2ppt.opc.RELATIONSHIP_TYPE.MEDIA, mediaPn);
+            videoRId = pkg.add_relationship(slidePn, mat2ppt.opc.RELATIONSHIP_TYPE.VIDEO, mediaPn);
+
+            % poster frame image
+            if mat2ppt.isAbsent(posterFrame) || (isstring(posterFrame) && strlength(posterFrame) == 0)
+                posterPath = mat2ppt.shapes.SlideShapes.speaker_image_path_();
+            else
+                posterPath = char(string(posterFrame));
+            end
+            [~, ~, pext, pct] = mat2ppt.util.image_size_emu(posterPath);
+            imgPn = mat2ppt.shapes.SlideShapes.next_media_partname_(pkg, pext);
+            fid = fopen(posterPath, "rb");
+            if fid < 0
+                error("mat2ppt:IOError", "Cannot open poster %s", posterPath);
+            end
+            pblob = fread(fid, inf, "*uint8");
+            fclose(fid);
+            pkg.add_blob_part(imgPn, pblob, pct);
+            posterRId = pkg.add_relationship(slidePn, mat2ppt.opc.RELATIONSHIP_TYPE.IMAGE, imgPn);
+
+            sid = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+            shapeName = video.filename();
+            pic = mat2ppt.oxml.shapes.new_video_pic( ...
+                sid, shapeName, videoRId, mediaRId, posterRId, left, top, width, height);
+            mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, pic);
+
+            % p:timing video node on slide
+            slideElm = mat2ppt.shapes.SlideShapes.slide_element_(obj.parent_);
+            if ~isempty(slideElm)
+                mat2ppt.slide.add_video_timing(slideElm, sid);
+            end
+
+            obj.rebuild_items_();
+            sh = obj.item(obj.length);
+        end
     end
+
 
     methods (Access = private)
         function rebuild_items_(obj)
@@ -294,7 +351,11 @@ classdef SlideShapes < mat2ppt.shared.Collection
                         items{end+1} = mat2ppt.shapes.Shape(kids{i}, obj.parent_); %#ok<AGROW>
                         added = true;
                     case "pic"
-                        items{end+1} = mat2ppt.shapes.Picture(kids{i}, obj.parent_); %#ok<AGROW>
+                        if mat2ppt.shapes.SlideShapes.is_video_pic_(kids{i})
+                            items{end+1} = mat2ppt.shapes.Movie(kids{i}, obj.parent_); %#ok<AGROW>
+                        else
+                            items{end+1} = mat2ppt.shapes.Picture(kids{i}, obj.parent_); %#ok<AGROW>
+                        end
                         added = true;
                     case "cxnSp"
                         items{end+1} = mat2ppt.shapes.Connector(kids{i}, obj.parent_); %#ok<AGROW>
@@ -362,6 +423,43 @@ classdef SlideShapes < mat2ppt.shared.Collection
             end
             pn = sprintf("/ppt/media/image%d.%s", maxN + 1, char(string(ext)));
         end
+
+        function tf = is_video_pic_(picElm)
+            r = mat2ppt.oxml.evaluate_xpath(picElm, ".//a:videoFile");
+            tf = ~isempty(r);
+        end
+
+        function elm = slide_element_(parent)
+            p = parent;
+            for k = 1:12
+                if ismethod(p, "element")
+                    try
+                        elm = p.element();
+                        if ~isempty(elm)
+                            return
+                        end
+                    catch
+                    end
+                end
+                if ismethod(p, "parent")
+                    p = p.parent();
+                else
+                    break
+                end
+            end
+            elm = [];
+        end
+
+        function p = speaker_image_path_()
+            %SPEAKER_IMAGE_PATH_  Bundled default poster (SPEAKER_IMAGE_BYTES twin).
+            here = fileparts(mfilename("fullpath")); % +shapes
+            root = fileparts(fileparts(here));       % Mat2Ppt root
+            p = fullfile(root, "resources", "speaker.png");
+            if ~isfile(p)
+                error("mat2ppt:TemplateNotFound", "Default poster missing: %s", p);
+            end
+        end
+
 
         function prst = prst_for_enum_(e)
             n = char(string(e.name));

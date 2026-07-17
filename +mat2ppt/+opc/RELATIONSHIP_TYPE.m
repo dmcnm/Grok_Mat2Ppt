@@ -14,6 +14,9 @@ classdef RELATIONSHIP_TYPE
         HYPERLINK = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink"
         CHART = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/chart"
         PACKAGE = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/package"
+        MEDIA = "http://schemas.microsoft.com/office/2007/relationships/media"
+        VIDEO = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/video"
+        OLE_OBJECT = "http://schemas.openxmlformats.org/officeDocument/2006/relationships/oleObject"
     end
 end
 
