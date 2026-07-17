@@ -73,6 +73,14 @@ sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), m
 % AutoShape 18
 sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), mat2ppt.util.Emu(304800), mat2ppt.util.Emu(304801));
 
+% Slide Number Placeholder 20
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '1';
+
+% Footer Placeholder 21
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 
 %% ===== Slide 2 =====
 s = prs.slides().add_slide(blank);
@@ -129,7 +137,14 @@ sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), m
 % AutoShape 18
 sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), mat2ppt.util.Emu(304800), mat2ppt.util.Emu(304801));
 
-% TODO: group shape Group 24
+% Oval 21
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(1285875), mat2ppt.util.Emu(676275), mat2ppt.util.Emu(5610225), mat2ppt.util.Emu(5610225));
+
+% Oval 22
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(1676400), mat2ppt.util.Emu(1047750), mat2ppt.util.Emu(4895850), mat2ppt.util.Emu(4895850));
+
+% Rectangle 23
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1562100), mat2ppt.util.Emu(3200400), mat2ppt.util.Emu(5114925), mat2ppt.util.Emu(361950));
 
 % Title 7
 sp = sh.add_shape('rect', mat2ppt.util.Emu(419100), mat2ppt.util.Emu(274638), mat2ppt.util.Emu(8296275), mat2ppt.util.Emu(5287962));
@@ -138,6 +153,14 @@ sp.text_frame().text = 'Nucleation and Growth of Crystalline Structures On A Tre
 % TextBox 25
 sp = sh.add_shape('rect', mat2ppt.util.Emu(152400), mat2ppt.util.Emu(5715000), mat2ppt.util.Emu(3800475), mat2ppt.util.Emu(461665));
 sp.text_frame().text = 'No!!!  Too Complicated!';
+
+% Slide Number Placeholder 26
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '2';
+
+% Footer Placeholder 27
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
 
 
 %% ===== Slide 3 =====
@@ -154,6 +177,14 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(2905125), mat2ppt.util.Emu(1990725), mat2ppt.util.Emu(3333750), mat2ppt.util.Emu(3333750));
 end
 
+% Slide Number Placeholder 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '3';
+
+% Footer Placeholder 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 % TextBox 7
 sp = sh.add_shape('rect', mat2ppt.util.Emu(2133600), mat2ppt.util.Emu(5650468), mat2ppt.util.Emu(4876800), mat2ppt.util.Emu(646331));
 sp.text_frame().text = 'And Other Crystals';
@@ -167,12 +198,31 @@ sh = s.shapes();
 sp = sh.add_shape('rect', mat2ppt.util.Emu(381000), mat2ppt.util.Emu(381000), mat2ppt.util.Emu(8305800), mat2ppt.util.Emu(838200));
 sp.text_frame().text = 'Funny Election Sign';
 
-% TODO: group shape Group 8
+% Slide Number Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '4';
+
+% Footer Placeholder 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
+% picture Picture 2
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1600199), mat2ppt.util.Emu(6934200), mat2ppt.util.Emu(4618179));
+end
+
+% Rectangle 7
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(5943600), mat2ppt.util.Emu(6934200), mat2ppt.util.Emu(304800));
 
 
 %% ===== Slide 5 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lab Safety Today';
 
 % AutoShape 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), mat2ppt.util.Emu(304800), mat2ppt.util.Emu(304801));
@@ -205,10 +255,22 @@ end
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(3810000), mat2ppt.util.Emu(4038599));
 sp.text_frame().text = 'We will be using a hot stove to make our rock candy solution. Let the adults do the cooking!Be careful with          your glass jars';
 
+% Slide Number Placeholder 10
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '5';
+
+% Footer Placeholder 11
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 
 %% ===== Slide 6 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Experiment 1: Growing Rock Candy Crystals That You Can Eat';
 
 % Can 15
 sp = sh.add_shape('can', mat2ppt.util.Emu(4572001), mat2ppt.util.Emu(2705101), mat2ppt.util.Emu(1878290), mat2ppt.util.Emu(3448050));
@@ -299,6 +361,14 @@ sp.text_frame().text = 'Sugar crystals';
 % Freeform 57
 sp = sh.add_shape('rect', mat2ppt.util.Emu(5686425), mat2ppt.util.Emu(4195763), mat2ppt.util.Emu(1104900), mat2ppt.util.Emu(214312));
 
+% Slide Number Placeholder 31
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '6';
+
+% Footer Placeholder 32
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 % Freeform 33
 sp = sh.add_shape('rect', mat2ppt.util.Emu(5648325), mat2ppt.util.Emu(3257550), mat2ppt.util.Emu(1362075), mat2ppt.util.Emu(419100));
 
@@ -331,6 +401,14 @@ sh = s.shapes();
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1589087), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(2830513));
 sp.text_frame().text = 'Now Let’s Go To The Kitchen';
 
+% Slide Number Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '7';
+
+% Footer Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 
 %% ===== Slide 8 =====
 s = prs.slides().add_slide(blank);
@@ -350,14 +428,34 @@ sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), m
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1905000), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(4419600));
 sp.text_frame().text = 'This makes enough solution for 16 pint jars.In large kettles, boil 16 cups (4 quarts) of distilled water.We will need 40 cups of sugar.Slowly add 10 cups of sugar to each quart of boiling water, stirring until the sugar dissolves.Allow the solution to cool for 20 minutes.Fill each jar full of the solution using the ladle.Add food coloring and flavoring to your jar!';
 
+% Slide Number Placeholder 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '8';
+
+% Footer Placeholder 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 
 %% ===== Slide 9 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Finishing Experiment 1';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1390650), mat2ppt.util.Emu(8305800), mat2ppt.util.Emu(4800600));
 sp.text_frame().text = 'Tie one end of a 6-inch piece of string to the center of a clothespin and the other end to the end of a paper clip.Dip your string into the sugar solution.Roll your string in some sugar.Let the string cool down.Very Important: Shake off any extra sugar.Lower the string into the jar of hot sugar solution, resting the clothespin on the jar lid.Keep the bottom end of the paper clip a half inch or so above the bottom of the jar.Put jar in a safe, warm place and wait one week.Do not disturb the jar while you are waiting for the crystals to form.';
+
+% Slide Number Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '9';
+
+% Footer Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
 
 
 %% ===== Slide 10 =====
@@ -368,10 +466,30 @@ sh = s.shapes();
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1493838), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(2459037));
 sp.text_frame().text = 'Back To The Classroom';
 
+% Slide Number Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '10';
+
+% Footer Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 
 %% ===== Slide 11 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Some Beautiful Crystals';
+
+% Footer Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
+% Slide Number Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '11';
 
 % picture Picture 2
 img = fullfile(assets, 'image7.jpeg');
@@ -399,6 +517,18 @@ sp.text_frame().text = 'Geode with crystals inside';
 %% ===== Slide 12 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'More Crystals!';
+
+% Footer Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
+% Slide Number Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '12';
 
 % picture Picture 2
 img = fullfile(assets, 'image10.jpeg');
@@ -435,6 +565,18 @@ sp.text_frame().text = 'Pyrite (fool’s gold)';
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Cave of Crystals, Mexico (Gypsum)';
+
+% Footer Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
+% Slide Number Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '13';
+
 % picture Picture 2
 img = fullfile(assets, 'image13.jpeg');
 if isfile(img)
@@ -446,10 +588,38 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'So, What are Crystals?';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Crystals are solids.They have regular geometric shapes.They have faces, or facets that meet at sharp angles.They are mostly found in rocks (although there are ice crystals too).They are orderly arrangements of a single kind of atom or molecule.';
+
+% Footer Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
+% Slide Number Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '14';
+
 
 %% ===== Slide 15 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'What Do I Mean by “Orderly”?';
+
+% Footer Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
+% Slide Number Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '15';
 
 % picture Picture 2
 img = fullfile(assets, 'image14.png');
@@ -457,7 +627,59 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(1295400), mat2ppt.util.Emu(1676400), mat2ppt.util.Emu(1929114), mat2ppt.util.Emu(1828800));
 end
 
-% TODO: group shape Group 52
+% Oval 7
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 8
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
+
+% Oval 11
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 12
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
+
+% Oval 14
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 15
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
+
+% Oval 17
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 18
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
+
+% Oval 20
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 21
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
+
+% Oval 23
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 24
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
+
+% Oval 26
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 27
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
+
+% Oval 29
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 30
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
+
+% Oval 32
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(2019300), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(152400));
+
+% Oval 33
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(228600), mat2ppt.util.Emu(228600));
 
 % TextBox 53
 sp = sh.add_shape('rect', mat2ppt.util.Emu(1447800), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(381000));
@@ -484,6 +706,18 @@ sp.text_frame().text = 'Halite (salt)';
 %% ===== Slide 16 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Experiment 2: Growing Needle-Shaped Crystals';
+
+% Slide Number Placeholder 31
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '16';
+
+% Footer Placeholder 32
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
 
 % Content Placeholder 4
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1905000), mat2ppt.util.Emu(2779059), mat2ppt.util.Emu(4525963));
@@ -541,6 +775,14 @@ sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), m
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1905000), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(4419600));
 sp.text_frame().text = 'Turn your bowl upside down on the construction paper and trace it.Cut the circle out and fit it inside the plastic plate.Fill the baby food jar half full of warm water, then add 2 Tablespoons of epsom salt.Put the lid on and shake 60 times.Let the contents of the jar settle for a couple of minutes.Pour the liquid onto the black paper. Don’t pour any undissolved epsom salt onto the paper.Wait a few days, then look at the crystals. What do they look like?';
 
+% Slide Number Placeholder 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '17';
+
+% Footer Placeholder 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 
 %% ===== Slide 18 =====
 s = prs.slides().add_slide(blank);
@@ -551,6 +793,10 @@ img = fullfile(assets, 'image21.jpeg');
 if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(4651375), mat2ppt.util.Emu(1457325), mat2ppt.util.Emu(3981450), mat2ppt.util.Emu(2200275));
 end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Science Vocabulary for This Week';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457201), mat2ppt.util.Emu(1247775), mat2ppt.util.Emu(3714750), mat2ppt.util.Emu(5276850));
@@ -583,6 +829,14 @@ sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), m
 % AutoShape 14
 sp = sh.add_shape('rect', mat2ppt.util.Emu(155575), mat2ppt.util.Emu(-144463), mat2ppt.util.Emu(304800), mat2ppt.util.Emu(304801));
 
+% Slide Number Placeholder 21
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '18';
+
+% Footer Placeholder 22
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Atoms and Molecules Session 14';
+
 % picture Picture 2
 img = fullfile(assets, 'image7.jpeg');
 if isfile(img)
@@ -594,53 +848,50 @@ prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide1 sp missing geom: Slide Number Placeholder 20
-% GAP: slide1 sp missing geom: Footer Placeholder 21
-% GAP: slide2 group shape Group 24 not expanded
-% GAP: slide2 sp missing geom: Slide Number Placeholder 26
-% GAP: slide2 sp missing geom: Footer Placeholder 27
-% GAP: slide3 sp missing geom: Slide Number Placeholder 5
-% GAP: slide3 sp missing geom: Footer Placeholder 6
-% GAP: slide4 sp missing geom: Slide Number Placeholder 4
-% GAP: slide4 sp missing geom: Footer Placeholder 5
-% GAP: slide4 group shape Group 8 not expanded
-% GAP: slide5 sp missing geom: Title 1
-% GAP: slide5 sp missing geom: Slide Number Placeholder 10
-% GAP: slide5 sp missing geom: Footer Placeholder 11
-% GAP: slide6 sp missing geom: Title 3
-% GAP: slide6 sp missing geom: Slide Number Placeholder 31
-% GAP: slide6 sp missing geom: Footer Placeholder 32
-% GAP: slide7 sp missing geom: Slide Number Placeholder 3
-% GAP: slide7 sp missing geom: Footer Placeholder 4
-% GAP: slide8 sp missing geom: Slide Number Placeholder 5
-% GAP: slide8 sp missing geom: Footer Placeholder 6
-% GAP: slide9 sp missing geom: Title 1
-% GAP: slide9 sp missing geom: Slide Number Placeholder 3
-% GAP: slide9 sp missing geom: Footer Placeholder 4
-% GAP: slide10 sp missing geom: Slide Number Placeholder 2
-% GAP: slide10 sp missing geom: Footer Placeholder 3
-% GAP: slide11 sp missing geom: Title 4
-% GAP: slide11 sp missing geom: Footer Placeholder 2
-% GAP: slide11 sp missing geom: Slide Number Placeholder 3
-% GAP: slide12 sp missing geom: Title 1
-% GAP: slide12 sp missing geom: Footer Placeholder 2
-% GAP: slide12 sp missing geom: Slide Number Placeholder 3
-% GAP: slide13 sp missing geom: Title 4
-% GAP: slide13 sp missing geom: Footer Placeholder 2
-% GAP: slide13 sp missing geom: Slide Number Placeholder 3
-% GAP: slide14 sp missing geom: Title 1
-% GAP: slide14 sp missing geom: Content Placeholder 2
-% GAP: slide14 sp missing geom: Footer Placeholder 3
-% GAP: slide14 sp missing geom: Slide Number Placeholder 4
-% GAP: slide15 sp missing geom: Title 5
-% GAP: slide15 sp missing geom: Footer Placeholder 3
-% GAP: slide15 sp missing geom: Slide Number Placeholder 4
-% GAP: slide15 group shape Group 52 not expanded
-% GAP: slide16 sp missing geom: Title 3
-% GAP: slide16 sp missing geom: Slide Number Placeholder 31
-% GAP: slide16 sp missing geom: Footer Placeholder 32
-% GAP: slide17 sp missing geom: Slide Number Placeholder 5
-% GAP: slide17 sp missing geom: Footer Placeholder 6
-% GAP: slide18 sp missing geom: Title 1
-% GAP: slide18 sp missing geom: Slide Number Placeholder 21
-% GAP: slide18 sp missing geom: Footer Placeholder 22
+% GAP: slide1 sp used title-area default geom: Slide Number Placeholder 20
+% GAP: slide1 sp used title-area default geom: Footer Placeholder 21
+% GAP: slide2 sp used title-area default geom: Slide Number Placeholder 26
+% GAP: slide2 sp used title-area default geom: Footer Placeholder 27
+% GAP: slide3 sp used title-area default geom: Slide Number Placeholder 5
+% GAP: slide3 sp used title-area default geom: Footer Placeholder 6
+% GAP: slide4 sp used title-area default geom: Slide Number Placeholder 4
+% GAP: slide4 sp used title-area default geom: Footer Placeholder 5
+% GAP: slide5 sp used title-area default geom: Title 1
+% GAP: slide5 sp used title-area default geom: Slide Number Placeholder 10
+% GAP: slide5 sp used title-area default geom: Footer Placeholder 11
+% GAP: slide6 sp used title-area default geom: Title 3
+% GAP: slide6 sp used title-area default geom: Slide Number Placeholder 31
+% GAP: slide6 sp used title-area default geom: Footer Placeholder 32
+% GAP: slide7 sp used title-area default geom: Slide Number Placeholder 3
+% GAP: slide7 sp used title-area default geom: Footer Placeholder 4
+% GAP: slide8 sp used title-area default geom: Slide Number Placeholder 5
+% GAP: slide8 sp used title-area default geom: Footer Placeholder 6
+% GAP: slide9 sp used title-area default geom: Title 1
+% GAP: slide9 sp used title-area default geom: Slide Number Placeholder 3
+% GAP: slide9 sp used title-area default geom: Footer Placeholder 4
+% GAP: slide10 sp used title-area default geom: Slide Number Placeholder 2
+% GAP: slide10 sp used title-area default geom: Footer Placeholder 3
+% GAP: slide11 sp used title-area default geom: Title 4
+% GAP: slide11 sp used title-area default geom: Footer Placeholder 2
+% GAP: slide11 sp used title-area default geom: Slide Number Placeholder 3
+% GAP: slide12 sp used title-area default geom: Title 1
+% GAP: slide12 sp used title-area default geom: Footer Placeholder 2
+% GAP: slide12 sp used title-area default geom: Slide Number Placeholder 3
+% GAP: slide13 sp used title-area default geom: Title 4
+% GAP: slide13 sp used title-area default geom: Footer Placeholder 2
+% GAP: slide13 sp used title-area default geom: Slide Number Placeholder 3
+% GAP: slide14 sp used title-area default geom: Title 1
+% GAP: slide14 sp used title-area default geom: Content Placeholder 2
+% GAP: slide14 sp used title-area default geom: Footer Placeholder 3
+% GAP: slide14 sp used title-area default geom: Slide Number Placeholder 4
+% GAP: slide15 sp used title-area default geom: Title 5
+% GAP: slide15 sp used title-area default geom: Footer Placeholder 3
+% GAP: slide15 sp used title-area default geom: Slide Number Placeholder 4
+% GAP: slide16 sp used title-area default geom: Title 3
+% GAP: slide16 sp used title-area default geom: Slide Number Placeholder 31
+% GAP: slide16 sp used title-area default geom: Footer Placeholder 32
+% GAP: slide17 sp used title-area default geom: Slide Number Placeholder 5
+% GAP: slide17 sp used title-area default geom: Footer Placeholder 6
+% GAP: slide18 sp used title-area default geom: Title 1
+% GAP: slide18 sp used title-area default geom: Slide Number Placeholder 21
+% GAP: slide18 sp used title-area default geom: Footer Placeholder 22

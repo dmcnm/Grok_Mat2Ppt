@@ -18,6 +18,12 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image1.jpeg
+img = fullfile(assets, 'image1.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(457200), mat2ppt.util.Emu(342900), mat2ppt.util.Emu(9220200), mat2ppt.util.Emu(7124700));
+end
+
 % Rectangle 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(2362200), mat2ppt.util.Emu(6492875), mat2ppt.util.Emu(685800));
 

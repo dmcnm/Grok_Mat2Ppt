@@ -18,11 +18,18 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 7
+% picture Picture 4
+img = fullfile(assets, 'image1.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5460490), mat2ppt.util.Emu(2862071), mat2ppt.util.Emu(1271019), mat2ppt.util.Emu(1133858));
+end
+
+% picture Picture 6
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6731510), mat2ppt.util.Emu(2862071), mat2ppt.util.Emu(2675538), mat2ppt.util.Emu(1137374));
+end
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 group shape Group 7 not expanded

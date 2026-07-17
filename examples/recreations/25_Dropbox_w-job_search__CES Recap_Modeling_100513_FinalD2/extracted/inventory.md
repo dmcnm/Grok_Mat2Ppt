@@ -1,7 +1,7 @@
 # Inventory: 25_Dropbox_w-job_search__CES Recap_Modeling_100513_FinalD2.pptx
 
 Slides: 26
-Assets: ['image13.jpeg', 'image14.wmf', 'image15.png', 'image18.jpeg', 'image20.jpeg', 'image21.jpeg', 'image22.png', 'image23.jpeg', 'image24.jpeg', 'image25.png', 'image28.png', 'image30.emf', 'image31.emf', 'image32.emf', 'image33.emf', 'image35.jpeg', 'image38.emf', 'image40.emf', 'image42.emf', 'image43.png', 'image6.png', 'image7.jpeg', 'image8.jpeg']
+Assets: ['image10.gif', 'image11.jpeg', 'image12.gif', 'image13.jpeg', 'image14.wmf', 'image15.png', 'image16.jpeg', 'image17.jpeg', 'image18.jpeg', 'image19.png', 'image20.jpeg', 'image21.jpeg', 'image22.png', 'image23.jpeg', 'image24.jpeg', 'image25.png', 'image26.png', 'image28.png', 'image29.jpeg', 'image30.emf', 'image31.emf', 'image32.emf', 'image33.emf', 'image34.emf', 'image35.jpeg', 'image36.emf', 'image38.emf', 'image39.emf', 'image40.emf', 'image41.emf', 'image42.emf', 'image43.png', 'image6.png', 'image7.jpeg', 'image8.jpeg', 'image9.jpeg']
 
 ## Slide 1
 
@@ -33,7 +33,12 @@ Assets: ['image13.jpeg', 'image14.wmf', 'image15.png', 'image18.jpeg', 'image20.
 
 - `sp` prst=None (990600,228600) 7161213x814388 asset= text='The What of theCable Effects Study / Focus Restrictions'
 - `sp` prst=None (228600,1239838) 8763000x5183187 asset= text='Only studied small-to-moderate conductor count twisted pair cable bund'
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `pic` prst=rect (5943600,4419600) 2743200x1783080 asset=image9.jpeg text=''
+- `pic` prst=rect (3056025,4419599) 2578537x1828800 asset=image10.gif text=''
+- `pic` prst=rect (304800,4381678) 2442186x1828800 asset=image11.jpeg text=''
+- `pic` prst=rect (1295400,5067301) 1371600x1371600 asset=image12.gif text=''
+- `pic` prst=rect (3505200,5067301) 1371600x1371600 asset=image12.gif text=''
+- `pic` prst=rect (6934200,5067301) 1371600x1371600 asset=image12.gif text=''
 - `pic` prst=rect (2057400,4038600) 4800600x914400 asset=image13.jpeg text=''
 - `pic` prst=rect (6400800,3962400) 990600x911627 asset=image14.wmf text=''
 
@@ -52,8 +57,20 @@ Assets: ['image13.jpeg', 'image14.wmf', 'image15.png', 'image18.jpeg', 'image20.
 - `sp` prst=None (990600,228600) 7161213x814388 asset= text='Cable Construction and Effects on Dynamics'
 - `pic` prst=None (6320839,1143000) 2365961x2819400 asset=image15.png text=''
 - `sp` prst=None (0,1219200) 6096000x1981200 asset= text='Bundles of twisted pair single-conductor wires stitched and wrapped wi'
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text='Cable not resonantCable resonant'
+- `pic` prst=rect (3962400,1611313) 1622425x4014787 asset=image16.jpeg text=''
+- `pic` prst=rect (2895600,1676400) 927100x3930650 asset=image17.jpeg text=''
+- `sp` prst=rect (3028950,2005013) 582613x496887 asset= text=''
+- `sp` prst=line (3621088,1843088) 747712x419100 asset= text=''
+- `sp` prst=line (2550,1849) 230x1 asset= text=''
+- `sp` prst=line (2871,1851) 230x1 asset= text=''
+- `sp` prst=line (2866,1802) 0x104 asset= text=''
+- `sp` prst=line (2790,1804) 0x104 asset= text=''
+- `pic` prst=rect (3200400,3429000) 1095375x666750 asset=image18.jpeg text=''
+- `pic` prst=rect (1219200,2971800) 4724400x3702288 asset=image19.png text=''
+- `cxnSp` prst=straightConnector1 (1752600,4343400) 1295400x1588 asset= text=''
+- `cxnSp` prst=straightConnector1 (3124200,6172200) 2743200x1588 asset= text=''
+- `sp` prst=rect (0,3962400) 1524000x707886 asset= text='Cable not resonant'
+- `sp` prst=rect (0,5715000) 1524000x707886 asset= text='Cable resonant'
 
 ## Slide 9
 
@@ -61,7 +78,15 @@ Assets: ['image13.jpeg', 'image14.wmf', 'image15.png', 'image18.jpeg', 'image20.
 - `sp` prst=rect (7010400,6492875) 2133600x365125 asset= text='9'
 - `sp` prst=rect (4800600,1295400) 3962400x1905000 asset= text='TC-105 mounting tabs bonded to host structureAllow controllable cable '
 - `pic` prst=rect (4038600,4191000) 5105400x2135311 asset=image20.jpeg text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text='TC-105Lacing cordCableBase Structure'
+- `pic` prst=rect (6162393,2229212) 1622425x4014787 asset=image16.jpeg text=''
+- `sp` prst=rect (4792065,2473466) 1232755x437192 asset= text='TC-105'
+- `sp` prst=rect (7973878,2787505) 1151626x755338 asset= text='Lacing cord'
+- `sp` prst=rect (4902874,4460334) 1058626x439246 asset= text='Cable'
+- `sp` prst=rect (4667405,5236198) 1410840x757390 asset= text='Base Structure'
+- `cxnSp` prst=straightConnector1 (6025569,2688881) 1105544x3831 asset= text=''
+- `cxnSp` prst=straightConnector1 (7342268,2821498) 632427x343490 asset= text=''
+- `cxnSp` prst=straightConnector1 (5961708,4474678) 1362547x205270 asset= text=''
+- `cxnSp` prst=straightConnector1 (6077407,5342827) 794026x272391 asset= text=''
 - `pic` prst=rect (381000,3095625) 1095375x666750 asset=image21.jpeg text=''
 - `cxnSp` prst=straightConnector1 (813262,2980198) 151407x79445 asset= text=''
 - `sp` prst=rect (914400,1371600) 2667000x707886 asset= text='Cable attachment to host structure'
@@ -82,7 +107,14 @@ Assets: ['image13.jpeg', 'image14.wmf', 'image15.png', 'image18.jpeg', 'image20.
 ## Slide 12
 
 - `pic` prst=rect (4953000,3733800) 3733800x2800350 asset=image25.png text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `pic` prst=rect (76200,1143000) 4571697x3428773 asset=image26.png text=''
+- `sp` prst=upArrow (2149456,2934801) 76200x457200 asset= text=''
+- `sp` prst=upArrow (2698713,2651143) 76200x457200 asset= text=''
+- `sp` prst=upArrow (3048000,2590800) 76200x457200 asset= text=''
+- `sp` prst=upArrow (3303028,2695630) 76200x457200 asset= text=''
+- `sp` prst=upArrow (3505200,2858601) 76200x457200 asset= text=''
+- `sp` prst=upArrow (3694598,3042714) 76200x457200 asset= text=''
+- `sp` prst=ellipse (1981200,2286000) 1905000x1600200 asset= text=''
 - `sp` prst=rect (4419600,1397764) 4572000x2107436 asset= text='The natural frequency-to-mode number progression of a cable follows a '
 - `sp` prst=upArrow (4596118,3281584) 304800x2052641 asset= text=''
 - `sp` prst=None (990600,228600) 7161213x814388 asset= text='Cable Natural Frequency Progression:The Beam Model Indicator'
@@ -98,7 +130,8 @@ Assets: ['image13.jpeg', 'image14.wmf', 'image15.png', 'image18.jpeg', 'image20.
 
 - `sp` prst=None (None,None) NonexNone asset= text='Parameter Estimation: Tie down stiffness'
 - `sp` prst=None (0,1219201) 6248400x2438400 asset= text='Rod-on-beam eliminates cable property uncertainty Tune attachment stif'
-- `grpSp` prst=None (None,None) NonexNone asset= text='Copper Rod'
+- `pic` prst=rect (4038600,4267200) 1779691x2373312 asset=image29.jpeg text=''
+- `sp` prst=rect (4419600,4038600) 1524000x340735 asset= text='Copper Rod'
 - `pic` prst=rect (152400,4343400) 5181600x2377631 asset=image30.emf text=''
 - `pic` prst=rect (5470181,4343400) 3673819x2286953 asset=image31.emf text=''
 
@@ -115,7 +148,13 @@ Assets: ['image13.jpeg', 'image14.wmf', 'image15.png', 'image18.jpeg', 'image20.
 - `sp` prst=None (None,None) NonexNone asset= text='Cable-on-Beam Results'
 - `sp` prst=None (0,1828800) 4191000x4572000 asset= text='Cable effects differ over two distinct frequency rangesMass and stiffn'
 - `pic` prst=rect (6553200,2133600) 1095375x666750 asset=image18.jpeg text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text='Cable not resonantCable resonant'
+- `pic` prst=rect (1219200,2971800) 4724400x3702288 asset=image19.png text=''
+- `cxnSp` prst=straightConnector1 (1752600,4343400) 1295400x1588 asset= text=''
+- `cxnSp` prst=straightConnector1 (3124200,6172200) 2743200x1588 asset= text=''
+- `sp` prst=rect (5105400,1295400) 1524000x707886 asset= text='Cable not resonant'
+- `sp` prst=rect (7315200,5334000) 1524000x707886 asset= text='Cable resonant'
+- `pic` prst=rect (4038600,2264053) 5029200x3679547 asset=image34.emf text=''
+- `pic` prst=rect (4642217,1295400) 4288791x990600 asset=image34.emf text=''
 
 ## Slide 17
 
@@ -127,17 +166,20 @@ Assets: ['image13.jpeg', 'image14.wmf', 'image15.png', 'image18.jpeg', 'image20.
 
 - `sp` prst=None (None,None) NonexNone asset= text='Measured Driving Point FRFs'
 - `sp` prst=None (152400,1239838) 4419600x5183187 asset= text='Little influence in panel dynamics below cable resonanceVarious cable '
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `pic` prst=rect (4572000,1524000) 4114800x2743200 asset=image36.emf text=''
+- `pic` prst=rect (5334000,4267200) 2743200x228600 asset=image36.emf text=''
 
 ## Slide 19
 
 - `pic` prst=rect (4708936,1905000) 4435064x3962400 asset=image38.emf text=''
 - `sp` prst=None (None,None) NonexNone asset= text='Panel Model Validation'
-- `grpSp` prst=None (None,None) NonexNone asset= text='Running RMS error, zeroed at 90 and 200 Hz'
+- `sp` prst=rect (5181600,5486400) 3200400x677108 asset= text='Running RMS error, zeroed at 90 and 200 Hz'
+- `pic` prst=rect (4419600,1600200) 4367213x3902075 asset=image39.emf text=''
 - `sp` prst=None (0,1143000) 4800600x5280025 asset= text='Compared traditional modelling approach (i.e., nonstructural mass) wit'
 - `pic` prst=rect (4724400,2057400) 4419600x4419600 asset=image40.emf text=''
 - `graphicFrame` prst=None (None,None) NonexNone asset= text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text='Least benefit from dynamic cable models with low mass ratio and/or lar'
+- `pic` prst=rect (4676132,1981200) 4467868x4876800 asset=image41.emf text=''
+- `sp` prst=rect (4648200,5562600) 4495800x923330 asset= text='Least benefit from dynamic cable models with low mass ratio and/or lar'
 
 ## Slide 20
 

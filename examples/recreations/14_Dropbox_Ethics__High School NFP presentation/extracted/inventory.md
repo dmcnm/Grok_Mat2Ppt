@@ -1,7 +1,7 @@
 # Inventory: 14_Dropbox_Ethics__High School NFP presentation.pptx
 
 Slides: 50
-Assets: ['image1.jpeg', 'image10.jpeg', 'image13.png', 'image14.png', 'image15.png', 'image16.emf', 'image17.emf', 'image18.jpeg', 'image19.png', 'image2.jpeg', 'image20.png', 'image21.jpeg', 'image22.png', 'image23.jpeg', 'image24.jpeg', 'image3.jpg', 'image4.jpeg', 'image5.png', 'image7.png']
+Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13.png', 'image14.png', 'image15.png', 'image16.emf', 'image17.emf', 'image18.jpeg', 'image19.png', 'image2.jpeg', 'image20.png', 'image21.jpeg', 'image22.png', 'image23.jpeg', 'image24.jpeg', 'image3.jpg', 'image4.jpeg', 'image5.png', 'image6.jpeg', 'image7.png', 'image8.png', 'image9.png']
 
 ## Slide 1
 
@@ -60,14 +60,20 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image13.png', 'image14.png', 'image15.p
 ## Slide 10
 
 - `pic` prst=rect (0,1447800) 9144000x5562600 asset=image1.jpeg text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text='Men'
+- `pic` prst=rect (1076325,2030412) 6991350x1659845 asset=image6.jpeg text=''
+- `sp` prst=rect (3911600,2157412) 1320800x317500 asset= text=''
+- `sp` prst=rect (4000500,2106612) 1143000x338138 asset= text='Men'
 - `sp` prst=None (381000,76200) 8458200x1143000 asset= text='Hormones in men'
 - `sp` prst=rect (8305799,6443246) 522287x338554 asset= text='10'
 
 ## Slide 11
 
 - `pic` prst=rect (0,1447800) 9144000x5562600 asset=image1.jpeg text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text='MenWomen'
+- `pic` prst=rect (1076325,2030412) 6991350x4141788 asset=image6.jpeg text=''
+- `sp` prst=rect (3911600,2157412) 1320800x317500 asset= text=''
+- `sp` prst=rect (4000500,2106612) 1143000x338138 asset= text='Men'
+- `sp` prst=rect (3898900,3776662) 1320800x317500 asset= text=''
+- `sp` prst=rect (3879850,3692525) 1409700x457200 asset= text='Women'
 - `sp` prst=None (381000,76200) 8458200x1143000 asset= text='Hormones in women'
 - `sp` prst=rect (8305799,6443246) 522287x338554 asset= text='11'
 
@@ -87,7 +93,9 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image13.png', 'image14.png', 'image15.p
 
 - `sp` prst=None (628650,198957) 7886700x1325563 asset= text='Sample CCL Chart'
 - `sp` prst=rect (366793,1600200) 1676400x1077218 asset= text='Sympto- thermal'
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=roundRect (2971800,1676400) 5657669x4876800 asset= text=''
+- `pic` prst=rect (3048000,2248671) 5486400x4258491 asset=image8.png text=''
+- `pic` prst=rect (3060700,1810656) 5473700x513814 asset=image9.png text=''
 - `sp` prst=rect (228600,3276600) 1981200x461665 asset= text='How we chart'
 
 ## Slide 15
@@ -95,7 +103,8 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image13.png', 'image14.png', 'image15.p
 - `sp` prst=None (740423,156100) 7886700x1325563 asset= text='“There’s an app for that”'
 - `sp` prst=None (2923481,1770257) 5029200x4724400 asset= text='Fertility monitorsSoftwareMobile appsApps = virtual reality trainingCl'
 - `pic` prst=rect (409569,3650864) 1451525x963186 asset=image10.jpeg text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `pic` prst=rect (2895600,3368622) 2641479x3067050 asset=image11.jpeg text=''
+- `pic` prst=rect (5551286,3337625) 2295526x3067050 asset=image12.jpeg text=''
 - `pic` prst=rect (407654,1981200) 1455354x1102113 asset=image13.png text=''
 - `sp` prst=rect (2743200,3123654) 5715000x1200329 asset= text='“User Beware”'
 
@@ -219,7 +228,15 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image13.png', 'image14.png', 'image15.p
 
 - `sp` prst=None (909100,69056) 7886700x1325563 asset= text='How the pill and IUD work'
 - `sp` prst=None (2438400,1663700) 6667500x3810001 asset= text='Progestin convinces woman’s body she’s pregnantSuppress ovulationBack-'
-- `grpSp` prst=None (None,None) NonexNone asset= text='Combined pill28%Progestin-only33-65%Mirena75%'
+- `graphicFrame` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (38100,2743200) 2209800x400110 asset= text='Combined pill'
+- `sp` prst=rect (909100,1408172) 662361x420628 asset= text='28%'
+- `graphicFrame` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (38100,4643735) 2209800x400110 asset= text='Progestin-only'
+- `sp` prst=rect (727961,3465572) 1024639x420628 asset= text='33-65%'
+- `graphicFrame` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (38100,6457890) 2209800x400110 asset= text='Mirena'
+- `sp` prst=rect (909100,5294372) 662361x420628 asset= text='75%'
 - `sp` prst=rect (2057400,6044625) 6749143x584775 asset= text='Larimore W, Stanford J, Postfertilization Effects of Oral Contraceptiv'
 
 ## Slide 39
@@ -232,7 +249,8 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image13.png', 'image14.png', 'image15.p
 - `sp` prst=None (628650,-39186) 7886700x1325563 asset= text='“Gallup poll”'
 - `sp` prst=None (2438398,1600200) 6477001x4114800 asset= text='Of the women in the US who discontinued hormonal contraceptives, how m'
 - `pic` prst=rect (1,3007110) 2286000x3450840 asset=image21.jpeg text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text='64%'
+- `sp` prst=rect (3108325,5194300) 1130300x336550 asset= text=''
+- `sp` prst=rect (2905125,3889935) 2667000x533400 asset= text='64%'
 - `sp` prst=rect (2286001,4074551) 6477000x707886 asset= text='National Survey of Family Growth 2010, CDC, Series 23, Number 29, 69.'
 
 ## Slide 41

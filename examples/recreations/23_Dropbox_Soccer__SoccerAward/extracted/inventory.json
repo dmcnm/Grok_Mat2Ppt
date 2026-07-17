@@ -12,6 +12,23 @@
       "file": "slide1.xml",
       "shapes": [
         {
+          "type": "pic",
+          "id": 1031,
+          "name": "MasterLogo_image1.jpeg",
+          "x": 457200,
+          "y": 342900,
+          "cx": 9220200,
+          "cy": 7124700,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId13",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
           "type": "sp",
           "id": 2050,
           "name": "Rectangle 2",
@@ -40,5 +57,8 @@
       ]
     }
   ],
-  "media_assets": []
+  "media_assets": [
+    "image1.jpeg"
+  ],
+  "master_layout_pics": 1
 }

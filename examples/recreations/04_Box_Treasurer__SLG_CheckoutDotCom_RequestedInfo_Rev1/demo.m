@@ -18,6 +18,18 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(2420471), mat2ppt.util.Emu(887991), mat2ppt.util.Emu(8624048), mat2ppt.util.Emu(2541431));
 sp.text_frame().text = 'The Saint Luke GuildCheckout.com Requested Info';
@@ -31,6 +43,22 @@ sp.text_frame().text = 'Douglas CoombsJuly 1, 2022, Rev. 1';
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Transaction InformationData Request';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(480061), mat2ppt.util.Emu(938440), mat2ppt.util.Emu(11496786), mat2ppt.util.Emu(5687646));
 sp.text_frame().text = 'A payment flow to properly understand what Checkout.com is exactly processing for.See the next slidePlease provide further details on what the merchant will be accepting payments for.We are accepting donations to fundArt displays at schoolsProjects to help schools in the selection of art (e.g., a timeline/database of art masterpieces)Costs to attend educational conferences and educate schools on the value of art reproductionsPlease provide the URL where payments will be accepted. Please also provide demo or Test login details to verify the websitewww.saintlukeguild.com/projects (this will be updated when we begin taking payments)Please confirm the annual processing volumeMaybe $5k-$10k/year to begin.  It is hard to say.  We currently bring in around $20k/year in large checks.  Most larger donors will probably still choose to give via check.';
@@ -39,6 +67,18 @@ sp.text_frame().text = 'A payment flow to properly understand what Checkout.com 
 %% ===== Slide 3 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
 
 % connector Connector: Elbow 33
 sh.add_connector('bentConnector3', mat2ppt.util.Emu(6539551), mat2ppt.util.Emu(2438050), mat2ppt.util.Emu(8265640), mat2ppt.util.Emu(5392890));
@@ -91,6 +131,18 @@ sh.add_connector('straightConnector1', mat2ppt.util.Emu(3043451), mat2ppt.util.E
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(110836), mat2ppt.util.Emu(46180), mat2ppt.util.Emu(12081164), mat2ppt.util.Emu(876687));
 sp.text_frame().text = 'Website Donor FormsEntry Point for Project Funding';
@@ -103,7 +155,12 @@ sp.text_frame().text = 'Simple Donate Button next to each project on website tak
 sp = sh.add_shape('roundRect', mat2ppt.util.Emu(1728951), mat2ppt.util.Emu(4731972), mat2ppt.util.Emu(1918447), mat2ppt.util.Emu(703729));
 sp.text_frame().text = 'Donate Now';
 
-% TODO: group shape Group 6
+% Rectangle: Rounded Corners 3
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(5122711), mat2ppt.util.Emu(1473267), mat2ppt.util.Emu(5970494), mat2ppt.util.Emu(5513521));
+
+% TextBox 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(5673421), mat2ppt.util.Emu(1474189), mat2ppt.util.Emu(5419783), mat2ppt.util.Emu(5512599));
+sp.text_frame().text = 'First Name: _______________________Last Name: _______________________Address: _________________________City: ____________________________State:  [Drop Down ]         Zip: ___________  Keep me anonymous to project schools.Project: [Drop Down List]Pledge Amount: $  ___________Credit Card Info';
 
 % Arrow: Right 7
 sp = sh.add_shape('rightArrow', mat2ppt.util.Emu(4087905), mat2ppt.util.Emu(4840244), mat2ppt.util.Emu(932325), mat2ppt.util.Emu(487183));
@@ -112,6 +169,18 @@ sp = sh.add_shape('rightArrow', mat2ppt.util.Emu(4087905), mat2ppt.util.Emu(4840
 %% ===== Slide 5 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(110836), mat2ppt.util.Emu(46180), mat2ppt.util.Emu(12081164), mat2ppt.util.Emu(876687));
@@ -125,19 +194,62 @@ sp.text_frame().text = 'In an ideal world, we would be able to have bar graphs s
 sp = sh.add_shape('roundRect', mat2ppt.util.Emu(1201275), mat2ppt.util.Emu(5276081), mat2ppt.util.Emu(1918447), mat2ppt.util.Emu(703729));
 sp.text_frame().text = 'Donate Now';
 
-% TODO: group shape Group 6
+% Rectangle: Rounded Corners 3
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(5122711), mat2ppt.util.Emu(1473267), mat2ppt.util.Emu(5970494), mat2ppt.util.Emu(5236522));
+
+% TextBox 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(5673422), mat2ppt.util.Emu(1474189), mat2ppt.util.Emu(4869072), mat2ppt.util.Emu(5235600));
+sp.text_frame().text = 'Project: Holy Child Catholic SchoolFirst Name: _______________________Last Name: _______________________Address: _________________________City: ____________________________State:  [Drop Down ]         Zip: ___________ Keep me anonymous to the above school.Pledge Amount: $  ___________Credit Card Info';
 
 % Arrow: Right 7
 sp = sh.add_shape('rightArrow', mat2ppt.util.Emu(4255368), mat2ppt.util.Emu(5334618), mat2ppt.util.Emu(932325), mat2ppt.util.Emu(487183));
 
-% TODO: group shape Group 12
+% Oval 8
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(6060142), mat2ppt.util.Emu(914404), mat2ppt.util.Emu(594360), mat2ppt.util.Emu(594360));
 
-% TODO: group shape Group 13
+% Rectangle 9
+sp = sh.add_shape('rect', mat2ppt.util.Emu(6338048), mat2ppt.util.Emu(1050772), mat2ppt.util.Emu(1882588), mat2ppt.util.Emu(321624));
+
+% Rectangle 10
+sp = sh.add_shape('rect', mat2ppt.util.Emu(8086165), mat2ppt.util.Emu(1050772), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(321624));
+
+% TextBox 11
+sp = sh.add_shape('rect', mat2ppt.util.Emu(9914965), mat2ppt.util.Emu(857186), mat2ppt.util.Emu(1890320), mat2ppt.util.Emu(646331));
+sp.text_frame().text = '$15,250 of $30,000 Raised';
+
+% Oval 14
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(6060142), mat2ppt.util.Emu(914404), mat2ppt.util.Emu(594360), mat2ppt.util.Emu(594360));
+
+% Rectangle 15
+sp = sh.add_shape('rect', mat2ppt.util.Emu(6338048), mat2ppt.util.Emu(1050772), mat2ppt.util.Emu(1882588), mat2ppt.util.Emu(321624));
+
+% Rectangle 16
+sp = sh.add_shape('rect', mat2ppt.util.Emu(8086165), mat2ppt.util.Emu(1050772), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(321624));
+
+% TextBox 17
+sp = sh.add_shape('rect', mat2ppt.util.Emu(9914965), mat2ppt.util.Emu(857186), mat2ppt.util.Emu(1890320), mat2ppt.util.Emu(646331));
+sp.text_frame().text = '$15,250 of $30,000 Raised';
 
 
 %% ===== Slide 6 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Bank Account Info';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(129981), mat2ppt.util.Emu(938440), mat2ppt.util.Emu(4459948), mat2ppt.util.Emu(5687646));
@@ -153,6 +265,22 @@ end
 %% ===== Slide 7 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'KYC documentation';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(480061), mat2ppt.util.Emu(938440), mat2ppt.util.Emu(10386722), mat2ppt.util.Emu(675207));
@@ -175,6 +303,22 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Legalese on Website';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(480060), mat2ppt.util.Emu(938440), mat2ppt.util.Emu(11052297), mat2ppt.util.Emu(5687646));
 sp.text_frame().text = 'Legal entity name: The Saint Luke GuildGoverning jurisdiction: New MexicoMerchant registered business address: 2718 University Blvd NE, Albuquerque, NM 87107Privacy PolicySee next slideRefund/Cancellation/Return PolicySee next slideSee www.SaintLukeGuild.com/About-UsTo be moved to www.SaintLukeGuild.com/Legalese at a future date';
@@ -183,6 +327,22 @@ sp.text_frame().text = 'Legal entity name: The Saint Luke GuildGoverning jurisdi
 %% ===== Slide 9 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Privacy and Refund Policy';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(318052), mat2ppt.util.Emu(938439), mat2ppt.util.Emu(11425713), mat2ppt.util.Emu(5193419));
@@ -193,26 +353,62 @@ sp.text_frame().text = 'https://www.saintlukeguild.com/about-usRefund PolicyThe 
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Regulatory Documents';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'License required to operate the businessNM_SoS_InitialReport_2016917025-502856.pdfNM_ArticlesOfIncorporation_AoI_Approved.pdfLicenses for all jurisdictions in which you intend to provide your services.Starting in NM.  Other locations unknown, so far.  Copy of AML/KYC policy and proceduresNot sure what this would look like.  Are there examples?Completed AML QuestionnaireHas this been done?';
+
 
 %% ===== Slide 11 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image1.jpg
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(6126480), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(742950));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(0), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(6858000));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Corporate Documents';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Please provide 501c3 document to confirm tax exempt statusThe following are attachedIRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdfIRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf';
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide2 sp missing geom: Title 1
-% GAP: slide4 group shape Group 6 not expanded
-% GAP: slide5 group shape Group 6 not expanded
-% GAP: slide5 group shape Group 12 not expanded
-% GAP: slide5 group shape Group 13 not expanded
-% GAP: slide6 sp missing geom: Title 1
-% GAP: slide7 sp missing geom: Title 1
-% GAP: slide8 sp missing geom: Title 1
-% GAP: slide9 sp missing geom: Title 1
-% GAP: slide10 sp missing geom: Title 1
-% GAP: slide10 sp missing geom: Content Placeholder 2
-% GAP: slide11 sp missing geom: Title 1
-% GAP: slide11 sp missing geom: Content Placeholder 2
+% GAP: slide2 sp used title-area default geom: Title 1
+% GAP: slide6 sp used title-area default geom: Title 1
+% GAP: slide7 sp used title-area default geom: Title 1
+% GAP: slide8 sp used title-area default geom: Title 1
+% GAP: slide9 sp used title-area default geom: Title 1
+% GAP: slide10 sp used title-area default geom: Title 1
+% GAP: slide10 sp used title-area default geom: Content Placeholder 2
+% GAP: slide11 sp used title-area default geom: Title 1
+% GAP: slide11 sp used title-area default geom: Content Placeholder 2

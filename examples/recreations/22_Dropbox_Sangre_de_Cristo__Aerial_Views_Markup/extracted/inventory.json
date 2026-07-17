@@ -13,17 +13,46 @@
       "file": "slide1.xml",
       "shapes": [
         {
-          "type": "grpSp",
-          "id": 7,
-          "name": "Group 6",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
-          "prst": null,
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 9525,
+          "y": 666750,
+          "cx": 9134475,
+          "cy": 5524500,
+          "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": "b1: Coombs\u2019 Houseb2: Smith\u2019s House"
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.png",
+          "asset": "image1.png"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Rounded Rectangle 4",
+          "x": 1905000,
+          "y": 3733800,
+          "cx": 1219200,
+          "cy": 381000,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "b1: Coombs\u2019 House"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "Rounded Rectangle 5",
+          "x": 6248400,
+          "y": 3429000,
+          "cx": 1219200,
+          "cy": 381000,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "b2: Smith\u2019s House"
         }
       ]
     },
@@ -31,17 +60,59 @@
       "file": "slide2.xml",
       "shapes": [
         {
-          "type": "grpSp",
-          "id": 7,
-          "name": "Group 6",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
-          "prst": null,
+          "type": "pic",
+          "id": 3,
+          "name": "Picture 2",
+          "x": 0,
+          "y": 676656,
+          "cx": 9144000,
+          "cy": 5504688,
+          "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": "a1: Coombs\u2019 Housea2: Smith\u2019s Housea3: Brannock\u2019s Home Site"
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image2.jpeg",
+          "asset": "image2.jpeg"
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Rounded Rectangle 3",
+          "x": 2667000,
+          "y": 2971800,
+          "cx": 1219200,
+          "cy": 152400,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "a1: Coombs\u2019 House"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Rounded Rectangle 4",
+          "x": 4800600,
+          "y": 2819400,
+          "cx": 1219200,
+          "cy": 152400,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "a2: Smith\u2019s House"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "Rounded Rectangle 5",
+          "x": 4114800,
+          "y": 4876800,
+          "cx": 1676400,
+          "cy": 152400,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "a3: Brannock\u2019s Home Site"
         }
       ]
     },
@@ -49,17 +120,46 @@
       "file": "slide3.xml",
       "shapes": [
         {
-          "type": "grpSp",
-          "id": 7,
-          "name": "Group 6",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
-          "prst": null,
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 9525,
+          "y": 666750,
+          "cx": 9134475,
+          "cy": 5524500,
+          "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": "b1b2"
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.png",
+          "asset": "image1.png"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Rounded Rectangle 4",
+          "x": 2209800,
+          "y": 3886200,
+          "cx": 381000,
+          "cy": 304800,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "b1"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "Rounded Rectangle 5",
+          "x": 6553200,
+          "y": 3429000,
+          "cx": 457200,
+          "cy": 304800,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "b2"
         }
       ]
     },
@@ -67,20 +167,65 @@
       "file": "slide4.xml",
       "shapes": [
         {
-          "type": "grpSp",
-          "id": 7,
-          "name": "Group 6",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
-          "prst": null,
+          "type": "pic",
+          "id": 3,
+          "name": "Picture 2",
+          "x": 0,
+          "y": 676656,
+          "cx": 9144000,
+          "cy": 5504688,
+          "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": "a1a2a3"
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image2.jpeg",
+          "asset": "image2.jpeg"
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Rounded Rectangle 3",
+          "x": 3810000,
+          "y": 2438400,
+          "cx": 381000,
+          "cy": 155448,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "a1"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Rounded Rectangle 4",
+          "x": 4876800,
+          "y": 2819400,
+          "cx": 381000,
+          "cy": 152400,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "a2"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "Rounded Rectangle 5",
+          "x": 4038600,
+          "y": 4953000,
+          "cx": 381000,
+          "cy": 152400,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "a3"
         }
       ]
     }
   ],
-  "media_assets": []
+  "media_assets": [
+    "image1.png",
+    "image2.jpeg"
+  ]
 }

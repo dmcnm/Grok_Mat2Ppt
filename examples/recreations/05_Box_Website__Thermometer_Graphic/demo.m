@@ -18,21 +18,101 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 17
+% Oval 20
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 23
+% Rectangle 21
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 29
+% Oval 22
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
 
-% TODO: group shape Group 35
+% Rectangle 19
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
 
-% TODO: group shape Group 41
+% Oval 26
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 47
+% Rectangle 27
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 53
+% Oval 28
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
 
-% TODO: group shape Group 59
+% Rectangle 25
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 32
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 33
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 34
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 31
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 38
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 39
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 40
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 37
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 44
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 45
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 46
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 43
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 50
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 51
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 52
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 49
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 56
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 57
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 58
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 55
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 62
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 63
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 64
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 61
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
 
 % TextBox 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45589031), mat2ppt.util.Emu(13762844), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
@@ -74,44 +154,186 @@ sp.text_frame().text = '45%';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45720000), mat2ppt.util.Emu(9506649), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
 sp.text_frame().text = '2%';
 
-% TODO: group shape Group 84
+% Oval 14
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 85
+% Rectangle 15
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 16
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 13
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Rectangle 83
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3398042), mat2ppt.util.Emu(5574350), mat2ppt.util.Emu(404814), mat2ppt.util.Emu(1800224));
+
+% Oval 90
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 91
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 92
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 89
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Rectangle 87
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3398042), mat2ppt.util.Emu(5574350), mat2ppt.util.Emu(404814), mat2ppt.util.Emu(1800224));
 
 % TextBox 93
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45798582), mat2ppt.util.Emu(1010925), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
 sp.text_frame().text = '0%';
 
-% TODO: group shape Group 94
+% Oval 99
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 100
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 101
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 98
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Rectangle 96
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3398042), mat2ppt.util.Emu(5574350), mat2ppt.util.Emu(404814), mat2ppt.util.Emu(1800224));
 
 % TextBox 102
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45720000), mat2ppt.util.Emu(5267120), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
 sp.text_frame().text = '1%';
 
-% TODO: group shape Group 103
+% Oval 108
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 109
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 110
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 107
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Rectangle 105
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3398042), mat2ppt.util.Emu(5574350), mat2ppt.util.Emu(404814), mat2ppt.util.Emu(1800224));
 
 
 %% ===== Slide 2 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 11
+% Oval 14
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 17
+% Rectangle 15
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 23
+% Oval 16
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
 
-% TODO: group shape Group 29
+% Rectangle 13
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
 
-% TODO: group shape Group 35
+% Oval 20
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 41
+% Rectangle 21
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 47
+% Oval 22
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
 
-% TODO: group shape Group 53
+% Rectangle 19
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
 
-% TODO: group shape Group 59
+% Oval 26
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 27
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 28
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 25
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 32
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 33
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 34
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 31
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 38
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 39
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 40
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 37
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 44
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 45
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 46
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 43
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 50
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 51
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 52
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 49
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 56
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 57
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 58
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 55
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 62
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 63
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 64
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 61
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
 
 % TextBox 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45589031), mat2ppt.util.Emu(1205947), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
@@ -149,9 +371,26 @@ sp.text_frame().text = '85%';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45536644), mat2ppt.util.Emu(35256239), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
 sp.text_frame().text = '90%';
 
-% TODO: group shape Group 68
+% Oval 71
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
 
-% TODO: group shape Group 75
+% Rectangle 72
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 73
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
+
+% Rectangle 70
+sp = sh.add_shape('rect', mat2ppt.util.Emu(43760231), mat2ppt.util.Emu(5165885), mat2ppt.util.Emu(238125), mat2ppt.util.Emu(1800224));
+
+% Oval 77
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 78
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 79
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
 
 % TextBox 80
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45327093), mat2ppt.util.Emu(39512434), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
@@ -161,7 +400,14 @@ sp.text_frame().text = '95%';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45458062), mat2ppt.util.Emu(43768629), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
 sp.text_frame().text = '98%';
 
-% TODO: group shape Group 83
+% Oval 85
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(42976800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(1828800));
+
+% Rectangle 86
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(3396342), mat2ppt.util.Emu(42062400), mat2ppt.util.Emu(1828800));
+
+% Oval 87
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(0), mat2ppt.util.Emu(2481942), mat2ppt.util.Emu(3657600), mat2ppt.util.Emu(3657600));
 
 % TextBox 88
 sp = sh.add_shape('rect', mat2ppt.util.Emu(45327093), mat2ppt.util.Emu(48024824), mat2ppt.util.Emu(4236244), mat2ppt.util.Emu(2215991));
@@ -170,29 +416,3 @@ sp.text_frame().text = '100%';
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 group shape Group 17 not expanded
-% GAP: slide1 group shape Group 23 not expanded
-% GAP: slide1 group shape Group 29 not expanded
-% GAP: slide1 group shape Group 35 not expanded
-% GAP: slide1 group shape Group 41 not expanded
-% GAP: slide1 group shape Group 47 not expanded
-% GAP: slide1 group shape Group 53 not expanded
-% GAP: slide1 group shape Group 59 not expanded
-% GAP: slide1 group shape Group 84 not expanded
-% GAP: slide1 group shape Group 85 not expanded
-% GAP: slide1 group shape Group 94 not expanded
-% GAP: slide1 group shape Group 103 not expanded
-% GAP: slide2 group shape Group 11 not expanded
-% GAP: slide2 group shape Group 17 not expanded
-% GAP: slide2 group shape Group 23 not expanded
-% GAP: slide2 group shape Group 29 not expanded
-% GAP: slide2 group shape Group 35 not expanded
-% GAP: slide2 group shape Group 41 not expanded
-% GAP: slide2 group shape Group 47 not expanded
-% GAP: slide2 group shape Group 53 not expanded
-% GAP: slide2 group shape Group 59 not expanded
-% GAP: slide2 group shape Group 68 not expanded
-% GAP: slide2 group shape Group 75 not expanded
-% GAP: slide2 group shape Group 83 not expanded

@@ -1,13 +1,9 @@
-slide2 sp missing geom: Title 1
-slide4 group shape Group 6 not expanded
-slide5 group shape Group 6 not expanded
-slide5 group shape Group 12 not expanded
-slide5 group shape Group 13 not expanded
-slide6 sp missing geom: Title 1
-slide7 sp missing geom: Title 1
-slide8 sp missing geom: Title 1
-slide9 sp missing geom: Title 1
-slide10 sp missing geom: Title 1
-slide10 sp missing geom: Content Placeholder 2
-slide11 sp missing geom: Title 1
-slide11 sp missing geom: Content Placeholder 2
+slide2 sp used title-area default geom: Title 1
+slide6 sp used title-area default geom: Title 1
+slide7 sp used title-area default geom: Title 1
+slide8 sp used title-area default geom: Title 1
+slide9 sp used title-area default geom: Title 1
+slide10 sp used title-area default geom: Title 1
+slide10 sp used title-area default geom: Content Placeholder 2
+slide11 sp used title-area default geom: Title 1
+slide11 sp used title-area default geom: Content Placeholder 2

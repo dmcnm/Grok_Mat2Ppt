@@ -18,9 +18,21 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'What Makes a Great Scientist?';
+
 % Content Placeholder 4
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1295400), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(4830763));
 sp.text_frame().text = 'Knowing science and math factsBeing able to solve known scientific problemsBeing able to acquire new data and assemble new theories to expand knowledge and answer specific questions about the universeIs there something that many of our greatest scientists have in common?Pictures of Newton, Einstein, and FeynmanOverlays of the Bible, Violin, and Congo drums';
+
+% Footer Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lesson 18 Biology 2';
+
+% Slide Number Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '1';
 
 
 %% ===== Slide 2 =====
@@ -47,6 +59,14 @@ sp.text_frame().text = 'Right-Brain Characteristics';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(4645025), mat2ppt.util.Emu(1870075), mat2ppt.util.Emu(4041775), mat2ppt.util.Emu(4256088));
 sp.text_frame().text = 'Helps us understand the worldRapt attentionRight hemisphere’s vision sees things that areonly partly knownonly partly certain of what we are looking atFreshInterconnected, and situated where they are in contextWhen we take them out of context, they change their natureFlowing and changing, not fixed and graspable in a simple wayUnique rather than exemplars of a common themeEmbodied rather than abstracted and disembodiedAnimate, rather than inanimateHas the ability to look out for something we might be missing -- more skepticalAssembles facts for application in an embodied world.';
 
+% Footer Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lesson 18 Biology 2';
+
+% Slide Number Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '2';
+
 % TextBox 8
 sp = sh.add_shape('rect', mat2ppt.util.Emu(152400), mat2ppt.util.Emu(5943600), mat2ppt.util.Emu(8763000), mat2ppt.util.Emu(646331));
 sp.text_frame().text = 'Reason is this ability to bring together the faculties of logic with the faculties of an intuitive, implicit, embodied understanding of what it means to be alive” –Iain McGilchrist';
@@ -60,23 +80,63 @@ sp.text_frame().text = 'Our perceptions of the world come from paying a certain 
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 8
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Developing the Right-Brain';
+
 % Content Placeholder 9
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(4756150));
 sp.text_frame().text = 'If we want to educate students to be world-class scientists, we need to develop and not dismiss right-brain thinkingBoth left and right-brain thinking are critical for breakthrough scienceTeach an understanding of and appreciation for Music, Art, and the SacredFor example: band, drawing, family, and the pledge of allegiance/reveilleThe Saint Luke Guild was founded to bring high quality, physical reproductions of the greatest works of art to students of average meansEnabled by two technological developments from the last 20 yearsThe explosion of high-resolution, digital imagery of the greatest works of art, previously reserved to museum visitorsThe dramatic improvements in low-cost, museum quality photographic printing methods';
+
+% Footer Placeholder 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lesson 18 Biology 2';
+
+% Slide Number Placeholder 7
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '3';
 
 
 %% ===== Slide 4 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Example Project';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Bring around 50 paintings showing both a timeline of art and world history to Holy Child Catholic School$30k in artwork installed in the last 1.5 years$30k in funding promised by donors to complete the hallwayOver 20 years projects of a similar scale could be done in every school throughout the country for ~.05% of their budgetCompare with Zuckerberg’s $300,000,000 donation to one school district – Zero improvement in student achievement';
+
+% Footer Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lesson 18 Biology 2';
+
+% Slide Number Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '4';
+
 
 %% ===== Slide 5 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Example Paintings';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(76200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(8991600), mat2ppt.util.Emu(4525963));
 sp.text_frame().text = 'Science brings us facts about the world';
+
+% Footer Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lesson 18 Biology 2';
+
+% Slide Number Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '5';
 
 % picture Picture 5
 img = fullfile(assets, 'image1.jpg');
@@ -95,30 +155,42 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Summary';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(76200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(8991600), mat2ppt.util.Emu(4525963));
 sp.text_frame().text = 'Science brings us disembodied, decontextualized facts about the worldArt and myth are focused on how embodied humans should act in the real world, which is particular and uncertainBoth left and right-brained thinking is necessary for a world-class scientific enterpriseThe scientist is servant to the humanities majorThey control how our inventions are usedThe Saint Luke Guild helps develop right-brain thinking by bringing high quality reproductions of the greatest works of art in the Western Canon to average studentsDeveloping an appreciation for rapt attention alongside clinical attention';
+
+% Footer Placeholder 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lesson 18 Biology 2';
+
+% Slide Number Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = '6';
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide1 sp missing geom: Title 1
-% GAP: slide1 sp missing geom: Footer Placeholder 2
-% GAP: slide1 sp missing geom: Slide Number Placeholder 3
-% GAP: slide2 sp missing geom: Footer Placeholder 3
-% GAP: slide2 sp missing geom: Slide Number Placeholder 4
-% GAP: slide3 sp missing geom: Title 8
-% GAP: slide3 sp missing geom: Footer Placeholder 6
-% GAP: slide3 sp missing geom: Slide Number Placeholder 7
-% GAP: slide4 sp missing geom: Title 1
-% GAP: slide4 sp missing geom: Content Placeholder 2
-% GAP: slide4 sp missing geom: Footer Placeholder 3
-% GAP: slide4 sp missing geom: Slide Number Placeholder 4
-% GAP: slide5 sp missing geom: Title 1
-% GAP: slide5 sp missing geom: Footer Placeholder 3
-% GAP: slide5 sp missing geom: Slide Number Placeholder 4
-% GAP: slide6 sp missing geom: Title 1
-% GAP: slide6 sp missing geom: Footer Placeholder 3
-% GAP: slide6 sp missing geom: Slide Number Placeholder 4
+% GAP: slide1 sp used title-area default geom: Title 1
+% GAP: slide1 sp used title-area default geom: Footer Placeholder 2
+% GAP: slide1 sp used title-area default geom: Slide Number Placeholder 3
+% GAP: slide2 sp used title-area default geom: Footer Placeholder 3
+% GAP: slide2 sp used title-area default geom: Slide Number Placeholder 4
+% GAP: slide3 sp used title-area default geom: Title 8
+% GAP: slide3 sp used title-area default geom: Footer Placeholder 6
+% GAP: slide3 sp used title-area default geom: Slide Number Placeholder 7
+% GAP: slide4 sp used title-area default geom: Title 1
+% GAP: slide4 sp used title-area default geom: Content Placeholder 2
+% GAP: slide4 sp used title-area default geom: Footer Placeholder 3
+% GAP: slide4 sp used title-area default geom: Slide Number Placeholder 4
+% GAP: slide5 sp used title-area default geom: Title 1
+% GAP: slide5 sp used title-area default geom: Footer Placeholder 3
+% GAP: slide5 sp used title-area default geom: Slide Number Placeholder 4
+% GAP: slide6 sp used title-area default geom: Title 1
+% GAP: slide6 sp used title-area default geom: Footer Placeholder 3
+% GAP: slide6 sp used title-area default geom: Slide Number Placeholder 4

@@ -38,6 +38,10 @@ sh = s.shapes();
 sp = sh.add_shape('rect', mat2ppt.util.Emu(990600), mat2ppt.util.Emu(0), mat2ppt.util.Emu(7161213), mat2ppt.util.Emu(1084263));
 sp.text_frame().text = 'Overview';
 
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Personal IntroTypes of EngineeringEducational RequirementsCareer OverviewSucceed in Any CareerQ & ADisclaimer: These are the presenter’s opinions and do not necessarily reflect those of his employers, past and present';
+
 
 %% ===== Slide 3 =====
 s = prs.slides().add_slide(blank);
@@ -47,24 +51,188 @@ sh = s.shapes();
 sp = sh.add_shape('rect', mat2ppt.util.Emu(990600), mat2ppt.util.Emu(0), mat2ppt.util.Emu(7161213), mat2ppt.util.Emu(1084263));
 sp.text_frame().text = 'Brief Personal Intro';
 
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Name: Douglas CoombsEmployer: Sandia National LaboratoriesTitle: Principal Member of the Technical StaffJob Roles: Audit scientific and engineering work to ensure national securityPerform system analyses to ensure safetyManage software projects to help engineers work more productively Contribute to R&D efforts to advance product linesDid that make any sense?';
+
 
 %% ===== Slide 4 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 18
+% picture Picture 21
+img = fullfile(assets, 'image6.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5105400), mat2ppt.util.Emu(3048000), mat2ppt.util.Emu(3913259), mat2ppt.util.Emu(3133725));
+end
+
+% picture Picture 22
+img = fullfile(assets, 'image7.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(438555), mat2ppt.util.Emu(3238499), mat2ppt.util.Emu(4422881), mat2ppt.util.Emu(2943226));
+end
+
+% connector Straight Connector 23
+sh.add_connector('line', mat2ppt.util.Emu(438555), mat2ppt.util.Emu(3238499), mat2ppt.util.Emu(4861436), mat2ppt.util.Emu(6181725));
+
+% Rectangle 24
+sp = sh.add_shape('rect', mat2ppt.util.Emu(7814985), mat2ppt.util.Emu(3429000), mat2ppt.util.Emu(910827), mat2ppt.util.Emu(1200329));
+sp.text_frame().text = '';
+
+% connector Straight Connector 20
+sh.add_connector('line', mat2ppt.util.Emu(438555), mat2ppt.util.Emu(6181725), mat2ppt.util.Emu(4861436), mat2ppt.util.Emu(3238499));
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(990600), mat2ppt.util.Emu(0), mat2ppt.util.Emu(7161213), mat2ppt.util.Emu(1084263));
 sp.text_frame().text = 'Types of Engineering';
 
-% TODO: group shape Group 11
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'What do engineers do? We solve scientific and technical problems to create the infrastructure and products that enable modern lifeTrain engineers vs. technical engineers Types of EngineersCivil, Mechanical, and Electrical (most engineers) Niche fieldsChemical, Bio-Medical, Materials, Industrial, Aerospace, Mining, Petroleum, Nuclear, Marine, Agricultural, EnvironmentalWide range of pay depending on industry, difficulty and educational level attained ($50k-$250k, median ~85k)Commodities vs cutting edge technologiesScalability of productGood bread and butter job to support a family withMost people can do it if they work hard enough – not like sports or acting where only the top .01% succeed and make enough money to support a family';
 
-% TODO: group shape Group 25
+% picture Content Placeholder 5
+img = fullfile(assets, 'image8.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(304800), mat2ppt.util.Emu(4704242), mat2ppt.util.Emu(3549200), mat2ppt.util.Emu(1994200));
+end
 
-% TODO: group shape Group 35
+% picture Picture 15
+img = fullfile(assets, 'image9.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3949925), mat2ppt.util.Emu(4770408), mat2ppt.util.Emu(2908075), mat2ppt.util.Emu(1935192));
+end
 
-% TODO: group shape Group 43
+% picture Picture 16
+img = fullfile(assets, 'image10.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(304800), mat2ppt.util.Emu(2743200), mat2ppt.util.Emu(3429000), mat2ppt.util.Emu(1920240));
+end
+
+% picture Picture 17
+img = fullfile(assets, 'image11.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3783408), mat2ppt.util.Emu(2780742), mat2ppt.util.Emu(3253588), mat2ppt.util.Emu(1845156));
+end
+
+% TextBox 13
+sp = sh.add_shape('rect', mat2ppt.util.Emu(522926), mat2ppt.util.Emu(3510110), mat2ppt.util.Emu(1823258), mat2ppt.util.Emu(2998037));
+sp.text_frame().text = 'Civil Engineering Bridges, Roads,  Dams, Skyscrapers, Sewage Treatment';
+
+% picture Picture 28
+img = fullfile(assets, 'image12.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2314456), mat2ppt.util.Emu(5109989), mat2ppt.util.Emu(1990754), mat2ppt.util.Emu(1491144));
+end
+
+% picture Picture 29
+img = fullfile(assets, 'image13.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4473946), mat2ppt.util.Emu(5230477), mat2ppt.util.Emu(2006193), mat2ppt.util.Emu(1335030));
+end
+
+% picture Picture 30
+img = fullfile(assets, 'image14.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6575878), mat2ppt.util.Emu(5203544), mat2ppt.util.Emu(2376034), mat2ppt.util.Emu(1335029));
+end
+
+% picture Picture 31
+img = fullfile(assets, 'image15.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2287454), mat2ppt.util.Emu(3714393), mat2ppt.util.Emu(2044757), mat2ppt.util.Emu(1302532));
+end
+
+% picture Picture 32
+img = fullfile(assets, 'image16.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4415662), mat2ppt.util.Emu(3739275), mat2ppt.util.Emu(2176462), mat2ppt.util.Emu(1277650));
+end
+
+% picture Picture 33
+img = fullfile(assets, 'image17.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6563326), mat2ppt.util.Emu(3646211), mat2ppt.util.Emu(1327324), mat2ppt.util.Emu(1463778));
+end
+
+% picture Picture 34
+img = fullfile(assets, 'image18.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(7657128), mat2ppt.util.Emu(3733800), mat2ppt.util.Emu(1376189), mat2ppt.util.Emu(1376189));
+end
+
+% TextBox 27
+sp = sh.add_shape('rect', mat2ppt.util.Emu(185331), mat2ppt.util.Emu(3695590), mat2ppt.util.Emu(2044757), mat2ppt.util.Emu(3170099));
+sp.text_frame().text = 'Mechanical Engineering Rockets, Trucks, Cars, Household Appliances, Airplanes, Machines in General';
+
+% TextBox 36
+sp = sh.add_shape('rect', mat2ppt.util.Emu(310712), mat2ppt.util.Emu(3457699), mat2ppt.util.Emu(2176869), mat2ppt.util.Emu(2862322));
+sp.text_frame().text = 'Electrical Engineering Computers, Phones, Communication Infrastructure, General Electronics';
+
+% picture Picture 38
+img = fullfile(assets, 'image19.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6504380), mat2ppt.util.Emu(4974083), mat2ppt.util.Emu(2443760), mat2ppt.util.Emu(1531652));
+end
+
+% picture Picture 39
+img = fullfile(assets, 'image20.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6369731), mat2ppt.util.Emu(3231008), mat2ppt.util.Emu(2619375), mat2ppt.util.Emu(1743075));
+end
+
+% picture Picture 40
+img = fullfile(assets, 'image21.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2537815), mat2ppt.util.Emu(5096683), mat2ppt.util.Emu(1283907), mat2ppt.util.Emu(1398032));
+end
+
+% picture Picture 41
+img = fullfile(assets, 'image22.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2890684), mat2ppt.util.Emu(3263665), mat2ppt.util.Emu(3252941), mat2ppt.util.Emu(1710418));
+end
+
+% picture Picture 42
+img = fullfile(assets, 'image23.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3863757), mat2ppt.util.Emu(5096683), mat2ppt.util.Emu(2590389), mat2ppt.util.Emu(1491442));
+end
+
+% picture Picture 44
+img = fullfile(assets, 'image24.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6881338), mat2ppt.util.Emu(5105400), mat2ppt.util.Emu(1943100), mat2ppt.util.Emu(1600200));
+end
+
+% picture Picture 45
+img = fullfile(assets, 'image25.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6492400), mat2ppt.util.Emu(3402339), mat2ppt.util.Emu(2619375), mat2ppt.util.Emu(1743075));
+end
+
+% picture Picture 46
+img = fullfile(assets, 'image26.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2895600), mat2ppt.util.Emu(3414214), mat2ppt.util.Emu(3596800), mat2ppt.util.Emu(1479826));
+end
+
+% picture Picture 47
+img = fullfile(assets, 'image27.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3261518), mat2ppt.util.Emu(4962525), mat2ppt.util.Emu(2619375), mat2ppt.util.Emu(1743075));
+end
+
+% picture Picture 48
+img = fullfile(assets, 'image28.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(276225), mat2ppt.util.Emu(4905915), mat2ppt.util.Emu(2619375), mat2ppt.util.Emu(1743075));
+end
+
+% picture Picture 49
+img = fullfile(assets, 'image29.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(352424), mat2ppt.util.Emu(3429000), mat2ppt.util.Emu(2466975), mat2ppt.util.Emu(1721362));
+end
 
 
 %% ===== Slide 5 =====
@@ -136,20 +304,130 @@ sp.text_frame().text = 'Step 1: Learn to Work Hard';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(79610), mat2ppt.util.Emu(1205418), mat2ppt.util.Emu(8566150), mat2ppt.util.Emu(5183187));
 sp.text_frame().text = 'High School and College JobsPicked produce at local farmsYard work for elderlyCampus workstudy: mailroom and computer labBuilt homes for local construction company';
 
-% TODO: group shape Group 10
+% picture Picture 11
+img = fullfile(assets, 'image32.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(534411), mat2ppt.util.Emu(2470587), mat2ppt.util.Emu(3349972), mat2ppt.util.Emu(2205740));
+end
 
-% TODO: group shape Group 15
+% picture Picture 12
+img = fullfile(assets, 'image33.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3856997), mat2ppt.util.Emu(4473480), mat2ppt.util.Emu(4144004), mat2ppt.util.Emu(2231599));
+end
 
-% TODO: group shape Group 19
+% picture Picture 13
+img = fullfile(assets, 'image34.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3851058), mat2ppt.util.Emu(2168967), mat2ppt.util.Emu(4149943), mat2ppt.util.Emu(2323968));
+end
 
-% TODO: group shape Group 3
+% picture Picture 14
+img = fullfile(assets, 'image35.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(534411), mat2ppt.util.Emu(4676328), mat2ppt.util.Emu(3338745), mat2ppt.util.Emu(2028751));
+end
+
+% picture Picture 16
+img = fullfile(assets, 'image36.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(113077), mat2ppt.util.Emu(2799760), mat2ppt.util.Emu(5393779), mat2ppt.util.Emu(3820085));
+end
+
+% picture Picture 17
+img = fullfile(assets, 'image37.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5490880), mat2ppt.util.Emu(4492935), mat2ppt.util.Emu(3106720), mat2ppt.util.Emu(2067381));
+end
+
+% picture Picture 18
+img = fullfile(assets, 'image38.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5490880), mat2ppt.util.Emu(1359983), mat2ppt.util.Emu(3132952), mat2ppt.util.Emu(3132952));
+end
+
+% picture Picture 20
+img = fullfile(assets, 'image39.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4541955), mat2ppt.util.Emu(3642110), mat2ppt.util.Emu(4437878), mat2ppt.util.Emu(2991097));
+end
+
+% picture Picture 21
+img = fullfile(assets, 'image40.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(105215), mat2ppt.util.Emu(3647875), mat2ppt.util.Emu(4444832), mat2ppt.util.Emu(2957834));
+end
+
+% picture Picture 4
+img = fullfile(assets, 'image41.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3122621), mat2ppt.util.Emu(5110357), mat2ppt.util.Emu(2857500), mat2ppt.util.Emu(1600200));
+end
+
+% picture Picture 5
+img = fullfile(assets, 'image42.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6264983), mat2ppt.util.Emu(3009320), mat2ppt.util.Emu(2143125), mat2ppt.util.Emu(2143125));
+end
+
+% picture Picture 6
+img = fullfile(assets, 'image43.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(267965), mat2ppt.util.Emu(5110357), mat2ppt.util.Emu(2857500), mat2ppt.util.Emu(1600200));
+end
+
+% picture Picture 7
+img = fullfile(assets, 'image44.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5941276), mat2ppt.util.Emu(5110356), mat2ppt.util.Emu(2400189), mat2ppt.util.Emu(1597217));
+end
+
+% picture Picture 8
+img = fullfile(assets, 'image45.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3099672), mat2ppt.util.Emu(3510157), mat2ppt.util.Emu(3190334), mat2ppt.util.Emu(1600199));
+end
+
+% picture Picture 9
+img = fullfile(assets, 'image46.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(263573), mat2ppt.util.Emu(3510157), mat2ppt.util.Emu(2847975), mat2ppt.util.Emu(1600200));
+end
 
 
 %% ===== Slide 8 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 18
+% picture Picture 10
+img = fullfile(assets, 'image47.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(332664), mat2ppt.util.Emu(3630171), mat2ppt.util.Emu(3793089), mat2ppt.util.Emu(3057620));
+end
+
+% picture Picture 11
+img = fullfile(assets, 'image48.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4069534), mat2ppt.util.Emu(3651161), mat2ppt.util.Emu(5139609), mat2ppt.util.Emu(3036629));
+end
+
+% picture Picture 13
+img = fullfile(assets, 'image49.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5943600), mat2ppt.util.Emu(5703611), mat2ppt.util.Emu(2821981), mat2ppt.util.Emu(1009072));
+end
+
+% picture Picture 15
+img = fullfile(assets, 'image50.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3031679), mat2ppt.util.Emu(5705850), mat2ppt.util.Emu(2750327), mat2ppt.util.Emu(1009073));
+end
+
+% picture Picture 17
+img = fullfile(assets, 'image51.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(191759), mat2ppt.util.Emu(5703612), mat2ppt.util.Emu(2678327), mat2ppt.util.Emu(1011312));
+end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(990600), mat2ppt.util.Emu(0), mat2ppt.util.Emu(7161213), mat2ppt.util.Emu(1084263));
@@ -159,16 +437,94 @@ sp.text_frame().text = 'Step 2: Learn a Valuable Skill';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(169095), mat2ppt.util.Emu(1133172), mat2ppt.util.Emu(8625655), mat2ppt.util.Emu(5289853));
 sp.text_frame().text = 'Bachelor’s degree @ University of PortlandInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 Master’s degree @ University of CincinnatiTaught classes and worked on suspension modeling of pickup trucks';
 
-% TODO: group shape Group 3
+% picture Picture 4
+img = fullfile(assets, 'image52.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2443544), mat2ppt.util.Emu(4310554), mat2ppt.util.Emu(3238897), mat2ppt.util.Emu(2395046));
+end
+
+% picture Picture 5
+img = fullfile(assets, 'image53.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5654162), mat2ppt.util.Emu(4279554), mat2ppt.util.Emu(3238897), mat2ppt.util.Emu(2426046));
+end
+
+% picture Picture 6
+img = fullfile(assets, 'image54.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5654161), mat2ppt.util.Emu(2165000), mat2ppt.util.Emu(3238897), mat2ppt.util.Emu(2155339));
+end
+
+% picture Picture 7
+img = fullfile(assets, 'image55.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2559821), mat2ppt.util.Emu(2852637), mat2ppt.util.Emu(3114675), mat2ppt.util.Emu(1466850));
+end
+
+% picture Picture 8
+img = fullfile(assets, 'image56.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(217954), mat2ppt.util.Emu(4261645), mat2ppt.util.Emu(2362200), mat2ppt.util.Emu(2403979));
+end
 
 
 %% ===== Slide 9 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 5
+% picture Picture 6
+img = fullfile(assets, 'image57.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(304799), mat2ppt.util.Emu(4344218), mat2ppt.util.Emu(3214995), mat2ppt.util.Emu(2319187));
+end
 
-% TODO: group shape Group 8
+% picture Picture 7
+img = fullfile(assets, 'image58.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3276600), mat2ppt.util.Emu(4344219), mat2ppt.util.Emu(5861487), mat2ppt.util.Emu(2351218));
+end
+
+% picture Picture 11
+img = fullfile(assets, 'image59.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(101148), mat2ppt.util.Emu(4452770), mat2ppt.util.Emu(3274230), mat2ppt.util.Emu(2178851));
+end
+
+% picture Picture 12
+img = fullfile(assets, 'image60.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(7847647), mat2ppt.util.Emu(4900665), mat2ppt.util.Emu(1169136), mat2ppt.util.Emu(1716173));
+end
+
+% picture Picture 13
+img = fullfile(assets, 'image61.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3263335), mat2ppt.util.Emu(2606479), mat2ppt.util.Emu(3189322), mat2ppt.util.Emu(4054766));
+end
+
+% picture Picture 14
+img = fullfile(assets, 'image62.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6327161), mat2ppt.util.Emu(3424567), mat2ppt.util.Emu(2689332), mat2ppt.util.Emu(1511062));
+end
+
+% picture Picture 15
+img = fullfile(assets, 'image63.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(151067), mat2ppt.util.Emu(2310570), mat2ppt.util.Emu(2962323), mat2ppt.util.Emu(2123930));
+end
+
+% picture Picture 16
+img = fullfile(assets, 'image64.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6327161), mat2ppt.util.Emu(2291407), mat2ppt.util.Emu(2009652), mat2ppt.util.Emu(1125405));
+end
+
+% picture Picture 10
+img = fullfile(assets, 'image65.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6354294), mat2ppt.util.Emu(5005647), mat2ppt.util.Emu(1412566), mat2ppt.util.Emu(1673454));
+end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(990600), mat2ppt.util.Emu(17969), mat2ppt.util.Emu(7161213), mat2ppt.util.Emu(1066294));
@@ -186,7 +542,29 @@ sp.text_frame().text = 'Moog-CSA Engineering Projects: Space Launch System (rock
 sp = sh.add_shape('rect', mat2ppt.util.Emu(0), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(8642350), mat2ppt.util.Emu(814388));
 sp.text_frame().text = 'Sandia National Laboratories Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe';
 
-% TODO: group shape Group 17
+% picture Picture 18
+img = fullfile(assets, 'image66.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2233057), mat2ppt.util.Emu(4773859), mat2ppt.util.Emu(3178373), mat2ppt.util.Emu(1889548));
+end
+
+% picture Picture 19
+img = fullfile(assets, 'image67.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5426952), mat2ppt.util.Emu(4313236), mat2ppt.util.Emu(3478094), mat2ppt.util.Emu(2314513));
+end
+
+% picture Picture 20
+img = fullfile(assets, 'image68.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2259956), mat2ppt.util.Emu(2592392), mat2ppt.util.Emu(3178373), mat2ppt.util.Emu(2181466));
+end
+
+% picture Picture 21
+img = fullfile(assets, 'image69.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5433839), mat2ppt.util.Emu(2961473), mat2ppt.util.Emu(3467653), mat2ppt.util.Emu(1387061));
+end
 
 
 %% ===== Slide 10 =====
@@ -215,20 +593,6 @@ prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide2 sp missing geom: Content Placeholder 2
-% GAP: slide3 sp missing geom: Content Placeholder 2
-% GAP: slide4 group shape Group 18 not expanded
-% GAP: slide4 sp missing geom: Content Placeholder 2
-% GAP: slide4 group shape Group 11 not expanded
-% GAP: slide4 group shape Group 25 not expanded
-% GAP: slide4 group shape Group 35 not expanded
-% GAP: slide4 group shape Group 43 not expanded
-% GAP: slide7 group shape Group 10 not expanded
-% GAP: slide7 group shape Group 15 not expanded
-% GAP: slide7 group shape Group 19 not expanded
-% GAP: slide7 group shape Group 3 not expanded
-% GAP: slide8 group shape Group 18 not expanded
-% GAP: slide8 group shape Group 3 not expanded
-% GAP: slide9 group shape Group 5 not expanded
-% GAP: slide9 group shape Group 8 not expanded
-% GAP: slide9 group shape Group 17 not expanded
+% GAP: slide2 sp used title-area default geom: Content Placeholder 2
+% GAP: slide3 sp used title-area default geom: Content Placeholder 2
+% GAP: slide4 sp used title-area default geom: Content Placeholder 2

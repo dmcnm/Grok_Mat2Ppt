@@ -12,20 +12,42 @@
       "file": "slide1.xml",
       "shapes": [
         {
-          "type": "grpSp",
-          "id": 8,
-          "name": "Group 7",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
-          "prst": null,
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 5460490,
+          "y": 2862071,
+          "cx": 1271019,
+          "cy": 1133858,
+          "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image1.png",
+          "asset": "image1.png"
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "Picture 6",
+          "x": 6731510,
+          "y": 2862071,
+          "cx": 2675538,
+          "cy": 1137374,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image2.png",
+          "asset": "image2.png"
         }
       ]
     }
   ],
-  "media_assets": []
+  "media_assets": [
+    "image1.png",
+    "image2.png"
+  ]
 }

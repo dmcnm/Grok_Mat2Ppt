@@ -18,11 +18,16 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 6
+% picture Picture 4
+img = fullfile(assets, 'image1.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(436084), mat2ppt.util.Emu(12192000), mat2ppt.util.Emu(5449019));
+end
+
+% TextBox 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(602673), mat2ppt.util.Emu(5885103), mat2ppt.util.Emu(10986654), mat2ppt.util.Emu(523220));
+sp.text_frame().text = 'One of these is a symbol of scandal and clericalism.  The other is a hat.';
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 group shape Group 6 not expanded

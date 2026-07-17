@@ -1,7 +1,7 @@
 # Inventory: 08_Dropbox_a_Holy_Child__Experiment_14_Atoms_and_Molecules.pptx
 
 Slides: 18
-Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13.jpeg', 'image14.png', 'image15.jpeg', 'image16.jpeg', 'image17.jpeg', 'image18.jpeg', 'image19.jpeg', 'image20.gif', 'image21.jpeg', 'image3.jpeg', 'image4.jpeg', 'image5.png', 'image6.png', 'image7.jpeg', 'image8.png', 'image9.jpeg']
+Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13.jpeg', 'image14.png', 'image15.jpeg', 'image16.jpeg', 'image17.jpeg', 'image18.jpeg', 'image19.jpeg', 'image2.jpeg', 'image20.gif', 'image21.jpeg', 'image3.jpeg', 'image4.jpeg', 'image5.png', 'image6.png', 'image7.jpeg', 'image8.png', 'image9.jpeg']
 
 ## Slide 1
 
@@ -45,7 +45,9 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13
 - `sp` prst=rect (155575,-144463) 304800x304801 asset= text=''
 - `sp` prst=rect (155575,-144463) 304800x304801 asset= text=''
 - `sp` prst=rect (155575,-144463) 304800x304801 asset= text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=ellipse (1285875,676275) 5610225x5610225 asset= text=''
+- `sp` prst=ellipse (1676400,1047750) 4895850x4895850 asset= text=''
+- `sp` prst=rect (1562100,3200400) 5114925x361950 asset= text=''
 - `sp` prst=None (419100,274638) 8296275x5287962 asset= text='Nucleation and Growth of Crystalline Structures On A Treated Substrate'
 - `sp` prst=rect (152400,5715000) 3800475x461665 asset= text='No!!!  Too Complicated!'
 - `sp` prst=None (None,None) NonexNone asset= text='2'
@@ -64,7 +66,8 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13
 - `sp` prst=None (381000,381000) 8305800x838200 asset= text='Funny Election Sign'
 - `sp` prst=None (None,None) NonexNone asset= text='4'
 - `sp` prst=None (None,None) NonexNone asset= text='Atoms and Molecules Session 14'
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `pic` prst=rect (1143000,1600199) 6934200x4618179 asset=image2.jpeg text=''
+- `sp` prst=rect (1143000,5943600) 6934200x304800 asset= text=''
 
 ## Slide 5
 
@@ -189,7 +192,24 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13
 - `sp` prst=None (None,None) NonexNone asset= text='Atoms and Molecules Session 14'
 - `sp` prst=None (None,None) NonexNone asset= text='15'
 - `pic` prst=rect (1295400,1676400) 1929114x1828800 asset=image14.png text=''
-- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
+- `sp` prst=ellipse (4343400,2019300) 152400x152400 asset= text=''
+- `sp` prst=ellipse (4495800,1981200) 228600x228600 asset= text=''
 - `sp` prst=rect (1447800,3657600) 1600200x381000 asset= text='Orderly'
 - `sp` prst=rect (1524000,6019800) 1600200x381000 asset= text='Disorderly'
 - `pic` prst=rect (4953000,1676400) 3253793x2971800 asset=image15.jpeg text=''

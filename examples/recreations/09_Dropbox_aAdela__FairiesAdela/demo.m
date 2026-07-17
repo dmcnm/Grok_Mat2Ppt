@@ -18,25 +18,69 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Fairies';
+
 
 %% ===== Slide 2 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lavender Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 3 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Scilla Fairy';
+
+% picture Picture 4
+img = fullfile(assets, 'image3.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 4 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Delphinium Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image4.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 5 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 3
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Lilac Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image5.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 6 =====
@@ -47,10 +91,26 @@ sh = s.shapes();
 sp = sh.add_shape('rect', mat2ppt.util.Emu(5410200), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(3429000), mat2ppt.util.Emu(2057400));
 sp.text_frame().text = 'Daisy Fairy';
 
+% picture Picture 2
+img = fullfile(assets, 'image6.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 7 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Harebell Fairy';
+
+% picture Picture 11
+img = fullfile(assets, 'image7.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 8 =====
@@ -61,112 +121,248 @@ sh = s.shapes();
 sp = sh.add_shape('rect', mat2ppt.util.Emu(5389098), mat2ppt.util.Emu(2514600), mat2ppt.util.Emu(2535702), mat2ppt.util.Emu(685800));
 sp.text_frame().text = 'Rose Fairy';
 
+% picture Picture 10
+img = fullfile(assets, 'image8.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 9 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Aster Fairy';
+
+% picture Picture 4
+img = fullfile(assets, 'image9.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 10 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Morning glory Fairy';
+
+% picture Picture 1
+img = fullfile(assets, 'image10.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 11 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Forget-me-not Fairy';
+
+% picture Picture 1
+img = fullfile(assets, 'image11.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 12 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Wild Thyme  Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image12.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 13 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Thistle Fairy';
+
+% picture Picture 4
+img = fullfile(assets, 'image13.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 14 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Larkspur Fairy';
+
+% picture Picture 4
+img = fullfile(assets, 'image14.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 15 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Elderberry Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image15.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 16 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Blackthorn Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image16.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 17 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'White clover Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image17.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 18 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Periwinkle  Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image18.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 19 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Black Medic Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image19.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 %% ===== Slide 20 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Marigold Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image20.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
+
 
 %% ===== Slide 21 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Hawthorn Fairy';
+
+% picture Picture 2
+img = fullfile(assets, 'image21.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(838200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4572000));
+end
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide1 sp missing geom: Title 1
-% GAP: slide2 sp missing geom: Title 1
-% GAP: slide2 pic incomplete: Picture 2
-% GAP: slide3 sp missing geom: Title 1
-% GAP: slide3 pic incomplete: Picture 4
-% GAP: slide4 sp missing geom: Title 1
-% GAP: slide4 pic incomplete: Picture 2
-% GAP: slide5 sp missing geom: Title 3
-% GAP: slide5 pic incomplete: Picture 2
-% GAP: slide6 pic incomplete: Picture 2
-% GAP: slide7 sp missing geom: Title 1
-% GAP: slide7 pic incomplete: Picture 11
-% GAP: slide8 pic incomplete: Picture 10
-% GAP: slide9 sp missing geom: Title 1
-% GAP: slide9 pic incomplete: Picture 4
-% GAP: slide10 sp missing geom: Title 1
-% GAP: slide10 pic incomplete: Picture 1
-% GAP: slide11 sp missing geom: Title 1
-% GAP: slide11 pic incomplete: Picture 1
-% GAP: slide12 sp missing geom: Title 1
-% GAP: slide12 pic incomplete: Picture 2
-% GAP: slide13 sp missing geom: Title 1
-% GAP: slide13 pic incomplete: Picture 4
-% GAP: slide14 sp missing geom: Title 1
-% GAP: slide14 pic incomplete: Picture 4
-% GAP: slide15 sp missing geom: Title 1
-% GAP: slide15 pic incomplete: Picture 2
-% GAP: slide16 sp missing geom: Title 1
-% GAP: slide16 pic incomplete: Picture 2
-% GAP: slide17 sp missing geom: Title 1
-% GAP: slide17 pic incomplete: Picture 2
-% GAP: slide18 sp missing geom: Title 1
-% GAP: slide18 pic incomplete: Picture 2
-% GAP: slide19 sp missing geom: Title 1
-% GAP: slide19 pic incomplete: Picture 2
-% GAP: slide20 sp missing geom: Title 1
-% GAP: slide20 pic incomplete: Picture 2
-% GAP: slide21 sp missing geom: Title 1
-% GAP: slide21 pic incomplete: Picture 2
+% GAP: slide1 sp used title-area default geom: Title 1
+% GAP: slide2 sp used title-area default geom: Title 1
+% GAP: slide2 pic used content-area default geom: Picture 2
+% GAP: slide3 sp used title-area default geom: Title 1
+% GAP: slide3 pic used content-area default geom: Picture 4
+% GAP: slide4 sp used title-area default geom: Title 1
+% GAP: slide4 pic used content-area default geom: Picture 2
+% GAP: slide5 sp used title-area default geom: Title 3
+% GAP: slide5 pic used content-area default geom: Picture 2
+% GAP: slide6 pic used content-area default geom: Picture 2
+% GAP: slide7 sp used title-area default geom: Title 1
+% GAP: slide7 pic used content-area default geom: Picture 11
+% GAP: slide8 pic used content-area default geom: Picture 10
+% GAP: slide9 sp used title-area default geom: Title 1
+% GAP: slide9 pic used content-area default geom: Picture 4
+% GAP: slide10 sp used title-area default geom: Title 1
+% GAP: slide10 pic used content-area default geom: Picture 1
+% GAP: slide11 sp used title-area default geom: Title 1
+% GAP: slide11 pic used content-area default geom: Picture 1
+% GAP: slide12 sp used title-area default geom: Title 1
+% GAP: slide12 pic used content-area default geom: Picture 2
+% GAP: slide13 sp used title-area default geom: Title 1
+% GAP: slide13 pic used content-area default geom: Picture 4
+% GAP: slide14 sp used title-area default geom: Title 1
+% GAP: slide14 pic used content-area default geom: Picture 4
+% GAP: slide15 sp used title-area default geom: Title 1
+% GAP: slide15 pic used content-area default geom: Picture 2
+% GAP: slide16 sp used title-area default geom: Title 1
+% GAP: slide16 pic used content-area default geom: Picture 2
+% GAP: slide17 sp used title-area default geom: Title 1
+% GAP: slide17 pic used content-area default geom: Picture 2
+% GAP: slide18 sp used title-area default geom: Title 1
+% GAP: slide18 pic used content-area default geom: Picture 2
+% GAP: slide19 sp used title-area default geom: Title 1
+% GAP: slide19 pic used content-area default geom: Picture 2
+% GAP: slide20 sp used title-area default geom: Title 1
+% GAP: slide20 pic used content-area default geom: Picture 2
+% GAP: slide21 sp used title-area default geom: Title 1
+% GAP: slide21 pic used content-area default geom: Picture 2

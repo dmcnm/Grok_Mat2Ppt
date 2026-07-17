@@ -18,11 +18,44 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 20
+% picture Picture 4
+img = fullfile(assets, 'image1.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(638175), mat2ppt.util.Emu(309372), mat2ppt.util.Emu(4514850), mat2ppt.util.Emu(6477000));
+end
+
+% picture Picture 6
+img = fullfile(assets, 'image2.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5153025), mat2ppt.util.Emu(309372), mat2ppt.util.Emu(4514851), mat2ppt.util.Emu(6456362));
+end
+
+% TextBox 8
+sp = sh.add_shape('rect', mat2ppt.util.Emu(638176), mat2ppt.util.Emu(518474), mat2ppt.util.Emu(3132546), mat2ppt.util.Emu(400110));
+sp.text_frame().text = 'What they studied';
+
+% Arrow: Down 9
+sp = sh.add_shape('downArrow', mat2ppt.util.Emu(2815042), mat2ppt.util.Emu(590104), mat2ppt.util.Emu(245097), mat2ppt.util.Emu(254524));
+
+% Arrow: Down 10
+sp = sh.add_shape('downArrow', mat2ppt.util.Emu(3112880), mat2ppt.util.Emu(590104), mat2ppt.util.Emu(245097), mat2ppt.util.Emu(254524));
+
+% Arrow: Down 11
+sp = sh.add_shape('downArrow', mat2ppt.util.Emu(3410717), mat2ppt.util.Emu(590104), mat2ppt.util.Emu(245097), mat2ppt.util.Emu(254524));
+
+% TextBox 15
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1233903), mat2ppt.util.Emu(518474), mat2ppt.util.Emu(1276918), mat2ppt.util.Emu(400110));
+sp.text_frame().text = 'The exam';
+
+% Arrow: Down 17
+sp = sh.add_shape('downArrow', mat2ppt.util.Emu(2485100), mat2ppt.util.Emu(590104), mat2ppt.util.Emu(245097), mat2ppt.util.Emu(254524));
+
+% Arrow: Down 18
+sp = sh.add_shape('downArrow', mat2ppt.util.Emu(2782938), mat2ppt.util.Emu(590104), mat2ppt.util.Emu(245097), mat2ppt.util.Emu(254524));
+
+% Arrow: Down 19
+sp = sh.add_shape('downArrow', mat2ppt.util.Emu(3080775), mat2ppt.util.Emu(590104), mat2ppt.util.Emu(245097), mat2ppt.util.Emu(254524));
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 group shape Group 20 not expanded

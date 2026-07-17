@@ -107,7 +107,41 @@ sp.text_frame().text = 'The What of theCable Effects Study / Focus Restrictions'
 sp = sh.add_shape('rect', mat2ppt.util.Emu(228600), mat2ppt.util.Emu(1239838), mat2ppt.util.Emu(8763000), mat2ppt.util.Emu(5183187));
 sp.text_frame().text = 'Only studied small-to-moderate conductor count twisted pair cable bundles.  Not coaxial, ribbon cables, twisted pair in wire or polymer braided sleeving.Concerned with low-level vibration problem (i.e., when the spacecraft is on-station), not launch vibration or shock conditions.Cables with bends and connectors excluded from study.';
 
-% TODO: group shape Group 12
+% picture Picture 3
+img = fullfile(assets, 'image9.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5943600), mat2ppt.util.Emu(4419600), mat2ppt.util.Emu(2743200), mat2ppt.util.Emu(1783080));
+end
+
+% picture Picture 4
+img = fullfile(assets, 'image10.gif');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3056025), mat2ppt.util.Emu(4419599), mat2ppt.util.Emu(2578537), mat2ppt.util.Emu(1828800));
+end
+
+% picture Picture 5
+img = fullfile(assets, 'image11.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(304800), mat2ppt.util.Emu(4381678), mat2ppt.util.Emu(2442186), mat2ppt.util.Emu(1828800));
+end
+
+% picture Picture 7
+img = fullfile(assets, 'image12.gif');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(1295400), mat2ppt.util.Emu(5067301), mat2ppt.util.Emu(1371600), mat2ppt.util.Emu(1371600));
+end
+
+% picture Picture 9
+img = fullfile(assets, 'image12.gif');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3505200), mat2ppt.util.Emu(5067301), mat2ppt.util.Emu(1371600), mat2ppt.util.Emu(1371600));
+end
+
+% picture Picture 10
+img = fullfile(assets, 'image12.gif');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6934200), mat2ppt.util.Emu(5067301), mat2ppt.util.Emu(1371600), mat2ppt.util.Emu(1371600));
+end
 
 % picture Picture 11
 img = fullfile(assets, 'image13.jpeg');
@@ -125,6 +159,14 @@ end
 %% ===== Slide 6 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'The How of the Cable Effects Study';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Cable models are implemented using Nastran standard elements. Well integrated with standard analysis toolsLinear beam elements are appropriate, using composite properties and general formulation.Measurements showed that cable models must include shear: a Bernoulli-Euler beam formulation cannot predict cable dynamicsEquivalent cable properties in the Nastran deck are obtained through experiment and parameter estimationThe cable-to-structure model uses linear spring elements (PBUSH)Spring properties were identified through experiment Validation experiments used throughout the program for cable parameter estimation and modeling techniquesDemonstration experiment to verify methodsValidation and verification – it was a research program';
 
 
 %% ===== Slide 7 =====
@@ -158,9 +200,61 @@ end
 sp = sh.add_shape('rect', mat2ppt.util.Emu(0), mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(6096000), mat2ppt.util.Emu(1981200));
 sp.text_frame().text = 'Bundles of twisted pair single-conductor wires stitched and wrapped with Kapton® tapeConsistent with spacecraft power and signal cable fabricationCables add damping and can shift modal frequencies';
 
-% TODO: group shape Group 8
+% picture Picture 2
+img = fullfile(assets, 'image16.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3962400), mat2ppt.util.Emu(1611313), mat2ppt.util.Emu(1622425), mat2ppt.util.Emu(4014787));
+end
 
-% TODO: group shape Group 21
+% picture Picture 4
+img = fullfile(assets, 'image17.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2895600), mat2ppt.util.Emu(1676400), mat2ppt.util.Emu(927100), mat2ppt.util.Emu(3930650));
+end
+
+% Rectangle 8
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3028950), mat2ppt.util.Emu(2005013), mat2ppt.util.Emu(582613), mat2ppt.util.Emu(496887));
+
+% Line 9
+sp = sh.add_shape('line', mat2ppt.util.Emu(3621088), mat2ppt.util.Emu(1843088), mat2ppt.util.Emu(747712), mat2ppt.util.Emu(419100));
+
+% Line 12
+sp = sh.add_shape('line', mat2ppt.util.Emu(2550), mat2ppt.util.Emu(1849), mat2ppt.util.Emu(230), mat2ppt.util.Emu(1));
+
+% Line 13
+sp = sh.add_shape('line', mat2ppt.util.Emu(2871), mat2ppt.util.Emu(1851), mat2ppt.util.Emu(230), mat2ppt.util.Emu(1));
+
+% Line 14
+sp = sh.add_shape('line', mat2ppt.util.Emu(2866), mat2ppt.util.Emu(1802), mat2ppt.util.Emu(0), mat2ppt.util.Emu(104));
+
+% Line 15
+sp = sh.add_shape('line', mat2ppt.util.Emu(2790), mat2ppt.util.Emu(1804), mat2ppt.util.Emu(0), mat2ppt.util.Emu(104));
+
+% picture Picture 14
+img = fullfile(assets, 'image18.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3200400), mat2ppt.util.Emu(3429000), mat2ppt.util.Emu(1095375), mat2ppt.util.Emu(666750));
+end
+
+% picture Content Placeholder 4
+img = fullfile(assets, 'image19.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(2971800), mat2ppt.util.Emu(4724400), mat2ppt.util.Emu(3702288));
+end
+
+% connector Straight Arrow Connector 26
+sh.add_connector('straightConnector1', mat2ppt.util.Emu(1752600), mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(3048000), mat2ppt.util.Emu(4344988));
+
+% connector Straight Arrow Connector 29
+sh.add_connector('straightConnector1', mat2ppt.util.Emu(3124200), mat2ppt.util.Emu(6172200), mat2ppt.util.Emu(5867400), mat2ppt.util.Emu(6173788));
+
+% TextBox 31
+sp = sh.add_shape('rect', mat2ppt.util.Emu(0), mat2ppt.util.Emu(3962400), mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(707886));
+sp.text_frame().text = 'Cable not resonant';
+
+% TextBox 32
+sp = sh.add_shape('rect', mat2ppt.util.Emu(0), mat2ppt.util.Emu(5715000), mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(707886));
+sp.text_frame().text = 'Cable resonant';
 
 
 %% ===== Slide 9 =====
@@ -185,7 +279,39 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(4038600), mat2ppt.util.Emu(4191000), mat2ppt.util.Emu(5105400), mat2ppt.util.Emu(2135311));
 end
 
-% TODO: group shape Group 24
+% picture Picture 2
+img = fullfile(assets, 'image16.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(6162393), mat2ppt.util.Emu(2229212), mat2ppt.util.Emu(1622425), mat2ppt.util.Emu(4014787));
+end
+
+% TextBox 14
+sp = sh.add_shape('rect', mat2ppt.util.Emu(4792065), mat2ppt.util.Emu(2473466), mat2ppt.util.Emu(1232755), mat2ppt.util.Emu(437192));
+sp.text_frame().text = 'TC-105';
+
+% TextBox 15
+sp = sh.add_shape('rect', mat2ppt.util.Emu(7973878), mat2ppt.util.Emu(2787505), mat2ppt.util.Emu(1151626), mat2ppt.util.Emu(755338));
+sp.text_frame().text = 'Lacing cord';
+
+% TextBox 16
+sp = sh.add_shape('rect', mat2ppt.util.Emu(4902874), mat2ppt.util.Emu(4460334), mat2ppt.util.Emu(1058626), mat2ppt.util.Emu(439246));
+sp.text_frame().text = 'Cable';
+
+% TextBox 17
+sp = sh.add_shape('rect', mat2ppt.util.Emu(4667405), mat2ppt.util.Emu(5236198), mat2ppt.util.Emu(1410840), mat2ppt.util.Emu(757390));
+sp.text_frame().text = 'Base Structure';
+
+% connector Straight Arrow Connector 14
+sh.add_connector('straightConnector1', mat2ppt.util.Emu(6025569), mat2ppt.util.Emu(2692712), mat2ppt.util.Emu(7131113), mat2ppt.util.Emu(2688881));
+
+% connector Straight Arrow Connector 15
+sh.add_connector('straightConnector1', mat2ppt.util.Emu(7342268), mat2ppt.util.Emu(2821498), mat2ppt.util.Emu(7974695), mat2ppt.util.Emu(3164988));
+
+% connector Straight Arrow Connector 16
+sh.add_connector('straightConnector1', mat2ppt.util.Emu(5961708), mat2ppt.util.Emu(4679948), mat2ppt.util.Emu(7324255), mat2ppt.util.Emu(4474678));
+
+% connector Straight Arrow Connector 17
+sh.add_connector('straightConnector1', mat2ppt.util.Emu(6077407), mat2ppt.util.Emu(5615218), mat2ppt.util.Emu(6871433), mat2ppt.util.Emu(5342827));
 
 % picture Picture 2
 img = fullfile(assets, 'image21.jpeg');
@@ -208,6 +334,10 @@ sp.text_frame().text = 'Cable-structure interaction';
 %% ===== Slide 10 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Cable Modeling Approach Overview';
 
 % picture Picture 6
 img = fullfile(assets, 'image22.png');
@@ -251,7 +381,32 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(4953000), mat2ppt.util.Emu(3733800), mat2ppt.util.Emu(3733800), mat2ppt.util.Emu(2800350));
 end
 
-% TODO: group shape Group 14
+% picture Picture 1
+img = fullfile(assets, 'image26.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(76200), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(4571697), mat2ppt.util.Emu(3428773));
+end
+
+% AutoShape 6
+sp = sh.add_shape('upArrow', mat2ppt.util.Emu(2149456), mat2ppt.util.Emu(2934801), mat2ppt.util.Emu(76200), mat2ppt.util.Emu(457200));
+
+% AutoShape 7
+sp = sh.add_shape('upArrow', mat2ppt.util.Emu(2698713), mat2ppt.util.Emu(2651143), mat2ppt.util.Emu(76200), mat2ppt.util.Emu(457200));
+
+% AutoShape 8
+sp = sh.add_shape('upArrow', mat2ppt.util.Emu(3048000), mat2ppt.util.Emu(2590800), mat2ppt.util.Emu(76200), mat2ppt.util.Emu(457200));
+
+% AutoShape 9
+sp = sh.add_shape('upArrow', mat2ppt.util.Emu(3303028), mat2ppt.util.Emu(2695630), mat2ppt.util.Emu(76200), mat2ppt.util.Emu(457200));
+
+% AutoShape 10
+sp = sh.add_shape('upArrow', mat2ppt.util.Emu(3505200), mat2ppt.util.Emu(2858601), mat2ppt.util.Emu(76200), mat2ppt.util.Emu(457200));
+
+% AutoShape 11
+sp = sh.add_shape('upArrow', mat2ppt.util.Emu(3694598), mat2ppt.util.Emu(3042714), mat2ppt.util.Emu(76200), mat2ppt.util.Emu(457200));
+
+% Oval 13
+sp = sh.add_shape('ellipse', mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(2286000), mat2ppt.util.Emu(1905000), mat2ppt.util.Emu(1600200));
 
 % Rectangle 10
 sp = sh.add_shape('rect', mat2ppt.util.Emu(4419600), mat2ppt.util.Emu(1397764), mat2ppt.util.Emu(4572000), mat2ppt.util.Emu(2107436));
@@ -290,11 +445,23 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Parameter Estimation: Tie down stiffness';
+
 % Content Placeholder 5
 sp = sh.add_shape('rect', mat2ppt.util.Emu(0), mat2ppt.util.Emu(1219201), mat2ppt.util.Emu(6248400), mat2ppt.util.Emu(2438400));
 sp.text_frame().text = 'Rod-on-beam eliminates cable property uncertainty Tune attachment stiffness to correlate test and model FRFsDirect measurement tests an alternative means to estimate Assumes cable is infinitely stiff over frequency range of estimate';
 
-% TODO: group shape Group 9
+% picture Picture 3
+img = fullfile(assets, 'image29.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4038600), mat2ppt.util.Emu(4267200), mat2ppt.util.Emu(1779691), mat2ppt.util.Emu(2373312));
+end
+
+% Text Box 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(4419600), mat2ppt.util.Emu(4038600), mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(340735));
+sp.text_frame().text = 'Copper Rod';
 
 % picture Picture 13
 img = fullfile(assets, 'image30.emf');
@@ -342,6 +509,10 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Cable-on-Beam Results';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(0), mat2ppt.util.Emu(1828800), mat2ppt.util.Emu(4191000), mat2ppt.util.Emu(4572000));
 sp.text_frame().text = 'Cable effects differ over two distinct frequency rangesMass and stiffness effects below cable resonanceIncreased damping above cable resonanceGood agreement between measured and modeled dynamicsBuild-to-build variability is evident in predictions using “coupon” or “family” cable properties';
@@ -352,7 +523,37 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(6553200), mat2ppt.util.Emu(2133600), mat2ppt.util.Emu(1095375), mat2ppt.util.Emu(666750));
 end
 
-% TODO: group shape Group 17
+% picture Content Placeholder 4
+img = fullfile(assets, 'image19.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(2971800), mat2ppt.util.Emu(4724400), mat2ppt.util.Emu(3702288));
+end
+
+% connector Straight Arrow Connector 14
+sh.add_connector('straightConnector1', mat2ppt.util.Emu(1752600), mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(3048000), mat2ppt.util.Emu(4344988));
+
+% connector Straight Arrow Connector 15
+sh.add_connector('straightConnector1', mat2ppt.util.Emu(3124200), mat2ppt.util.Emu(6172200), mat2ppt.util.Emu(5867400), mat2ppt.util.Emu(6173788));
+
+% TextBox 9
+sp = sh.add_shape('rect', mat2ppt.util.Emu(5105400), mat2ppt.util.Emu(1295400), mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(707886));
+sp.text_frame().text = 'Cable not resonant';
+
+% TextBox 10
+sp = sh.add_shape('rect', mat2ppt.util.Emu(7315200), mat2ppt.util.Emu(5334000), mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(707886));
+sp.text_frame().text = 'Cable resonant';
+
+% picture Picture 7
+img = fullfile(assets, 'image34.emf');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4038600), mat2ppt.util.Emu(2264053), mat2ppt.util.Emu(5029200), mat2ppt.util.Emu(3679547));
+end
+
+% picture Picture 7
+img = fullfile(assets, 'image34.emf');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4642217), mat2ppt.util.Emu(1295400), mat2ppt.util.Emu(4288791), mat2ppt.util.Emu(990600));
+end
 
 
 %% ===== Slide 17 =====
@@ -378,11 +579,25 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Measured Driving Point FRFs';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(152400), mat2ppt.util.Emu(1239838), mat2ppt.util.Emu(4419600), mat2ppt.util.Emu(5183187));
 sp.text_frame().text = 'Little influence in panel dynamics below cable resonanceVarious cable spans become resonant between ~75 and ~175 HzDetermined by cable type and open span dimensionsLow cable-to-panel mass ratio limits the cable influence on the coupled dynamics';
 
-% TODO: group shape Group 9
+% picture Picture 2
+img = fullfile(assets, 'image36.emf');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4572000), mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(4114800), mat2ppt.util.Emu(2743200));
+end
+
+% picture Picture 2
+img = fullfile(assets, 'image36.emf');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5334000), mat2ppt.util.Emu(4267200), mat2ppt.util.Emu(2743200), mat2ppt.util.Emu(228600));
+end
 
 
 %% ===== Slide 19 =====
@@ -395,7 +610,19 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(4708936), mat2ppt.util.Emu(1905000), mat2ppt.util.Emu(4435064), mat2ppt.util.Emu(3962400));
 end
 
-% TODO: group shape Group 15
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Panel Model Validation';
+
+% TextBox 12
+sp = sh.add_shape('rect', mat2ppt.util.Emu(5181600), mat2ppt.util.Emu(5486400), mat2ppt.util.Emu(3200400), mat2ppt.util.Emu(677108));
+sp.text_frame().text = 'Running RMS error, zeroed at 90 and 200 Hz';
+
+% picture Picture 5
+img = fullfile(assets, 'image39.emf');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4419600), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(4367213), mat2ppt.util.Emu(3902075));
+end
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(0), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(4800600), mat2ppt.util.Emu(5280025));
@@ -409,12 +636,24 @@ end
 
 % TODO: unhandled graphicFrame Object 2
 
-% TODO: group shape Group 18
+% picture Picture 3
+img = fullfile(assets, 'image41.emf');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4676132), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(4467868), mat2ppt.util.Emu(4876800));
+end
+
+% TextBox 17
+sp = sh.add_shape('rect', mat2ppt.util.Emu(4648200), mat2ppt.util.Emu(5562600), mat2ppt.util.Emu(4495800), mat2ppt.util.Emu(923330));
+sp.text_frame().text = 'Least benefit from dynamic cable models with low mass ratio and/or large magnitude non-interacting modes';
 
 
 %% ===== Slide 20 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Shear Modulus Choice';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(76200), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(4362450), mat2ppt.util.Emu(4441825));
@@ -431,15 +670,35 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Major Findings';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'A shear beam model predicts cable dynamicsCoupon tests may be justified for critical applicationsVariability in cable properties can be traced toCable construction due to hand fabrication Differences in wire structural properties can vary between lotsRunning stitch tensionThere is evidence of cable property dependence on spanMeasurement of cable extensional modulus requires a low load capacity tensile test machine and a custom extensometer witness fixtureRod-on-beam validation experiments were instrumental in refining connection stiffness value estimates';
+
 
 %% ===== Slide 22 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Summary';
+
+% Content Placeholder 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Innovative test, analysis and modelling approaches were developed to Increase accuracy of models to include the influence of power and signal cablesUsed standard linear finite element model methodsCables can have a significant impact on coupled structure dynamicsMass loading on the cable stiffness lineIncreased damping above first cable resonanceLarge reductions in resonant response when cable and host structure natural frequencies are close to one anotherThe traditional nonstructural mass approach cannot predict the cable interaction, leading to overestimates of resonant response';
+
 
 %% ===== Slide 23 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Open Research Topics';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(228600), mat2ppt.util.Emu(1239838), mat2ppt.util.Emu(8763000), mat2ppt.util.Emu(5183187));
@@ -459,10 +718,22 @@ sp.text_frame().text = 'Questions';
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Acknowledgments';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Thanks to the Air Force Research Laboratory and the Air Force Office for Scientific Research for funding.Thanks to the following project collaborators without whom this work would not have been possible.  Dr. Vit Babuška - Sandia National LaboratoriesDr. Emil Ardelean - Schafer CorporationJames Goodding - CSA EngineeringCody Griffee - CSA EngineeringGreg Mehle - CSA EngineeringDr. Lawrence “Robbie” Robertson AFRL, SV*Dr. Steve Lane - AFRL, SV*Brea Ingram- AFRL, SV**AFRL, SV = Air Force Research Laboratory, Space Vehicles Directorate';
+
 
 %% ===== Slide 26 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Cable Tie Down Details';
 
 % picture Picture 3
 img = fullfile(assets, 'image43.png');
@@ -475,31 +746,21 @@ prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide5 group shape Group 12 not expanded
-% GAP: slide6 sp missing geom: Title 1
-% GAP: slide6 sp missing geom: Content Placeholder 2
-% GAP: slide8 group shape Group 8 not expanded
-% GAP: slide8 group shape Group 21 not expanded
-% GAP: slide9 group shape Group 24 not expanded
-% GAP: slide10 sp missing geom: Title 1
-% GAP: slide12 group shape Group 14 not expanded
+% GAP: slide6 sp used title-area default geom: Title 1
+% GAP: slide6 sp used title-area default geom: Content Placeholder 2
+% GAP: slide10 sp used title-area default geom: Title 1
 % GAP: slide13 unhandled graphicFrame Object 6
-% GAP: slide14 sp missing geom: Title 1
-% GAP: slide14 group shape Group 9 not expanded
-% GAP: slide16 sp missing geom: Title 1
-% GAP: slide16 group shape Group 17 not expanded
-% GAP: slide18 sp missing geom: Title 1
-% GAP: slide18 group shape Group 9 not expanded
-% GAP: slide19 sp missing geom: Title 1
-% GAP: slide19 group shape Group 15 not expanded
+% GAP: slide14 sp used title-area default geom: Title 1
+% GAP: slide16 sp used title-area default geom: Title 1
+% GAP: slide18 sp used title-area default geom: Title 1
+% GAP: slide19 sp used title-area default geom: Title 1
 % GAP: slide19 unhandled graphicFrame Object 2
-% GAP: slide19 group shape Group 18 not expanded
-% GAP: slide20 sp missing geom: Title 1
-% GAP: slide21 sp missing geom: Title 1
-% GAP: slide21 sp missing geom: Content Placeholder 2
-% GAP: slide22 sp missing geom: Title 4
-% GAP: slide22 sp missing geom: Content Placeholder 5
-% GAP: slide23 sp missing geom: Title 1
-% GAP: slide25 sp missing geom: Title 1
-% GAP: slide25 sp missing geom: Content Placeholder 2
-% GAP: slide26 sp missing geom: Title 1
+% GAP: slide20 sp used title-area default geom: Title 1
+% GAP: slide21 sp used title-area default geom: Title 1
+% GAP: slide21 sp used title-area default geom: Content Placeholder 2
+% GAP: slide22 sp used title-area default geom: Title 4
+% GAP: slide22 sp used title-area default geom: Content Placeholder 5
+% GAP: slide23 sp used title-area default geom: Title 1
+% GAP: slide25 sp used title-area default geom: Title 1
+% GAP: slide25 sp used title-area default geom: Content Placeholder 2
+% GAP: slide26 sp used title-area default geom: Title 1

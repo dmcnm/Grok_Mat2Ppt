@@ -12,20 +12,146 @@
       "file": "slide1.xml",
       "shapes": [
         {
-          "type": "grpSp",
-          "id": 21,
-          "name": "Group 20",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
-          "prst": null,
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 638175,
+          "y": 309372,
+          "cx": 4514850,
+          "cy": 6477000,
+          "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": "What they studiedThe exam"
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image1.jpg",
+          "asset": "image1.jpg"
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "Picture 6",
+          "x": 5153025,
+          "y": 309372,
+          "cx": 4514851,
+          "cy": 6456362,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image2.jpg",
+          "asset": "image2.jpg"
+        },
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "TextBox 8",
+          "x": 638176,
+          "y": 518474,
+          "cx": 3132546,
+          "cy": 400110,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "What they studied"
+        },
+        {
+          "type": "sp",
+          "id": 10,
+          "name": "Arrow: Down 9",
+          "x": 2815042,
+          "y": 590104,
+          "cx": 245097,
+          "cy": 254524,
+          "prst": "downArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 11,
+          "name": "Arrow: Down 10",
+          "x": 3112880,
+          "y": 590104,
+          "cx": 245097,
+          "cy": 254524,
+          "prst": "downArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 12,
+          "name": "Arrow: Down 11",
+          "x": 3410717,
+          "y": 590104,
+          "cx": 245097,
+          "cy": 254524,
+          "prst": "downArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 16,
+          "name": "TextBox 15",
+          "x": 1233903,
+          "y": 518474,
+          "cx": 1276918,
+          "cy": 400110,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "The exam"
+        },
+        {
+          "type": "sp",
+          "id": 18,
+          "name": "Arrow: Down 17",
+          "x": 2485100,
+          "y": 590104,
+          "cx": 245097,
+          "cy": 254524,
+          "prst": "downArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 19,
+          "name": "Arrow: Down 18",
+          "x": 2782938,
+          "y": 590104,
+          "cx": 245097,
+          "cy": 254524,
+          "prst": "downArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 20,
+          "name": "Arrow: Down 19",
+          "x": 3080775,
+          "y": 590104,
+          "cx": 245097,
+          "cy": 254524,
+          "prst": "downArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
         }
       ]
     }
   ],
-  "media_assets": []
+  "media_assets": [
+    "image1.jpg",
+    "image2.jpg"
+  ]
 }

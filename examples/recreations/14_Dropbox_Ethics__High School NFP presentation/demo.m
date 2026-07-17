@@ -189,7 +189,18 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(1447800), mat2ppt.util.Emu(9144000), mat2ppt.util.Emu(5562600));
 end
 
-% TODO: group shape Group 5
+% picture Picture 4
+img = fullfile(assets, 'image6.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(1076325), mat2ppt.util.Emu(2030412), mat2ppt.util.Emu(6991350), mat2ppt.util.Emu(1659845));
+end
+
+% Rectangle 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3911600), mat2ppt.util.Emu(2157412), mat2ppt.util.Emu(1320800), mat2ppt.util.Emu(317500));
+
+% Text Box 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(4000500), mat2ppt.util.Emu(2106612), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(338138));
+sp.text_frame().text = 'Men';
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(381000), mat2ppt.util.Emu(76200), mat2ppt.util.Emu(8458200), mat2ppt.util.Emu(1143000));
@@ -210,7 +221,25 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(1447800), mat2ppt.util.Emu(9144000), mat2ppt.util.Emu(5562600));
 end
 
-% TODO: group shape Group 4
+% picture Picture 4
+img = fullfile(assets, 'image6.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(1076325), mat2ppt.util.Emu(2030412), mat2ppt.util.Emu(6991350), mat2ppt.util.Emu(4141788));
+end
+
+% Rectangle 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3911600), mat2ppt.util.Emu(2157412), mat2ppt.util.Emu(1320800), mat2ppt.util.Emu(317500));
+
+% Text Box 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(4000500), mat2ppt.util.Emu(2106612), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(338138));
+sp.text_frame().text = 'Men';
+
+% Rectangle 7
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3898900), mat2ppt.util.Emu(3776662), mat2ppt.util.Emu(1320800), mat2ppt.util.Emu(317500));
+
+% Text Box 8
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3879850), mat2ppt.util.Emu(3692525), mat2ppt.util.Emu(1409700), mat2ppt.util.Emu(457200));
+sp.text_frame().text = 'Women';
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(381000), mat2ppt.util.Emu(76200), mat2ppt.util.Emu(8458200), mat2ppt.util.Emu(1143000));
@@ -269,7 +298,20 @@ sp.text_frame().text = 'Sample CCL Chart';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(366793), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(1676400), mat2ppt.util.Emu(1077218));
 sp.text_frame().text = 'Sympto- thermal';
 
-% TODO: group shape Group 3
+% AutoShape 10
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(2971800), mat2ppt.util.Emu(1676400), mat2ppt.util.Emu(5657669), mat2ppt.util.Emu(4876800));
+
+% picture Picture 2
+img = fullfile(assets, 'image8.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3048000), mat2ppt.util.Emu(2248671), mat2ppt.util.Emu(5486400), mat2ppt.util.Emu(4258491));
+end
+
+% picture Picture 2
+img = fullfile(assets, 'image9.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3060700), mat2ppt.util.Emu(1810656), mat2ppt.util.Emu(5473700), mat2ppt.util.Emu(513814));
+end
 
 % TextBox 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(228600), mat2ppt.util.Emu(3276600), mat2ppt.util.Emu(1981200), mat2ppt.util.Emu(461665));
@@ -294,7 +336,17 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(409569), mat2ppt.util.Emu(3650864), mat2ppt.util.Emu(1451525), mat2ppt.util.Emu(963186));
 end
 
-% TODO: group shape Group 3
+% picture Picture 4
+img = fullfile(assets, 'image11.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(2895600), mat2ppt.util.Emu(3368622), mat2ppt.util.Emu(2641479), mat2ppt.util.Emu(3067050));
+end
+
+% picture Picture 6
+img = fullfile(assets, 'image12.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5551286), mat2ppt.util.Emu(3337625), mat2ppt.util.Emu(2295526), mat2ppt.util.Emu(3067050));
+end
 
 % picture Picture 17
 img = fullfile(assets, 'image13.png');
@@ -639,7 +691,35 @@ sp.text_frame().text = 'How the pill and IUD work';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(2438400), mat2ppt.util.Emu(1663700), mat2ppt.util.Emu(6667500), mat2ppt.util.Emu(3810001));
 sp.text_frame().text = 'Progestin convinces woman’s body she’s pregnantSuppress ovulationBack-up method thin uterine lining to prevent implantation (abortifacient)Breakthrough ovulation common';
 
-% TODO: group shape Group 1
+% TODO: chart graphicFrame — not auto-generated
+
+% TextBox 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(38100), mat2ppt.util.Emu(2743200), mat2ppt.util.Emu(2209800), mat2ppt.util.Emu(400110));
+sp.text_frame().text = 'Combined pill';
+
+% TextBox 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(909100), mat2ppt.util.Emu(1408172), mat2ppt.util.Emu(662361), mat2ppt.util.Emu(420628));
+sp.text_frame().text = '28%';
+
+% TODO: chart graphicFrame — not auto-generated
+
+% TextBox 9
+sp = sh.add_shape('rect', mat2ppt.util.Emu(38100), mat2ppt.util.Emu(4643735), mat2ppt.util.Emu(2209800), mat2ppt.util.Emu(400110));
+sp.text_frame().text = 'Progestin-only';
+
+% TextBox 10
+sp = sh.add_shape('rect', mat2ppt.util.Emu(727961), mat2ppt.util.Emu(3465572), mat2ppt.util.Emu(1024639), mat2ppt.util.Emu(420628));
+sp.text_frame().text = '33-65%';
+
+% TODO: chart graphicFrame — not auto-generated
+
+% TextBox 13
+sp = sh.add_shape('rect', mat2ppt.util.Emu(38100), mat2ppt.util.Emu(6457890), mat2ppt.util.Emu(2209800), mat2ppt.util.Emu(400110));
+sp.text_frame().text = 'Mirena';
+
+% TextBox 14
+sp = sh.add_shape('rect', mat2ppt.util.Emu(909100), mat2ppt.util.Emu(5294372), mat2ppt.util.Emu(662361), mat2ppt.util.Emu(420628));
+sp.text_frame().text = '75%';
 
 % Rectangle 16
 sp = sh.add_shape('rect', mat2ppt.util.Emu(2057400), mat2ppt.util.Emu(6044625), mat2ppt.util.Emu(6749143), mat2ppt.util.Emu(584775));
@@ -677,7 +757,12 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(1), mat2ppt.util.Emu(3007110), mat2ppt.util.Emu(2286000), mat2ppt.util.Emu(3450840));
 end
 
-% TODO: group shape Group 6
+% Rectangle 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3108325), mat2ppt.util.Emu(5194300), mat2ppt.util.Emu(1130300), mat2ppt.util.Emu(336550));
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(2905125), mat2ppt.util.Emu(3889935), mat2ppt.util.Emu(2667000), mat2ppt.util.Emu(533400));
+sp.text_frame().text = '64%';
 
 % Rectangle 8
 sp = sh.add_shape('rect', mat2ppt.util.Emu(2286001), mat2ppt.util.Emu(4074551), mat2ppt.util.Emu(6477000), mat2ppt.util.Emu(707886));
@@ -731,6 +816,10 @@ sh = s.shapes();
 sp = sh.add_shape('rect', mat2ppt.util.Emu(655264), mat2ppt.util.Emu(768349), mat2ppt.util.Emu(7886700), mat2ppt.util.Emu(2852737));
 sp.text_frame().text = 'NFP Benefit #5';
 
+% Text Placeholder 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Effective';
+
 
 %% ===== Slide 45 =====
 s = prs.slides().add_slide(blank);
@@ -772,6 +861,10 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'WebMD';
+
 % Content Placeholder 8
 sp = sh.add_shape('rect', mat2ppt.util.Emu(2590800), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(6553200), mat2ppt.util.Emu(4114800));
 sp.text_frame().text = '“A relatively high failure rate has been reported.” The “failure rate” WebMD cites combined data from modern NFP methods with data from calendar methods artificially lowering the effectiveness of NFP';
@@ -807,6 +900,10 @@ sp.text_frame().text = 'NFP is birth control; it is not contra-ception (against 
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Resources';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(2286000), mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(6172200), mat2ppt.util.Emu(4114800));
 sp.text_frame().text = 'Web resourcesfertilitycare.orgChastity.compopepaulvi.comccli.orgboma-usa.orgnfp.marquette.edunfpandmore.orgonemoresoul.comnwfs.orghttp://nfpsst.org/fact-or-fiction/usccb.org/issues-and-action/marriage-and-family/';
@@ -822,15 +919,12 @@ prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide10 group shape Group 5 not expanded
-% GAP: slide11 group shape Group 4 not expanded
-% GAP: slide14 group shape Group 3 not expanded
-% GAP: slide15 group shape Group 3 not expanded
 % GAP: slide37 sp missing geom: Content Placeholder 6
-% GAP: slide38 group shape Group 1 not expanded
-% GAP: slide40 group shape Group 6 not expanded
-% GAP: slide44 sp missing geom: Text Placeholder 4
+% GAP: slide38 chart not auto-generated (manual/API gap)
+% GAP: slide38 chart not auto-generated (manual/API gap)
+% GAP: slide38 chart not auto-generated (manual/API gap)
+% GAP: slide44 sp used title-area default geom: Text Placeholder 4
 % GAP: slide45 sp missing geom: Title 3
 % GAP: slide45 sp missing geom: Content Placeholder 4
-% GAP: slide47 sp missing geom: Title 1
-% GAP: slide50 sp missing geom: Title 1
+% GAP: slide47 sp used title-area default geom: Title 1
+% GAP: slide50 sp used title-area default geom: Title 1

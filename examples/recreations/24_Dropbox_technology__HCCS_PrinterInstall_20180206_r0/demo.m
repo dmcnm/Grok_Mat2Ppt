@@ -18,6 +18,18 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525927), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(10638880), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
+end
+
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(790575), mat2ppt.util.Emu(1122363), mat2ppt.util.Emu(10858499), mat2ppt.util.Emu(2387600));
 sp.text_frame().text = 'HCCS Network Printer Installation';
@@ -31,10 +43,46 @@ sp.text_frame().text = 'Douglas CoombsFebruary 6, 2018, Rev. 0';
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525927), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(10638880), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Overview';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Description of Current PrintersPrinter Installation Instructions';
+
 
 %% ===== Slide 3 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525927), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(10638880), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Current Printers';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(188121), mat2ppt.util.Emu(1222110), mat2ppt.util.Emu(11651454), mat2ppt.util.Emu(4954853));
@@ -44,6 +92,18 @@ sp.text_frame().text = 'Teacher’s LoungeColor HP Wireless (Model #): 192.168.1
 %% ===== Slide 4 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525927), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(10638880), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
+end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(486137), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10058400), mat2ppt.util.Emu(659559));
@@ -58,6 +118,18 @@ sp.text_frame().text = 'Overview of stepsControl Panel -> Devices and printersAd
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525927), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(10638880), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
+end
+
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(535021), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10032665), mat2ppt.util.Emu(659559));
 sp.text_frame().text = 'Installing a Network Printer Using TCP/IP (2/4)';
@@ -66,12 +138,31 @@ sp.text_frame().text = 'Installing a Network Printer Using TCP/IP (2/4)';
 sp = sh.add_shape('rect', mat2ppt.util.Emu(188121), mat2ppt.util.Emu(1222110), mat2ppt.util.Emu(11651454), mat2ppt.util.Emu(4954853));
 sp.text_frame().text = 'Control Panel -> Devices and printersAdd a printer Add a Local Printer';
 
-% TODO: group shape Group 9
+% picture Picture 3
+img = fullfile(assets, 'image4.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(4442569), mat2ppt.util.Emu(2920610), mat2ppt.util.Emu(6390009), mat2ppt.util.Emu(4244119));
+end
+
+% Rectangle 8
+sp = sh.add_shape('rect', mat2ppt.util.Emu(5306752), mat2ppt.util.Emu(3566567), mat2ppt.util.Emu(647700), mat2ppt.util.Emu(202181));
 
 
 %% ===== Slide 6 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525927), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(10638880), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
+end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(535021), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10090538), mat2ppt.util.Emu(659559));
@@ -97,6 +188,18 @@ end
 %% ===== Slide 7 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(188120), mat2ppt.util.Emu(5525927), mat2ppt.util.Emu(1143000), mat2ppt.util.Emu(1224229));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(10638880), mat2ppt.util.Emu(139366), mat2ppt.util.Emu(1410420), mat2ppt.util.Emu(1371600));
+end
 
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(535021), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10021090), mat2ppt.util.Emu(659559));
@@ -132,7 +235,6 @@ prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide2 sp missing geom: Title 1
-% GAP: slide2 sp missing geom: Content Placeholder 2
-% GAP: slide3 sp missing geom: Title 1
-% GAP: slide5 group shape Group 9 not expanded
+% GAP: slide2 sp used title-area default geom: Title 1
+% GAP: slide2 sp used title-area default geom: Content Placeholder 2
+% GAP: slide3 sp used title-area default geom: Title 1

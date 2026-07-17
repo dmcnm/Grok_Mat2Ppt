@@ -18,6 +18,18 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(73820), mat2ppt.util.Emu(6096269), mat2ppt.util.Emu(648692), mat2ppt.util.Emu(694793));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(11000831), mat2ppt.util.Emu(82217), mat2ppt.util.Emu(1097280), mat2ppt.util.Emu(1067079));
+end
+
 % Title 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(1788284), mat2ppt.util.Emu(9144000), mat2ppt.util.Emu(2387600));
 sp.text_frame().text = 'Chesterton AcademyEmergency Communication Options';
@@ -31,6 +43,22 @@ sp.text_frame().text = 'Douglas CoombsFebruary 8, 2022';
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(73820), mat2ppt.util.Emu(6096269), mat2ppt.util.Emu(648692), mat2ppt.util.Emu(694793));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(11000831), mat2ppt.util.Emu(82217), mat2ppt.util.Emu(1097280), mat2ppt.util.Emu(1067079));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Overview of Options';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(493094), mat2ppt.util.Emu(1132764), mat2ppt.util.Emu(11471379), mat2ppt.util.Emu(5056001));
 sp.text_frame().text = 'Comprehensive Email and Texting ProgramsJupiterEdPotentially cheapest and easiest to set upFlocknotesMuch more flexible but also more expensive and time consuming to set upStandalone Texting SolutionsExpertTexting.comSeems straightforward with intuitive user interfaceOffers two-way texting with parents, if desiredPer text pricing makes it more attractive for infrequent, emergency useTextEmAll.com';
@@ -39,6 +67,22 @@ sp.text_frame().text = 'Comprehensive Email and Texting ProgramsJupiterEdPotenti
 %% ===== Slide 3 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(73820), mat2ppt.util.Emu(6096269), mat2ppt.util.Emu(648692), mat2ppt.util.Emu(694793));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(11000831), mat2ppt.util.Emu(82217), mat2ppt.util.Emu(1097280), mat2ppt.util.Emu(1067079));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'JupiterEd.com';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(493094), mat2ppt.util.Emu(1132764), mat2ppt.util.Emu(10717449), mat2ppt.util.Emu(5056001));
@@ -49,26 +93,86 @@ sp.text_frame().text = 'Parents need to login to JupiterEd and opt-in to emergen
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(73820), mat2ppt.util.Emu(6096269), mat2ppt.util.Emu(648692), mat2ppt.util.Emu(694793));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(11000831), mat2ppt.util.Emu(82217), mat2ppt.util.Emu(1097280), mat2ppt.util.Emu(1067079));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Flocknotes';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Comprehensive email and texting serviceMrs. Sena is familiar with the serviceMore expensive at ~';
+
 
 %% ===== Slide 5 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(73820), mat2ppt.util.Emu(6096269), mat2ppt.util.Emu(648692), mat2ppt.util.Emu(694793));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(11000831), mat2ppt.util.Emu(82217), mat2ppt.util.Emu(1097280), mat2ppt.util.Emu(1067079));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'ExpertTexting.com';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Com';
 
 
 %% ===== Slide 6 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image2.jpeg
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(73820), mat2ppt.util.Emu(6096269), mat2ppt.util.Emu(648692), mat2ppt.util.Emu(694793));
+end
+
+% picture MasterLogo_image3.jpg
+img = fullfile(assets, 'image3.jpg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(11000831), mat2ppt.util.Emu(82217), mat2ppt.util.Emu(1097280), mat2ppt.util.Emu(1067079));
+end
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'TextEmAll.com';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'jkh';
+
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide2 sp missing geom: Title 1
-% GAP: slide3 sp missing geom: Title 1
-% GAP: slide4 sp missing geom: Title 1
-% GAP: slide4 sp missing geom: Content Placeholder 2
-% GAP: slide5 sp missing geom: Title 1
-% GAP: slide5 sp missing geom: Content Placeholder 2
-% GAP: slide6 sp missing geom: Title 1
-% GAP: slide6 sp missing geom: Content Placeholder 2
+% GAP: slide2 sp used title-area default geom: Title 1
+% GAP: slide3 sp used title-area default geom: Title 1
+% GAP: slide4 sp used title-area default geom: Title 1
+% GAP: slide4 sp used title-area default geom: Content Placeholder 2
+% GAP: slide5 sp used title-area default geom: Title 1
+% GAP: slide5 sp used title-area default geom: Content Placeholder 2
+% GAP: slide6 sp used title-area default geom: Title 1
+% GAP: slide6 sp used title-area default geom: Content Placeholder 2

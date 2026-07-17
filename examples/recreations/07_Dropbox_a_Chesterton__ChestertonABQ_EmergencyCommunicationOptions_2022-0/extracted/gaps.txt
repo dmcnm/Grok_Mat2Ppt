@@ -1,8 +1,8 @@
-slide2 sp missing geom: Title 1
-slide3 sp missing geom: Title 1
-slide4 sp missing geom: Title 1
-slide4 sp missing geom: Content Placeholder 2
-slide5 sp missing geom: Title 1
-slide5 sp missing geom: Content Placeholder 2
-slide6 sp missing geom: Title 1
-slide6 sp missing geom: Content Placeholder 2
+slide2 sp used title-area default geom: Title 1
+slide3 sp used title-area default geom: Title 1
+slide4 sp used title-area default geom: Title 1
+slide4 sp used title-area default geom: Content Placeholder 2
+slide5 sp used title-area default geom: Title 1
+slide5 sp used title-area default geom: Content Placeholder 2
+slide6 sp used title-area default geom: Title 1
+slide6 sp used title-area default geom: Content Placeholder 2

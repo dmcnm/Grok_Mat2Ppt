@@ -77,9 +77,23 @@ if isfile(img)
     sh.add_picture(img, mat2ppt.util.Emu(7472206), mat2ppt.util.Emu(4476589), mat2ppt.util.Emu(2216995), mat2ppt.util.Emu(2545826));
 end
 
-% TODO: group shape Group 16
+% picture Picture 11
+img = fullfile(assets, 'image9.gif');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(5036619), mat2ppt.util.Emu(452927), mat2ppt.util.Emu(3337175), mat2ppt.util.Emu(4000873));
+end
 
-% TODO: group shape Group 15
+% Rectangle: Rounded Corners 13
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(5589036), mat2ppt.util.Emu(2379306), mat2ppt.util.Emu(2323323), mat2ppt.util.Emu(2074494));
+
+% picture Picture 9
+img = fullfile(assets, 'image9.gif');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(8725256), mat2ppt.util.Emu(452928), mat2ppt.util.Emu(3337175), mat2ppt.util.Emu(4000873));
+end
+
+% Rectangle: Rounded Corners 14
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(8819128), mat2ppt.util.Emu(452927), mat2ppt.util.Emu(3142718), mat2ppt.util.Emu(1926380));
 
 % picture Picture 20
 img = fullfile(assets, 'image10.jpg');
@@ -90,7 +104,3 @@ end
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide2 group shape Group 16 not expanded
-% GAP: slide2 group shape Group 15 not expanded

@@ -1,28 +1,18 @@
-slide5 group shape Group 12 not expanded
-slide6 sp missing geom: Title 1
-slide6 sp missing geom: Content Placeholder 2
-slide8 group shape Group 8 not expanded
-slide8 group shape Group 21 not expanded
-slide9 group shape Group 24 not expanded
-slide10 sp missing geom: Title 1
-slide12 group shape Group 14 not expanded
+slide6 sp used title-area default geom: Title 1
+slide6 sp used title-area default geom: Content Placeholder 2
+slide10 sp used title-area default geom: Title 1
 slide13 unhandled graphicFrame Object 6
-slide14 sp missing geom: Title 1
-slide14 group shape Group 9 not expanded
-slide16 sp missing geom: Title 1
-slide16 group shape Group 17 not expanded
-slide18 sp missing geom: Title 1
-slide18 group shape Group 9 not expanded
-slide19 sp missing geom: Title 1
-slide19 group shape Group 15 not expanded
+slide14 sp used title-area default geom: Title 1
+slide16 sp used title-area default geom: Title 1
+slide18 sp used title-area default geom: Title 1
+slide19 sp used title-area default geom: Title 1
 slide19 unhandled graphicFrame Object 2
-slide19 group shape Group 18 not expanded
-slide20 sp missing geom: Title 1
-slide21 sp missing geom: Title 1
-slide21 sp missing geom: Content Placeholder 2
-slide22 sp missing geom: Title 4
-slide22 sp missing geom: Content Placeholder 5
-slide23 sp missing geom: Title 1
-slide25 sp missing geom: Title 1
-slide25 sp missing geom: Content Placeholder 2
-slide26 sp missing geom: Title 1
+slide20 sp used title-area default geom: Title 1
+slide21 sp used title-area default geom: Title 1
+slide21 sp used title-area default geom: Content Placeholder 2
+slide22 sp used title-area default geom: Title 4
+slide22 sp used title-area default geom: Content Placeholder 5
+slide23 sp used title-area default geom: Title 1
+slide25 sp used title-area default geom: Title 1
+slide25 sp used title-area default geom: Content Placeholder 2
+slide26 sp used title-area default geom: Title 1

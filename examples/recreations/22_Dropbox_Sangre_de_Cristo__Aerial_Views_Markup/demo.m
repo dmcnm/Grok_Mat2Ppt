@@ -18,35 +18,85 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 6
+% picture Picture 3
+img = fullfile(assets, 'image1.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(9525), mat2ppt.util.Emu(666750), mat2ppt.util.Emu(9134475), mat2ppt.util.Emu(5524500));
+end
+
+% Rounded Rectangle 4
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(1905000), mat2ppt.util.Emu(3733800), mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(381000));
+sp.text_frame().text = 'b1: Coombs’ House';
+
+% Rounded Rectangle 5
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(6248400), mat2ppt.util.Emu(3429000), mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(381000));
+sp.text_frame().text = 'b2: Smith’s House';
 
 
 %% ===== Slide 2 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 6
+% picture Picture 2
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(676656), mat2ppt.util.Emu(9144000), mat2ppt.util.Emu(5504688));
+end
+
+% Rounded Rectangle 3
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(2667000), mat2ppt.util.Emu(2971800), mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(152400));
+sp.text_frame().text = 'a1: Coombs’ House';
+
+% Rounded Rectangle 4
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(4800600), mat2ppt.util.Emu(2819400), mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(152400));
+sp.text_frame().text = 'a2: Smith’s House';
+
+% Rounded Rectangle 5
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(4114800), mat2ppt.util.Emu(4876800), mat2ppt.util.Emu(1676400), mat2ppt.util.Emu(152400));
+sp.text_frame().text = 'a3: Brannock’s Home Site';
 
 
 %% ===== Slide 3 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 6
+% picture Picture 3
+img = fullfile(assets, 'image1.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(9525), mat2ppt.util.Emu(666750), mat2ppt.util.Emu(9134475), mat2ppt.util.Emu(5524500));
+end
+
+% Rounded Rectangle 4
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(2209800), mat2ppt.util.Emu(3886200), mat2ppt.util.Emu(381000), mat2ppt.util.Emu(304800));
+sp.text_frame().text = 'b1';
+
+% Rounded Rectangle 5
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(6553200), mat2ppt.util.Emu(3429000), mat2ppt.util.Emu(457200), mat2ppt.util.Emu(304800));
+sp.text_frame().text = 'b2';
 
 
 %% ===== Slide 4 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 6
+% picture Picture 2
+img = fullfile(assets, 'image2.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(0), mat2ppt.util.Emu(676656), mat2ppt.util.Emu(9144000), mat2ppt.util.Emu(5504688));
+end
+
+% Rounded Rectangle 3
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(3810000), mat2ppt.util.Emu(2438400), mat2ppt.util.Emu(381000), mat2ppt.util.Emu(155448));
+sp.text_frame().text = 'a1';
+
+% Rounded Rectangle 4
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(4876800), mat2ppt.util.Emu(2819400), mat2ppt.util.Emu(381000), mat2ppt.util.Emu(152400));
+sp.text_frame().text = 'a2';
+
+% Rounded Rectangle 5
+sp = sh.add_shape('roundRect', mat2ppt.util.Emu(4038600), mat2ppt.util.Emu(4953000), mat2ppt.util.Emu(381000), mat2ppt.util.Emu(152400));
+sp.text_frame().text = 'a3';
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 group shape Group 6 not expanded
-% GAP: slide2 group shape Group 6 not expanded
-% GAP: slide3 group shape Group 6 not expanded
-% GAP: slide4 group shape Group 6 not expanded

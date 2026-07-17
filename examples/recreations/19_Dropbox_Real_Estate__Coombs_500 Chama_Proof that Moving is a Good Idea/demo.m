@@ -18,10 +18,22 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Incontrovertible Proof that Moving to Town is a Step Up in the World for the Coombs Family';
+
+% Subtitle 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'December 31, 2014 @1454';
+
 
 %% ===== Slide 2 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Only Warm Bedroom in House';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(228600), mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(8305800), mat2ppt.util.Emu(1295399));
@@ -44,6 +56,10 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of Usable Bathroom';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1371600), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(1143001));
 sp.text_frame().text = 'Old heater in bathroom removed because 1” gaps “protecting” exposed heater wire were extreme danger to small kids, such as I have.Bathroom unheated, but usable.  Old asbestos tile remediated and shower/toilet/sink work.Lighting still an issue and ceiling unfinished.';
@@ -64,6 +80,10 @@ end
 %% ===== Slide 4 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of Kitchen';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1600201), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(1295400));
@@ -120,6 +140,10 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of living room (2/3)';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1600201), mat2ppt.util.Emu(8458200), mat2ppt.util.Emu(1295399));
 sp.text_frame().text = 'Note single pane sliding glass door with unsealed gap between sliding and stationary parts.';
@@ -141,6 +165,10 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of living room (3/3)';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1295401), mat2ppt.util.Emu(8534400), mat2ppt.util.Emu(1676400));
 sp.text_frame().text = 'Picture on left from earlier in Dec. 2014 shows old propane heater.Picture on right shows this week’s installation of electric wall furnace.30,000 BTU, 40+ amps.  Can only afford to run for a few hours a day.  Full time would cost $400+/month and only heat one room.  Can’t afford $10-20k to outfit entire house with efficient heat pumps.  Got quote earlier this  month for 12 amp heat pump for this one room.  It was $6k.  I can buy the parts for $3.25k and do myself when I have more money, but will still need to pull a permit and hire a plumber for $500 to hook up the refrigerant.';
@@ -161,6 +189,10 @@ end
 %% ===== Slide 8 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of 2nd bedroom';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(304800), mat2ppt.util.Emu(1295400), mat2ppt.util.Emu(8382000), mat2ppt.util.Emu(1066800));
@@ -255,6 +287,10 @@ sp.text_frame().text = 'Overall views of bedroom showing ungrounded plugs, untri
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of Second Bathroom';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(381000), mat2ppt.util.Emu(1447800), mat2ppt.util.Emu(8382000), mat2ppt.util.Emu(1066799));
 sp.text_frame().text = 'Shower tile had been placed over unprotected drywall and was falling apart.  Walls were covered with broken mirrors which were used as wall tile and were a cutting hazard since some of the grout was starting to fall out.Currently walls are torn out, old ungrounded wiring needs toi be replaced with modern GFI outlets and shower needs to be finished.Note frost on single pane window in the afternoon (nearly warmest part of the day,  plenty of time to warm up)';
@@ -275,6 +311,10 @@ end
 %% ===== Slide 11 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of Basement (1/2)';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(228600), mat2ppt.util.Emu(1143001), mat2ppt.util.Emu(8458200), mat2ppt.util.Emu(1828800));
@@ -305,6 +345,10 @@ sp = sh.add_shape('rect', mat2ppt.util.Emu(7286084), mat2ppt.util.Emu(4375748), 
 %% ===== Slide 12 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of Basement (2/2)';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(228600), mat2ppt.util.Emu(1143001), mat2ppt.util.Emu(8458200), mat2ppt.util.Emu(1828800));
@@ -377,6 +421,10 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'State of Flooring';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1371601), mat2ppt.util.Emu(8001000), mat2ppt.util.Emu(1600200));
 sp.text_frame().text = 'Asbestos tile covers one side of house.  It is coming up in numerous places, as shown below.50 year old nylon carpet covers other side of house, except for hole where old homemade fireplace used to exist (shown below) .  Old fireplace was removed because it was a fire hazard, didn’t draft properly filling room with smoke when fire got low and sucked more heat up the chimney than it gave to room when fire was not low.';
@@ -397,6 +445,10 @@ end
 %% ===== Slide 15 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Misc. Issues';
 
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1371601), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(1066800));
@@ -434,6 +486,10 @@ sh.add_connector('line', mat2ppt.util.Emu(2866845), mat2ppt.util.Emu(5325194), m
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Undisclosed Problems Preventing Sale';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(152400), mat2ppt.util.Emu(1447800), mat2ppt.util.Emu(4343400), mat2ppt.util.Emu(4953000));
 sp.text_frame().text = 'Foundation problem discovered after buying the house has outside wall leaning over an inch in just 8’.This was not disclosed when I bought the place and must be fixed before sale.  The problem is the foundation is not solid concrete.  It is a mixed concrete and rock, making jacking it up the normal way impossible since it is only strong in compression and not tension.Similar to the rubble trench foundations which Frank Lloyd Wright was famous for, but which are a nightmare to fix if not done properly.';
@@ -449,6 +505,10 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp.text_frame().text = 'Conclusions';
+
 % Content Placeholder 2
 sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(1600200), mat2ppt.util.Emu(8305800), mat2ppt.util.Emu(4038600));
 sp.text_frame().text = 'Anyone who thinks this is a proper place to raise kids in winter needs to have their head examined.  It is bitterly cold and needs much work to be rentable, comfortably livable or even saleable at anything but a huge loss.This is only a small sampling of the problems I have with this house, some of which I’m afraid to document in pictures given to people I don’t trust.The worst part about this whole thing is that now I have to live here an extra month (the 2nd coldest month of the year), because somebody made themselves judge and jury of things had no understanding of and forced me to jump through numerous ridiculous hoops which delayed closing past Dec. 31, costing me tons of money in legal fees and forcing my kids to endure another month of mind-numbing cold.I only bought this house because I thought I had a partner in life who could help me fix the place up and make it livable. A lawsuit over the driveway that cost me tens of thousands of dollars and tied up funds designated for fixing this house combined with my ex losing her mind, leaving me with full custody of the kids and alimony to pay conspired to cost me that dream.  Now, somebody who has no fucking idea what it is like to live here wants to take away my chance to get out of here by not allowing a loan to go through.  What are my other options: selling at a massive loss or walking a way and defaulting on the loan.  Are those options really preferable?  I think not.Now that I’ve been completely humiliated, “Mother, may I please have my loan?”';
@@ -458,18 +518,18 @@ prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide1 sp missing geom: Title 1
-% GAP: slide1 sp missing geom: Subtitle 2
-% GAP: slide2 sp missing geom: Title 1
-% GAP: slide3 sp missing geom: Title 1
-% GAP: slide4 sp missing geom: Title 1
-% GAP: slide6 sp missing geom: Title 1
-% GAP: slide7 sp missing geom: Title 1
-% GAP: slide8 sp missing geom: Title 1
-% GAP: slide10 sp missing geom: Title 1
-% GAP: slide11 sp missing geom: Title 1
-% GAP: slide12 sp missing geom: Title 1
-% GAP: slide14 sp missing geom: Title 1
-% GAP: slide15 sp missing geom: Title 1
-% GAP: slide16 sp missing geom: Title 1
-% GAP: slide17 sp missing geom: Title 1
+% GAP: slide1 sp used title-area default geom: Title 1
+% GAP: slide1 sp used title-area default geom: Subtitle 2
+% GAP: slide2 sp used title-area default geom: Title 1
+% GAP: slide3 sp used title-area default geom: Title 1
+% GAP: slide4 sp used title-area default geom: Title 1
+% GAP: slide6 sp used title-area default geom: Title 1
+% GAP: slide7 sp used title-area default geom: Title 1
+% GAP: slide8 sp used title-area default geom: Title 1
+% GAP: slide10 sp used title-area default geom: Title 1
+% GAP: slide11 sp used title-area default geom: Title 1
+% GAP: slide12 sp used title-area default geom: Title 1
+% GAP: slide14 sp used title-area default geom: Title 1
+% GAP: slide15 sp used title-area default geom: Title 1
+% GAP: slide16 sp used title-area default geom: Title 1
+% GAP: slide17 sp used title-area default geom: Title 1

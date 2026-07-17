@@ -1,15 +1,15 @@
-slide1 sp missing geom: Title 1
-slide1 sp missing geom: Subtitle 2
-slide2 sp missing geom: Title 1
-slide3 sp missing geom: Title 1
-slide4 sp missing geom: Title 1
-slide6 sp missing geom: Title 1
-slide7 sp missing geom: Title 1
-slide8 sp missing geom: Title 1
-slide10 sp missing geom: Title 1
-slide11 sp missing geom: Title 1
-slide12 sp missing geom: Title 1
-slide14 sp missing geom: Title 1
-slide15 sp missing geom: Title 1
-slide16 sp missing geom: Title 1
-slide17 sp missing geom: Title 1
+slide1 sp used title-area default geom: Title 1
+slide1 sp used title-area default geom: Subtitle 2
+slide2 sp used title-area default geom: Title 1
+slide3 sp used title-area default geom: Title 1
+slide4 sp used title-area default geom: Title 1
+slide6 sp used title-area default geom: Title 1
+slide7 sp used title-area default geom: Title 1
+slide8 sp used title-area default geom: Title 1
+slide10 sp used title-area default geom: Title 1
+slide11 sp used title-area default geom: Title 1
+slide12 sp used title-area default geom: Title 1
+slide14 sp used title-area default geom: Title 1
+slide15 sp used title-area default geom: Title 1
+slide16 sp used title-area default geom: Title 1
+slide17 sp used title-area default geom: Title 1

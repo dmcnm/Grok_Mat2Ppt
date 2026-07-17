@@ -1,17 +1,3 @@
-slide2 sp missing geom: Content Placeholder 2
-slide3 sp missing geom: Content Placeholder 2
-slide4 group shape Group 18 not expanded
-slide4 sp missing geom: Content Placeholder 2
-slide4 group shape Group 11 not expanded
-slide4 group shape Group 25 not expanded
-slide4 group shape Group 35 not expanded
-slide4 group shape Group 43 not expanded
-slide7 group shape Group 10 not expanded
-slide7 group shape Group 15 not expanded
-slide7 group shape Group 19 not expanded
-slide7 group shape Group 3 not expanded
-slide8 group shape Group 18 not expanded
-slide8 group shape Group 3 not expanded
-slide9 group shape Group 5 not expanded
-slide9 group shape Group 8 not expanded
-slide9 group shape Group 17 not expanded
+slide2 sp used title-area default geom: Content Placeholder 2
+slide3 sp used title-area default geom: Content Placeholder 2
+slide4 sp used title-area default geom: Content Placeholder 2

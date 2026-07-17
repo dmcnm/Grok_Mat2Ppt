@@ -18,22 +18,67 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 10
+% picture Picture 3
+img = fullfile(assets, 'image1.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3124200), mat2ppt.util.Emu(457200), mat2ppt.util.Emu(5943600), mat2ppt.util.Emu(5943600));
+end
+
+% TextBox 4
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1595145), mat2ppt.util.Emu(628560), mat2ppt.util.Emu(1552575), mat2ppt.util.Emu(1200329));
+sp.text_frame().text = 'Anonymous Donation Check BoxPresent';
+
+% TextBox 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1571625), mat2ppt.util.Emu(4734275), mat2ppt.util.Emu(1552575), mat2ppt.util.Emu(1200329));
+sp.text_frame().text = 'Anonymous Donation Check BoxPresent';
+
+% TextBox 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1571624), mat2ppt.util.Emu(2753965), mat2ppt.util.Emu(1552575), mat2ppt.util.Emu(1200329));
+sp.text_frame().text = 'Anonymous Donation Check Box Missing';
+
+% Left Brace 7
+sp = sh.add_shape('leftBrace', mat2ppt.util.Emu(2847975), mat2ppt.util.Emu(2609850), mat2ppt.util.Emu(276225), mat2ppt.util.Emu(1438275));
+
+% Left Brace 8
+sp = sh.add_shape('leftBrace', mat2ppt.util.Emu(2871495), mat2ppt.util.Emu(509588), mat2ppt.util.Emu(276225), mat2ppt.util.Emu(1438275));
+
+% Left Brace 9
+sp = sh.add_shape('leftBrace', mat2ppt.util.Emu(2885489), mat2ppt.util.Emu(4297369), mat2ppt.util.Emu(276225), mat2ppt.util.Emu(2051043));
 
 
 %% ===== Slide 2 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
-% TODO: group shape Group 12
+% picture Picture 3
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3063949), mat2ppt.util.Emu(611505), mat2ppt.util.Emu(4549140), mat2ppt.util.Emu(1234440));
+end
 
-% TODO: group shape Group 14
+% TextBox 5
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1604670), mat2ppt.util.Emu(582926), mat2ppt.util.Emu(1552575), mat2ppt.util.Emu(1200329));
+sp.text_frame().text = 'Anonymous Donation Check BoxPresent';
+
+% Left Brace 9
+sp = sh.add_shape('leftBrace', mat2ppt.util.Emu(2776245), mat2ppt.util.Emu(554355), mat2ppt.util.Emu(408371), mat2ppt.util.Emu(1234440));
+
+% Rectangle 10
+sp = sh.add_shape('rect', mat2ppt.util.Emu(3157245), mat2ppt.util.Emu(582926), mat2ppt.util.Emu(3310230), mat2ppt.util.Emu(293374));
+
+% picture Picture 4
+img = fullfile(assets, 'image3.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(3279866), mat2ppt.util.Emu(3096154), mat2ppt.util.Emu(4333223), mat2ppt.util.Emu(1234440));
+end
+
+% TextBox 6
+sp = sh.add_shape('rect', mat2ppt.util.Emu(2033295), mat2ppt.util.Emu(3044633), mat2ppt.util.Emu(1552575), mat2ppt.util.Emu(1200329));
+sp.text_frame().text = 'Anonymous Donation Check Box Missing';
+
+% Left Brace 11
+sp = sh.add_shape('leftBrace', mat2ppt.util.Emu(3184616), mat2ppt.util.Emu(3106455), mat2ppt.util.Emu(382204), mat2ppt.util.Emu(1081357));
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 group shape Group 10 not expanded
-% GAP: slide2 group shape Group 12 not expanded
-% GAP: slide2 group shape Group 14 not expanded
