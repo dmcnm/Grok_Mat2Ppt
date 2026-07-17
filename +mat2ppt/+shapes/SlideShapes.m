@@ -24,6 +24,37 @@ classdef SlideShapes < mat2ppt.shared.Collection
             spTree = obj.spTree_;
         end
 
+        function phs = placeholders(obj)
+            %PLACEHOLDERS  Placeholder shapes only (1-based Collection).
+            phs = mat2ppt.slide.placeholders_from_shapes_(obj);
+        end
+
+        function sh = title(obj)
+            %TITLE  Title placeholder (ph idx=0) or [].
+            phs = obj.placeholders();
+            for i = 1:phs.length
+                sh = phs.item(i);
+                r = mat2ppt.oxml.evaluate_xpath(sh.shape_element(), ".//p:ph");
+                if isempty(r), continue; end
+                raw = r{1}.get("idx");
+                if mat2ppt.isAbsent(raw) || strcmp(char(string(raw)), "0")
+                    return
+                end
+            end
+            % also match type title / ctrTitle
+            for i = 1:phs.length
+                sh = phs.item(i);
+                try
+                    t = mat2ppt.shapes.PlaceholderMixin.placeholder_type(sh.shape_element());
+                    if any(strcmp(t, {"title", "ctrTitle"}))
+                        return
+                    end
+                catch
+                end
+            end
+            sh = [];
+        end
+
         function sh = add_shape(obj, autoshapeType, left, top, width, height)
             %ADD_SHAPE  Append a rectangle or named prst autoshape.
             if isa(autoshapeType, "mat2ppt.enum.BaseXmlEnum") || isa(autoshapeType, "mat2ppt.enum.BaseEnum")
@@ -128,6 +159,34 @@ classdef SlideShapes < mat2ppt.shared.Collection
             mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, gf);
             obj.rebuild_items_();
             sh = obj.item(obj.length);
+        end
+
+        function b = build_freeform(obj, startX, startY, scale)
+            %BUILD_FREEFORM  |FreeformBuilder| (python SlideShapes.build_freeform).
+            arguments
+                obj
+                startX = 0
+                startY = 0
+                scale = 1.0
+            end
+            if isnumeric(scale) && numel(scale) == 2
+                xScale = double(scale(1));
+                yScale = double(scale(2));
+            else
+                xScale = double(scale);
+                yScale = xScale;
+            end
+            b = mat2ppt.shapes.FreeformBuilder(obj, startX, startY, xScale, yScale);
+        end
+
+        function id = next_shape_id_public_(obj)
+            %NEXT_SHAPE_ID_PUBLIC_  Allocate next shape id (for FreeformBuilder).
+            id = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+        end
+
+        function rebuild_items_public_(obj)
+            obj.rebuild_items_();
         end
 
         function sh = add_group_shape(obj, shapes)
