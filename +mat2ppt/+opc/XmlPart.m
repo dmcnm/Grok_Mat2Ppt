@@ -30,7 +30,7 @@ classdef XmlPart < mat2ppt.opc.Part
     methods (Static)
         function obj = load(partname, contentType, package, blob)
             elm = mat2ppt.oxml.parse_xml(blob);
-            mat2ppt.oxml.register_opc_element_classes();
+            mat2ppt.oxml.register_domain_element_classes();
             try
                 elm = mat2ppt.oxml.BaseOxmlElement.from_xml_element(elm);
             catch
