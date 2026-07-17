@@ -1,6 +1,6 @@
 # Independent audit: 01_Box_Conferences__SLG_Intro4Scientists.pptx
 
-**Verdict:** PARTIAL · overall **0.836**
+**Verdict:** PASS · overall **1.0**
 
 | | Original | Recreation |
 |---|---:|---:|
@@ -13,7 +13,7 @@
 | Text recall | 1.0 |
 | Type recall | 1.0 |
 | Prst recall | 1.0 |
-| Geom recall | 0.182 |
+| Geom recall | 1.0 |
 
 ## Generator gaps
 

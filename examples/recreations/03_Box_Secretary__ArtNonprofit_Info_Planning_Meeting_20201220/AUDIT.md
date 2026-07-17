@@ -1,6 +1,6 @@
 # Independent audit: 03_Box_Secretary__ArtNonprofit_Info_Planning_Meeting_20201220.pptx
 
-**Verdict:** PARTIAL · overall **0.824**
+**Verdict:** PASS · overall **1.0**
 
 | | Original | Recreation |
 |---|---:|---:|
@@ -13,4 +13,4 @@
 | Text recall | 1.0 |
 | Type recall | 1.0 |
 | Prst recall | 1.0 |
-| Geom recall | 0.118 |
+| Geom recall | 1.0 |

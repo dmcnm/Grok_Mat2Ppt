@@ -18,6 +18,9 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(274638), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(1143000));
+
 % picture Picture 2
 img = fullfile(assets, 'image1.jpeg');
 if isfile(img)
@@ -28,6 +31,9 @@ end
 %% ===== Slide 2 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(457200), mat2ppt.util.Emu(274638), mat2ppt.util.Emu(8229600), mat2ppt.util.Emu(1143000));
 
 % picture Picture 2
 img = fullfile(assets, 'image1.jpeg');
@@ -44,7 +50,3 @@ end
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 sp missing geom: Title 1
-% GAP: slide2 sp missing geom: Title 1

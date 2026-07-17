@@ -1,6 +1,6 @@
 # Independent audit: 14_Dropbox_Ethics__High School NFP presentation.pptx
 
-**Verdict:** PARTIAL · overall **0.839**
+**Verdict:** PASS · overall **0.996**
 
 | | Original | Recreation |
 |---|---:|---:|
@@ -13,7 +13,7 @@
 | Text recall | 1.0 |
 | Type recall | 0.981 |
 | Prst recall | 1.0 |
-| Geom recall | 0.216 |
+| Geom recall | 1.0 |
 
 ## Generator gaps
 

@@ -1,6 +1,6 @@
 # Independent audit: 07_Dropbox_a_Chesterton__ChestertonABQ_EmergencyCommunicationOptions_2022-0.pptx
 
-**Verdict:** PARTIAL · overall **0.85**
+**Verdict:** PASS · overall **1.0**
 
 | | Original | Recreation |
 |---|---:|---:|
@@ -13,4 +13,4 @@
 | Text recall | 1.0 |
 | Type recall | 1.0 |
 | Prst recall | 1.0 |
-| Geom recall | 0.25 |
+| Geom recall | 1.0 |

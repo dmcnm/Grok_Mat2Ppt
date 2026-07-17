@@ -1,6 +1,6 @@
 # Independent audit: 19_Dropbox_Real_Estate__Coombs_500 Chama_Proof that Moving is a Good Idea.pptx
 
-**Verdict:** PARTIAL · overall **0.848**
+**Verdict:** PASS · overall **1.0**
 
 | | Original | Recreation |
 |---|---:|---:|
@@ -13,7 +13,7 @@
 | Text recall | 1.0 |
 | Type recall | 1.0 |
 | Prst recall | 1.0 |
-| Geom recall | 0.24 |
+| Geom recall | 1.0 |
 
 ## Generator gaps
 

@@ -13,4 +13,4 @@
 | Text recall | 1.0 |
 | Type recall | 1.0 |
 | Prst recall | 1.0 |
-| Geom recall | None |
+| Geom recall | 1.0 |

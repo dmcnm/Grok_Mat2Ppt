@@ -18,6 +18,9 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+
 % picture Picture 3
 img = fullfile(assets, 'image1.jpg');
 if isfile(img)
@@ -28,6 +31,9 @@ end
 %% ===== Slide 2 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 
 % picture Picture 5
 img = fullfile(assets, 'image2.jpg');
@@ -40,6 +46,9 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+
 % picture Picture 5
 img = fullfile(assets, 'image3.gif');
 if isfile(img)
@@ -50,6 +59,9 @@ end
 %% ===== Slide 4 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 
 % picture Picture 3
 img = fullfile(assets, 'image4.jpg');
@@ -62,6 +74,9 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+
 % picture Picture 3
 img = fullfile(assets, 'image5.jpg');
 if isfile(img)
@@ -72,6 +87,9 @@ end
 %% ===== Slide 6 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 
 % picture Graphic 3
 img = fullfile(assets, 'image6.png');
@@ -84,6 +102,9 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+
 % picture Picture 4
 img = fullfile(assets, 'image8.jpg');
 if isfile(img)
@@ -94,6 +115,9 @@ end
 %% ===== Slide 8 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 
 % picture Picture 2
 img = fullfile(assets, 'image9.jpg');
@@ -106,6 +130,9 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+
 % picture Picture 4
 img = fullfile(assets, 'image10.jpg');
 if isfile(img)
@@ -116,6 +143,9 @@ end
 %% ===== Slide 10 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 
 % picture Picture 3
 img = fullfile(assets, 'image11.jpg');
@@ -128,6 +158,9 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+
 % picture Picture 6
 img = fullfile(assets, 'image12.png');
 if isfile(img)
@@ -138,6 +171,9 @@ end
 %% ===== Slide 12 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 
 % picture Picture 4
 img = fullfile(assets, 'image13.jpeg');
@@ -150,6 +186,9 @@ end
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+
 % picture Picture 7
 img = fullfile(assets, 'image14.png');
 if isfile(img)
@@ -160,6 +199,9 @@ end
 %% ===== Slide 14 =====
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
+
+% Title 1
+sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 
 % picture Picture 3
 img = fullfile(assets, 'image15.jpg');
@@ -178,19 +220,3 @@ sp.text_frame().text = 'High Desert';
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 sp missing geom: Title 1
-% GAP: slide2 sp missing geom: Title 1
-% GAP: slide3 sp missing geom: Title 1
-% GAP: slide4 sp missing geom: Title 1
-% GAP: slide5 sp missing geom: Title 1
-% GAP: slide6 sp missing geom: Title 1
-% GAP: slide7 sp missing geom: Title 1
-% GAP: slide8 sp missing geom: Title 1
-% GAP: slide9 sp missing geom: Title 1
-% GAP: slide10 sp missing geom: Title 1
-% GAP: slide11 sp missing geom: Title 1
-% GAP: slide12 sp missing geom: Title 1
-% GAP: slide13 sp missing geom: Title 1
-% GAP: slide14 sp missing geom: Title 1

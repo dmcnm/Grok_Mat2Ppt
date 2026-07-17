@@ -1,6 +1,6 @@
 # Independent audit: 25_Dropbox_w-job_search__CES Recap_Modeling_100513_FinalD2.pptx
 
-**Verdict:** PARTIAL · overall **0.881**
+**Verdict:** PASS · overall **0.997**
 
 | | Original | Recreation |
 |---|---:|---:|
@@ -13,7 +13,7 @@
 | Text recall | 1.0 |
 | Type recall | 0.985 |
 | Prst recall | 1.0 |
-| Geom recall | 0.42 |
+| Geom recall | 1.0 |
 
 ## Generator gaps
 

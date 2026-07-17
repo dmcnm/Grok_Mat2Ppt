@@ -1,6 +1,6 @@
 # Independent audit: 08_Dropbox_a_Holy_Child__Experiment_14_Atoms_and_Molecules.pptx
 
-**Verdict:** PARTIAL · overall **0.913**
+**Verdict:** PASS · overall **1.0**
 
 | | Original | Recreation |
 |---|---:|---:|
@@ -13,7 +13,7 @@
 | Text recall | 1.0 |
 | Type recall | 1.0 |
 | Prst recall | 1.0 |
-| Geom recall | 0.567 |
+| Geom recall | 1.0 |
 
 ## Generator gaps
 
