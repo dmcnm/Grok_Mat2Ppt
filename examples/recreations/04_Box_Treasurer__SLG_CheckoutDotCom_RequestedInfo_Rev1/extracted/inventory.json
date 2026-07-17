@@ -1,0 +1,653 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/04_Box_Treasurer__SLG_CheckoutDotCom_RequestedInfo_Rev1.pptx",
+  "source_name": "04_Box_Treasurer__SLG_CheckoutDotCom_RequestedInfo_Rev1.pptx",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "n_parts": 68,
+  "n_slides": 11,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 2420471,
+          "y": 887991,
+          "cx": 8624048,
+          "cy": 2541431,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "The Saint Luke GuildCheckout.com Requested Info"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Subtitle 2",
+          "x": 5087501,
+          "y": 4508825,
+          "cx": 7104499,
+          "cy": 1605104,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Douglas CoombsJuly 1, 2022, Rev. 1"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Transaction InformationData Request"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 480061,
+          "y": 938440,
+          "cx": 11496786,
+          "cy": 5687646,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "A payment flow to properly understand what Checkout.com is exactly processing for.See the next slidePlease provide further details on what the merchant will be accepting payments for.We are accepting donations to fundArt displays at schoolsProjects to help schools in the selection of art (e.g., a timeline/database of art masterpieces)Costs to attend educational conferences and educate schools on the value of art reproductionsPlease provide the URL where payments will be accepted. Please also provide demo or Test login details to verify the websitewww.saintlukeguild.com/projects (this will be updated when we begin taking payments)Please confirm the annual processing volumeMaybe $5k-$10k/year to begin.  It is hard to say.  We currently bring in around $20k/year in large checks.  Most larger donors will probably still choose to give via check."
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "cxnSp",
+          "id": 34,
+          "name": "Connector: Elbow 33",
+          "x": 6539551,
+          "y": 2438050,
+          "cx": 1726089,
+          "cy": 2954840,
+          "prst": "bentConnector3",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 110836,
+          "y": 46180,
+          "cx": 12081164,
+          "cy": 876687,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Transaction Flow Chart for Website Donor Funds"
+        },
+        {
+          "type": "sp",
+          "id": 8,
+          "name": "Content Placeholder 7",
+          "x": 110836,
+          "y": 4590252,
+          "cx": 5541614,
+          "cy": 1519145,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "General support projects are not specific to any school Project costs are school specific"
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Rectangle: Rounded Corners 3",
+          "x": 110836,
+          "y": 2712492,
+          "cx": 2932615,
+          "cy": 1750326,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Donors give to either a school project (restricted), a general support project, (restricted) or general funds (unrestricted)"
+        },
+        {
+          "type": "sp",
+          "id": 17,
+          "name": "Rectangle: Rounded Corners 16",
+          "x": 8265640,
+          "y": 4676382,
+          "cx": 2932615,
+          "cy": 1433015,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Project costs are spent 100% on school art projects for specific schools"
+        },
+        {
+          "type": "sp",
+          "id": 18,
+          "name": "Rectangle: Rounded Corners 17",
+          "x": 3606936,
+          "y": 1721542,
+          "cx": 2932615,
+          "cy": 1433015,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "General funds are discretionary and can cover either overhead or project costs"
+        },
+        {
+          "type": "cxnSp",
+          "id": 9,
+          "name": "Connector: Elbow 8",
+          "x": 3043451,
+          "y": 3587655,
+          "cx": 5222189,
+          "cy": 1805235,
+          "prst": "bentConnector3",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "cxnSp",
+          "id": 19,
+          "name": "Connector: Elbow 18",
+          "x": 3043451,
+          "y": 2438050,
+          "cx": 563485,
+          "cy": 1149605,
+          "prst": "bentConnector3",
+          "flipH": null,
+          "flipV": "1",
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 22,
+          "name": "Rectangle: Rounded Corners 21",
+          "x": 8265641,
+          "y": 1101172,
+          "cx": 2932615,
+          "cy": 1433015,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Overhead costs are things like PO box and website fees"
+        },
+        {
+          "type": "sp",
+          "id": 24,
+          "name": "Rectangle: Rounded Corners 23",
+          "x": 8265640,
+          "y": 2888777,
+          "cx": 2932615,
+          "cy": 1433015,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "General support project costs are for things like an art timeline database to help schools select art for their hallways"
+        },
+        {
+          "type": "cxnSp",
+          "id": 30,
+          "name": "Connector: Elbow 29",
+          "x": 6539551,
+          "y": 1798030,
+          "cx": 1761934,
+          "cy": 640020,
+          "prst": "bentConnector3",
+          "flipH": null,
+          "flipV": "1",
+          "text": ""
+        },
+        {
+          "type": "cxnSp",
+          "id": 32,
+          "name": "Connector: Elbow 31",
+          "x": 6539551,
+          "y": 2438050,
+          "cx": 1726089,
+          "cy": 1167235,
+          "prst": "bentConnector3",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "cxnSp",
+          "id": 36,
+          "name": "Straight Arrow Connector 35",
+          "x": 3043451,
+          "y": 3587655,
+          "cx": 5222189,
+          "cy": 17630,
+          "prst": "straightConnector1",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 110836,
+          "y": 46180,
+          "cx": 12081164,
+          "cy": 876687,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Website Donor FormsEntry Point for Project Funding"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Content Placeholder 4",
+          "x": 253639,
+          "y": 938439,
+          "cx": 4869072,
+          "cy": 3597702,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Simple Donate Button next to each project on website takes donors to a common donation form with a drop down menu to select a projectThe Saint Luke Guild should be able to add projects to the listAll form information should be communicated to the Saint Luke Guild along with money"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Rectangle: Rounded Corners 2",
+          "x": 1728951,
+          "y": 4731972,
+          "cx": 1918447,
+          "cy": 703729,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Donate Now"
+        },
+        {
+          "type": "grpSp",
+          "id": 7,
+          "name": "Group 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "First Name: _______________________Last Name: _______________________Address: _________________________City: ____________________________State:  [Drop Down ]         Zip: ___________\uf085  Keep me anonymous to project schools.Project: [Drop Down List]Pledge Amount: $  ___________Credit Card Info"
+        },
+        {
+          "type": "sp",
+          "id": 8,
+          "name": "Arrow: Right 7",
+          "x": 4087905,
+          "y": 4840244,
+          "cx": 932325,
+          "cy": 487183,
+          "prst": "rightArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "slide5.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 110836,
+          "y": 46180,
+          "cx": 12081164,
+          "cy": 876687,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Website Donor FormsIdeal Point"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Content Placeholder 4",
+          "x": 253639,
+          "y": 938439,
+          "cx": 4869072,
+          "cy": 3597702,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "In an ideal world, we would be able to have bar graphs showing how much money has been donated to a given projectSimilar to KickstarterSLG staff would be able to enter check donations to move the barThis would mean each project would have a standalone donor form."
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Rectangle: Rounded Corners 2",
+          "x": 1201275,
+          "y": 5276081,
+          "cx": 1918447,
+          "cy": 703729,
+          "prst": "roundRect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Donate Now"
+        },
+        {
+          "type": "grpSp",
+          "id": 7,
+          "name": "Group 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Project: Holy Child Catholic SchoolFirst Name: _______________________Last Name: _______________________Address: _________________________City: ____________________________State:  [Drop Down ]         Zip: ___________\uf085 Keep me anonymous to the above school.Pledge Amount: $  ___________Credit Card Info"
+        },
+        {
+          "type": "sp",
+          "id": 8,
+          "name": "Arrow: Right 7",
+          "x": 4255368,
+          "y": 5334618,
+          "cx": 932325,
+          "cy": 487183,
+          "prst": "rightArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "grpSp",
+          "id": 13,
+          "name": "Group 12",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "$15,250 of $30,000 Raised"
+        },
+        {
+          "type": "grpSp",
+          "id": 14,
+          "name": "Group 13",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "$15,250 of $30,000 Raised"
+        }
+      ]
+    },
+    {
+      "file": "slide6.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Bank Account Info"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 129981,
+          "y": 938440,
+          "cx": 4459948,
+          "cy": 5687646,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Routing #: 307083911Auto WD and Direct Deposit #: 9225000161Account #: 10422500-9001Not used for electronic transactions"
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 4762187,
+          "y": 926471,
+          "cx": 7111760,
+          "cy": 5896834,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image3.png",
+          "asset": "image3.png"
+        }
+      ]
+    },
+    {
+      "file": "slide7.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "KYC documentation"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 480061,
+          "y": 938440,
+          "cx": 10386722,
+          "cy": 675207,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Passport/Driver\u2019s License for Douglas Coombs"
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 67047,
+          "y": 1683381,
+          "cx": 6042212,
+          "cy": 3729317,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image4.jpg",
+          "asset": "image4.jpg"
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "Picture 6",
+          "x": 6220216,
+          "y": 1689847,
+          "cx": 5923677,
+          "cy": 3722851,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image5.jpg",
+          "asset": "image5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide8.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Legalese on Website"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 480060,
+          "y": 938440,
+          "cx": 11052297,
+          "cy": 5687646,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Legal entity name: The Saint Luke GuildGoverning jurisdiction: New MexicoMerchant registered business address: 2718 University Blvd NE, Albuquerque, NM 87107Privacy PolicySee next slideRefund/Cancellation/Return PolicySee next slideSee www.SaintLukeGuild.com/About-UsTo be moved to www.SaintLukeGuild.com/Legalese at a future date"
+        }
+      ]
+    },
+    {
+      "file": "slide9.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Privacy and Refund Policy"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 318052,
+          "y": 938439,
+          "cx": 11425713,
+          "cy": 5193419,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "https://www.saintlukeguild.com/about-usRefund PolicyThe Saint Luke Guild does not deliver products to individuals; therefore cancellations and returns are not applicable.  Also, donor refunds are not generally offered.  Refunds will be considered on a case-by-case basis before money is distributed to the designated project (e.g., if someone accidentally entered the wrong donation amount and contact is made within one business day).  To request a refund, contact us at refunds@saintlukeguild.com.Privacy PolicyThe Saint Luke Guild takes donor information and privacy very seriously.  We will never sell donor information to a third party for any reason.Donor information will only be shared with outside businesses as necessary to deliver services (e.g., processing credit card donations, etc.).The exception is when donors choose a specific school project to donate to.  When this occurs, donor information will typically be shared with the specified school, so that they can know to whom they should be grateful.  Donors may opt out of information sharing on the donor form."
+        }
+      ]
+    },
+    {
+      "file": "slide10.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Regulatory Documents"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "License required to operate the businessNM_SoS_InitialReport_2016917025-502856.pdfNM_ArticlesOfIncorporation_AoI_Approved.pdfLicenses for all jurisdictions in which you intend to provide your services.Starting in NM.  Other locations unknown, so far.  Copy of AML/KYC policy and proceduresNot sure what this would look like.  Are there examples?Completed AML QuestionnaireHas this been done?"
+        }
+      ]
+    },
+    {
+      "file": "slide11.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Corporate Documents"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Please provide 501c3 document to confirm tax exempt statusThe following are attachedIRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdfIRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf"
+        }
+      ]
+    }
+  ],
+  "media_assets": [
+    "image3.png",
+    "image4.jpg",
+    "image5.jpg"
+  ]
+}

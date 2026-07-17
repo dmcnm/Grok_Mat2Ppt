@@ -1,0 +1,18 @@
+slide1 sp missing geom: Title 1
+slide1 sp missing geom: Footer Placeholder 2
+slide1 sp missing geom: Slide Number Placeholder 3
+slide2 sp missing geom: Footer Placeholder 3
+slide2 sp missing geom: Slide Number Placeholder 4
+slide3 sp missing geom: Title 8
+slide3 sp missing geom: Footer Placeholder 6
+slide3 sp missing geom: Slide Number Placeholder 7
+slide4 sp missing geom: Title 1
+slide4 sp missing geom: Content Placeholder 2
+slide4 sp missing geom: Footer Placeholder 3
+slide4 sp missing geom: Slide Number Placeholder 4
+slide5 sp missing geom: Title 1
+slide5 sp missing geom: Footer Placeholder 3
+slide5 sp missing geom: Slide Number Placeholder 4
+slide6 sp missing geom: Title 1
+slide6 sp missing geom: Footer Placeholder 3
+slide6 sp missing geom: Slide Number Placeholder 4

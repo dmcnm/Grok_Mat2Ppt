@@ -1,0 +1,100 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/20_Dropbox_Recreation__ExampleItinerary.pptx",
+  "source_name": "20_Dropbox_Recreation__ExampleItinerary.pptx",
+  "slide_size_emu": {
+    "cx": "9144000",
+    "cy": "6858000",
+    "type": "screen4x3"
+  },
+  "n_parts": 47,
+  "n_slides": 2,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 1026,
+          "name": "Picture 2",
+          "x": 1691640,
+          "y": -1061992,
+          "cx": 5715000,
+          "cy": 9058182,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 1026,
+          "name": "Picture 2",
+          "x": -2590800,
+          "y": 3276599,
+          "cx": 5715000,
+          "cy": 381000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg"
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 2",
+          "x": -195263,
+          "y": 1338264,
+          "cx": 5715000,
+          "cy": 4257673,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg"
+        }
+      ]
+    }
+  ],
+  "media_assets": [
+    "image1.jpeg"
+  ]
+}

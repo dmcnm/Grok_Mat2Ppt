@@ -1,0 +1,1448 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/25_Dropbox_w-job_search__CES Recap_Modeling_100513_FinalD2.pptx",
+  "source_name": "25_Dropbox_w-job_search__CES Recap_Modeling_100513_FinalD2.pptx",
+  "slide_size_emu": {
+    "cx": "9144000",
+    "cy": "6858000",
+    "type": "screen4x3"
+  },
+  "n_parts": 194,
+  "n_slides": 26,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 3073,
+          "name": "Rectangle 1",
+          "x": 190500,
+          "y": 1219200,
+          "cx": 8763000,
+          "cy": 2362200,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 3075,
+          "name": "Picture 3",
+          "x": 457200,
+          "y": 4648200,
+          "cx": 1864775,
+          "cy": 1524000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image6.png",
+          "asset": "image6.png"
+        },
+        {
+          "type": "sp",
+          "id": 11,
+          "name": "Title 10",
+          "x": 152400,
+          "y": 1635760,
+          "cx": 8610600,
+          "cy": 1640840,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable Effects Study Program Reviewand Cable Modelling Approach"
+        },
+        {
+          "type": "sp",
+          "id": 12,
+          "name": "Subtitle 11",
+          "x": 2286000,
+          "y": 3505200,
+          "cx": 4572000,
+          "cy": 1295400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Douglas CoombsMay 2, 2011"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4097,
+          "name": "Rectangle 1",
+          "x": 1282700,
+          "y": 57150,
+          "cx": 6565900,
+          "cy": 1085850,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "The Cable Effects Study Missions"
+        },
+        {
+          "type": "sp",
+          "id": 4098,
+          "name": "Rectangle 2",
+          "x": 152400,
+          "y": 1195387,
+          "cx": 5562600,
+          "cy": 5129213,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Do electrical cable harnesses significantly affect dynamics of precision spacecraft structures?Lightweight and with stringent jitter budgetsCable harnesses are generally not included in spacecraft structural design.  As a consequence:Models and designs are overly conservativeIsolation system requirements are too stringentStructural control systems may be adversely affected by plant model errorsMotivation: develop techniques and methodologies to incorporate cable dynamics in models thereby reducing conservatism and program risk"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "TextBox 5",
+          "x": 5559271,
+          "y": 4724400,
+          "cx": 3584729,
+          "cy": 938719,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Cabling makes a significant amount of dry mass http://www.dlr.de/rd/en/Portaldata/1/Resources/portal_news/newsarchiv2009_3/Tandem-X_intergration_380.jpg"
+        },
+        {
+          "type": "pic",
+          "id": 549890,
+          "name": "Picture 2",
+          "x": 5524500,
+          "y": 2057400,
+          "cx": 3619500,
+          "cy": 2609850,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image7.jpeg",
+          "asset": "image7.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 228600,
+          "cx": 7161213,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "The Why of theCable Effects Study"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 228600,
+          "y": 1239838,
+          "cx": 8763000,
+          "cy": 5183187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable harnesses are a large part of spacecraft mass and generally considered a non-structural component at low frequencies. A survey showed that the cable-to-structure mass ratio for DoD and commercial spacecraft can approach 25%.Cables are not modeled in detail because no one cared about the \u201cmid frequency\u201d range until a need for better large precision structure models was identified.  Mission performance is driven by on-orbit dynamics: better models are required.The program was directed to finding a solution to an Air Force need, not to develop an understanding of the fundamental mechanics of cable behavior.Applied research"
+        }
+      ]
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 228600,
+          "cx": 7161213,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "The Significance of Cable Modelling"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 381000,
+          "y": 1447800,
+          "cx": 5867400,
+          "cy": 4594225,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Electrical cables mounted on space structures can influence the structural dynamics. The effects of cables on spacecraft dynamics is not documented in the industry. Cables not included in models can impact controller performance and robustness, impact isolation system requirements and increase program risk."
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 6477000,
+          "y": 3048000,
+          "cx": 2546350,
+          "cy": 2867098,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image8.jpeg",
+          "asset": "image8.jpeg"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "TextBox 4",
+          "x": 457200,
+          "y": 4724400,
+          "cx": 5562600,
+          "cy": 1631216,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Model errors are determined late in the flight program (i.e., when cables exist). Is there time for controller tuning? The worst time to determine that the controller is miss-tuned is when the satellite is on-station."
+        }
+      ]
+    },
+    {
+      "file": "slide5.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 228600,
+          "cx": 7161213,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "The What of theCable Effects Study / Focus Restrictions"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 228600,
+          "y": 1239838,
+          "cx": 8763000,
+          "cy": 5183187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Only studied small-to-moderate conductor count twisted pair cable bundles.  Not coaxial, ribbon cables, twisted pair in wire or polymer braided sleeving.Concerned with low-level vibration problem (i.e., when the spacecraft is on-station), not launch vibration or shock conditions.Cables with bends and connectors excluded from study."
+        },
+        {
+          "type": "grpSp",
+          "id": 13,
+          "name": "Group 12",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 12,
+          "name": "Picture 11",
+          "x": 2057400,
+          "y": 4038600,
+          "cx": 4800600,
+          "cy": 914400,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId7",
+          "media_target": "../media/image13.jpeg",
+          "asset": "image13.jpeg"
+        },
+        {
+          "type": "pic",
+          "id": 549889,
+          "name": "Picture 1",
+          "x": 6400800,
+          "y": 3962400,
+          "cx": 990600,
+          "cy": 911627,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId8",
+          "media_target": "../media/image14.wmf",
+          "asset": "image14.wmf"
+        }
+      ]
+    },
+    {
+      "file": "slide6.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "The How of the Cable Effects Study"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable models are implemented using Nastran standard elements. Well integrated with standard analysis toolsLinear beam elements are appropriate, using composite properties and general formulation.Measurements showed that cable models must include shear: a Bernoulli-Euler beam formulation cannot predict cable dynamicsEquivalent cable properties in the Nastran deck are obtained through experiment and parameter estimationThe cable-to-structure model uses linear spring elements (PBUSH)Spring properties were identified through experiment Validation experiments used throughout the program for cable parameter estimation and modeling techniquesDemonstration experiment to verify methodsValidation and verification \u2013 it was a research program"
+        }
+      ]
+    },
+    {
+      "file": "slide7.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 228600,
+          "cx": 7161213,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Research Topics not Includedin the Cable Effects Study"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 539750,
+          "y": 1676400,
+          "cx": 8255000,
+          "cy": 4746625,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Bundles of twisted pair conductors exceeding 30 pairs and 20 AWGLimited design space to maintain focusNonlinear cable modelsParameter extraction was based on the assumption of linear behaviorDetailed cable mechanicsModel-based cable bulk property derivationCable loss mechanism modelsInter-strand in a conductor, loss due to strain energy in the conductor shields or conductor-to-conductor lossLocalized cable tie-down behavior"
+        }
+      ]
+    },
+    {
+      "file": "slide8.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 25,
+          "name": "Title 24",
+          "x": 990600,
+          "y": 228600,
+          "cx": 7161213,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable Construction and Effects on Dynamics"
+        },
+        {
+          "type": "pic",
+          "id": 23,
+          "name": "Content Placeholder 22",
+          "x": 6320839,
+          "y": 1143000,
+          "cx": 2365961,
+          "cy": 2819400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image15.png",
+          "asset": "image15.png"
+        },
+        {
+          "type": "sp",
+          "id": 26,
+          "name": "Content Placeholder 25",
+          "x": 0,
+          "y": 1219200,
+          "cx": 6096000,
+          "cy": 1981200,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Bundles of twisted pair single-conductor wires stitched and wrapped with Kapton\u00ae tapeConsistent with spacecraft power and signal cable fabricationCables add damping and can shift modal frequencies"
+        },
+        {
+          "type": "grpSp",
+          "id": 9,
+          "name": "Group 8",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "grpSp",
+          "id": 22,
+          "name": "Group 21",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable not resonantCable resonant"
+        }
+      ]
+    },
+    {
+      "file": "slide9.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 7,
+          "name": "Title 6",
+          "x": 991393,
+          "y": 176212,
+          "cx": 7161213,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Attachment to Host Structure:Cable-Structure Interaction"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Slide Number Placeholder 4",
+          "x": 7010400,
+          "y": 6492875,
+          "cx": 2133600,
+          "cy": 365125,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "9"
+        },
+        {
+          "type": "sp",
+          "id": 11,
+          "name": "Content Placeholder 20",
+          "x": 4800600,
+          "y": 1295400,
+          "cx": 3962400,
+          "cy": 1905000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "TC-105 mounting tabs bonded to host structureAllow controllable cable attachment using zip-ties and installation tool (zip-tie gun)Lacing cord used as an alternative to zip-ties"
+        },
+        {
+          "type": "pic",
+          "id": 12,
+          "name": "Content Placeholder 7",
+          "x": 4038600,
+          "y": 4191000,
+          "cx": 5105400,
+          "cy": 2135311,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image20.jpeg",
+          "asset": "image20.jpeg"
+        },
+        {
+          "type": "grpSp",
+          "id": 2,
+          "name": "Group 24",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "TC-105Lacing cordCableBase Structure"
+        },
+        {
+          "type": "pic",
+          "id": 23,
+          "name": "Picture 2",
+          "x": 381000,
+          "y": 3095625,
+          "cx": 1095375,
+          "cy": 666750,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId5",
+          "media_target": "../media/image21.jpeg",
+          "asset": "image21.jpeg"
+        },
+        {
+          "type": "cxnSp",
+          "id": 24,
+          "name": "Straight Arrow Connector 30",
+          "x": 813262,
+          "y": 2980198,
+          "cx": 151407,
+          "cy": 79445,
+          "prst": "straightConnector1",
+          "flipH": "1",
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 30,
+          "name": "TextBox 29",
+          "x": 914400,
+          "y": 1371600,
+          "cx": 2667000,
+          "cy": 707886,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable attachment to host structure"
+        },
+        {
+          "type": "sp",
+          "id": 25,
+          "name": "TextBox 24",
+          "x": 4191000,
+          "y": 3810000,
+          "cx": 3657600,
+          "cy": 400110,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable-structure interaction"
+        }
+      ]
+    },
+    {
+      "file": "slide10.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable Modeling Approach Overview"
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "Picture 6",
+          "x": 838200,
+          "y": 1371600,
+          "cx": 7253641,
+          "cy": 5022689,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image22.png",
+          "asset": "image22.png"
+        }
+      ]
+    },
+    {
+      "file": "slide11.xml",
+      "shapes": [
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 5542356,
+          "y": 1447800,
+          "cx": 3525444,
+          "cy": 3962400,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image23.jpeg",
+          "asset": "image23.jpeg"
+        },
+        {
+          "type": "sp",
+          "id": 6145,
+          "name": "Rectangle 1",
+          "x": 990600,
+          "y": 152400,
+          "cx": 7162800,
+          "cy": 914400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "The Cable ParameterExtraction Mission and Approach"
+        },
+        {
+          "type": "pic",
+          "id": 6147,
+          "name": "Picture 3",
+          "x": 5486400,
+          "y": 1524000,
+          "cx": 3505200,
+          "cy": 3917950,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId4",
+          "media_target": "../media/image24.jpeg",
+          "asset": "image24.jpeg"
+        },
+        {
+          "type": "sp",
+          "id": 6146,
+          "name": "Rectangle 2",
+          "x": 152400,
+          "y": 1219200,
+          "cx": 5791200,
+          "cy": 5184775,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Test-derived cable properties are neededWhat is the appropriate model for a cable?Inputs for linear finite element modelsExtensional modulus derived through testShear modulus based on lateral driving point mobility FRFs\u201cEasy\u201d to measureChallengesAccount for vibrometer time delay Cancel driving point fixture mass loading effectRepeated rootsLightly damped fixture modesParameter estimation algorithm Based on a beam model including shearSpecimen cross sectional area and extensional modulus from tensile testsDetermine area moment of inertia and k\u2019GValidated through experiment"
+        }
+      ]
+    },
+    {
+      "file": "slide12.xml",
+      "shapes": [
+        {
+          "type": "pic",
+          "id": 3,
+          "name": "Picture 2",
+          "x": 4953000,
+          "y": 3733800,
+          "cx": 3733800,
+          "cy": 2800350,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image25.png",
+          "asset": "image25.png"
+        },
+        {
+          "type": "grpSp",
+          "id": 15,
+          "name": "Group 14",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 11,
+          "name": "Rectangle 10",
+          "x": 4419600,
+          "y": 1397764,
+          "cx": 4572000,
+          "cy": 2107436,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "The natural frequency-to-mode number progression of a cable follows a quadratic relationship This is how an beam behavesDiverges from elementary beam theory: shear must be included"
+        },
+        {
+          "type": "sp",
+          "id": 12,
+          "name": "AutoShape 14",
+          "x": 4596118,
+          "y": 3281584,
+          "cx": 304800,
+          "cy": 2052641,
+          "prst": "upArrow",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 14,
+          "name": "Title 13",
+          "x": 990600,
+          "y": 228600,
+          "cx": 7161213,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable Natural Frequency Progression:The Beam Model Indicator"
+        }
+      ]
+    },
+    {
+      "file": "slide13.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 13313,
+          "name": "Rectangle 1",
+          "x": 990600,
+          "y": 269875,
+          "cx": 7159625,
+          "cy": 720725,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Bare Cable Lateral Test: Parameter Estimation Approach"
+        },
+        {
+          "type": "sp",
+          "id": 13314,
+          "name": "Rectangle 2",
+          "x": 2895600,
+          "y": 1295400,
+          "cx": 6096000,
+          "cy": 5181600,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Measurements are cleaned up Modal parameter estimation step\uf067 (        ) and k\u00b4G determined from modal frequenciesEstimate I and effective diameterDamping averaged over all modesEstimated parameters benchmarked by comparing shear model frequencies and measurementParameters estimated for different spans of each cable specimen and multiple specimens of each cable construction"
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 228601,
+          "y": 1219200,
+          "cx": 2220702,
+          "cy": 5154323,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId4",
+          "media_target": "../media/image28.png",
+          "asset": "image28.png"
+        },
+        {
+          "type": "graphicFrame",
+          "id": 7,
+          "name": "Object 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "content": "graphicFrame_other"
+        }
+      ]
+    },
+    {
+      "file": "slide14.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Parameter Estimation: Tie down stiffness"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "Content Placeholder 5",
+          "x": 0,
+          "y": 1219201,
+          "cx": 6248400,
+          "cy": 2438400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Rod-on-beam eliminates cable property uncertainty Tune attachment stiffness to correlate test and model FRFsDirect measurement tests an alternative means to estimate Assumes cable is infinitely stiff over frequency range of estimate"
+        },
+        {
+          "type": "grpSp",
+          "id": 10,
+          "name": "Group 9",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Copper Rod"
+        },
+        {
+          "type": "pic",
+          "id": 14,
+          "name": "Picture 13",
+          "x": 152400,
+          "y": 4343400,
+          "cx": 5181600,
+          "cy": 2377631,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId4",
+          "media_target": "../media/image30.emf",
+          "asset": "image30.emf"
+        },
+        {
+          "type": "pic",
+          "id": 12,
+          "name": "Picture 4",
+          "x": 5470181,
+          "y": 4343400,
+          "cx": 3673819,
+          "cy": 2286953,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId5",
+          "media_target": "../media/image31.emf",
+          "asset": "image31.emf"
+        }
+      ]
+    },
+    {
+      "file": "slide15.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 146433,
+          "name": "Text Box 1",
+          "x": 990600,
+          "y": 269875,
+          "cx": 7162800,
+          "cy": 815975,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Model Validation: Tie downs"
+        },
+        {
+          "type": "sp",
+          "id": 146434,
+          "name": "Text Box 2",
+          "x": 0,
+          "y": 1143000,
+          "cx": 4724400,
+          "cy": 4038600,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Tie-down parameters play an important role in cable/structure interactionsOffset more important for stiff cables than for compliant onesRod-on-beam based attachment stiffness values used in cable-on-beam modelsStiffnesses from \u201cdirect measurement\u201d tests did not perform as well"
+        },
+        {
+          "type": "sp",
+          "id": 8,
+          "name": "TextBox 7",
+          "x": 152400,
+          "y": 5486400,
+          "cx": 4343400,
+          "cy": 1015663,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "From rod-on-beam correlation: K1=K2=K3 = 3x104 lbf/inchK5 =K6 = 100 inch-lbf/rad"
+        },
+        {
+          "type": "pic",
+          "id": 817154,
+          "name": "Picture 2",
+          "x": 4419600,
+          "y": 1219200,
+          "cx": 4572000,
+          "cy": 2603549,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image32.emf",
+          "asset": "image32.emf"
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "Picture 1",
+          "x": 4876800,
+          "y": 3810001,
+          "cx": 4064985,
+          "cy": 3048000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId4",
+          "media_target": "../media/image33.emf",
+          "asset": "image33.emf"
+        }
+      ]
+    },
+    {
+      "file": "slide16.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable-on-Beam Results"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 0,
+          "y": 1828800,
+          "cx": 4191000,
+          "cy": 4572000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable effects differ over two distinct frequency rangesMass and stiffness effects below cable resonanceIncreased damping above cable resonanceGood agreement between measured and modeled dynamicsBuild-to-build variability is evident in predictions using \u201ccoupon\u201d or \u201cfamily\u201d cable properties"
+        },
+        {
+          "type": "pic",
+          "id": 8,
+          "name": "Picture 14",
+          "x": 6553200,
+          "y": 2133600,
+          "cx": 1095375,
+          "cy": 666750,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image18.jpeg",
+          "asset": "image18.jpeg"
+        },
+        {
+          "type": "grpSp",
+          "id": 18,
+          "name": "Group 17",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable not resonantCable resonant"
+        }
+      ]
+    },
+    {
+      "file": "slide17.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 228600,
+          "cx": 7161213,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Model Validation Effort \u2013A Panel Structure"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 152400,
+          "y": 1239838,
+          "cx": 5257800,
+          "cy": 5183187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Mission: A test case to prove the applicability of the cable test, parameter estimation and modelling methods to a spacecraft-like panelGround rules: Conduct experiments to quantify dynamics. Modelling effort uses estimated cable properties, but cannot include model tuning.Test caseAluminum panel 2\u2019 x 2\u2019 x 3/16\u201dThree cast aluminum electronics boxesCable mass ratios ~ 3% or 6%"
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 1",
+          "x": 6019800,
+          "y": 1447800,
+          "cx": 2874357,
+          "cy": 4307821,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image35.jpeg",
+          "asset": "image35.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "slide18.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Measured Driving Point FRFs"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 152400,
+          "y": 1239838,
+          "cx": 4419600,
+          "cy": 5183187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Little influence in panel dynamics below cable resonanceVarious cable spans become resonant between ~75 and ~175 HzDetermined by cable type and open span dimensionsLow cable-to-panel mass ratio limits the cable influence on the coupled dynamics"
+        },
+        {
+          "type": "grpSp",
+          "id": 10,
+          "name": "Group 9",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "slide19.xml",
+      "shapes": [
+        {
+          "type": "pic",
+          "id": 808964,
+          "name": "Picture 4",
+          "x": 4708936,
+          "y": 1905000,
+          "cx": 4435064,
+          "cy": 3962400,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId4",
+          "media_target": "../media/image38.emf",
+          "asset": "image38.emf"
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Panel Model Validation"
+        },
+        {
+          "type": "grpSp",
+          "id": 4,
+          "name": "Group 15",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Running RMS error, zeroed at 90 and 200 Hz"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 0,
+          "y": 1143000,
+          "cx": 4800600,
+          "cy": 5280025,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Compared traditional modelling approach (i.e., nonstructural mass) with dynamic cable modelsRunning RMS metric is driven by modal dampingLumped mass approach does not account for coupling and over estimates responseNonstructural mass approach may be adequate for low frequencies and low cable/structure mass ratios"
+        },
+        {
+          "type": "pic",
+          "id": 808963,
+          "name": "Picture 3",
+          "x": 4724400,
+          "y": 2057400,
+          "cx": 4419600,
+          "cy": 4419600,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId6",
+          "media_target": "../media/image40.emf",
+          "asset": "image40.emf"
+        },
+        {
+          "type": "graphicFrame",
+          "id": 808962,
+          "name": "Object 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "content": "graphicFrame_other"
+        },
+        {
+          "type": "grpSp",
+          "id": 5,
+          "name": "Group 18",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Least benefit from dynamic cable models with low mass ratio and/or large magnitude non-interacting modes"
+        }
+      ]
+    },
+    {
+      "file": "slide20.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Shear Modulus Choice"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 76200,
+          "y": 1981200,
+          "cx": 4362450,
+          "cy": 4441825,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Use of \u201cfamily\u201d or \u201ccoupon\u201d shear modulus values does not have large impact on model accuracy for cables testedDifferent conclusion than for cable-on-beam test"
+        },
+        {
+          "type": "pic",
+          "id": 809989,
+          "name": "Picture 5",
+          "x": 4343400,
+          "y": 1447800,
+          "cx": 4800600,
+          "cy": 5029200,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image42.emf",
+          "asset": "image42.emf"
+        }
+      ]
+    },
+    {
+      "file": "slide21.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Major Findings"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "A shear beam model predicts cable dynamicsCoupon tests may be justified for critical applicationsVariability in cable properties can be traced toCable construction due to hand fabrication Differences in wire structural properties can vary between lotsRunning stitch tensionThere is evidence of cable property dependence on spanMeasurement of cable extensional modulus requires a low load capacity tensile test machine and a custom extensometer witness fixtureRod-on-beam validation experiments were instrumental in refining connection stiffness value estimates"
+        }
+      ]
+    },
+    {
+      "file": "slide22.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Title 4",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Summary"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "Content Placeholder 5",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Innovative test, analysis and modelling approaches were developed to Increase accuracy of models to include the influence of power and signal cablesUsed standard linear finite element model methodsCables can have a significant impact on coupled structure dynamicsMass loading on the cable stiffness lineIncreased damping above first cable resonanceLarge reductions in resonant response when cable and host structure natural frequencies are close to one anotherThe traditional nonstructural mass approach cannot predict the cable interaction, leading to overestimates of resonant response"
+        }
+      ]
+    },
+    {
+      "file": "slide23.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Open Research Topics"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 228600,
+          "y": 1239838,
+          "cx": 8763000,
+          "cy": 5183187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Develop cable fabrication techniques to increase cable predictability for structural dynamicsExtend efforts to include other cable construction methodsConsiderable interest in the space communityExtend efforts to more massive cables and those with bends and connectorsCable service loop modelling Study behavior of cables under launch vibration and mechanical shock conditionsWorkmanship under high loading conditionsMounting bracket strength Concerns in the space industry and DoD Detailed cable mechanicsReduce dependence on empirically derived propertiesAccelerate modelling and analysis programs"
+        }
+      ]
+    },
+    {
+      "file": "slide24.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 685800,
+          "y": 1295400,
+          "cx": 7772400,
+          "cy": 1470025,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Questions"
+        }
+      ]
+    },
+    {
+      "file": "slide25.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Acknowledgments"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Thanks to the Air Force Research Laboratory and the Air Force Office for Scientific Research for funding.Thanks to the following project collaborators without whom this work would not have been possible.  Dr. Vit Babu\u0161ka - Sandia National LaboratoriesDr. Emil Ardelean - Schafer CorporationJames Goodding - CSA EngineeringCody Griffee - CSA EngineeringGreg Mehle - CSA EngineeringDr. Lawrence \u201cRobbie\u201d Robertson AFRL, SV*Dr. Steve Lane - AFRL, SV*Brea Ingram- AFRL, SV**AFRL, SV = Air Force Research Laboratory, Space Vehicles Directorate"
+        }
+      ]
+    },
+    {
+      "file": "slide26.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Cable Tie Down Details"
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 1828800,
+          "y": 1981200,
+          "cx": 5260174,
+          "cy": 3124200,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image43.png",
+          "asset": "image43.png"
+        }
+      ]
+    }
+  ],
+  "media_assets": [
+    "image13.jpeg",
+    "image14.wmf",
+    "image15.png",
+    "image18.jpeg",
+    "image20.jpeg",
+    "image21.jpeg",
+    "image22.png",
+    "image23.jpeg",
+    "image24.jpeg",
+    "image25.png",
+    "image28.png",
+    "image30.emf",
+    "image31.emf",
+    "image32.emf",
+    "image33.emf",
+    "image35.jpeg",
+    "image38.emf",
+    "image40.emf",
+    "image42.emf",
+    "image43.png",
+    "image6.png",
+    "image7.jpeg",
+    "image8.jpeg"
+  ]
+}

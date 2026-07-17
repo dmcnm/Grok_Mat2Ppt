@@ -1,0 +1,663 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/13_Dropbox_Education__Engineering_CareerOverview_SHS_DMCoombs_20210407_r.pptx",
+  "source_name": "13_Dropbox_Education__Engineering_CareerOverview_SHS_DMCoombs_20210407_r.pptx",
+  "slide_size_emu": {
+    "cx": "9144000",
+    "cy": "6858000",
+    "type": "screen4x3"
+  },
+  "n_parts": 144,
+  "n_slides": 11,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 3073,
+          "name": "Rectangle 1",
+          "x": 190500,
+          "y": 1219200,
+          "cx": 8763000,
+          "cy": 2362200,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 11,
+          "name": "Title 10",
+          "x": 152400,
+          "y": 1635760,
+          "cx": 8610600,
+          "cy": 1640840,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Mechanical EngineeringCareer Overview"
+        },
+        {
+          "type": "sp",
+          "id": 12,
+          "name": "Subtitle 11",
+          "x": 1981200,
+          "y": 3505200,
+          "cx": 5486400,
+          "cy": 1295400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Douglas CoombsApril 8, 2021"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 0,
+          "cx": 7161213,
+          "cy": 1084263,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Overview"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Personal IntroTypes of EngineeringEducational RequirementsCareer OverviewSucceed in Any CareerQ & ADisclaimer: These are the presenter\u2019s opinions and do not necessarily reflect those of his employers, past and present"
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 0,
+          "cx": 7161213,
+          "cy": 1084263,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Brief Personal Intro"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Name: Douglas CoombsEmployer: Sandia National LaboratoriesTitle: Principal Member of the Technical StaffJob Roles: Audit scientific and engineering work to ensure national securityPerform system analyses to ensure safetyManage software projects to help engineers work more productively Contribute to R&D efforts to advance product linesDid that make any sense?"
+        }
+      ]
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 19,
+          "name": "Group 18",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "\uf0fc"
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 0,
+          "cx": 7161213,
+          "cy": 1084263,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Types of Engineering"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "What do engineers do? We solve scientific and technical problems to create the infrastructure and products that enable modern lifeTrain engineers vs. technical engineers Types of EngineersCivil, Mechanical, and Electrical (most engineers) Niche fieldsChemical, Bio-Medical, Materials, Industrial, Aerospace, Mining, Petroleum, Nuclear, Marine, Agricultural, EnvironmentalWide range of pay depending on industry, difficulty and educational level attained ($50k-$250k, median ~85k)Commodities vs cutting edge technologiesScalability of productGood bread and butter job to support a family withMost people can do it if they work hard enough \u2013 not like sports or acting where only the top .01% succeed and make enough money to support a family"
+        },
+        {
+          "type": "grpSp",
+          "id": 12,
+          "name": "Group 11",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Civil Engineering Bridges, Roads,  Dams, Skyscrapers, Sewage Treatment"
+        },
+        {
+          "type": "grpSp",
+          "id": 26,
+          "name": "Group 25",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Mechanical Engineering Rockets, Trucks, Cars, Household Appliances, Airplanes, Machines in General"
+        },
+        {
+          "type": "grpSp",
+          "id": 36,
+          "name": "Group 35",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Electrical Engineering Computers, Phones, Communication Infrastructure, General Electronics"
+        },
+        {
+          "type": "grpSp",
+          "id": 44,
+          "name": "Group 43",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "slide5.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 0,
+          "cx": 7161213,
+          "cy": 1084263,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Educational Requirements"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 76200,
+          "y": 1143001,
+          "cx": 9067800,
+          "cy": 4343400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "A bachelors degree in engineering \uf0e8 entry level jobsA master\u2019s (minimum) is required for more advanced projects Most flexible degree.  Takes an extra two years after getting a bachelor\u2019s degreeMore advanced engineering pays better \u2013 Excellent investment of timeA PhD is required for very high level projects Can narrow opportunities.  Increases pay in many fields but can take a long time to attain (typically 2-8 years, average of 3-4).Sometimes the monetary pay-off isn\u2019t there \u2013 Succeed or fail quickly is a good strategyEngineers get paid to go to graduate school.  They only take out loans for undergrad."
+        },
+        {
+          "type": "pic",
+          "id": 6,
+          "name": "Picture 5",
+          "x": 2438401,
+          "y": 4497352,
+          "cx": 4876800,
+          "cy": 2371533,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image30.png",
+          "asset": "image30.png"
+        },
+        {
+          "type": "cxnSp",
+          "id": 8,
+          "name": "Straight Arrow Connector 7",
+          "x": 5029200,
+          "y": 4876800,
+          "cx": 2133600,
+          "cy": 0,
+          "prst": "straightConnector1",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "TextBox 8",
+          "x": 5032169,
+          "y": 4557204,
+          "cx": 2209801,
+          "cy": 307777,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Get paid to go to school"
+        }
+      ]
+    },
+    {
+      "file": "slide6.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 0,
+          "y": 1084264,
+          "cx": 8991600,
+          "cy": 5338762,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "High School and College JobsPicked produce at local farmsYard work for elderlyCampus workstudy: mailroom and computer labBuilt homes for local construction companyBachelor\u2019s degree @ University of PortlandInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 Master\u2019s degree @ University of CincinnatiTaught classes and worked on suspension modeling of pickup trucksYork InternationalDesigned and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitalsMoog-CSA Engineering Projects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.Sandia National Laboratories Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe"
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 0,
+          "cx": 7161213,
+          "cy": 1084263,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Career Overview"
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "TextBox 3",
+          "x": 6935417,
+          "y": 1463073,
+          "cx": 1524000,
+          "cy": 1015663,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Step 1:Learn to work hard"
+        },
+        {
+          "type": "sp",
+          "id": 17,
+          "name": "TextBox 16",
+          "x": 6970823,
+          "y": 2577247,
+          "cx": 2013857,
+          "cy": 1015663,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Step 2:Learn a Valuable Skill"
+        },
+        {
+          "type": "sp",
+          "id": 19,
+          "name": "TextBox 18",
+          "x": 6553097,
+          "y": 3642111,
+          "cx": 2608716,
+          "cy": 1200329,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Step 3:Get Paid to Work Hard at Job Using Your  Valuable Skill"
+        },
+        {
+          "type": "pic",
+          "id": 12,
+          "name": "Picture 11",
+          "x": 9383038,
+          "y": 5230371,
+          "cx": 2628900,
+          "cy": 1743075,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image31.jpg",
+          "asset": "image31.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide7.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 9510,
+          "cx": 7161213,
+          "cy": 1074753,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Step 1: Learn to Work Hard"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 79610,
+          "y": 1205418,
+          "cx": 8566150,
+          "cy": 5183187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "High School and College JobsPicked produce at local farmsYard work for elderlyCampus workstudy: mailroom and computer labBuilt homes for local construction company"
+        },
+        {
+          "type": "grpSp",
+          "id": 11,
+          "name": "Group 10",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "grpSp",
+          "id": 16,
+          "name": "Group 15",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "grpSp",
+          "id": 20,
+          "name": "Group 19",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "grpSp",
+          "id": 4,
+          "name": "Group 3",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "slide8.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 19,
+          "name": "Group 18",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 0,
+          "cx": 7161213,
+          "cy": 1084263,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Step 2: Learn a Valuable Skill"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 169095,
+          "y": 1133172,
+          "cx": 8625655,
+          "cy": 5289853,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Bachelor\u2019s degree @ University of PortlandInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 Master\u2019s degree @ University of CincinnatiTaught classes and worked on suspension modeling of pickup trucks"
+        },
+        {
+          "type": "grpSp",
+          "id": 4,
+          "name": "Group 3",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "slide9.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 6,
+          "name": "Group 5",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "grpSp",
+          "id": 9,
+          "name": "Group 8",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 17969,
+          "cx": 7161213,
+          "cy": 1066294,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Step 3: Work Hard at Job Using Valuable Skill"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": -8906,
+          "y": 1147775,
+          "cx": 8704696,
+          "cy": 814388,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "York InternationalDesigned and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitals"
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Content Placeholder 2",
+          "x": -235,
+          "y": 1143000,
+          "cx": 8642350,
+          "cy": 1395411,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Moog-CSA Engineering Projects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets."
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Content Placeholder 2",
+          "x": 0,
+          "y": 1143000,
+          "cx": 8642350,
+          "cy": 814388,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Sandia National Laboratories Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe"
+        },
+        {
+          "type": "grpSp",
+          "id": 18,
+          "name": "Group 17",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "slide10.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 0,
+          "cx": 7161213,
+          "cy": 1084263,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Succeed in Any Career"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 76200,
+          "y": 1219200,
+          "cx": 8991600,
+          "cy": 5183187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "What are the most important ingredients to a successful career?Hard workLearn as much as possible about the fieldFormal educationInternshipsApprenticeshipsVery difficult and very dangerous jobs pay better than easy jobsExamples: doctors and underwater weldersJobs that can replicate at scale pay better than jobs that require individual attentionSoftware development vs. early childhood educationPay isn\u2019t the only factor in deciding on a careerThe pay is terrible for artists, priests and stay-at-home moms, but the spiritual and emotional rewards are great \u2013 money isn\u2019t the most important thing in life"
+        }
+      ]
+    },
+    {
+      "file": "slide11.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 685800,
+          "y": 3426031,
+          "cx": 7772400,
+          "cy": 1362075,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Questions?"
+        }
+      ]
+    }
+  ],
+  "media_assets": [
+    "image30.png",
+    "image31.jpg"
+  ]
+}

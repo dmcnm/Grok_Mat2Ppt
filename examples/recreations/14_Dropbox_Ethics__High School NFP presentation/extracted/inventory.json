@@ -1,0 +1,2121 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/14_Dropbox_Ethics__High School NFP presentation.pptx",
+  "source_name": "14_Dropbox_Ethics__High School NFP presentation.pptx",
+  "slide_size_emu": {
+    "cx": "9144000",
+    "cy": "6858000",
+    "type": "screen4x3"
+  },
+  "n_parts": 215,
+  "n_slides": 50,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2050,
+          "name": "Rectangle 2",
+          "x": 381000,
+          "y": 304800,
+          "cx": 8077200,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Jeff and Erika Cowman"
+        },
+        {
+          "type": "sp",
+          "id": 2051,
+          "name": "Rectangle 3",
+          "x": 4724400,
+          "y": 1828800,
+          "cx": 4038600,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Met when Jeff was 17 and Erika 18, on Bishop Kelly campusMarried at St. John\u2019s Cathedral June 2003Became NFP Teachers 2009"
+        },
+        {
+          "type": "pic",
+          "id": 1011716,
+          "name": "Picture 4",
+          "x": 381000,
+          "y": 1793837,
+          "cx": 3962400,
+          "cy": 4479235,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image2.jpeg",
+          "asset": "image2.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "pic",
+          "id": 3074,
+          "name": "Picture 2",
+          "x": 0,
+          "y": 1416050,
+          "cx": 9144000,
+          "cy": 5456238,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg"
+        },
+        {
+          "type": "sp",
+          "id": 3075,
+          "name": "Rectangle 3",
+          "x": 381000,
+          "y": 304800,
+          "cx": 8610600,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Children"
+        },
+        {
+          "type": "sp",
+          "id": 3077,
+          "name": "Rectangle 8",
+          "x": 6406682,
+          "y": 1585579,
+          "cx": 2804553,
+          "cy": 4800600,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Mikaela Joan 13Kaleb Alexander 11Baby George in heavenJohn Paul 7Gilbert Joseph 4"
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 67235,
+          "y": 1585579,
+          "cx": 6272212,
+          "cy": 4478671,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId4",
+          "media_target": "../media/image3.jpg",
+          "asset": "image3.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 495300,
+          "y": 76200,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "How we discovered NFP:"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2362200,
+          "y": 1401763,
+          "cx": 6324600,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Grew up on dairy farmKnew about chastity, but not teaching on contraceptionOverheard parents joking about the Pope not liking vasectomiesVet science class in college\u2014Animal reproduction\u2014fertility is scienceAudio Talk:  Professor Janet Smith\u2014Contraception:  Why Not?/Cracking the Myths"
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "TextBox 3",
+          "x": 228600,
+          "y": 2667000,
+          "cx": 1828800,
+          "cy": 830997,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Erika"
+        }
+      ]
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 122237,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "How we discovered NFP:"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2209800,
+          "y": 1600200,
+          "cx": 6934200,
+          "cy": 5257800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Learned about development and testing of the Pill in high school and how women diedMen fertile 24/7, Women a few days, seemed unjust to sterilize a womenLearned about NFP on a H.S. retreat Heard talks on Theology of the Body at Seminary and with ErikaCollege- completed a group project for statistics class on contraceptive use; I knew more about women\u2019s cycles than my female classmates"
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "TextBox 3",
+          "x": 228600,
+          "y": 2667000,
+          "cx": 1828800,
+          "cy": 1200329,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Jeff"
+        }
+      ]
+    },
+    {
+      "file": "slide5.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 76200,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Our purpose here"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2362200,
+          "y": 1676400,
+          "cx": 6629400,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Provide information on what NFP is & what it is notProvide facts / dispel mythsBenefits of NFPAnswer questions"
+        }
+      ]
+    },
+    {
+      "file": "slide6.xml",
+      "shapes": [
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 0,
+          "y": 1447800,
+          "cx": 9144000,
+          "cy": 5562600,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg"
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 685800,
+          "y": 2209800,
+          "cx": 7772400,
+          "cy": 2536825,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Inform\u2026not judge!"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Text Box 24",
+          "x": 8305799,
+          "y": 6443246,
+          "cx": 522287,
+          "cy": 338554,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "file": "slide7.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 122237,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact or Myth?"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2286000,
+          "y": 1447800,
+          "cx": 6629400,
+          "cy": 4495800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Natural Family Planning (NFP) is an old fashioned method of trying to prevent pregnancy (Some call it the Rhythm method or Calendar method)"
+        },
+        {
+          "type": "pic",
+          "id": 4103,
+          "name": "Picture 7",
+          "x": 0,
+          "y": 3392959,
+          "cx": 2286000,
+          "cy": 3456000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image4.jpeg",
+          "asset": "image4.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "slide8.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 31376,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Myth!"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2057400,
+          "y": 1752600,
+          "cx": 6629400,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Modern NFP is NOT the old Rhythm method our grandparents and great-grandparents used, but is based on scientifically studied signs of fertility"
+        }
+      ]
+    },
+    {
+      "file": "slide9.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 486412,
+          "name": "Rectangle 12",
+          "x": 628650,
+          "y": 175418,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "What is NFP?"
+        },
+        {
+          "type": "sp",
+          "id": 4100,
+          "name": "Rectangle 13",
+          "x": 2971800,
+          "y": 1474087,
+          "cx": 5543550,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Scientific knowledge of    fertilityReading body\u2019s signs of fertility and infertilityNatural Family Planning (NFP)Fertility Awareness Method (FAM)"
+        },
+        {
+          "type": "pic",
+          "id": 3074,
+          "name": "Picture 2",
+          "x": 0,
+          "y": 3132635,
+          "cx": 2362200,
+          "cy": 3743294,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image5.png",
+          "asset": "image5.png"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "Text Box 24",
+          "x": 8305799,
+          "y": 6443246,
+          "cx": 522287,
+          "cy": 338554,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "file": "slide10.xml",
+      "shapes": [
+        {
+          "type": "pic",
+          "id": 10,
+          "name": "Picture 9",
+          "x": 0,
+          "y": 1447800,
+          "cx": 9144000,
+          "cy": 5562600,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg"
+        },
+        {
+          "type": "grpSp",
+          "id": 6,
+          "name": "Group 5",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Men"
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 381000,
+          "y": 76200,
+          "cx": 8458200,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Hormones in men"
+        },
+        {
+          "type": "sp",
+          "id": 12,
+          "name": "Text Box 24",
+          "x": 8305799,
+          "y": 6443246,
+          "cx": 522287,
+          "cy": 338554,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "file": "slide11.xml",
+      "shapes": [
+        {
+          "type": "pic",
+          "id": 10,
+          "name": "Picture 9",
+          "x": 0,
+          "y": 1447800,
+          "cx": 9144000,
+          "cy": 5562600,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg"
+        },
+        {
+          "type": "grpSp",
+          "id": 5,
+          "name": "Group 4",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "MenWomen"
+        },
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 381000,
+          "y": 76200,
+          "cx": 8458200,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Hormones in women"
+        },
+        {
+          "type": "sp",
+          "id": 12,
+          "name": "Text Box 24",
+          "x": 8305799,
+          "y": 6443246,
+          "cx": 522287,
+          "cy": 338554,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "file": "slide12.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 146794,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Putting it all together"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Rectangle 4",
+          "x": 76200,
+          "y": 4701867,
+          "cx": 2195286,
+          "cy": 2062103,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "This image is freely available at commons.wikimedia.org/wiki/ File:MenstrualCycle.png under a creative commons cc-by-sa 3.0 license"
+        },
+        {
+          "type": "pic",
+          "id": 6,
+          "name": "Picture 5",
+          "x": 2667000,
+          "y": 1472357,
+          "cx": 5181600,
+          "cy": 5291613,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId5",
+          "media_target": "../media/image7.png",
+          "asset": "image7.png"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "TextBox 2",
+          "x": 228600,
+          "y": 1981200,
+          "cx": 2042886,
+          "cy": 2246769,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "I trust God\u2019s design; He makes no mistakes; all of nature is cyclicalFertility=Health"
+        }
+      ]
+    },
+    {
+      "file": "slide13.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 175418,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "How NFP Works"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2438400,
+          "y": 1905000,
+          "cx": 6324600,
+          "cy": 4495800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Measures changes in signs of fertilityRecorded on chart to define fertility and infertility Abstain or have relations based on absence or presence of fertile signs"
+        }
+      ]
+    },
+    {
+      "file": "slide14.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 198957,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Sample CCL Chart"
+        },
+        {
+          "type": "sp",
+          "id": 7,
+          "name": "TextBox 6",
+          "x": 366793,
+          "y": 1600200,
+          "cx": 1676400,
+          "cy": 1077218,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Sympto- thermal"
+        },
+        {
+          "type": "grpSp",
+          "id": 4,
+          "name": "Group 3",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "TextBox 2",
+          "x": 228600,
+          "y": 3276600,
+          "cx": 1981200,
+          "cy": 461665,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "How we chart"
+        }
+      ]
+    },
+    {
+      "file": "slide15.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 968706,
+          "name": "Rectangle 2",
+          "x": 740423,
+          "y": 156100,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "\u201cThere\u2019s an app for that\u201d"
+        },
+        {
+          "type": "sp",
+          "id": 174084,
+          "name": "Rectangle 3",
+          "x": 2923481,
+          "y": 1770257,
+          "cx": 5029200,
+          "cy": 4724400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fertility monitorsSoftwareMobile appsApps = virtual reality trainingClasses = real life trial and error application and instruction"
+        },
+        {
+          "type": "pic",
+          "id": 9218,
+          "name": "Picture 2",
+          "x": 409569,
+          "y": 3650864,
+          "cx": 1451525,
+          "cy": 963186,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image10.jpeg",
+          "asset": "image10.jpeg"
+        },
+        {
+          "type": "grpSp",
+          "id": 4,
+          "name": "Group 3",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 9233,
+          "name": "Picture 17",
+          "x": 407654,
+          "y": 1981200,
+          "cx": 1455354,
+          "cy": 1102113,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId6",
+          "media_target": "../media/image13.png",
+          "asset": "image13.png"
+        },
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "TextBox 8",
+          "x": 2743200,
+          "y": 3123654,
+          "cx": 5715000,
+          "cy": 1200329,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "\u201cUser Beware\u201d"
+        }
+      ]
+    },
+    {
+      "file": "slide16.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 99218,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact or Myth?"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2438400,
+          "y": 1752600,
+          "cx": 5900738,
+          "cy": 4343400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Couples who use NFP have sex as often as couples who use contraception \u2013 they just time it differently."
+        }
+      ]
+    },
+    {
+      "file": "slide17.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 31376,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact!"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2362200,
+          "y": 1752600,
+          "cx": 6553200,
+          "cy": 4953000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "REALITY: If couples who practice NFP were to engage in intercourse on all the days when abstinence is not required for spacing births, they would be doing so at a rate almost twice the national average! NFP couples can make love no less frequently in each cycle than other couples.Abstinence is a part of marriageillnessWork travelMilitary deploymentBirthNo one has died from NOT having sex"
+        }
+      ]
+    },
+    {
+      "file": "slide18.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 914400,
+          "y": 1143000,
+          "cx": 7886700,
+          "cy": 2852737,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "NFP Benefit #1"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Text Placeholder 4",
+          "x": 609600,
+          "y": 4572000,
+          "cx": 8420100,
+          "cy": 1500187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Authentic Love\u2026selfless, not selfish"
+        }
+      ]
+    },
+    {
+      "file": "slide19.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 69056,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Marital love is a self-gift"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2407024,
+          "y": 1600200,
+          "cx": 6705600,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "100%-100%, Not 50/50Free, total, faithful, fruitfulCommitment at altar\u201cHave you come here freely to give yourselves to each other without reservation?\u201d\u201cDo you promise to be faithful until death?\u201d\u201cDo you promise to receive children lovingly from God?\u201d"
+        },
+        {
+          "type": "pic",
+          "id": 33794,
+          "name": "Picture 2",
+          "x": -9041,
+          "y": 2514600,
+          "cx": 2258432,
+          "cy": 3505200,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image14.png",
+          "asset": "image14.png"
+        }
+      ]
+    },
+    {
+      "file": "slide20.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 381000,
+          "y": 76200,
+          "cx": 8458200,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Every Sacrament\u2014form & matter"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2057400,
+          "y": 1600200,
+          "cx": 7086600,
+          "cy": 5181600,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Baptism=form: baptize you in the name of the Father,\u2026..matter: water Eucharist=Form: words of the last supperMatter: bread and wineMarriage=Form:  vows made by the coupleMatter: consummation of the marriage (to complete a marriage by the first act of sexual intercourse)"
+        }
+      ]
+    },
+    {
+      "file": "slide21.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 533400,
+          "y": 76200,
+          "cx": 8153400,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Sexual Intercourse=Renewing Wedding Vows"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2057400,
+          "y": 1600200,
+          "cx": 6934200,
+          "cy": 5029200,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Now chastity made sense\u2014we can\u2019t renew vows we haven\u2019t madeIn our vows we promise to love: Freely, Totally, Faithfully, FruitfullyWith NFP we are free to give our complete selves the way God made us, just as we are, without altering ourselves\u2014fertility is not an illness"
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 31377,
+          "y": -152400,
+          "cx": 1645024,
+          "cy": 1654255,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image15.png",
+          "asset": "image15.png"
+        }
+      ]
+    },
+    {
+      "file": "slide22.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "Rectangle 8",
+          "x": 762000,
+          "y": -457200,
+          "cx": 8359588,
+          "cy": 3293209,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "\u00a9 Couple to Couple League International"
+        },
+        {
+          "type": "pic",
+          "id": 13,
+          "name": "Picture 12",
+          "x": 2168088,
+          "y": -197,
+          "cx": 4689912,
+          "cy": 6853715,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image16.emf",
+          "asset": "image16.emf"
+        },
+        {
+          "type": "pic",
+          "id": 14,
+          "name": "Picture 13",
+          "x": 6708711,
+          "y": 6248400,
+          "cx": 2155500,
+          "cy": 185325,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image17.emf",
+          "asset": "image17.emf"
+        }
+      ]
+    },
+    {
+      "file": "slide23.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact or Myth?"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2438400,
+          "y": 1825625,
+          "cx": 6076950,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Couples who practice NFP have a less than 5% divorce rate."
+        }
+      ]
+    },
+    {
+      "file": "slide24.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 228600,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact!"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2362200,
+          "y": 1825625,
+          "cx": 6153150,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Studies of shown that couples who practice Natural Family Planning have a divorce rate between 1-5%Couples who pray together daily (not meal prayer) have a divorce rate of .01%"
+        }
+      ]
+    },
+    {
+      "file": "slide25.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 914400,
+          "y": 1723280,
+          "cx": 7886700,
+          "cy": 2852737,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "NFP Benefit #2"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 304800,
+          "y": 4589464,
+          "cx": 8686800,
+          "cy": 1500187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Stronger Marriage & Greater Intimacy"
+        }
+      ]
+    },
+    {
+      "file": "slide26.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 152400,
+          "y": 18255,
+          "cx": 8839200,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Why increased intimacy?"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Content Placeholder 4",
+          "x": 2057400,
+          "y": 1343818,
+          "cx": 6934200,
+          "cy": 5495927,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Stronger relationships may be more likely to practice NFPCouples who reject NFP as \u201ctoo much trouble\u201d or \u201ctoo restrictive\u201d all too often turn out to be the same couples who ultimately find the demands of marriage itself to be too much to handle ~Jason EvertNFP takes virtue\u2014so does marriagecommitment, communication, consideration, patience, sacrifice and self-control;  These are what makes marriage work.NFP requires communicationShared responsibility; chart togetherKeeps spouses from taking each other for granted and relying on physical intimacyMany women on contraception complain of feeling used. Contraception can lead the husband to assume that she was always sexually available. With NFP, Spouses are not constantly sexually available to the other Couples we know personally report that their physical life is better"
+        }
+      ]
+    },
+    {
+      "file": "slide27.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Chastity Tests Love"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2362200,
+          "y": 1600200,
+          "cx": 6400800,
+          "cy": 4879976,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Immature views of love and relationship will rise to the surface when chastity is requiredAbstinence is a built in a time when they can \u201ccourt\u201d; every kiss does not need to lead to the bedroomHelps us focus on intellectual, emotional, spiritual intimacy"
+        }
+      ]
+    },
+    {
+      "file": "slide28.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact or Myth?"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2743200,
+          "y": 1825625,
+          "cx": 5772150,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "The Catholic Church calls married couples to have as many children as possible."
+        }
+      ]
+    },
+    {
+      "file": "slide29.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Myth!"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2743200,
+          "y": 1825625,
+          "cx": 5772150,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "REALITY:  The Catholic Church encourages people to be both generous and responsible stewards over their fertility."
+        }
+      ]
+    },
+    {
+      "file": "slide30.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 1143000,
+          "y": 1295400,
+          "cx": 7886700,
+          "cy": 2852737,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "NFP Benefit #3"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Text Placeholder 4",
+          "x": 2514600,
+          "y": 4589464,
+          "cx": 5995988,
+          "cy": 1500187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Countercultural\u2014Children viewed as a gift, not a burden"
+        }
+      ]
+    },
+    {
+      "file": "slide31.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Marital Embrace"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2667000,
+          "y": 1752600,
+          "cx": 6019800,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Babies & Bonding\u201cSo they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.\u201d  ~Matthew 19:6"
+        },
+        {
+          "type": "pic",
+          "id": 32770,
+          "name": "Picture 2",
+          "x": 0,
+          "y": 1735811,
+          "cx": 2285558,
+          "cy": 1752600,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image18.jpeg",
+          "asset": "image18.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "slide32.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 304800,
+          "y": 80954,
+          "cx": 8210550,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "But what about those huge families?"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2286000,
+          "y": 1600200,
+          "cx": 6629400,
+          "cy": 4343400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "All Christians are called to generosityNowhere in the Bible are children a curse or burden; they are ALWAYS a blessing; Couples who reject contraception are less likely to see children as a burden. Because of their generous spirit, they tend to have larger families, and divorce rates are highest where children are fewest."
+        },
+        {
+          "type": "pic",
+          "id": 37890,
+          "name": "Picture 2",
+          "x": 1,
+          "y": 2309797,
+          "cx": 2286000,
+          "cy": 1850327,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image19.png",
+          "asset": "image19.png"
+        }
+      ]
+    },
+    {
+      "file": "slide33.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 990600,
+          "y": 18255,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Inviting God Into the Marriage"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2362200,
+          "y": 1825624,
+          "cx": 6153150,
+          "cy": 4879975,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Monthly discernment of what God is calling that family to beHow\u2019s our marriage?How is our family doing?Are we being generous? Prudent?Lord help us overcome\u2026Lord, help us to trust\u2026Not telling God our plan, but asking HimWedding invitation analogy (from Christopher West)"
+        }
+      ]
+    },
+    {
+      "file": "slide34.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact or Myth?"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 3048000,
+          "y": 1825625,
+          "cx": 5562600,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Only women with regular cycles can use NFP."
+        }
+      ]
+    },
+    {
+      "file": "slide35.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 31376,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Myth!"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2590800,
+          "y": 1825625,
+          "cx": 5924550,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Reality: NFP can be used by women with irregular cycles, and can even help detect, diagnose and treat health problems, including infertility."
+        }
+      ]
+    },
+    {
+      "file": "slide36.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 990600,
+          "y": 1219200,
+          "cx": 7886700,
+          "cy": 2852737,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "NFP Benefit #4"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Text Placeholder 4",
+          "x": 381000,
+          "y": 4589464,
+          "cx": 8496300,
+          "cy": 1500187,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Safe, Healthy, and a Diagnostic Tool"
+        }
+      ]
+    },
+    {
+      "file": "slide37.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 228600,
+          "y": 18255,
+          "cx": 8686800,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "If Sex is natural, why do we make it artificial?"
+        },
+        {
+          "type": "sp",
+          "id": 7,
+          "name": "Content Placeholder 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 8,
+          "name": "Picture 7",
+          "x": 2209800,
+          "y": 1143000,
+          "cx": 4800600,
+          "cy": 5717836,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image20.png",
+          "asset": "image20.png"
+        }
+      ]
+    },
+    {
+      "file": "slide38.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 1042434,
+          "name": "Rectangle 2",
+          "x": 909100,
+          "y": 69056,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "How the pill and IUD work"
+        },
+        {
+          "type": "sp",
+          "id": 1042435,
+          "name": "Rectangle 3",
+          "x": 2438400,
+          "y": 1663700,
+          "cx": 6667500,
+          "cy": 3810001,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Progestin convinces woman\u2019s body she\u2019s pregnantSuppress ovulationBack-up method thin uterine lining to prevent implantation (abortifacient)Breakthrough ovulation common"
+        },
+        {
+          "type": "grpSp",
+          "id": 2,
+          "name": "Group 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Combined pill28%Progestin-only33-65%Mirena75%"
+        },
+        {
+          "type": "sp",
+          "id": 17,
+          "name": "Rectangle 16",
+          "x": 2057400,
+          "y": 6044625,
+          "cx": 6749143,
+          "cy": 584775,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Larimore W, Stanford J, Postfertilization Effects of Oral Contraceptives and Their Relationship to Informed Consent, Arch Fam Med (2000);9:126-133."
+        }
+      ]
+    },
+    {
+      "file": "slide39.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 18255,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Adverse Effects"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 628650,
+          "y": 1825624,
+          "cx": 7886700,
+          "cy": 4879976,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Increased Risk of Breast Cancer (and other cancers)Post contraceptive infertilityDecrease libido (artificial hormones increase Sex Hormone Binding Globulin, decrease testosterone levels, sometimes permanent damage)Decreased bone densityIncreased depressionDepo Provers (the shot): CA administers it to sex offenders; veterinarians won\u2019t give it to dogsIf mom conceives on the Pill, sons are more likely to develop prostate cancerSpeaking of Pure water\u2026Damage to the environment"
+        }
+      ]
+    },
+    {
+      "file": "slide40.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": -39186,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "\u201cGallup poll\u201d"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2438398,
+          "y": 1600200,
+          "cx": 6477001,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Of the women in the US who discontinued hormonal contraceptives, how many did so because of side effects?33%43%53%64%"
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 1,
+          "y": 3007110,
+          "cx": 2286000,
+          "cy": 3450840,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image21.jpeg",
+          "asset": "image21.jpeg"
+        },
+        {
+          "type": "grpSp",
+          "id": 7,
+          "name": "Group 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "64%"
+        },
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "Rectangle 8",
+          "x": 2286001,
+          "y": 4074551,
+          "cx": 6477000,
+          "cy": 707886,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "National Survey of Family Growth 2010, CDC, Series 23, Number 29, 69."
+        }
+      ]
+    },
+    {
+      "file": "slide41.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 628650,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Diagnostic Tool"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2296085,
+          "y": 1455551,
+          "cx": 6847915,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Charting fertility signs can help discover or diagnose health issues such as:Low thyroidLow progesteroneRepeated miscarriageInfertilityDepressionPolycystic Ovarian Syndrome"
+        }
+      ]
+    },
+    {
+      "file": "slide42.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 628650,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact or Myth?"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Content Placeholder 4",
+          "x": 2438400,
+          "y": 1825625,
+          "cx": 6076950,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Natural Family Planning is just as effective at limiting births as artificial means."
+        }
+      ]
+    },
+    {
+      "file": "slide43.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 664509,
+          "y": 152400,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Fact!"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2438400,
+          "y": 1825625,
+          "cx": 6076950,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Modern scientific NFP is 99% effective at limiting birth when couples are motivated to follow the rules (80-90% effective when they don\u2019t even follow the rules)3 Xs more successful than modern technology in helping couples of limited fertility achieve pregnancy"
+        }
+      ]
+    },
+    {
+      "file": "slide44.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": 655264,
+          "y": 768349,
+          "cx": 7886700,
+          "cy": 2852737,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "NFP Benefit #5"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Text Placeholder 4",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Effective"
+        }
+      ]
+    },
+    {
+      "file": "slide45.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Title 3",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Content Placeholder 4",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 6,
+          "name": "Picture 5",
+          "x": 0,
+          "y": 658368,
+          "cx": 9144000,
+          "cy": 5541263,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image22.png",
+          "asset": "image22.png"
+        }
+      ]
+    },
+    {
+      "file": "slide46.xml",
+      "shapes": [
+        {
+          "type": "pic",
+          "id": 8,
+          "name": "Picture 32",
+          "x": 0,
+          "y": 1447800,
+          "cx": 4572000,
+          "cy": 5424488,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image1.jpeg",
+          "asset": "image1.jpeg"
+        },
+        {
+          "type": "sp",
+          "id": 964610,
+          "name": "Rectangle 2",
+          "x": 381000,
+          "y": 76200,
+          "cx": 8763000,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "NFP to achieve a pregnancy"
+        },
+        {
+          "type": "sp",
+          "id": 161796,
+          "name": "Rectangle 3",
+          "x": 4798359,
+          "y": 1483659,
+          "cx": 4117041,
+          "cy": 4612341,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "10-15% of couples suffer from infertility (more than 1 year of trying to conceiveFertility awareness can help couples conceive in half the time or lessKnowing how to identify the fertile window is key"
+        },
+        {
+          "type": "pic",
+          "id": 161797,
+          "name": "Picture 4",
+          "x": 0,
+          "y": 1828800,
+          "cx": 4376738,
+          "cy": 3213100,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId4",
+          "media_target": "../media/image23.jpeg",
+          "asset": "image23.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "slide47.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "WebMD"
+        },
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "Content Placeholder 8",
+          "x": 2590800,
+          "y": 1600200,
+          "cx": 6553200,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "\u201cA relatively high failure rate has been reported.\u201d The \u201cfailure rate\u201d WebMD cites combined data from modern NFP methods with data from calendar methods artificially lowering the effectiveness of NFP"
+        }
+      ]
+    },
+    {
+      "file": "slide48.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 304800,
+          "y": 31376,
+          "cx": 8458200,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "But isn\u2019t it too complicated and unrealistic?"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 628650,
+          "y": 1447800,
+          "cx": 7886700,
+          "cy": 5410200,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "In a World Health Organization (WHO) study, 725 couples from five countries \u2013 El Salvador, India, New Zealand, Ireland, and the Philippines \u2013 were taught the ovulation method of NFP over the course of three months. After a year the couples were evaluated, and the method effectiveness rate was 97.2%. Note: half of the Salvadorean couples were illiterate, proving that an advanced education is unnecessary for learning NFP effectivelyBritish medical journal report: study of 19,000 women in India (52% Hindu, 27% Muslim, and 21% Christian)\u2014failure rate of almost 0% ( 0.2 pregnancies/100 women).  Thanks to Mother Teresa, couples avoided government mandated sterilization in the 70s; today India still has sterilization quotas, leading to many deaths from botched operations From a publication of the Missionaries of Charity \u201cMany people wonder how poor couples can exercise self-control for more than one week. Yes, they do it; it is possible. It is, after all, their own choice. Some abstain for twenty days a month; others for one, two, and even three months. From our experience we find that it is more difficult for an educated couple to abstain than for a poor and illiterate couple. Why? Perhaps because the wealthy and educated couples have more comforts, and are more inclined to enjoy the good things of life.\u201d"
+        }
+      ]
+    },
+    {
+      "file": "slide49.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 642097,
+          "y": 197173,
+          "cx": 7886700,
+          "cy": 1325563,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Isn\u2019t NFP just \u201cnatural\u201d birth control"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2590800,
+          "y": 1646707,
+          "cx": 5924550,
+          "cy": 4351338,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "NFP is birth control; it is not contra-ception (against life).Yes, a couple using NFP could be closed to God\u2019s will; they could use it selfishly\u2014but rareOne is a lack of generosity; the other is using the body and making a loving act intentionally sterile, potentially aborting a new life, and separating what God designedTwo women wishing to stay slim analogy"
+        }
+      ]
+    },
+    {
+      "file": "slide50.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Resources"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 2286000,
+          "y": 1524000,
+          "cx": 6172200,
+          "cy": 4114800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Web resourcesfertilitycare.orgChastity.compopepaulvi.comccli.orgboma-usa.orgnfp.marquette.edunfpandmore.orgonemoresoul.comnwfs.orghttp://nfpsst.org/fact-or-fiction/usccb.org/issues-and-action/marriage-and-family/"
+        },
+        {
+          "type": "pic",
+          "id": 10242,
+          "name": "Picture 2",
+          "x": 0,
+          "y": 4233621,
+          "cx": 2286000,
+          "cy": 2628254,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image24.jpeg",
+          "asset": "image24.jpeg"
+        }
+      ]
+    }
+  ],
+  "media_assets": [
+    "image1.jpeg",
+    "image10.jpeg",
+    "image13.png",
+    "image14.png",
+    "image15.png",
+    "image16.emf",
+    "image17.emf",
+    "image18.jpeg",
+    "image19.png",
+    "image2.jpeg",
+    "image20.png",
+    "image21.jpeg",
+    "image22.png",
+    "image23.jpeg",
+    "image24.jpeg",
+    "image3.jpg",
+    "image4.jpeg",
+    "image5.png",
+    "image7.png"
+  ]
+}

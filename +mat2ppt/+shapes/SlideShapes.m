@@ -246,7 +246,11 @@ classdef SlideShapes < mat2ppt.shared.Collection
             y = min(by, ey);
             cx = abs(ex - bx);
             cy = abs(ey - by);
-            prst = mat2ppt.enum.MSO_CONNECTOR.to_xml(connectorType);
+            if ischar(connectorType) || isstring(connectorType)
+                prst = char(string(connectorType));
+            else
+                prst = mat2ppt.enum.MSO_CONNECTOR.to_xml(connectorType);
+            end
             sid = obj.nextId_;
             obj.nextId_ = obj.nextId_ + 1;
             name = sprintf("Connector %d", sid - 1);
@@ -556,6 +560,15 @@ classdef SlideShapes < mat2ppt.shared.Collection
 
 
         function prst = prst_for_enum_(e)
+            % Prefer OOXML prst token from BaseXmlEnum when present (flowchart etc.).
+            try
+                xv = char(string(e.xml_value));
+                if strlength(string(xv)) > 0
+                    prst = xv;
+                    return
+                end
+            catch
+            end
             n = char(string(e.name));
             switch upper(n)
                 case "RECTANGLE", prst = "rect";

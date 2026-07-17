@@ -1,0 +1,199 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/07_Dropbox_a_Chesterton__ChestertonABQ_EmergencyCommunicationOptions_2022-0.pptx",
+  "source_name": "07_Dropbox_a_Chesterton__ChestertonABQ_EmergencyCommunicationOptions_2022-0.pptx",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "n_parts": 53,
+  "n_slides": 6,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 1524000,
+          "y": 1788284,
+          "cx": 9144000,
+          "cy": 2387600,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Chesterton AcademyEmergency Communication Options"
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "TextBox 3",
+          "x": 3756572,
+          "y": 4421505,
+          "cx": 3944994,
+          "cy": 830997,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Douglas CoombsFebruary 8, 2022"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Overview of Options"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 493094,
+          "y": 1132764,
+          "cx": 11471379,
+          "cy": 5056001,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Comprehensive Email and Texting ProgramsJupiterEdPotentially cheapest and easiest to set upFlocknotesMuch more flexible but also more expensive and time consuming to set upStandalone Texting SolutionsExpertTexting.comSeems straightforward with intuitive user interfaceOffers two-way texting with parents, if desiredPer text pricing makes it more attractive for infrequent, emergency useTextEmAll.com"
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "JupiterEd.com"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 493094,
+          "y": 1132764,
+          "cx": 10717449,
+          "cy": 5056001,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Parents need to login to JupiterEd and opt-in to emergency texting serviceAnother option would be to use non-emergency text messages for weather announcements, but these can get lost as they are common"
+        }
+      ]
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Flocknotes"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Comprehensive email and texting serviceMrs. Sena is familiar with the serviceMore expensive at ~"
+        }
+      ]
+    },
+    {
+      "file": "slide5.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "ExpertTexting.com"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Com"
+        }
+      ]
+    },
+    {
+      "file": "slide6.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "TextEmAll.com"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "jkh"
+        }
+      ]
+    }
+  ],
+  "media_assets": []
+}

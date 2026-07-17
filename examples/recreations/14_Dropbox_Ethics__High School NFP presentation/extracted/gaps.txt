@@ -1,0 +1,12 @@
+slide10 group shape Group 5 not expanded
+slide11 group shape Group 4 not expanded
+slide14 group shape Group 3 not expanded
+slide15 group shape Group 3 not expanded
+slide37 sp missing geom: Content Placeholder 6
+slide38 group shape Group 1 not expanded
+slide40 group shape Group 6 not expanded
+slide44 sp missing geom: Text Placeholder 4
+slide45 sp missing geom: Title 3
+slide45 sp missing geom: Content Placeholder 4
+slide47 sp missing geom: Title 1
+slide50 sp missing geom: Title 1

@@ -1,0 +1,530 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/10_Dropbox_aDietrich__Oregon State Report Pictures.pptx",
+  "source_name": "10_Dropbox_aDietrich__Oregon State Report Pictures.pptx",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "n_parts": 78,
+  "n_slides": 14,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 285394,
+          "y": 0,
+          "cx": 7771105,
+          "cy": 6858000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image1.jpg",
+          "asset": "image1.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 6,
+          "name": "Picture 5",
+          "x": 3113165,
+          "y": -981289,
+          "cx": 6858000,
+          "cy": 8820578,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image2.jpg",
+          "asset": "image2.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 6,
+          "name": "Picture 5",
+          "x": 3273742,
+          "y": 0,
+          "cx": 6784653,
+          "cy": 6858000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image3.gif",
+          "asset": "image3.gif"
+        }
+      ]
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 178970,
+          "y": 3364,
+          "cx": 9139514,
+          "cy": 6854636,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image4.jpg",
+          "asset": "image4.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide5.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 1251284,
+          "y": 0,
+          "cx": 9644250,
+          "cy": 6890280,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image5.jpg",
+          "asset": "image5.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide6.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Graphic 3",
+          "x": 381000,
+          "y": 0,
+          "cx": 11430000,
+          "cy": 6858000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image6.png",
+          "asset": "image6.png"
+        }
+      ]
+    },
+    {
+      "file": "slide7.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 1524000,
+          "y": 0,
+          "cx": 9144000,
+          "cy": 6858000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image8.jpg",
+          "asset": "image8.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide8.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 3,
+          "name": "Picture 2",
+          "x": 864067,
+          "y": 707,
+          "cx": 10100345,
+          "cy": 6857294,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image9.jpg",
+          "asset": "image9.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide9.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": -15874,
+          "y": 0,
+          "cx": 12223748,
+          "cy": 6858000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image10.jpg",
+          "asset": "image10.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide10.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 2219020,
+          "y": -985838,
+          "cx": 6858001,
+          "cy": 8829676,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image11.jpg",
+          "asset": "image11.jpg"
+        }
+      ]
+    },
+    {
+      "file": "slide11.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "Picture 6",
+          "x": 1038534,
+          "y": 24670,
+          "cx": 6728468,
+          "cy": 6728468,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image12.png",
+          "asset": "image12.png"
+        }
+      ]
+    },
+    {
+      "file": "slide12.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 2550702,
+          "y": -914866,
+          "cx": 6849630,
+          "cy": 8696102,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image13.jpeg",
+          "asset": "image13.jpeg"
+        }
+      ]
+    },
+    {
+      "file": "slide13.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 8,
+          "name": "Picture 7",
+          "x": 1811096,
+          "y": -1047895,
+          "cx": 6858000,
+          "cy": 8953789,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image14.png",
+          "asset": "image14.png"
+        }
+      ]
+    },
+    {
+      "file": "slide14.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 153054,
+          "y": 0,
+          "cx": 9586452,
+          "cy": 6857999,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image15.jpg",
+          "asset": "image15.jpg"
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "TextBox 4",
+          "x": 1297339,
+          "y": 1506022,
+          "cx": 1669409,
+          "cy": 369332,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Mild and moist"
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "TextBox 5",
+          "x": 5643152,
+          "y": 3317431,
+          "cx": 2150220,
+          "cy": 523220,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "High Desert"
+        }
+      ]
+    }
+  ],
+  "media_assets": [
+    "image1.jpg",
+    "image10.jpg",
+    "image11.jpg",
+    "image12.png",
+    "image13.jpeg",
+    "image14.png",
+    "image15.jpg",
+    "image2.jpg",
+    "image3.gif",
+    "image4.jpg",
+    "image5.jpg",
+    "image6.png",
+    "image8.jpg",
+    "image9.jpg"
+  ]
+}

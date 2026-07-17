@@ -1,0 +1,31 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/11_Dropbox_aEmmerich__Denmark_Pictures.pptx",
+  "source_name": "11_Dropbox_aEmmerich__Denmark_Pictures.pptx",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "n_parts": 39,
+  "n_slides": 1,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 8,
+          "name": "Group 7",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "media_assets": []
+}

@@ -1,0 +1,224 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/18_Dropbox_Poverty_Awareness__Display Board Titles Headers.pptx",
+  "source_name": "18_Dropbox_Poverty_Awareness__Display Board Titles Headers.pptx",
+  "slide_size_emu": {
+    "cx": "9144000",
+    "cy": "6858000",
+    "type": "screen4x3"
+  },
+  "n_parts": 50,
+  "n_slides": 3,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 457200,
+          "y": 1600201,
+          "cx": 8229600,
+          "cy": 533400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Rectangle 3",
+          "x": 228600,
+          "y": 2057400,
+          "cx": 8762999,
+          "cy": 1169551,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "A Few Children"
+        },
+        {
+          "type": "sp",
+          "id": 7,
+          "name": "Rectangle 6",
+          "x": 228600,
+          "y": 3429000,
+          "cx": 8762999,
+          "cy": 1169551,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Sponsored"
+        },
+        {
+          "type": "sp",
+          "id": 8,
+          "name": "Rectangle 7",
+          "x": 228600,
+          "y": 4724400,
+          "cx": 8762999,
+          "cy": 1169551,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "By Parish Members"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 457200,
+          "y": 1600201,
+          "cx": 8229600,
+          "cy": 533400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Rectangle 3",
+          "x": 152400,
+          "y": 2057400,
+          "cx": 8762999,
+          "cy": 938719,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "A Few Children"
+        },
+        {
+          "type": "sp",
+          "id": 7,
+          "name": "Rectangle 6",
+          "x": 228600,
+          "y": 3429000,
+          "cx": 8762999,
+          "cy": 938719,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Sponsored"
+        },
+        {
+          "type": "sp",
+          "id": 8,
+          "name": "Rectangle 7",
+          "x": 228600,
+          "y": 4724400,
+          "cx": 8762999,
+          "cy": 938719,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "By Parish Members"
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 457200,
+          "y": 1600201,
+          "cx": 8229600,
+          "cy": 533400,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Rectangle 3",
+          "x": 228600,
+          "y": 2438400,
+          "cx": 8762999,
+          "cy": 938719,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "A Brief Look at Poverty"
+        },
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "Rectangle 8",
+          "x": 152400,
+          "y": 3657600,
+          "cx": 8762999,
+          "cy": 1169551,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "at Poverty"
+        },
+        {
+          "type": "sp",
+          "id": 10,
+          "name": "Rectangle 9",
+          "x": 152400,
+          "y": 5105400,
+          "cx": 8762999,
+          "cy": 1169551,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "A Brief Look"
+        }
+      ]
+    }
+  ],
+  "media_assets": []
+}

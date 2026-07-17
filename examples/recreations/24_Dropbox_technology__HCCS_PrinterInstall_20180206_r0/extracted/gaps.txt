@@ -1,0 +1,4 @@
+slide2 sp missing geom: Title 1
+slide2 sp missing geom: Content Placeholder 2
+slide3 sp missing geom: Title 1
+slide5 group shape Group 9 not expanded

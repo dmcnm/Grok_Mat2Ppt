@@ -1,0 +1,49 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/12_Dropbox_aReuben__Fall 2018_Math Schedule.pptx",
+  "source_name": "12_Dropbox_aReuben__Fall 2018_Math Schedule.pptx",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "n_parts": 39,
+  "n_slides": 1,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 838200,
+          "y": 365126,
+          "cx": 10515600,
+          "cy": 581932,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "pic",
+          "id": 4,
+          "name": "Picture 3",
+          "x": 411995,
+          "y": 277586,
+          "cx": 11106751,
+          "cy": 6858000,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image1.png",
+          "asset": "image1.png"
+        }
+      ]
+    }
+  ],
+  "media_assets": [
+    "image1.png"
+  ]
+}

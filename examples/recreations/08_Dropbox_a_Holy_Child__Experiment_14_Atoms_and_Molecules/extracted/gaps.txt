@@ -1,0 +1,50 @@
+slide1 sp missing geom: Slide Number Placeholder 20
+slide1 sp missing geom: Footer Placeholder 21
+slide2 group shape Group 24 not expanded
+slide2 sp missing geom: Slide Number Placeholder 26
+slide2 sp missing geom: Footer Placeholder 27
+slide3 sp missing geom: Slide Number Placeholder 5
+slide3 sp missing geom: Footer Placeholder 6
+slide4 sp missing geom: Slide Number Placeholder 4
+slide4 sp missing geom: Footer Placeholder 5
+slide4 group shape Group 8 not expanded
+slide5 sp missing geom: Title 1
+slide5 sp missing geom: Slide Number Placeholder 10
+slide5 sp missing geom: Footer Placeholder 11
+slide6 sp missing geom: Title 3
+slide6 sp missing geom: Slide Number Placeholder 31
+slide6 sp missing geom: Footer Placeholder 32
+slide7 sp missing geom: Slide Number Placeholder 3
+slide7 sp missing geom: Footer Placeholder 4
+slide8 sp missing geom: Slide Number Placeholder 5
+slide8 sp missing geom: Footer Placeholder 6
+slide9 sp missing geom: Title 1
+slide9 sp missing geom: Slide Number Placeholder 3
+slide9 sp missing geom: Footer Placeholder 4
+slide10 sp missing geom: Slide Number Placeholder 2
+slide10 sp missing geom: Footer Placeholder 3
+slide11 sp missing geom: Title 4
+slide11 sp missing geom: Footer Placeholder 2
+slide11 sp missing geom: Slide Number Placeholder 3
+slide12 sp missing geom: Title 1
+slide12 sp missing geom: Footer Placeholder 2
+slide12 sp missing geom: Slide Number Placeholder 3
+slide13 sp missing geom: Title 4
+slide13 sp missing geom: Footer Placeholder 2
+slide13 sp missing geom: Slide Number Placeholder 3
+slide14 sp missing geom: Title 1
+slide14 sp missing geom: Content Placeholder 2
+slide14 sp missing geom: Footer Placeholder 3
+slide14 sp missing geom: Slide Number Placeholder 4
+slide15 sp missing geom: Title 5
+slide15 sp missing geom: Footer Placeholder 3
+slide15 sp missing geom: Slide Number Placeholder 4
+slide15 group shape Group 52 not expanded
+slide16 sp missing geom: Title 3
+slide16 sp missing geom: Slide Number Placeholder 31
+slide16 sp missing geom: Footer Placeholder 32
+slide17 sp missing geom: Slide Number Placeholder 5
+slide17 sp missing geom: Footer Placeholder 6
+slide18 sp missing geom: Title 1
+slide18 sp missing geom: Slide Number Placeholder 21
+slide18 sp missing geom: Footer Placeholder 22

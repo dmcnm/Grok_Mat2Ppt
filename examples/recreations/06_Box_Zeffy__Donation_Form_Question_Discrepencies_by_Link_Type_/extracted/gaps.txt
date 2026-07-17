@@ -1,0 +1,3 @@
+slide1 group shape Group 10 not expanded
+slide2 group shape Group 12 not expanded
+slide2 group shape Group 14 not expanded

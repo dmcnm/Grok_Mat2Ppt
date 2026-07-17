@@ -1,0 +1,59 @@
+# Inventory: 05_Box_Website__Thermometer_Graphic.pptx
+
+Slides: 2
+Assets: []
+
+## Slide 1
+
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (45589031,13762844) 4236244x2215991 asset= text='5%'
+- `sp` prst=rect (45720000,18019039) 4236244x2215991 asset= text='10%'
+- `sp` prst=rect (45720000,22275234) 4236244x2215991 asset= text='15%'
+- `sp` prst=rect (45458062,26531795) 4236244x2215991 asset= text='20%'
+- `sp` prst=rect (45589031,30787990) 4236244x2215991 asset= text='25%'
+- `sp` prst=rect (45667613,35044185) 4236244x2215991 asset= text='30%'
+- `sp` prst=rect (45667613,39300380) 4236244x2215991 asset= text='35%'
+- `sp` prst=rect (45405675,43556941) 4236244x2215991 asset= text='40%'
+- `sp` prst=rect (45536644,47813136) 4236244x2215991 asset= text='45%'
+- `sp` prst=rect (45720000,9506649) 4236244x2215991 asset= text='2%'
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (45798582,1010925) 4236244x2215991 asset= text='0%'
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (45720000,5267120) 4236244x2215991 asset= text='1%'
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+
+## Slide 2
+
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (45589031,1205947) 4236244x2215991 asset= text='50%'
+- `sp` prst=rect (45720000,5462142) 4236244x2215991 asset= text='55%'
+- `sp` prst=rect (45720000,9718337) 4236244x2215991 asset= text='60%'
+- `sp` prst=rect (45458062,13974898) 4236244x2215991 asset= text='65%'
+- `sp` prst=rect (45589031,18231093) 4236244x2215991 asset= text='70%'
+- `sp` prst=rect (45667613,22487288) 4236244x2215991 asset= text='75%'
+- `sp` prst=rect (45667613,26743483) 4236244x2215991 asset= text='80%'
+- `sp` prst=rect (45405675,31000044) 4236244x2215991 asset= text='85%'
+- `sp` prst=rect (45536644,35256239) 4236244x2215991 asset= text='90%'
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (45327093,39512434) 4236244x2215991 asset= text='95%'
+- `sp` prst=rect (45458062,43768629) 4236244x2215991 asset= text='98%'
+- `grpSp` prst=None (None,None) NonexNone asset= text=''
+- `sp` prst=rect (45327093,48024824) 4236244x2215991 asset= text='100%'
+

@@ -1,0 +1,351 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/24_Dropbox_technology__HCCS_PrinterInstall_20180206_r0.pptx",
+  "source_name": "24_Dropbox_technology__HCCS_PrinterInstall_20180206_r0.pptx",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "n_parts": 64,
+  "n_slides": 7,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 790575,
+          "y": 1122363,
+          "cx": 10858499,
+          "cy": 2387600,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "HCCS Network Printer Installation"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Subtitle 2",
+          "x": 1524000,
+          "y": 3602038,
+          "cx": 9144000,
+          "cy": 1655762,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Douglas CoombsFebruary 6, 2018, Rev. 0"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Overview"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Description of Current PrintersPrinter Installation Instructions"
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Current Printers"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 188121,
+          "y": 1222110,
+          "cx": 11651454,
+          "cy": 4954853,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Teacher\u2019s LoungeColor HP Wireless (Model #): 192.168.1.57HP Color Laserjet 3500: 192.168.1.58Mrs. Teeter\u2019s 1/2nd ClassroomBW: HP Laserjet 4050N: IP Address TBD (ideally 192.168.1.59)Outside Mrs. Sanchez ClassroomBW: HP Laserjet 4100: 192.168.1.97"
+        }
+      ]
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 486137,
+          "y": 365125,
+          "cx": 10058400,
+          "cy": 659559,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Installing a Network Printer Using TCP/IP (1/4)"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 188121,
+          "y": 1222110,
+          "cx": 11651454,
+          "cy": 4954853,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Overview of stepsControl Panel -> Devices and printersAdd a printer Add a Local PrinterCreate a New PortSelect Type of Port: Standard TCP/IP PortType IP Address in Hostname or IP address: 192.168.1.##Installing the Printer Driver Add Printer -> Have DiskPrint Test Page"
+        }
+      ]
+    },
+    {
+      "file": "slide5.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 535021,
+          "y": 365125,
+          "cx": 10032665,
+          "cy": 659559,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Installing a Network Printer Using TCP/IP (2/4)"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 188121,
+          "y": 1222110,
+          "cx": 11651454,
+          "cy": 4954853,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Control Panel -> Devices and printersAdd a printer Add a Local Printer"
+        },
+        {
+          "type": "grpSp",
+          "id": 10,
+          "name": "Group 9",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "file": "slide6.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 535021,
+          "y": 365125,
+          "cx": 10090538,
+          "cy": 659559,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Installing a Network Printer Using TCP/IP (3/4)"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 188121,
+          "y": 1222110,
+          "cx": 11651454,
+          "cy": 4954853,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Add a Local PrinterCreate a New PortSelect Type of Port: Standard TCP/IP Port"
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "Picture 4",
+          "x": 1829470,
+          "y": 2597969,
+          "cx": 4593021,
+          "cy": 3364315,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image5.png",
+          "asset": "image5.png"
+        },
+        {
+          "type": "pic",
+          "id": 6,
+          "name": "Picture 5",
+          "x": 6539564,
+          "y": 1994356,
+          "cx": 5417084,
+          "cy": 3967928,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image6.png",
+          "asset": "image6.png"
+        }
+      ]
+    },
+    {
+      "file": "slide7.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 535021,
+          "y": 365125,
+          "cx": 10021090,
+          "cy": 659559,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Installing a Network Printer Using TCP/IP (4/4)"
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 188121,
+          "y": 1222110,
+          "cx": 11651454,
+          "cy": 4954853,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Type IP Address in Hostname or IP address: 192.168.1.##Installing the Printer Driver Add Printer -> Have Disk"
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "Picture 6",
+          "x": 1452793,
+          "y": 2338086,
+          "cx": 4994305,
+          "cy": 3658249,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId2",
+          "media_target": "../media/image7.png",
+          "asset": "image7.png"
+        },
+        {
+          "type": "pic",
+          "id": 8,
+          "name": "Picture 7",
+          "x": 6744113,
+          "y": 2338086,
+          "cx": 4994305,
+          "cy": 3658249,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId3",
+          "media_target": "../media/image8.png",
+          "asset": "image8.png"
+        },
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "Rectangle 8",
+          "x": 10556111,
+          "y": 5023414,
+          "cx": 983848,
+          "cy": 289366,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 11,
+          "name": "Rectangle 10",
+          "x": 3221619,
+          "y": 3981690,
+          "cx": 3028709,
+          "cy": 212527,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 12,
+          "name": "Rectangle 11",
+          "x": 3221618,
+          "y": 3692323,
+          "cx": 3028709,
+          "cy": 190653,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "media_assets": [
+    "image5.png",
+    "image6.png",
+    "image7.png",
+    "image8.png"
+  ]
+}

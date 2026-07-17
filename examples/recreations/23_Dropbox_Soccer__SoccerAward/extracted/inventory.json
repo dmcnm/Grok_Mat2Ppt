@@ -1,0 +1,44 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/23_Dropbox_Soccer__SoccerAward.pptx",
+  "source_name": "23_Dropbox_Soccer__SoccerAward.pptx",
+  "slide_size_emu": {
+    "cx": "10058400",
+    "cy": "7772400"
+  },
+  "n_parts": 44,
+  "n_slides": 1,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2050,
+          "name": "Rectangle 2",
+          "x": 1828800,
+          "y": 2362200,
+          "cx": 6492875,
+          "cy": 685800,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        },
+        {
+          "type": "sp",
+          "id": 2051,
+          "name": "Rectangle 3",
+          "x": 2286000,
+          "y": 3651250,
+          "cx": 5670550,
+          "cy": 1225550,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "media_assets": []
+}

@@ -1,0 +1,62 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/06_Box_Zeffy__Donation_Form_Question_Discrepencies_by_Link_Type_.pptx",
+  "source_name": "06_Box_Zeffy__Donation_Form_Question_Discrepencies_by_Link_Type_.pptx",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "n_parts": 42,
+  "n_slides": 2,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 11,
+          "name": "Group 10",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Anonymous Donation Check BoxPresentAnonymous Donation Check BoxPresentAnonymous Donation Check Box Missing"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 13,
+          "name": "Group 12",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Anonymous Donation Check BoxPresent"
+        },
+        {
+          "type": "grpSp",
+          "id": 15,
+          "name": "Group 14",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Anonymous Donation Check Box Missing"
+        }
+      ]
+    }
+  ],
+  "media_assets": []
+}

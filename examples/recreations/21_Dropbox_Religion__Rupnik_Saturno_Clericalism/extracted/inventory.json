@@ -1,0 +1,31 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/21_Dropbox_Religion__Rupnik_Saturno_Clericalism.pptx",
+  "source_name": "21_Dropbox_Religion__Rupnik_Saturno_Clericalism.pptx",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "n_parts": 38,
+  "n_slides": 1,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 7,
+          "name": "Group 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "One of these is a symbol of scandal and clericalism.  The other is a hat."
+        }
+      ]
+    }
+  ],
+  "media_assets": []
+}

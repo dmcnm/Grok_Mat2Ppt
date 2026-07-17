@@ -1,0 +1,86 @@
+{
+  "source": "validation/mat2ppt/references/external_corpus/22_Dropbox_Sangre_de_Cristo__Aerial_Views_Markup.pptx",
+  "source_name": "22_Dropbox_Sangre_de_Cristo__Aerial_Views_Markup.pptx",
+  "slide_size_emu": {
+    "cx": "9144000",
+    "cy": "6858000",
+    "type": "screen4x3"
+  },
+  "n_parts": 56,
+  "n_slides": 4,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 7,
+          "name": "Group 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "b1: Coombs\u2019 Houseb2: Smith\u2019s House"
+        }
+      ]
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 7,
+          "name": "Group 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "a1: Coombs\u2019 Housea2: Smith\u2019s Housea3: Brannock\u2019s Home Site"
+        }
+      ]
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 7,
+          "name": "Group 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "b1b2"
+        }
+      ]
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "grpSp",
+          "id": 7,
+          "name": "Group 6",
+          "x": null,
+          "y": null,
+          "cx": null,
+          "cy": null,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "a1a2a3"
+        }
+      ]
+    }
+  ],
+  "media_assets": []
+}
