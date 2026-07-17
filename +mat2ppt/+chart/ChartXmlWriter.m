@@ -1,10 +1,6 @@
 function writer = ChartXmlWriter(chartType, chartData)
-%CHARTXMLWRITER  Factory returning a chart XML builder for chartType (P8-W4).
+%CHARTXMLWRITER  Factory for chart XML builders (P8 + R5 residual types).
 %
-%   w = mat2ppt.chart.ChartXmlWriter(XL_CHART_TYPE.COLUMN_CLUSTERED, data)
-%   xml = w.xml()   % full c:chartSpace document string
-%
-%   Slice A (this WP): bar/column family + line family with series caches.
 %   Ported from python-pptx 1.0.2: chart/xmlwriter.py::ChartXmlWriter
 
     XL = mat2ppt.enum.XL_CHART_TYPE;
@@ -26,6 +22,12 @@ function writer = ChartXmlWriter(chartType, chartData)
     pieTypes = [ ...
         XL.PIE.value, XL.PIE_EXPLODED.value, ...
         XL.DOUGHNUT.value, XL.DOUGHNUT_EXPLODED.value];
+    areaTypes = [XL.AREA.value, XL.AREA_STACKED.value, XL.AREA_STACKED_100.value];
+    radarTypes = [XL.RADAR.value, XL.RADAR_FILLED.value, XL.RADAR_MARKERS.value];
+    xyTypes = [ ...
+        XL.XY_SCATTER.value, XL.XY_SCATTER_LINES.value, XL.XY_SCATTER_LINES_NO_MARKERS.value, ...
+        XL.XY_SCATTER_SMOOTH.value, XL.XY_SCATTER_SMOOTH_NO_MARKERS.value];
+    bubbleTypes = [XL.BUBBLE.value, XL.BUBBLE_THREE_D_EFFECT.value];
 
     if any(ctVal == barCol)
         writer = mat2ppt.chart.BarChartXmlWriter(chartType, chartData);
@@ -33,8 +35,16 @@ function writer = ChartXmlWriter(chartType, chartData)
         writer = mat2ppt.chart.LineChartXmlWriter(chartType, chartData);
     elseif any(ctVal == pieTypes)
         writer = mat2ppt.chart.PieChartXmlWriter(chartType, chartData);
+    elseif any(ctVal == areaTypes)
+        writer = mat2ppt.chart.AreaChartXmlWriter(chartType, chartData);
+    elseif any(ctVal == radarTypes)
+        writer = mat2ppt.chart.RadarChartXmlWriter(chartType, chartData);
+    elseif any(ctVal == xyTypes)
+        writer = mat2ppt.chart.XyChartXmlWriter(chartType, chartData);
+    elseif any(ctVal == bubbleTypes)
+        writer = mat2ppt.chart.BubbleChartXmlWriter(chartType, chartData);
     else
         error("mat2ppt:notYetPorted", ...
-            "XML writer for chart type %s not yet implemented (P8 residual)", ctName);
+            "XML writer for chart type %s not yet implemented", ctName);
     end
 end

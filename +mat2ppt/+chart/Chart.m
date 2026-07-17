@@ -242,10 +242,96 @@ classdef Chart < handle
                     ct = XL.PIE;
                 case "doughnutChart"
                     ct = XL.DOUGHNUT;
+                case "areaChart"
+                    ct = XL.AREA;
+                case "radarChart"
+                    ct = XL.RADAR;
+                case "scatterChart"
+                    ct = XL.XY_SCATTER;
+                case "bubbleChart"
+                    ct = XL.BUBBLE;
                 otherwise
                     error("mat2ppt:notYetPorted", ...
-                        "chart_type for plot %s not yet mapped (P9 residual)", ln);
+                        "chart_type for plot %s not yet mapped", ln);
             end
+        end
+
+        function tf = has_title(obj)
+            ch = mat2ppt.oxml.chart.CT_ChartSpace.chart_element(obj.chartSpace_);
+            t = ch.find("c:title");
+            if isempty(t)
+                kids = ch.getchildren();
+                for i = 1:numel(kids)
+                    if strcmp(char(kids{i}.localName()), "title")
+                        tf = true; return
+                    end
+                end
+                tf = false;
+            else
+                tf = true;
+            end
+        end
+
+        function titleElm = chart_title(obj)
+            %CHART_TITLE  Ensure c:title exists; return element (R5-W6).
+            ch = mat2ppt.oxml.chart.CT_ChartSpace.chart_element(obj.chartSpace_);
+            titleElm = ch.find("c:title");
+            if isempty(titleElm)
+                kids = ch.getchildren();
+                for i = 1:numel(kids)
+                    if strcmp(char(kids{i}.localName()), "title")
+                        titleElm = kids{i}; break
+                    end
+                end
+            end
+            if isempty(titleElm)
+                titleElm = mat2ppt.oxml.OxmlElement("c:title");
+                tx = mat2ppt.oxml.OxmlElement("c:tx");
+                rich = mat2ppt.oxml.OxmlElement("c:rich");
+                rich.append(mat2ppt.oxml.OxmlElement("a:bodyPr"));
+                rich.append(mat2ppt.oxml.OxmlElement("a:lstStyle"));
+                p = mat2ppt.oxml.OxmlElement("a:p");
+                rich.append(p);
+                tx.append(rich);
+                titleElm.append(tx);
+                % insert after autoTitleDeleted if present
+                ch.append(titleElm);
+            end
+        end
+
+        function v = chart_style(obj)
+            %CHART_STYLE  c:style@val or [] (R5-W6).
+            cs = obj.chartSpace_;
+            st = cs.find("c:style");
+            if isempty(st)
+                kids = cs.getchildren();
+                for i = 1:numel(kids)
+                    if strcmp(char(kids{i}.localName()), "style")
+                        st = kids{i}; break
+                    end
+                end
+            end
+            if isempty(st)
+                v = [];
+            else
+                raw = st.get("val");
+                if mat2ppt.isAbsent(raw), v = []; else, v = str2double(string(raw)); end
+            end
+        end
+
+        function set_chart_style(obj, value)
+            cs = obj.chartSpace_;
+            % remove existing
+            kids = cs.getchildren();
+            for i = numel(kids):-1:1
+                if strcmp(char(kids{i}.localName()), "style")
+                    cs.remove(kids{i});
+                end
+            end
+            if mat2ppt.isAbsent(value), return; end
+            st = mat2ppt.oxml.OxmlElement("c:style");
+            st.set("val", char(string(round(double(value)))));
+            cs.append(st);
         end
     end
 end

@@ -62,12 +62,20 @@ classdef Test_p8_w4_chart_xmlwriter < matlab.unittest.TestCase
             testCase.verifyTrue(contains(xml, "40"));
         end
 
-        function unsupportedTypeErrors(testCase)
+        function residualTypesWriteXml(testCase)
+            % Area/radar use category data; XY uses XyChartData (R5)
             data = mat2ppt.chart.CategoryChartData();
-            data.set_categories({"A"});
-            data.add_series("S", 1);
-            testCase.verifyError(@() mat2ppt.chart.ChartXmlWriter( ...
-                mat2ppt.enum.XL_CHART_TYPE.XY_SCATTER, data), "mat2ppt:notYetPorted");
+            data.set_categories({"A", "B"});
+            data.add_series("S", [1, 2]);
+            w = mat2ppt.chart.ChartXmlWriter(mat2ppt.enum.XL_CHART_TYPE.AREA, data);
+            testCase.verifyTrue(contains(char(string(w.xml())), "areaChart"));
+            w2 = mat2ppt.chart.ChartXmlWriter(mat2ppt.enum.XL_CHART_TYPE.RADAR, data);
+            testCase.verifyTrue(contains(char(string(w2.xml())), "radarChart"));
+            xy = mat2ppt.chart.XyChartData();
+            xy.add_series("P");
+            xy.add_data_point(1, 1.0, 2.0);
+            w3 = mat2ppt.chart.ChartXmlWriter(mat2ppt.enum.XL_CHART_TYPE.XY_SCATTER, xy);
+            testCase.verifyTrue(contains(char(string(w3.xml())), "scatterChart"));
         end
     end
 end

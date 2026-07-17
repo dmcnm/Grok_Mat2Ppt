@@ -34,7 +34,7 @@ classdef ChartPart < mat2ppt.opc.XmlPart
                 pkg
                 slidePn
                 chartType
-                chartData mat2ppt.chart.CategoryChartData
+                chartData  % CategoryChartData | XyChartData | BubbleChartData
             end
             chartPn = mat2ppt.parts.ChartPart.next_chart_partname_(pkg);
             xlsxPn = mat2ppt.parts.ChartPart.next_xlsx_partname_(pkg);
