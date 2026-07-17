@@ -7,6 +7,7 @@ classdef FillFormat < handle
         parentElm_ = []
         type_ = []
         solidElm_ = []
+        pattElm_ = []
         foreRgb_ = []
     end
 
@@ -60,8 +61,34 @@ classdef FillFormat < handle
             end
         end
 
+        function patterned(obj)
+            %PATTERNED  Select pattern fill type (R2-W5).
+            obj.type_ = mat2ppt.enum.MSO_FILL.PATTERNED;
+            A = "http://schemas.openxmlformats.org/drawingml/2006/main";
+            if ~isempty(obj.parentElm_) && isvalid(obj.parentElm_)
+                kids = obj.parentElm_.getchildren();
+                for i = numel(kids):-1:1
+                    ln = char(kids{i}.localName());
+                    if any(strcmp(ln, {'noFill','solidFill','gradFill','blipFill','pattFill','grpFill'}))
+                        obj.parentElm_.remove(kids{i});
+                    end
+                end
+                pf = mat2ppt.oxml.OxmlElement(sprintf("{%s}pattFill", A));
+                obj.parentElm_.append(pf);
+                obj.solidElm_ = [];  % not solid
+                obj.pattElm_ = pf;
+            else
+                obj.pattElm_ = mat2ppt.oxml.OxmlElement(sprintf("{%s}pattFill", A));
+            end
+        end
+
         function c = fore_color(obj)
-            %FORE_COLOR  ColorFormat on solidFill (creates solid if needed).
+            %FORE_COLOR  ColorFormat on solidFill or pattFill fgClr.
+            if ~isempty(obj.pattElm_) && isvalid(obj.pattElm_)
+                fg = obj.ensure_patt_fg_();
+                c = mat2ppt.dml.ColorFormat.from_colorchoice_parent(fg);
+                return
+            end
             if isempty(obj.solidElm_) || ~isvalid(obj.solidElm_)
                 obj.solid();
             end
@@ -98,10 +125,31 @@ classdef FillFormat < handle
                     obj.solidElm_ = kids{i};
                     obj.type_ = mat2ppt.enum.MSO_FILL.SOLID;
                     return
+                elseif strcmp(ln, 'pattFill')
+                    obj.pattElm_ = kids{i};
+                    obj.type_ = mat2ppt.enum.MSO_FILL.PATTERNED;
+                    return
                 elseif strcmp(ln, 'noFill')
                     obj.type_ = mat2ppt.enum.MSO_FILL.BACKGROUND;
                     return
                 end
+            end
+        end
+
+        function fg = ensure_patt_fg_(obj)
+            pf = obj.pattElm_;
+            fg = pf.find("a:fgClr");
+            if isempty(fg)
+                kids = pf.getchildren();
+                for i = 1:numel(kids)
+                    if strcmp(char(kids{i}.localName()), "fgClr")
+                        fg = kids{i}; return
+                    end
+                end
+            end
+            if isempty(fg)
+                fg = mat2ppt.oxml.OxmlElement("a:fgClr");
+                pf.append(fg);
             end
         end
     end
