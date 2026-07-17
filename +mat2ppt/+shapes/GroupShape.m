@@ -36,6 +36,11 @@ classdef GroupShape < mat2ppt.shapes.BaseShape
             end
             shd = mat2ppt.dml.ShadowFormat(grpSpPr);
         end
+
+        function act = click_action(obj) %#ok<MANU>
+            %CLICK_ACTION  Groups cannot have click actions (python TypeError).
+            error("mat2ppt:TypeError", "a group shape cannot have a click action");
+        end
     end
 
     methods (Access = private)

@@ -100,6 +100,15 @@ classdef BaseShape < mat2ppt.shared.ParentedElementProxy
         function e = shape_element(obj)
             e = obj.sp_;
         end
+
+        function act = click_action(obj)
+            %CLICK_ACTION  |ActionSetting| for shape-level click (R4).
+            cNvPr = obj.find_cNvPr_();
+            if isempty(cNvPr)
+                error("mat2ppt:InvalidXmlError", "Shape has no cNvPr for click_action");
+            end
+            act = mat2ppt.action.ActionSetting(cNvPr, obj, false);
+        end
     end
 
     methods (Access = protected)

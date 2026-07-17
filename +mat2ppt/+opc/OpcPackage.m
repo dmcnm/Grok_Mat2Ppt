@@ -224,6 +224,24 @@ classdef OpcPackage < handle
                 return
             end
         end
+
+        function drop_relationship(obj, sourcePartname, rId)
+            %DROP_RELATIONSHIP  Remove Relationship with Id=rId from source rels.
+            src = mat2ppt.opc.PackURI(char(string(sourcePartname)));
+            relsPn = char(src.rels_uri);
+            relsElm = obj.xml_part_element(relsPn);
+            if isempty(relsElm), return; end
+            rId = char(string(rId));
+            kids = relsElm.getchildren();
+            for i = numel(kids):-1:1
+                el = kids{i};
+                if ~strcmp(char(el.localName()), "Relationship"), continue; end
+                if strcmp(char(string(el.get("Id"))), rId)
+                    relsElm.remove(el);
+                end
+            end
+            obj.replace_xml_part(relsPn, relsElm);
+        end
     end
 
     methods (Access = private)
