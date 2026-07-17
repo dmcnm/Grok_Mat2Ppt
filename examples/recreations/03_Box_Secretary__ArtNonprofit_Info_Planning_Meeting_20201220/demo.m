@@ -31,11 +31,11 @@ if isfile(img)
 end
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(1122363), mat2ppt.util.Emu(9144000), mat2ppt.util.Emu(2387600));
 sp.text_frame().text = 'Art Non-profit';
 
 % Subtitle 2
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1524000), mat2ppt.util.Emu(3602038), mat2ppt.util.Emu(9144000), mat2ppt.util.Emu(1655762));
 sp.text_frame().text = 'Informational and Planning MeetingDecember 20, 2020';
 
 
@@ -44,7 +44,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1226), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Overview';
 
 % Content Placeholder 2
@@ -57,7 +57,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1226), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Holy Child Project Overview';
 
 % Content Placeholder 2
@@ -216,17 +216,12 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1226), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
 sp.text_frame().text = 'Resources';
+
+% Content Placeholder 2
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1432877), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(4351338));
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide1 sp used title-area default geom: Title 1
-% GAP: slide1 sp used title-area default geom: Subtitle 2
-% GAP: slide2 sp used title-area default geom: Title 1
-% GAP: slide3 sp used title-area default geom: Title 1
-% GAP: slide11 sp used title-area default geom: Title 1
-% GAP: slide11 sp missing geom: Content Placeholder 2

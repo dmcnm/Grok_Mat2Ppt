@@ -23,7 +23,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "pic",
@@ -57,7 +59,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "pic",

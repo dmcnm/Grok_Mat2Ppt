@@ -56,7 +56,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Chesterton AcademyEmergency Communication Options"
+          "text": "Chesterton AcademyEmergency Communication Options",
+          "ph_type": "ctrTitle",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -80,14 +82,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1227,
+          "cx": 10515600,
+          "cy": 1067080,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Overview of Options"
+          "text": "Overview of Options",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -100,7 +105,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Comprehensive Email and Texting ProgramsJupiterEdPotentially cheapest and easiest to set upFlocknotesMuch more flexible but also more expensive and time consuming to set upStandalone Texting SolutionsExpertTexting.comSeems straightforward with intuitive user interfaceOffers two-way texting with parents, if desiredPer text pricing makes it more attractive for infrequent, emergency useTextEmAll.com"
+          "text": "Comprehensive Email and Texting ProgramsJupiterEdPotentially cheapest and easiest to set upFlocknotesMuch more flexible but also more expensive and time consuming to set upStandalone Texting SolutionsExpertTexting.comSeems straightforward with intuitive user interfaceOffers two-way texting with parents, if desiredPer text pricing makes it more attractive for infrequent, emergency useTextEmAll.com",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -111,14 +118,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1227,
+          "cx": 10515600,
+          "cy": 1067080,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "JupiterEd.com"
+          "text": "JupiterEd.com",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -131,7 +141,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Parents need to login to JupiterEd and opt-in to emergency texting serviceAnother option would be to use non-emergency text messages for weather announcements, but these can get lost as they are common"
+          "text": "Parents need to login to JupiterEd and opt-in to emergency texting serviceAnother option would be to use non-emergency text messages for weather announcements, but these can get lost as they are common",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -142,27 +154,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1227,
+          "cx": 10515600,
+          "cy": 1067080,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Flocknotes"
+          "text": "Flocknotes",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Content Placeholder 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1190542,
+          "cx": 11243092,
+          "cy": 4848274,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Comprehensive email and texting serviceMrs. Sena is familiar with the serviceMore expensive at ~"
+          "text": "Comprehensive email and texting serviceMrs. Sena is familiar with the serviceMore expensive at ~",
+          "ph_type": "body",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     },
@@ -173,27 +191,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1227,
+          "cx": 10515600,
+          "cy": 1067080,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "ExpertTexting.com"
+          "text": "ExpertTexting.com",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Content Placeholder 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1190542,
+          "cx": 11243092,
+          "cy": 4848274,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Com"
+          "text": "Com",
+          "ph_type": "body",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     },
@@ -204,27 +228,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1227,
+          "cx": 10515600,
+          "cy": 1067080,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "TextEmAll.com"
+          "text": "TextEmAll.com",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Content Placeholder 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1190542,
+          "cx": 11243092,
+          "cy": 4848274,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "jkh"
+          "text": "jkh",
+          "ph_type": "body",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     }

@@ -17,8 +17,6 @@
 
 ## Generator gaps
 
-- slide1 sp used title-area default geom: Title 1
-- slide1 sp used title-area default geom: Subtitle 2
 - slide2 sp used title-area default geom: Title 1
 - slide3 sp used title-area default geom: Title 1
 - slide4 sp used title-area default geom: Title 1

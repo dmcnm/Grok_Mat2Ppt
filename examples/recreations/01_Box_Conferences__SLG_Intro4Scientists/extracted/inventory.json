@@ -23,7 +23,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "What Makes a Great Scientist?"
+          "text": "What Makes a Great Scientist?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -36,7 +38,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Knowing science and math factsBeing able to solve known scientific problemsBeing able to acquire new data and assemble new theories to expand knowledge and answer specific questions about the universeIs there something that many of our greatest scientists have in common?Pictures of Newton, Einstein, and FeynmanOverlays of the Bible, Violin, and Congo drums"
+          "text": "Knowing science and math factsBeing able to solve known scientific problemsBeing able to acquire new data and assemble new theories to expand knowledge and answer specific questions about the universeIs there something that many of our greatest scientists have in common?Pictures of Newton, Einstein, and FeynmanOverlays of the Bible, Violin, and Congo drums",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -49,7 +53,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Lesson 18 Biology 2"
+          "text": "Lesson 18 Biology 2",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -62,7 +68,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "1"
+          "text": "1",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         }
       ]
     },
@@ -80,7 +88,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Science: Left-Brain or Right-Brain Thinking?"
+          "text": "Science: Left-Brain or Right-Brain Thinking?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -93,7 +103,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Left-Brain Characteristics"
+          "text": "Left-Brain Characteristics",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -106,7 +118,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Helps us manipulate the worldClinical attentionLeft hemisphere sees isolated details that areFamiliarKnownFixedGraspableAbstractedTaken out of contextCategorizableGeneral in natureGenerally inanimate, because the process has completely isolated them from everything else and deanimated themGrasping a tiny detailNarrowly, focused, targeted attention to something it already knows about"
+          "text": "Helps us manipulate the worldClinical attentionLeft hemisphere sees isolated details that areFamiliarKnownFixedGraspableAbstractedTaken out of contextCategorizableGeneral in natureGenerally inanimate, because the process has completely isolated them from everything else and deanimated themGrasping a tiny detailNarrowly, focused, targeted attention to something it already knows about",
+          "ph_type": "body",
+          "ph_idx": "2"
         },
         {
           "type": "sp",
@@ -119,7 +133,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Right-Brain Characteristics"
+          "text": "Right-Brain Characteristics",
+          "ph_type": "body",
+          "ph_idx": "3"
         },
         {
           "type": "sp",
@@ -132,7 +148,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Helps us understand the worldRapt attentionRight hemisphere\u2019s vision sees things that areonly partly knownonly partly certain of what we are looking atFreshInterconnected, and situated where they are in contextWhen we take them out of context, they change their natureFlowing and changing, not fixed and graspable in a simple wayUnique rather than exemplars of a common themeEmbodied rather than abstracted and disembodiedAnimate, rather than inanimateHas the ability to look out for something we might be missing -- more skepticalAssembles facts for application in an embodied world."
+          "text": "Helps us understand the worldRapt attentionRight hemisphere\u2019s vision sees things that areonly partly knownonly partly certain of what we are looking atFreshInterconnected, and situated where they are in contextWhen we take them out of context, they change their natureFlowing and changing, not fixed and graspable in a simple wayUnique rather than exemplars of a common themeEmbodied rather than abstracted and disembodiedAnimate, rather than inanimateHas the ability to look out for something we might be missing -- more skepticalAssembles facts for application in an embodied world.",
+          "ph_type": "body",
+          "ph_idx": "4"
         },
         {
           "type": "sp",
@@ -145,7 +163,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Lesson 18 Biology 2"
+          "text": "Lesson 18 Biology 2",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -158,7 +178,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "2"
+          "text": "2",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -202,7 +224,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Developing the Right-Brain"
+          "text": "Developing the Right-Brain",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -215,7 +239,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "If we want to educate students to be world-class scientists, we need to develop and not dismiss right-brain thinkingBoth left and right-brain thinking are critical for breakthrough scienceTeach an understanding of and appreciation for Music, Art, and the SacredFor example: band, drawing, family, and the pledge of allegiance/reveilleThe Saint Luke Guild was founded to bring high quality, physical reproductions of the greatest works of art to students of average meansEnabled by two technological developments from the last 20 yearsThe explosion of high-resolution, digital imagery of the greatest works of art, previously reserved to museum visitorsThe dramatic improvements in low-cost, museum quality photographic printing methods"
+          "text": "If we want to educate students to be world-class scientists, we need to develop and not dismiss right-brain thinkingBoth left and right-brain thinking are critical for breakthrough scienceTeach an understanding of and appreciation for Music, Art, and the SacredFor example: band, drawing, family, and the pledge of allegiance/reveilleThe Saint Luke Guild was founded to bring high quality, physical reproductions of the greatest works of art to students of average meansEnabled by two technological developments from the last 20 yearsThe explosion of high-resolution, digital imagery of the greatest works of art, previously reserved to museum visitorsThe dramatic improvements in low-cost, museum quality photographic printing methods",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -228,7 +254,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Lesson 18 Biology 2"
+          "text": "Lesson 18 Biology 2",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -241,7 +269,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "3"
+          "text": "3",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         }
       ]
     },
@@ -259,7 +289,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Example Project"
+          "text": "Example Project",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -272,7 +304,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Bring around 50 paintings showing both a timeline of art and world history to Holy Child Catholic School$30k in artwork installed in the last 1.5 years$30k in funding promised by donors to complete the hallwayOver 20 years projects of a similar scale could be done in every school throughout the country for ~.05% of their budgetCompare with Zuckerberg\u2019s $300,000,000 donation to one school district \u2013 Zero improvement in student achievement"
+          "text": "Bring around 50 paintings showing both a timeline of art and world history to Holy Child Catholic School$30k in artwork installed in the last 1.5 years$30k in funding promised by donors to complete the hallwayOver 20 years projects of a similar scale could be done in every school throughout the country for ~.05% of their budgetCompare with Zuckerberg\u2019s $300,000,000 donation to one school district \u2013 Zero improvement in student achievement",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -285,7 +319,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Lesson 18 Biology 2"
+          "text": "Lesson 18 Biology 2",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -298,7 +334,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "4"
+          "text": "4",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         }
       ]
     },
@@ -316,7 +354,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Example Paintings"
+          "text": "Example Paintings",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -329,7 +369,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Science brings us facts about the world"
+          "text": "Science brings us facts about the world",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -342,7 +384,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Lesson 18 Biology 2"
+          "text": "Lesson 18 Biology 2",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -355,7 +399,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "5"
+          "text": "5",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "pic",
@@ -405,7 +451,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Summary"
+          "text": "Summary",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -418,7 +466,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Science brings us disembodied, decontextualized facts about the worldArt and myth are focused on how embodied humans should act in the real world, which is particular and uncertainBoth left and right-brained thinking is necessary for a world-class scientific enterpriseThe scientist is servant to the humanities majorThey control how our inventions are usedThe Saint Luke Guild helps develop right-brain thinking by bringing high quality reproductions of the greatest works of art in the Western Canon to average studentsDeveloping an appreciation for rapt attention alongside clinical attention"
+          "text": "Science brings us disembodied, decontextualized facts about the worldArt and myth are focused on how embodied humans should act in the real world, which is particular and uncertainBoth left and right-brained thinking is necessary for a world-class scientific enterpriseThe scientist is servant to the humanities majorThey control how our inventions are usedThe Saint Luke Guild helps develop right-brain thinking by bringing high quality reproductions of the greatest works of art in the Western Canon to average studentsDeveloping an appreciation for rapt attention alongside clinical attention",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -431,7 +481,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Lesson 18 Biology 2"
+          "text": "Lesson 18 Biology 2",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -444,7 +496,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "6"
+          "text": "6",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         }
       ]
     }

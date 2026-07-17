@@ -16,27 +16,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 685800,
+          "y": 2130425,
+          "cx": 7772400,
+          "cy": 1470025,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Incontrovertible Proof that Moving to Town is a Step Up in the World for the Coombs Family"
+          "text": "Incontrovertible Proof that Moving to Town is a Step Up in the World for the Coombs Family",
+          "ph_type": "ctrTitle",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Subtitle 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 1371600,
+          "y": 3886200,
+          "cx": 6400800,
+          "cy": 1752600,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "December 31, 2014 @1454"
+          "text": "December 31, 2014 @1454",
+          "ph_type": "subTitle",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     },
@@ -54,7 +60,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Only Warm Bedroom in House"
+          "text": "Only Warm Bedroom in House",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -67,7 +75,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "There is the one and only warm room in the housePolyisocyanurate insulation covers outside wall including single pane windows and single pane sliding glass doorsHas a massive gap at joint between stationary and moving parts which covered with duct tape to prevent wind from blowing in (see picture on right).For most of winter, I\u2019ve slept on the floor, my daughter on the top bunk and my 3 boys on the bottom bunk.When my dad visited for Christmas, he slept on the floor of the unheated living room in a 20 degree sleeping bag"
+          "text": "There is the one and only warm room in the housePolyisocyanurate insulation covers outside wall including single pane windows and single pane sliding glass doorsHas a massive gap at joint between stationary and moving parts which covered with duct tape to prevent wind from blowing in (see picture on right).For most of winter, I\u2019ve slept on the floor, my daughter on the top bunk and my 3 boys on the bottom bunk.When my dad visited for Christmas, he slept on the floor of the unheated living room in a 20 degree sleeping bag",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -117,7 +127,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of Usable Bathroom"
+          "text": "State of Usable Bathroom",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -130,7 +142,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Old heater in bathroom removed because 1\u201d gaps \u201cprotecting\u201d exposed heater wire were extreme danger to small kids, such as I have.Bathroom unheated, but usable.  Old asbestos tile remediated and shower/toilet/sink work.Lighting still an issue and ceiling unfinished."
+          "text": "Old heater in bathroom removed because 1\u201d gaps \u201cprotecting\u201d exposed heater wire were extreme danger to small kids, such as I have.Bathroom unheated, but usable.  Old asbestos tile remediated and shower/toilet/sink work.Lighting still an issue and ceiling unfinished.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -180,7 +194,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of Kitchen"
+          "text": "State of Kitchen",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -193,7 +209,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Wife removed cupboard doors and have had trouble finding them.Note exposed wiring and 50 year old fluorescent lights that sometimes don\u2019t work when it gets cold."
+          "text": "Wife removed cupboard doors and have had trouble finding them.Note exposed wiring and 50 year old fluorescent lights that sometimes don\u2019t work when it gets cold.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -227,7 +245,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of living room (1/3)"
+          "text": "State of living room (1/3)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -240,7 +260,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "One of the 4\u2019x6\u2019 single pane window replaced with used double pane off craig\u2019s list. It has not been trimmed out.Three other single pane windows remain plus single pane sliding glass door. One window has broken frame and one can see through to the outside"
+          "text": "One of the 4\u2019x6\u2019 single pane window replaced with used double pane off craig\u2019s list. It has not been trimmed out.Three other single pane windows remain plus single pane sliding glass door. One window has broken frame and one can see through to the outside",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -345,7 +367,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of living room (2/3)"
+          "text": "State of living room (2/3)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -358,7 +382,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Note single pane sliding glass door with unsealed gap between sliding and stationary parts."
+          "text": "Note single pane sliding glass door with unsealed gap between sliding and stationary parts.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -408,7 +434,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of living room (3/3)"
+          "text": "State of living room (3/3)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -421,7 +449,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Picture on left from earlier in Dec. 2014 shows old propane heater.Picture on right shows this week\u2019s installation of electric wall furnace.30,000 BTU, 40+ amps.  Can only afford to run for a few hours a day.  Full time would cost $400+/month and only heat one room.  Can\u2019t afford $10-20k to outfit entire house with efficient heat pumps.  Got quote earlier this  month for 12 amp heat pump for this one room.  It was $6k.  I can buy the parts for $3.25k and do myself when I have more money, but will still need to pull a permit and hire a plumber for $500 to hook up the refrigerant."
+          "text": "Picture on left from earlier in Dec. 2014 shows old propane heater.Picture on right shows this week\u2019s installation of electric wall furnace.30,000 BTU, 40+ amps.  Can only afford to run for a few hours a day.  Full time would cost $400+/month and only heat one room.  Can\u2019t afford $10-20k to outfit entire house with efficient heat pumps.  Got quote earlier this  month for 12 amp heat pump for this one room.  It was $6k.  I can buy the parts for $3.25k and do myself when I have more money, but will still need to pull a permit and hire a plumber for $500 to hook up the refrigerant.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -471,7 +501,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of 2nd bedroom"
+          "text": "State of 2nd bedroom",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -484,7 +516,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Single pane windows replaced in 2nd and 3rd bedrooms Nov. - Dec. of 2014Trim finished just this week in one room, not in the otherNote temperature is 47 degrees despite space heater being on 24-7.  Obviously, I have a serious problem here.  Walls on this side of the house are more poorly insulated than I anticipated.  Quality in this regard is very uneven throughout the house.  Also, floor is uninsulated above vented crawl space, which probably has a big effect.  When wood stove is run constantly, a space heater can keep the room tolerable.  Without it, it is miserable."
+          "text": "Single pane windows replaced in 2nd and 3rd bedrooms Nov. - Dec. of 2014Trim finished just this week in one room, not in the otherNote temperature is 47 degrees despite space heater being on 24-7.  Obviously, I have a serious problem here.  Walls on this side of the house are more poorly insulated than I anticipated.  Quality in this regard is very uneven throughout the house.  Also, floor is uninsulated above vented crawl space, which probably has a big effect.  When wood stove is run constantly, a space heater can keep the room tolerable.  Without it, it is miserable.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -573,7 +607,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of third bedroom"
+          "text": "State of third bedroom",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -586,7 +622,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Single pane window replaced in November 2014, but hasn\u2019t been trimmed out or finished.Third bedroom is open to the bathroom since wall has been removed."
+          "text": "Single pane window replaced in November 2014, but hasn\u2019t been trimmed out or finished.Third bedroom is open to the bathroom since wall has been removed.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -749,7 +787,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of Second Bathroom"
+          "text": "State of Second Bathroom",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -762,7 +802,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Shower tile had been placed over unprotected drywall and was falling apart.  Walls were covered with broken mirrors which were used as wall tile and were a cutting hazard since some of the grout was starting to fall out.Currently walls are torn out, old ungrounded wiring needs toi be replaced with modern GFI outlets and shower needs to be finished.Note frost on single pane window in the afternoon (nearly warmest part of the day,  plenty of time to warm up)"
+          "text": "Shower tile had been placed over unprotected drywall and was falling apart.  Walls were covered with broken mirrors which were used as wall tile and were a cutting hazard since some of the grout was starting to fall out.Currently walls are torn out, old ungrounded wiring needs toi be replaced with modern GFI outlets and shower needs to be finished.Note frost on single pane window in the afternoon (nearly warmest part of the day,  plenty of time to warm up)",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -812,7 +854,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of Basement (1/2)"
+          "text": "State of Basement (1/2)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -825,7 +869,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Basement was used as a second bedroom in the summer 2nd bedroom had broken single pane window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.Note massive gap to outside under 2nd door and huge hole in wall with light coming in from outside (shown below).Basement completely inappropriate to use as bedroom in winter.Note broken window on door which is covered in packing tape and shown below (another DV incident)"
+          "text": "Basement was used as a second bedroom in the summer 2nd bedroom had broken single pane window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.Note massive gap to outside under 2nd door and huge hole in wall with light coming in from outside (shown below).Basement completely inappropriate to use as bedroom in winter.Note broken window on door which is covered in packing tape and shown below (another DV incident)",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -914,7 +960,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of Basement (2/2)"
+          "text": "State of Basement (2/2)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -927,7 +975,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Basement was used as a second bedroom in the summer 2nd bedroom had broken window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.Basement completely inappropriate to use as bedroom in winter.Note broken window on door which is covered in packing tape and shown below (another DV incident), Note massive gap to outside under 2nd door and huge hole in wall with light coming in from outside (shown below).Also note that basement is open to crawl space /unfinished utility room and exposed wiring (shown below)."
+          "text": "Basement was used as a second bedroom in the summer 2nd bedroom had broken window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.Basement completely inappropriate to use as bedroom in winter.Note broken window on door which is covered in packing tape and shown below (another DV incident), Note massive gap to outside under 2nd door and huge hole in wall with light coming in from outside (shown below).Also note that basement is open to crawl space /unfinished utility room and exposed wiring (shown below).",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1032,7 +1082,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Unworking Propane Heaters in most Rooms"
+          "text": "Unworking Propane Heaters in most Rooms",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1045,7 +1097,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Propane was pulled by Amerigas due to dangerous piping which was undisclosed.Rusted pipes (shown below)and main supply line running through concrete make replumbing entire house necessary to ever use again.Propane heaters were inefficient and unsafe anyway."
+          "text": "Propane was pulled by Amerigas due to dangerous piping which was undisclosed.Rusted pipes (shown below)and main supply line running through concrete make replumbing entire house necessary to ever use again.Propane heaters were inefficient and unsafe anyway.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1124,7 +1178,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "State of Flooring"
+          "text": "State of Flooring",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1137,7 +1193,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Asbestos tile covers one side of house.  It is coming up in numerous places, as shown below.50 year old nylon carpet covers other side of house, except for hole where old homemade fireplace used to exist (shown below) .  Old fireplace was removed because it was a fire hazard, didn\u2019t draft properly filling room with smoke when fire got low and sucked more heat up the chimney than it gave to room when fire was not low."
+          "text": "Asbestos tile covers one side of house.  It is coming up in numerous places, as shown below.50 year old nylon carpet covers other side of house, except for hole where old homemade fireplace used to exist (shown below) .  Old fireplace was removed because it was a fire hazard, didn\u2019t draft properly filling room with smoke when fire got low and sucked more heat up the chimney than it gave to room when fire was not low.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1187,7 +1245,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Misc. Issues"
+          "text": "Misc. Issues",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1200,7 +1260,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Note outside trim not finished on replaced widnows.Note rotting wood and nails sticking up on outside deck.Why I don\u2019t allow the kids to play there."
+          "text": "Note outside trim not finished on replaced widnows.Note rotting wood and nails sticking up on outside deck.Why I don\u2019t allow the kids to play there.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1305,7 +1367,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Undisclosed Problems Preventing Sale"
+          "text": "Undisclosed Problems Preventing Sale",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1318,7 +1382,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Foundation problem discovered after buying the house has outside wall leaning over an inch in just 8\u2019.This was not disclosed when I bought the place and must be fixed before sale.  The problem is the foundation is not solid concrete.  It is a mixed concrete and rock, making jacking it up the normal way impossible since it is only strong in compression and not tension.Similar to the rubble trench foundations which Frank Lloyd Wright was famous for, but which are a nightmare to fix if not done properly."
+          "text": "Foundation problem discovered after buying the house has outside wall leaning over an inch in just 8\u2019.This was not disclosed when I bought the place and must be fixed before sale.  The problem is the foundation is not solid concrete.  It is a mixed concrete and rock, making jacking it up the normal way impossible since it is only strong in compression and not tension.Similar to the rubble trench foundations which Frank Lloyd Wright was famous for, but which are a nightmare to fix if not done properly.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1352,7 +1418,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Conclusions"
+          "text": "Conclusions",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1365,7 +1433,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Anyone who thinks this is a proper place to raise kids in winter needs to have their head examined.  It is bitterly cold and needs much work to be rentable, comfortably livable or even saleable at anything but a huge loss.This is only a small sampling of the problems I have with this house, some of which I\u2019m afraid to document in pictures given to people I don\u2019t trust.The worst part about this whole thing is that now I have to live here an extra month (the 2nd coldest month of the year), because somebody made themselves judge and jury of things had no understanding of and forced me to jump through numerous ridiculous hoops which delayed closing past Dec. 31, costing me tons of money in legal fees and forcing my kids to endure another month of mind-numbing cold.I only bought this house because I thought I had a partner in life who could help me fix the place up and make it livable. A lawsuit over the driveway that cost me tens of thousands of dollars and tied up funds designated for fixing this house combined with my ex losing her mind, leaving me with full custody of the kids and alimony to pay conspired to cost me that dream.  Now, somebody who has no fucking idea what it is like to live here wants to take away my chance to get out of here by not allowing a loan to go through.  What are my other options: selling at a massive loss or walking a way and defaulting on the loan.  Are those options really preferable?  I think not.Now that I\u2019ve been completely humiliated, \u201cMother, may I please have my loan?\u201d"
+          "text": "Anyone who thinks this is a proper place to raise kids in winter needs to have their head examined.  It is bitterly cold and needs much work to be rentable, comfortably livable or even saleable at anything but a huge loss.This is only a small sampling of the problems I have with this house, some of which I\u2019m afraid to document in pictures given to people I don\u2019t trust.The worst part about this whole thing is that now I have to live here an extra month (the 2nd coldest month of the year), because somebody made themselves judge and jury of things had no understanding of and forced me to jump through numerous ridiculous hoops which delayed closing past Dec. 31, costing me tons of money in legal fees and forcing my kids to endure another month of mind-numbing cold.I only bought this house because I thought I had a partner in life who could help me fix the place up and make it livable. A lawsuit over the driveway that cost me tens of thousands of dollars and tied up funds designated for fixing this house combined with my ex losing her mind, leaving me with full custody of the kids and alimony to pay conspired to cost me that dream.  Now, somebody who has no fucking idea what it is like to live here wants to take away my chance to get out of here by not allowing a loan to go through.  What are my other options: selling at a massive loss or walking a way and defaulting on the loan.  Are those options really preferable?  I think not.Now that I\u2019ve been completely humiliated, \u201cMother, may I please have my loan?\u201d",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     }
@@ -1406,5 +1476,6 @@
     "image7.jpeg",
     "image8.jpeg",
     "image9.jpeg"
-  ]
+  ],
+  "master_layout_pics": 0
 }

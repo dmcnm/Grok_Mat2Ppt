@@ -40,7 +40,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Jeff and Erika Cowman"
+          "text": "Jeff and Erika Cowman",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -53,7 +55,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Met when Jeff was 17 and Erika 18, on Bishop Kelly campusMarried at St. John\u2019s Cathedral June 2003Became NFP Teachers 2009"
+          "text": "Met when Jeff was 17 and Erika 18, on Bishop Kelly campusMarried at St. John\u2019s Cathedral June 2003Became NFP Teachers 2009",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -103,7 +107,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Children"
+          "text": "Children",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -116,7 +122,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Mikaela Joan 13Kaleb Alexander 11Baby George in heavenJohn Paul 7Gilbert Joseph 4"
+          "text": "Mikaela Joan 13Kaleb Alexander 11Baby George in heavenJohn Paul 7Gilbert Joseph 4",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -150,7 +158,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "How we discovered NFP:"
+          "text": "How we discovered NFP:",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -163,7 +173,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Grew up on dairy farmKnew about chastity, but not teaching on contraceptionOverheard parents joking about the Pope not liking vasectomiesVet science class in college\u2014Animal reproduction\u2014fertility is scienceAudio Talk:  Professor Janet Smith\u2014Contraception:  Why Not?/Cracking the Myths"
+          "text": "Grew up on dairy farmKnew about chastity, but not teaching on contraceptionOverheard parents joking about the Pope not liking vasectomiesVet science class in college\u2014Animal reproduction\u2014fertility is scienceAudio Talk:  Professor Janet Smith\u2014Contraception:  Why Not?/Cracking the Myths",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -194,7 +206,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "How we discovered NFP:"
+          "text": "How we discovered NFP:",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -207,7 +221,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Learned about development and testing of the Pill in high school and how women diedMen fertile 24/7, Women a few days, seemed unjust to sterilize a womenLearned about NFP on a H.S. retreat Heard talks on Theology of the Body at Seminary and with ErikaCollege- completed a group project for statistics class on contraceptive use; I knew more about women\u2019s cycles than my female classmates"
+          "text": "Learned about development and testing of the Pill in high school and how women diedMen fertile 24/7, Women a few days, seemed unjust to sterilize a womenLearned about NFP on a H.S. retreat Heard talks on Theology of the Body at Seminary and with ErikaCollege- completed a group project for statistics class on contraceptive use; I knew more about women\u2019s cycles than my female classmates",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -238,7 +254,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Our purpose here"
+          "text": "Our purpose here",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -251,7 +269,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Provide information on what NFP is & what it is notProvide facts / dispel mythsBenefits of NFPAnswer questions"
+          "text": "Provide information on what NFP is & what it is notProvide facts / dispel mythsBenefits of NFPAnswer questions",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -285,7 +305,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Inform\u2026not judge!"
+          "text": "Inform\u2026not judge!",
+          "ph_type": "ctrTitle",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -316,7 +338,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact or Myth?"
+          "text": "Fact or Myth?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -329,7 +353,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Natural Family Planning (NFP) is an old fashioned method of trying to prevent pregnancy (Some call it the Rhythm method or Calendar method)"
+          "text": "Natural Family Planning (NFP) is an old fashioned method of trying to prevent pregnancy (Some call it the Rhythm method or Calendar method)",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -363,7 +389,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Myth!"
+          "text": "Myth!",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -376,7 +404,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Modern NFP is NOT the old Rhythm method our grandparents and great-grandparents used, but is based on scientifically studied signs of fertility"
+          "text": "Modern NFP is NOT the old Rhythm method our grandparents and great-grandparents used, but is based on scientifically studied signs of fertility",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -394,7 +424,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "What is NFP?"
+          "text": "What is NFP?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -407,7 +439,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Scientific knowledge of    fertilityReading body\u2019s signs of fertility and infertilityNatural Family Planning (NFP)Fertility Awareness Method (FAM)"
+          "text": "Scientific knowledge of    fertilityReading body\u2019s signs of fertility and infertilityNatural Family Planning (NFP)Fertility Awareness Method (FAM)",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -512,7 +546,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Hormones in men"
+          "text": "Hormones in men",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -627,7 +663,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Hormones in women"
+          "text": "Hormones in women",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -658,7 +696,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Putting it all together"
+          "text": "Putting it all together",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -718,7 +758,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "How NFP Works"
+          "text": "How NFP Works",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -731,7 +773,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Measures changes in signs of fertilityRecorded on chart to define fertility and infertility Abstain or have relations based on absence or presence of fertile signs"
+          "text": "Measures changes in signs of fertilityRecorded on chart to define fertility and infertility Abstain or have relations based on absence or presence of fertile signs",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -749,7 +793,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Sample CCL Chart"
+          "text": "Sample CCL Chart",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -838,7 +884,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "\u201cThere\u2019s an app for that\u201d"
+          "text": "\u201cThere\u2019s an app for that\u201d",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -851,7 +899,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fertility monitorsSoftwareMobile appsApps = virtual reality trainingClasses = real life trial and error application and instruction"
+          "text": "Fertility monitorsSoftwareMobile appsApps = virtual reality trainingClasses = real life trial and error application and instruction",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -946,7 +996,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact or Myth?"
+          "text": "Fact or Myth?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -959,7 +1011,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Couples who use NFP have sex as often as couples who use contraception \u2013 they just time it differently."
+          "text": "Couples who use NFP have sex as often as couples who use contraception \u2013 they just time it differently.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -977,7 +1031,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact!"
+          "text": "Fact!",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -990,7 +1046,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "REALITY: If couples who practice NFP were to engage in intercourse on all the days when abstinence is not required for spacing births, they would be doing so at a rate almost twice the national average! NFP couples can make love no less frequently in each cycle than other couples.Abstinence is a part of marriageillnessWork travelMilitary deploymentBirthNo one has died from NOT having sex"
+          "text": "REALITY: If couples who practice NFP were to engage in intercourse on all the days when abstinence is not required for spacing births, they would be doing so at a rate almost twice the national average! NFP couples can make love no less frequently in each cycle than other couples.Abstinence is a part of marriageillnessWork travelMilitary deploymentBirthNo one has died from NOT having sex",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1008,7 +1066,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "NFP Benefit #1"
+          "text": "NFP Benefit #1",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1021,7 +1081,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Authentic Love\u2026selfless, not selfish"
+          "text": "Authentic Love\u2026selfless, not selfish",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1039,7 +1101,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Marital love is a self-gift"
+          "text": "Marital love is a self-gift",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1052,7 +1116,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "100%-100%, Not 50/50Free, total, faithful, fruitfulCommitment at altar\u201cHave you come here freely to give yourselves to each other without reservation?\u201d\u201cDo you promise to be faithful until death?\u201d\u201cDo you promise to receive children lovingly from God?\u201d"
+          "text": "100%-100%, Not 50/50Free, total, faithful, fruitfulCommitment at altar\u201cHave you come here freely to give yourselves to each other without reservation?\u201d\u201cDo you promise to be faithful until death?\u201d\u201cDo you promise to receive children lovingly from God?\u201d",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1086,7 +1152,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Every Sacrament\u2014form & matter"
+          "text": "Every Sacrament\u2014form & matter",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1099,7 +1167,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Baptism=form: baptize you in the name of the Father,\u2026..matter: water Eucharist=Form: words of the last supperMatter: bread and wineMarriage=Form:  vows made by the coupleMatter: consummation of the marriage (to complete a marriage by the first act of sexual intercourse)"
+          "text": "Baptism=form: baptize you in the name of the Father,\u2026..matter: water Eucharist=Form: words of the last supperMatter: bread and wineMarriage=Form:  vows made by the coupleMatter: consummation of the marriage (to complete a marriage by the first act of sexual intercourse)",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1117,7 +1187,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Sexual Intercourse=Renewing Wedding Vows"
+          "text": "Sexual Intercourse=Renewing Wedding Vows",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1130,7 +1202,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Now chastity made sense\u2014we can\u2019t renew vows we haven\u2019t madeIn our vows we promise to love: Freely, Totally, Faithfully, FruitfullyWith NFP we are free to give our complete selves the way God made us, just as we are, without altering ourselves\u2014fertility is not an illness"
+          "text": "Now chastity made sense\u2014we can\u2019t renew vows we haven\u2019t madeIn our vows we promise to love: Freely, Totally, Faithfully, FruitfullyWith NFP we are free to give our complete selves the way God made us, just as we are, without altering ourselves\u2014fertility is not an illness",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1214,7 +1288,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact or Myth?"
+          "text": "Fact or Myth?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1227,7 +1303,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Couples who practice NFP have a less than 5% divorce rate."
+          "text": "Couples who practice NFP have a less than 5% divorce rate.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1245,7 +1323,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact!"
+          "text": "Fact!",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1258,7 +1338,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Studies of shown that couples who practice Natural Family Planning have a divorce rate between 1-5%Couples who pray together daily (not meal prayer) have a divorce rate of .01%"
+          "text": "Studies of shown that couples who practice Natural Family Planning have a divorce rate between 1-5%Couples who pray together daily (not meal prayer) have a divorce rate of .01%",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1276,7 +1358,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "NFP Benefit #2"
+          "text": "NFP Benefit #2",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1289,7 +1373,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Stronger Marriage & Greater Intimacy"
+          "text": "Stronger Marriage & Greater Intimacy",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1307,7 +1393,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Why increased intimacy?"
+          "text": "Why increased intimacy?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1320,7 +1408,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Stronger relationships may be more likely to practice NFPCouples who reject NFP as \u201ctoo much trouble\u201d or \u201ctoo restrictive\u201d all too often turn out to be the same couples who ultimately find the demands of marriage itself to be too much to handle ~Jason EvertNFP takes virtue\u2014so does marriagecommitment, communication, consideration, patience, sacrifice and self-control;  These are what makes marriage work.NFP requires communicationShared responsibility; chart togetherKeeps spouses from taking each other for granted and relying on physical intimacyMany women on contraception complain of feeling used. Contraception can lead the husband to assume that she was always sexually available. With NFP, Spouses are not constantly sexually available to the other Couples we know personally report that their physical life is better"
+          "text": "Stronger relationships may be more likely to practice NFPCouples who reject NFP as \u201ctoo much trouble\u201d or \u201ctoo restrictive\u201d all too often turn out to be the same couples who ultimately find the demands of marriage itself to be too much to handle ~Jason EvertNFP takes virtue\u2014so does marriagecommitment, communication, consideration, patience, sacrifice and self-control;  These are what makes marriage work.NFP requires communicationShared responsibility; chart togetherKeeps spouses from taking each other for granted and relying on physical intimacyMany women on contraception complain of feeling used. Contraception can lead the husband to assume that she was always sexually available. With NFP, Spouses are not constantly sexually available to the other Couples we know personally report that their physical life is better",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1338,7 +1428,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Chastity Tests Love"
+          "text": "Chastity Tests Love",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1351,7 +1443,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Immature views of love and relationship will rise to the surface when chastity is requiredAbstinence is a built in a time when they can \u201ccourt\u201d; every kiss does not need to lead to the bedroomHelps us focus on intellectual, emotional, spiritual intimacy"
+          "text": "Immature views of love and relationship will rise to the surface when chastity is requiredAbstinence is a built in a time when they can \u201ccourt\u201d; every kiss does not need to lead to the bedroomHelps us focus on intellectual, emotional, spiritual intimacy",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1369,7 +1463,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact or Myth?"
+          "text": "Fact or Myth?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1382,7 +1478,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "The Catholic Church calls married couples to have as many children as possible."
+          "text": "The Catholic Church calls married couples to have as many children as possible.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1400,7 +1498,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Myth!"
+          "text": "Myth!",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1413,7 +1513,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "REALITY:  The Catholic Church encourages people to be both generous and responsible stewards over their fertility."
+          "text": "REALITY:  The Catholic Church encourages people to be both generous and responsible stewards over their fertility.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1431,7 +1533,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "NFP Benefit #3"
+          "text": "NFP Benefit #3",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1444,7 +1548,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Countercultural\u2014Children viewed as a gift, not a burden"
+          "text": "Countercultural\u2014Children viewed as a gift, not a burden",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1462,7 +1568,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Marital Embrace"
+          "text": "Marital Embrace",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1475,7 +1583,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Babies & Bonding\u201cSo they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.\u201d  ~Matthew 19:6"
+          "text": "Babies & Bonding\u201cSo they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.\u201d  ~Matthew 19:6",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1509,7 +1619,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "But what about those huge families?"
+          "text": "But what about those huge families?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1522,7 +1634,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "All Christians are called to generosityNowhere in the Bible are children a curse or burden; they are ALWAYS a blessing; Couples who reject contraception are less likely to see children as a burden. Because of their generous spirit, they tend to have larger families, and divorce rates are highest where children are fewest."
+          "text": "All Christians are called to generosityNowhere in the Bible are children a curse or burden; they are ALWAYS a blessing; Couples who reject contraception are less likely to see children as a burden. Because of their generous spirit, they tend to have larger families, and divorce rates are highest where children are fewest.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1556,7 +1670,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Inviting God Into the Marriage"
+          "text": "Inviting God Into the Marriage",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1569,7 +1685,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Monthly discernment of what God is calling that family to beHow\u2019s our marriage?How is our family doing?Are we being generous? Prudent?Lord help us overcome\u2026Lord, help us to trust\u2026Not telling God our plan, but asking HimWedding invitation analogy (from Christopher West)"
+          "text": "Monthly discernment of what God is calling that family to beHow\u2019s our marriage?How is our family doing?Are we being generous? Prudent?Lord help us overcome\u2026Lord, help us to trust\u2026Not telling God our plan, but asking HimWedding invitation analogy (from Christopher West)",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1587,7 +1705,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact or Myth?"
+          "text": "Fact or Myth?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1600,7 +1720,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Only women with regular cycles can use NFP."
+          "text": "Only women with regular cycles can use NFP.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1618,7 +1740,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Myth!"
+          "text": "Myth!",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1631,7 +1755,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Reality: NFP can be used by women with irregular cycles, and can even help detect, diagnose and treat health problems, including infertility."
+          "text": "Reality: NFP can be used by women with irregular cycles, and can even help detect, diagnose and treat health problems, including infertility.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1649,7 +1775,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "NFP Benefit #4"
+          "text": "NFP Benefit #4",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1662,7 +1790,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Safe, Healthy, and a Diagnostic Tool"
+          "text": "Safe, Healthy, and a Diagnostic Tool",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1680,7 +1810,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "If Sex is natural, why do we make it artificial?"
+          "text": "If Sex is natural, why do we make it artificial?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1693,7 +1825,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1727,7 +1861,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "How the pill and IUD work"
+          "text": "How the pill and IUD work",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1740,7 +1876,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Progestin convinces woman\u2019s body she\u2019s pregnantSuppress ovulationBack-up method thin uterine lining to prevent implantation (abortifacient)Breakthrough ovulation common"
+          "text": "Progestin convinces woman\u2019s body she\u2019s pregnantSuppress ovulationBack-up method thin uterine lining to prevent implantation (abortifacient)Breakthrough ovulation common",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "graphicFrame",
@@ -1930,7 +2068,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Adverse Effects"
+          "text": "Adverse Effects",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1943,7 +2083,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Increased Risk of Breast Cancer (and other cancers)Post contraceptive infertilityDecrease libido (artificial hormones increase Sex Hormone Binding Globulin, decrease testosterone levels, sometimes permanent damage)Decreased bone densityIncreased depressionDepo Provers (the shot): CA administers it to sex offenders; veterinarians won\u2019t give it to dogsIf mom conceives on the Pill, sons are more likely to develop prostate cancerSpeaking of Pure water\u2026Damage to the environment"
+          "text": "Increased Risk of Breast Cancer (and other cancers)Post contraceptive infertilityDecrease libido (artificial hormones increase Sex Hormone Binding Globulin, decrease testosterone levels, sometimes permanent damage)Decreased bone densityIncreased depressionDepo Provers (the shot): CA administers it to sex offenders; veterinarians won\u2019t give it to dogsIf mom conceives on the Pill, sons are more likely to develop prostate cancerSpeaking of Pure water\u2026Damage to the environment",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1961,7 +2103,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "\u201cGallup poll\u201d"
+          "text": "\u201cGallup poll\u201d",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1974,7 +2118,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Of the women in the US who discontinued hormonal contraceptives, how many did so because of side effects?33%43%53%64%"
+          "text": "Of the women in the US who discontinued hormonal contraceptives, how many did so because of side effects?33%43%53%64%",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -2047,7 +2193,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Diagnostic Tool"
+          "text": "Diagnostic Tool",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2060,7 +2208,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Charting fertility signs can help discover or diagnose health issues such as:Low thyroidLow progesteroneRepeated miscarriageInfertilityDepressionPolycystic Ovarian Syndrome"
+          "text": "Charting fertility signs can help discover or diagnose health issues such as:Low thyroidLow progesteroneRepeated miscarriageInfertilityDepressionPolycystic Ovarian Syndrome",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -2078,7 +2228,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact or Myth?"
+          "text": "Fact or Myth?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2091,7 +2243,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Natural Family Planning is just as effective at limiting births as artificial means."
+          "text": "Natural Family Planning is just as effective at limiting births as artificial means.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -2109,7 +2263,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Fact!"
+          "text": "Fact!",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2122,7 +2278,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Modern scientific NFP is 99% effective at limiting birth when couples are motivated to follow the rules (80-90% effective when they don\u2019t even follow the rules)3 Xs more successful than modern technology in helping couples of limited fertility achieve pregnancy"
+          "text": "Modern scientific NFP is 99% effective at limiting birth when couples are motivated to follow the rules (80-90% effective when they don\u2019t even follow the rules)3 Xs more successful than modern technology in helping couples of limited fertility achieve pregnancy",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -2140,20 +2298,25 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "NFP Benefit #5"
+          "text": "NFP Benefit #5",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
           "id": 5,
           "name": "Text Placeholder 4",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 623888,
+          "y": 4589464,
+          "cx": 7886700,
+          "cy": 1500187,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Effective"
+          "text": "Effective",
+          "ph_type": "body",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     },
@@ -2171,7 +2334,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2184,7 +2349,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -2234,7 +2401,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "NFP to achieve a pregnancy"
+          "text": "NFP to achieve a pregnancy",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2247,7 +2416,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "10-15% of couples suffer from infertility (more than 1 year of trying to conceiveFertility awareness can help couples conceive in half the time or lessKnowing how to identify the fertile window is key"
+          "text": "10-15% of couples suffer from infertility (more than 1 year of trying to conceiveFertility awareness can help couples conceive in half the time or lessKnowing how to identify the fertile window is key",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -2281,7 +2452,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "WebMD"
+          "text": "WebMD",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2294,7 +2467,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "\u201cA relatively high failure rate has been reported.\u201d The \u201cfailure rate\u201d WebMD cites combined data from modern NFP methods with data from calendar methods artificially lowering the effectiveness of NFP"
+          "text": "\u201cA relatively high failure rate has been reported.\u201d The \u201cfailure rate\u201d WebMD cites combined data from modern NFP methods with data from calendar methods artificially lowering the effectiveness of NFP",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -2312,7 +2487,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "But isn\u2019t it too complicated and unrealistic?"
+          "text": "But isn\u2019t it too complicated and unrealistic?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2325,7 +2502,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "In a World Health Organization (WHO) study, 725 couples from five countries \u2013 El Salvador, India, New Zealand, Ireland, and the Philippines \u2013 were taught the ovulation method of NFP over the course of three months. After a year the couples were evaluated, and the method effectiveness rate was 97.2%. Note: half of the Salvadorean couples were illiterate, proving that an advanced education is unnecessary for learning NFP effectivelyBritish medical journal report: study of 19,000 women in India (52% Hindu, 27% Muslim, and 21% Christian)\u2014failure rate of almost 0% ( 0.2 pregnancies/100 women).  Thanks to Mother Teresa, couples avoided government mandated sterilization in the 70s; today India still has sterilization quotas, leading to many deaths from botched operations From a publication of the Missionaries of Charity \u201cMany people wonder how poor couples can exercise self-control for more than one week. Yes, they do it; it is possible. It is, after all, their own choice. Some abstain for twenty days a month; others for one, two, and even three months. From our experience we find that it is more difficult for an educated couple to abstain than for a poor and illiterate couple. Why? Perhaps because the wealthy and educated couples have more comforts, and are more inclined to enjoy the good things of life.\u201d"
+          "text": "In a World Health Organization (WHO) study, 725 couples from five countries \u2013 El Salvador, India, New Zealand, Ireland, and the Philippines \u2013 were taught the ovulation method of NFP over the course of three months. After a year the couples were evaluated, and the method effectiveness rate was 97.2%. Note: half of the Salvadorean couples were illiterate, proving that an advanced education is unnecessary for learning NFP effectivelyBritish medical journal report: study of 19,000 women in India (52% Hindu, 27% Muslim, and 21% Christian)\u2014failure rate of almost 0% ( 0.2 pregnancies/100 women).  Thanks to Mother Teresa, couples avoided government mandated sterilization in the 70s; today India still has sterilization quotas, leading to many deaths from botched operations From a publication of the Missionaries of Charity \u201cMany people wonder how poor couples can exercise self-control for more than one week. Yes, they do it; it is possible. It is, after all, their own choice. Some abstain for twenty days a month; others for one, two, and even three months. From our experience we find that it is more difficult for an educated couple to abstain than for a poor and illiterate couple. Why? Perhaps because the wealthy and educated couples have more comforts, and are more inclined to enjoy the good things of life.\u201d",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -2343,7 +2522,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Isn\u2019t NFP just \u201cnatural\u201d birth control"
+          "text": "Isn\u2019t NFP just \u201cnatural\u201d birth control",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2356,7 +2537,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "NFP is birth control; it is not contra-ception (against life).Yes, a couple using NFP could be closed to God\u2019s will; they could use it selfishly\u2014but rareOne is a lack of generosity; the other is using the body and making a loving act intentionally sterile, potentially aborting a new life, and separating what God designedTwo women wishing to stay slim analogy"
+          "text": "NFP is birth control; it is not contra-ception (against life).Yes, a couple using NFP could be closed to God\u2019s will; they could use it selfishly\u2014but rareOne is a lack of generosity; the other is using the body and making a loving act intentionally sterile, potentially aborting a new life, and separating what God designedTwo women wishing to stay slim analogy",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -2374,7 +2557,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Resources"
+          "text": "Resources",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2387,7 +2572,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Web resourcesfertilitycare.orgChastity.compopepaulvi.comccli.orgboma-usa.orgnfp.marquette.edunfpandmore.orgonemoresoul.comnwfs.orghttp://nfpsst.org/fact-or-fiction/usccb.org/issues-and-action/marriage-and-family/"
+          "text": "Web resourcesfertilitycare.orgChastity.compopepaulvi.comccli.orgboma-usa.orgnfp.marquette.edunfpandmore.orgonemoresoul.comnwfs.orghttp://nfpsst.org/fact-or-fiction/usccb.org/issues-and-action/marriage-and-family/",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",

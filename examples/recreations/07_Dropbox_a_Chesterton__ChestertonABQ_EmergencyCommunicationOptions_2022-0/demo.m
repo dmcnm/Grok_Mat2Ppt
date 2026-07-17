@@ -44,7 +44,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1067080));
 sp.text_frame().text = 'Overview of Options';
 
 % Content Placeholder 2
@@ -57,7 +57,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1067080));
 sp.text_frame().text = 'JupiterEd.com';
 
 % Content Placeholder 2
@@ -70,11 +70,11 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1067080));
 sp.text_frame().text = 'Flocknotes';
 
 % Content Placeholder 2
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1190542), mat2ppt.util.Emu(11243092), mat2ppt.util.Emu(4848274));
 sp.text_frame().text = 'Comprehensive email and texting serviceMrs. Sena is familiar with the serviceMore expensive at ~';
 
 
@@ -83,11 +83,11 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1067080));
 sp.text_frame().text = 'ExpertTexting.com';
 
 % Content Placeholder 2
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1190542), mat2ppt.util.Emu(11243092), mat2ppt.util.Emu(4848274));
 sp.text_frame().text = 'Com';
 
 
@@ -96,23 +96,13 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1227), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1067080));
 sp.text_frame().text = 'TextEmAll.com';
 
 % Content Placeholder 2
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(493095), mat2ppt.util.Emu(1190542), mat2ppt.util.Emu(11243092), mat2ppt.util.Emu(4848274));
 sp.text_frame().text = 'jkh';
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide2 sp used title-area default geom: Title 1
-% GAP: slide3 sp used title-area default geom: Title 1
-% GAP: slide4 sp used title-area default geom: Title 1
-% GAP: slide4 sp used title-area default geom: Content Placeholder 2
-% GAP: slide5 sp used title-area default geom: Title 1
-% GAP: slide5 sp used title-area default geom: Content Placeholder 2
-% GAP: slide6 sp used title-area default geom: Title 1
-% GAP: slide6 sp used title-area default geom: Content Placeholder 2

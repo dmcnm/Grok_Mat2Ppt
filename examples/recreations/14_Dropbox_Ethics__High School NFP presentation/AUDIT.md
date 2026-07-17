@@ -18,7 +18,6 @@
 ## Generator gaps
 
 - slide37 sp missing geom: Content Placeholder 6
-- slide44 sp used title-area default geom: Text Placeholder 4
 - slide45 sp missing geom: Title 3
 - slide45 sp missing geom: Content Placeholder 4
 - slide47 sp used title-area default geom: Title 1

@@ -44,7 +44,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(318053), mat2ppt.util.Emu(1), mat2ppt.util.Emu(10736802), mat2ppt.util.Emu(868705));
 sp.text_frame().text = 'Transaction InformationData Request';
 
 % Content Placeholder 2
@@ -188,7 +188,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(318053), mat2ppt.util.Emu(1), mat2ppt.util.Emu(10736802), mat2ppt.util.Emu(868705));
 sp.text_frame().text = 'Bank Account Info';
 
 % Content Placeholder 2
@@ -207,7 +207,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(318053), mat2ppt.util.Emu(1), mat2ppt.util.Emu(10736802), mat2ppt.util.Emu(868705));
 sp.text_frame().text = 'KYC documentation';
 
 % Content Placeholder 2
@@ -232,7 +232,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(318053), mat2ppt.util.Emu(1), mat2ppt.util.Emu(10736802), mat2ppt.util.Emu(868705));
 sp.text_frame().text = 'Legalese on Website';
 
 % Content Placeholder 2
@@ -245,7 +245,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(318053), mat2ppt.util.Emu(1), mat2ppt.util.Emu(10736802), mat2ppt.util.Emu(868705));
 sp.text_frame().text = 'Privacy and Refund Policy';
 
 % Content Placeholder 2
@@ -258,11 +258,11 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(318053), mat2ppt.util.Emu(1), mat2ppt.util.Emu(10736802), mat2ppt.util.Emu(868705));
 sp.text_frame().text = 'Regulatory Documents';
 
 % Content Placeholder 2
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(480061), mat2ppt.util.Emu(938440), mat2ppt.util.Emu(10386722), mat2ppt.util.Emu(5687646));
 sp.text_frame().text = 'License required to operate the businessNM_SoS_InitialReport_2016917025-502856.pdfNM_ArticlesOfIncorporation_AoI_Approved.pdfLicenses for all jurisdictions in which you intend to provide your services.Starting in NM.  Other locations unknown, so far.  Copy of AML/KYC policy and proceduresNot sure what this would look like.  Are there examples?Completed AML QuestionnaireHas this been done?';
 
 
@@ -271,24 +271,13 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(318053), mat2ppt.util.Emu(1), mat2ppt.util.Emu(10736802), mat2ppt.util.Emu(868705));
 sp.text_frame().text = 'Corporate Documents';
 
 % Content Placeholder 2
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(480061), mat2ppt.util.Emu(938440), mat2ppt.util.Emu(10386722), mat2ppt.util.Emu(5687646));
 sp.text_frame().text = 'Please provide 501c3 document to confirm tax exempt statusThe following are attachedIRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdfIRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf';
 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide2 sp used title-area default geom: Title 1
-% GAP: slide6 sp used title-area default geom: Title 1
-% GAP: slide7 sp used title-area default geom: Title 1
-% GAP: slide8 sp used title-area default geom: Title 1
-% GAP: slide9 sp used title-area default geom: Title 1
-% GAP: slide10 sp used title-area default geom: Title 1
-% GAP: slide10 sp used title-area default geom: Content Placeholder 2
-% GAP: slide11 sp used title-area default geom: Title 1
-% GAP: slide11 sp used title-area default geom: Content Placeholder 2

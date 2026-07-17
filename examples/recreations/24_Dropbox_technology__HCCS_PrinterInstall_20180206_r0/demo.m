@@ -44,11 +44,11 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(535021), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(9772761), mat2ppt.util.Emu(659559));
 sp.text_frame().text = 'Overview';
 
 % Content Placeholder 2
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(188121), mat2ppt.util.Emu(1222110), mat2ppt.util.Emu(11165680), mat2ppt.util.Emu(4954853));
 sp.text_frame().text = 'Description of Current PrintersPrinter Installation Instructions';
 
 
@@ -57,7 +57,7 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(535021), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(9772761), mat2ppt.util.Emu(659559));
 sp.text_frame().text = 'Current Printers';
 
 % Content Placeholder 2
@@ -161,8 +161,3 @@ sp = sh.add_shape('rect', mat2ppt.util.Emu(3221618), mat2ppt.util.Emu(3692323), 
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
-
-% --- generation gaps ---
-% GAP: slide2 sp used title-area default geom: Title 1
-% GAP: slide2 sp used title-area default geom: Content Placeholder 2
-% GAP: slide3 sp used title-area default geom: Title 1

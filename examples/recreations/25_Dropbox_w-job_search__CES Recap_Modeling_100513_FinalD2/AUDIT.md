@@ -5,8 +5,8 @@
 | | Original | Recreation |
 |---|---:|---:|
 | Slides | 26 | 26 |
-| Shapes | 135 | 133 |
-| Media | 43 | 43 |
+| Shapes | 135 | 138 |
+| Media | 43 | 48 |
 
 | Metric | Value |
 |---|---:|

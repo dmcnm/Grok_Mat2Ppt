@@ -56,7 +56,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "The Saint Luke GuildCheckout.com Requested Info"
+          "text": "The Saint Luke GuildCheckout.com Requested Info",
+          "ph_type": "ctrTitle",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -69,7 +71,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Douglas CoombsJuly 1, 2022, Rev. 1"
+          "text": "Douglas CoombsJuly 1, 2022, Rev. 1",
+          "ph_type": "subTitle",
+          "ph_idx": "1"
         }
       ]
     },
@@ -80,14 +84,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 318053,
+          "y": 1,
+          "cx": 10736802,
+          "cy": 868705,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Transaction InformationData Request"
+          "text": "Transaction InformationData Request",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -100,7 +107,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "A payment flow to properly understand what Checkout.com is exactly processing for.See the next slidePlease provide further details on what the merchant will be accepting payments for.We are accepting donations to fundArt displays at schoolsProjects to help schools in the selection of art (e.g., a timeline/database of art masterpieces)Costs to attend educational conferences and educate schools on the value of art reproductionsPlease provide the URL where payments will be accepted. Please also provide demo or Test login details to verify the websitewww.saintlukeguild.com/projects (this will be updated when we begin taking payments)Please confirm the annual processing volumeMaybe $5k-$10k/year to begin.  It is hard to say.  We currently bring in around $20k/year in large checks.  Most larger donors will probably still choose to give via check."
+          "text": "A payment flow to properly understand what Checkout.com is exactly processing for.See the next slidePlease provide further details on what the merchant will be accepting payments for.We are accepting donations to fundArt displays at schoolsProjects to help schools in the selection of art (e.g., a timeline/database of art masterpieces)Costs to attend educational conferences and educate schools on the value of art reproductionsPlease provide the URL where payments will be accepted. Please also provide demo or Test login details to verify the websitewww.saintlukeguild.com/projects (this will be updated when we begin taking payments)Please confirm the annual processing volumeMaybe $5k-$10k/year to begin.  It is hard to say.  We currently bring in around $20k/year in large checks.  Most larger donors will probably still choose to give via check.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -131,7 +140,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Transaction Flow Chart for Website Donor Funds"
+          "text": "Transaction Flow Chart for Website Donor Funds",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -144,7 +155,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "General support projects are not specific to any school Project costs are school specific"
+          "text": "General support projects are not specific to any school Project costs are school specific",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -292,7 +305,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Website Donor FormsEntry Point for Project Funding"
+          "text": "Website Donor FormsEntry Point for Project Funding",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -305,7 +320,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Simple Donate Button next to each project on website takes donors to a common donation form with a drop down menu to select a projectThe Saint Luke Guild should be able to add projects to the listAll form information should be communicated to the Saint Luke Guild along with money"
+          "text": "Simple Donate Button next to each project on website takes donors to a common donation form with a drop down menu to select a projectThe Saint Luke Guild should be able to add projects to the listAll form information should be communicated to the Saint Luke Guild along with money",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -375,7 +392,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Website Donor FormsIdeal Point"
+          "text": "Website Donor FormsIdeal Point",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -388,7 +407,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "In an ideal world, we would be able to have bar graphs showing how much money has been donated to a given projectSimilar to KickstarterSLG staff would be able to enter check donations to move the barThis would mean each project would have a standalone donor form."
+          "text": "In an ideal world, we would be able to have bar graphs showing how much money has been donated to a given projectSimilar to KickstarterSLG staff would be able to enter check donations to move the barThis would mean each project would have a standalone donor form.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -555,14 +576,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 318053,
+          "y": 1,
+          "cx": 10736802,
+          "cy": 868705,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Bank Account Info"
+          "text": "Bank Account Info",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -575,7 +599,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Routing #: 307083911Auto WD and Direct Deposit #: 9225000161Account #: 10422500-9001Not used for electronic transactions"
+          "text": "Routing #: 307083911Auto WD and Direct Deposit #: 9225000161Account #: 10422500-9001Not used for electronic transactions",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -602,14 +628,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 318053,
+          "y": 1,
+          "cx": 10736802,
+          "cy": 868705,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "KYC documentation"
+          "text": "KYC documentation",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -622,7 +651,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Passport/Driver\u2019s License for Douglas Coombs"
+          "text": "Passport/Driver\u2019s License for Douglas Coombs",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -665,14 +696,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 318053,
+          "y": 1,
+          "cx": 10736802,
+          "cy": 868705,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Legalese on Website"
+          "text": "Legalese on Website",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -685,7 +719,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Legal entity name: The Saint Luke GuildGoverning jurisdiction: New MexicoMerchant registered business address: 2718 University Blvd NE, Albuquerque, NM 87107Privacy PolicySee next slideRefund/Cancellation/Return PolicySee next slideSee www.SaintLukeGuild.com/About-UsTo be moved to www.SaintLukeGuild.com/Legalese at a future date"
+          "text": "Legal entity name: The Saint Luke GuildGoverning jurisdiction: New MexicoMerchant registered business address: 2718 University Blvd NE, Albuquerque, NM 87107Privacy PolicySee next slideRefund/Cancellation/Return PolicySee next slideSee www.SaintLukeGuild.com/About-UsTo be moved to www.SaintLukeGuild.com/Legalese at a future date",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -696,14 +732,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 318053,
+          "y": 1,
+          "cx": 10736802,
+          "cy": 868705,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Privacy and Refund Policy"
+          "text": "Privacy and Refund Policy",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -716,7 +755,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "https://www.saintlukeguild.com/about-usRefund PolicyThe Saint Luke Guild does not deliver products to individuals; therefore cancellations and returns are not applicable.  Also, donor refunds are not generally offered.  Refunds will be considered on a case-by-case basis before money is distributed to the designated project (e.g., if someone accidentally entered the wrong donation amount and contact is made within one business day).  To request a refund, contact us at refunds@saintlukeguild.com.Privacy PolicyThe Saint Luke Guild takes donor information and privacy very seriously.  We will never sell donor information to a third party for any reason.Donor information will only be shared with outside businesses as necessary to deliver services (e.g., processing credit card donations, etc.).The exception is when donors choose a specific school project to donate to.  When this occurs, donor information will typically be shared with the specified school, so that they can know to whom they should be grateful.  Donors may opt out of information sharing on the donor form."
+          "text": "https://www.saintlukeguild.com/about-usRefund PolicyThe Saint Luke Guild does not deliver products to individuals; therefore cancellations and returns are not applicable.  Also, donor refunds are not generally offered.  Refunds will be considered on a case-by-case basis before money is distributed to the designated project (e.g., if someone accidentally entered the wrong donation amount and contact is made within one business day).  To request a refund, contact us at refunds@saintlukeguild.com.Privacy PolicyThe Saint Luke Guild takes donor information and privacy very seriously.  We will never sell donor information to a third party for any reason.Donor information will only be shared with outside businesses as necessary to deliver services (e.g., processing credit card donations, etc.).The exception is when donors choose a specific school project to donate to.  When this occurs, donor information will typically be shared with the specified school, so that they can know to whom they should be grateful.  Donors may opt out of information sharing on the donor form.",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -727,27 +768,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 318053,
+          "y": 1,
+          "cx": 10736802,
+          "cy": 868705,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Regulatory Documents"
+          "text": "Regulatory Documents",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Content Placeholder 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 480061,
+          "y": 938440,
+          "cx": 10386722,
+          "cy": 5687646,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "License required to operate the businessNM_SoS_InitialReport_2016917025-502856.pdfNM_ArticlesOfIncorporation_AoI_Approved.pdfLicenses for all jurisdictions in which you intend to provide your services.Starting in NM.  Other locations unknown, so far.  Copy of AML/KYC policy and proceduresNot sure what this would look like.  Are there examples?Completed AML QuestionnaireHas this been done?"
+          "text": "License required to operate the businessNM_SoS_InitialReport_2016917025-502856.pdfNM_ArticlesOfIncorporation_AoI_Approved.pdfLicenses for all jurisdictions in which you intend to provide your services.Starting in NM.  Other locations unknown, so far.  Copy of AML/KYC policy and proceduresNot sure what this would look like.  Are there examples?Completed AML QuestionnaireHas this been done?",
+          "ph_type": "body",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     },
@@ -758,27 +805,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 318053,
+          "y": 1,
+          "cx": 10736802,
+          "cy": 868705,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Corporate Documents"
+          "text": "Corporate Documents",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Content Placeholder 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 480061,
+          "y": 938440,
+          "cx": 10386722,
+          "cy": 5687646,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Please provide 501c3 document to confirm tax exempt statusThe following are attachedIRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdfIRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf"
+          "text": "Please provide 501c3 document to confirm tax exempt statusThe following are attachedIRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdfIRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf",
+          "ph_type": "body",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     }

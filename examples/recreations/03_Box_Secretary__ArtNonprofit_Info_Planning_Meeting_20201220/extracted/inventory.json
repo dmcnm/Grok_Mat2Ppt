@@ -49,27 +49,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 1524000,
+          "y": 1122363,
+          "cx": 9144000,
+          "cy": 2387600,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Art Non-profit"
+          "text": "Art Non-profit",
+          "ph_type": "ctrTitle",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Subtitle 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 1524000,
+          "y": 3602038,
+          "cx": 9144000,
+          "cy": 1655762,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Informational and Planning MeetingDecember 20, 2020"
+          "text": "Informational and Planning MeetingDecember 20, 2020",
+          "ph_type": "subTitle",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     },
@@ -80,14 +86,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1226,
+          "cx": 10515600,
+          "cy": 1325563,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Overview"
+          "text": "Overview",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -100,7 +109,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Summary of Current Project and StatusOverview of Potential Non-profit Purpose and GoalsSurvey of Participants and Potential Next Steps"
+          "text": "Summary of Current Project and StatusOverview of Potential Non-profit Purpose and GoalsSurvey of Participants and Potential Next Steps",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -111,14 +122,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1226,
+          "cx": 10515600,
+          "cy": 1325563,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Holy Child Project Overview"
+          "text": "Holy Child Project Overview",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -131,7 +145,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Mother Seton Hall art schema finishedFive main hallway sections, plus intro, closing, and side hallwaysFocus is on reproductions of masterpiece paintings and will not include photos of statues and other architectureEach main section to cover an era of history Also looking to highlight art history Intro section complete10 paintings for just over $10k Modern Era Funding Promised \u2013 Currently in RFQ StageTwo pieces awaiting final down select15 paintings for $10.5k-14kFundraising and final selection remains for following sectionsCradle of Civilization and OT Greece and Rome Paschal MysteryEarly Church to Medieval EraEstimated Costs remaining: ~40 paintings for $35k plus lightingPlanning not yet begun for Blessed Miguel Pro Hall"
+          "text": "Mother Seton Hall art schema finishedFive main hallway sections, plus intro, closing, and side hallwaysFocus is on reproductions of masterpiece paintings and will not include photos of statues and other architectureEach main section to cover an era of history Also looking to highlight art history Intro section complete10 paintings for just over $10k Modern Era Funding Promised \u2013 Currently in RFQ StageTwo pieces awaiting final down select15 paintings for $10.5k-14kFundraising and final selection remains for following sectionsCradle of Civilization and OT Greece and Rome Paschal MysteryEarly Church to Medieval EraEstimated Costs remaining: ~40 paintings for $35k plus lightingPlanning not yet begun for Blessed Miguel Pro Hall",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -162,7 +178,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Mother Seton Hall Art Schema"
+          "text": "Mother Seton Hall Art Schema",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -175,7 +193,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "CompletedIn-progressPlanning Stages"
+          "text": "CompletedIn-progressPlanning Stages",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -404,7 +424,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Non-profit PurposesAsset Protection"
+          "text": "Non-profit PurposesAsset Protection",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -417,7 +439,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Asset protection is critical to fundraising in parishes/dioceses where future friendliness toward classical education and great art is in questionBarbarian bishops and modernist priests have destroyed much church art and sold off numerous assets to pay abuse settlementsMost people have stories of friends/family saving church art from literal dumpstersNon-profit can hold assets in trust and give them away to other schools if unfriendly powers take control and want to dispose of the art"
+          "text": "Asset protection is critical to fundraising in parishes/dioceses where future friendliness toward classical education and great art is in questionBarbarian bishops and modernist priests have destroyed much church art and sold off numerous assets to pay abuse settlementsMost people have stories of friends/family saving church art from literal dumpstersNon-profit can hold assets in trust and give them away to other schools if unfriendly powers take control and want to dispose of the art",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -435,7 +459,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Non-profit PurposesProject and Concept Promotion"
+          "text": "Non-profit PurposesProject and Concept Promotion",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -448,7 +474,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Holy Child is pioneering something newNever before have modern printing methods been combined with the ever-growing library of high resolution photos of museum paintings to bring the best masterpiece paintings in the western canon to schoolsThe classical school movement is rapidly expanding and pioneering new ways to bring the a traditional education to the modern worldMany schools would likely be interested if they could see this projectWays to promote conceptSpeak at educational conferencesNews coveragePublishing in academic journals and educational magazinesPartnerships with local art museumsPartnerships with other schools"
+          "text": "Holy Child is pioneering something newNever before have modern printing methods been combined with the ever-growing library of high resolution photos of museum paintings to bring the best masterpiece paintings in the western canon to schoolsThe classical school movement is rapidly expanding and pioneering new ways to bring the a traditional education to the modern worldMany schools would likely be interested if they could see this projectWays to promote conceptSpeak at educational conferencesNews coveragePublishing in academic journals and educational magazinesPartnerships with local art museumsPartnerships with other schools",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -466,7 +494,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Non-profit PurposesConnecting School Communities and Museums"
+          "text": "Non-profit PurposesConnecting School Communities and Museums",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -479,7 +509,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Reproductions shouldn\u2019t be the only art children seeMost masterpiece paintings live in museumsTraveling exhibits bring masterpieces to even smaller cities like AlbuquerqueReserving a section of wall to display the best of local art museums would encourage families to visitRequires working with museum staff to acquire rights and select pieces for displayProvides visibility of museum exhibits to school familiesProvides visibility of school in the wider communityWin-win for families, museum, and schoolStrong partnerships generate opportunity for positive media interest and coverageMuseum staff will likely lead this effort"
+          "text": "Reproductions shouldn\u2019t be the only art children seeMost masterpiece paintings live in museumsTraveling exhibits bring masterpieces to even smaller cities like AlbuquerqueReserving a section of wall to display the best of local art museums would encourage families to visitRequires working with museum staff to acquire rights and select pieces for displayProvides visibility of museum exhibits to school familiesProvides visibility of school in the wider communityWin-win for families, museum, and schoolStrong partnerships generate opportunity for positive media interest and coverageMuseum staff will likely lead this effort",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -497,7 +529,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Non-profit PurposesConnecting Likeminded School Communities"
+          "text": "Non-profit PurposesConnecting Likeminded School Communities",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -510,7 +544,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Serve as central resource to connect classical schools that want to implement this ideaProvide planning and logistical support to schools lacking expertiseCan help schools with planning and piece selectionHoly Child has already looked at thousands of paintings and has presentations with hundreds of potential candidatesProvide logistical support to schoolsConnect with Duraplaq and Derek BrooksDevelop connections to companies in other parts of  the country/world as time progressesProvide support to schools looking to circulate loaned paintingsSimilar to how most museums have traveling exhibitsHelp connect schools with their local art community"
+          "text": "Serve as central resource to connect classical schools that want to implement this ideaProvide planning and logistical support to schools lacking expertiseCan help schools with planning and piece selectionHoly Child has already looked at thousands of paintings and has presentations with hundreds of potential candidatesProvide logistical support to schoolsConnect with Duraplaq and Derek BrooksDevelop connections to companies in other parts of  the country/world as time progressesProvide support to schools looking to circulate loaned paintingsSimilar to how most museums have traveling exhibitsHelp connect schools with their local art community",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -528,7 +564,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Starting a Non-profit"
+          "text": "Starting a Non-profit",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -541,7 +579,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Decide on purpose for organization and general goalsFeedback - Disagreement on goals in previous slides or other ideas?Select board modelRecruit and vote on transition board members (with future in mind)Highlight business/non-profit experience, time, motivation, and art expertiseAvoid conflicts of interestDecide on committees - both business and art relatedVote on a name"
+          "text": "Decide on purpose for organization and general goalsFeedback - Disagreement on goals in previous slides or other ideas?Select board modelRecruit and vote on transition board members (with future in mind)Highlight business/non-profit experience, time, motivation, and art expertiseAvoid conflicts of interestDecide on committees - both business and art relatedVote on a name",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -572,7 +612,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Questions and Feedback"
+          "text": "Questions and Feedback",
+          "ph_type": "title",
+          "ph_idx": ""
         }
       ]
     },
@@ -583,27 +625,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1226,
+          "cx": 10515600,
+          "cy": 1325563,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Resources"
+          "text": "Resources",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Content Placeholder 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 493095,
+          "y": 1432877,
+          "cx": 10515600,
+          "cy": 4351338,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "ph_type": "body",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     }

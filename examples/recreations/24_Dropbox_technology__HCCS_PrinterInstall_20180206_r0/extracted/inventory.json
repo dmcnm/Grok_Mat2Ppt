@@ -56,7 +56,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "HCCS Network Printer Installation"
+          "text": "HCCS Network Printer Installation",
+          "ph_type": "ctrTitle",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -69,7 +71,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Douglas CoombsFebruary 6, 2018, Rev. 0"
+          "text": "Douglas CoombsFebruary 6, 2018, Rev. 0",
+          "ph_type": "subTitle",
+          "ph_idx": "1"
         }
       ]
     },
@@ -80,27 +84,33 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 535021,
+          "y": 365125,
+          "cx": 9772761,
+          "cy": 659559,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Overview"
+          "text": "Overview",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Content Placeholder 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 188121,
+          "y": 1222110,
+          "cx": 11165680,
+          "cy": 4954853,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Description of Current PrintersPrinter Installation Instructions"
+          "text": "Description of Current PrintersPrinter Installation Instructions",
+          "ph_type": "body",
+          "ph_idx": "1",
+          "geom_from_layout": true
         }
       ]
     },
@@ -111,14 +121,17 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 535021,
+          "y": 365125,
+          "cx": 9772761,
+          "cy": 659559,
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Current Printers"
+          "text": "Current Printers",
+          "ph_type": "title",
+          "ph_idx": "",
+          "geom_from_layout": true
         },
         {
           "type": "sp",
@@ -131,7 +144,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Teacher\u2019s LoungeColor HP Wireless (Model #): 192.168.1.57HP Color Laserjet 3500: 192.168.1.58Mrs. Teeter\u2019s 1/2nd ClassroomBW: HP Laserjet 4050N: IP Address TBD (ideally 192.168.1.59)Outside Mrs. Sanchez ClassroomBW: HP Laserjet 4100: 192.168.1.97"
+          "text": "Teacher\u2019s LoungeColor HP Wireless (Model #): 192.168.1.57HP Color Laserjet 3500: 192.168.1.58Mrs. Teeter\u2019s 1/2nd ClassroomBW: HP Laserjet 4050N: IP Address TBD (ideally 192.168.1.59)Outside Mrs. Sanchez ClassroomBW: HP Laserjet 4100: 192.168.1.97",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -149,7 +164,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Installing a Network Printer Using TCP/IP (1/4)"
+          "text": "Installing a Network Printer Using TCP/IP (1/4)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -162,7 +179,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Overview of stepsControl Panel -> Devices and printersAdd a printer Add a Local PrinterCreate a New PortSelect Type of Port: Standard TCP/IP PortType IP Address in Hostname or IP address: 192.168.1.##Installing the Printer Driver Add Printer -> Have DiskPrint Test Page"
+          "text": "Overview of stepsControl Panel -> Devices and printersAdd a printer Add a Local PrinterCreate a New PortSelect Type of Port: Standard TCP/IP PortType IP Address in Hostname or IP address: 192.168.1.##Installing the Printer Driver Add Printer -> Have DiskPrint Test Page",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -180,7 +199,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Installing a Network Printer Using TCP/IP (2/4)"
+          "text": "Installing a Network Printer Using TCP/IP (2/4)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -193,7 +214,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Control Panel -> Devices and printersAdd a printer Add a Local Printer"
+          "text": "Control Panel -> Devices and printersAdd a printer Add a Local Printer",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -240,7 +263,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Installing a Network Printer Using TCP/IP (3/4)"
+          "text": "Installing a Network Printer Using TCP/IP (3/4)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -253,7 +278,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Add a Local PrinterCreate a New PortSelect Type of Port: Standard TCP/IP Port"
+          "text": "Add a Local PrinterCreate a New PortSelect Type of Port: Standard TCP/IP Port",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -303,7 +330,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Installing a Network Printer Using TCP/IP (4/4)"
+          "text": "Installing a Network Printer Using TCP/IP (4/4)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -316,7 +345,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Type IP Address in Hostname or IP address: 192.168.1.##Installing the Printer Driver Add Printer -> Have Disk"
+          "text": "Type IP Address in Hostname or IP address: 192.168.1.##Installing the Printer Driver Add Printer -> Have Disk",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",

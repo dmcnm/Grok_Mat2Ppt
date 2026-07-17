@@ -23,7 +23,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Nucleation and Growth of Crystalline Structures On A Treated Substrate From A Supersaturated Solution Of C12H22O11"
+          "text": "Nucleation and Growth of Crystalline Structures On A Treated Substrate From A Supersaturated Solution Of C12H22O11",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -257,7 +259,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "1"
+          "text": "1",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -270,7 +274,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         }
       ]
     },
@@ -548,7 +554,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Nucleation and Growth of Crystalline Structures On A Treated Substrate From A Supersaturated Solution Of C12H22O11"
+          "text": "Nucleation and Growth of Crystalline Structures On A Treated Substrate From A Supersaturated Solution Of C12H22O11",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -574,7 +582,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "2"
+          "text": "2",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -587,7 +597,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         }
       ]
     },
@@ -605,7 +617,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Better Title:Making Rock Candy!"
+          "text": "Better Title:Making Rock Candy!",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "pic",
@@ -634,7 +648,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "3"
+          "text": "3",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -647,7 +663,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -678,7 +696,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Funny Election Sign"
+          "text": "Funny Election Sign",
+          "ph_type": "subTitle",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -691,7 +711,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "4"
+          "text": "4",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -704,7 +726,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "pic",
@@ -751,7 +775,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Lab Safety Today"
+          "text": "Lab Safety Today",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -861,7 +887,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "We will be using a hot stove to make our rock candy solution. Let the adults do the cooking!Be careful with          your glass jars"
+          "text": "We will be using a hot stove to make our rock candy solution. Let the adults do the cooking!Be careful with          your glass jars",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -874,7 +902,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "5"
+          "text": "5",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -887,7 +917,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         }
       ]
     },
@@ -905,7 +937,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Experiment 1: Growing Rock Candy Crystals That You Can Eat"
+          "text": "Experiment 1: Growing Rock Candy Crystals That You Can Eat",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1272,7 +1306,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "6"
+          "text": "6",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -1285,7 +1321,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -1384,7 +1422,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Now Let\u2019s Go To The Kitchen"
+          "text": "Now Let\u2019s Go To The Kitchen",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1397,7 +1437,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "7"
+          "text": "7",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -1410,7 +1452,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         }
       ]
     },
@@ -1428,7 +1472,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Procedure for Experiment 1"
+          "text": "Procedure for Experiment 1",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1467,7 +1513,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "This makes enough solution for 16 pint jars.In large kettles, boil 16 cups (4 quarts) of distilled water.We will need 40 cups of sugar.Slowly add 10 cups of sugar to each quart of boiling water, stirring until the sugar dissolves.Allow the solution to cool for 20 minutes.Fill each jar full of the solution using the ladle.Add food coloring and flavoring to your jar!"
+          "text": "This makes enough solution for 16 pint jars.In large kettles, boil 16 cups (4 quarts) of distilled water.We will need 40 cups of sugar.Slowly add 10 cups of sugar to each quart of boiling water, stirring until the sugar dissolves.Allow the solution to cool for 20 minutes.Fill each jar full of the solution using the ladle.Add food coloring and flavoring to your jar!",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -1480,7 +1528,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "8"
+          "text": "8",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -1493,7 +1543,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         }
       ]
     },
@@ -1511,7 +1563,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Finishing Experiment 1"
+          "text": "Finishing Experiment 1",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1524,7 +1578,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Tie one end of a 6-inch piece of string to the center of a clothespin and the other end to the end of a paper clip.Dip your string into the sugar solution.Roll your string in some sugar.Let the string cool down.Very Important: Shake off any extra sugar.Lower the string into the jar of hot sugar solution, resting the clothespin on the jar lid.Keep the bottom end of the paper clip a half inch or so above the bottom of the jar.Put jar in a safe, warm place and wait one week.Do not disturb the jar while you are waiting for the crystals to form."
+          "text": "Tie one end of a 6-inch piece of string to the center of a clothespin and the other end to the end of a paper clip.Dip your string into the sugar solution.Roll your string in some sugar.Let the string cool down.Very Important: Shake off any extra sugar.Lower the string into the jar of hot sugar solution, resting the clothespin on the jar lid.Keep the bottom end of the paper clip a half inch or so above the bottom of the jar.Put jar in a safe, warm place and wait one week.Do not disturb the jar while you are waiting for the crystals to form.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -1537,7 +1593,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "9"
+          "text": "9",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -1550,7 +1608,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         }
       ]
     },
@@ -1568,7 +1628,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Back To The Classroom"
+          "text": "Back To The Classroom",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1581,7 +1643,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "10"
+          "text": "10",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -1594,7 +1658,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         }
       ]
     },
@@ -1612,7 +1678,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Some Beautiful Crystals"
+          "text": "Some Beautiful Crystals",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1625,7 +1693,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -1638,7 +1708,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "11"
+          "text": "11",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "pic",
@@ -1717,7 +1789,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "More Crystals!"
+          "text": "More Crystals!",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1730,7 +1804,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -1743,7 +1819,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "12"
+          "text": "12",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "pic",
@@ -1848,7 +1926,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cave of Crystals, Mexico (Gypsum)"
+          "text": "Cave of Crystals, Mexico (Gypsum)",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1861,7 +1941,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -1874,7 +1956,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "13"
+          "text": "13",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "pic",
@@ -1908,7 +1992,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "So, What are Crystals?"
+          "text": "So, What are Crystals?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1921,7 +2007,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Crystals are solids.They have regular geometric shapes.They have faces, or facets that meet at sharp angles.They are mostly found in rocks (although there are ice crystals too).They are orderly arrangements of a single kind of atom or molecule."
+          "text": "Crystals are solids.They have regular geometric shapes.They have faces, or facets that meet at sharp angles.They are mostly found in rocks (although there are ice crystals too).They are orderly arrangements of a single kind of atom or molecule.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -1934,7 +2022,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -1947,7 +2037,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "14"
+          "text": "14",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         }
       ]
     },
@@ -1965,7 +2057,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "What Do I Mean by \u201cOrderly\u201d?"
+          "text": "What Do I Mean by \u201cOrderly\u201d?",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1978,7 +2072,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -1991,7 +2087,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "15"
+          "text": "15",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "pic",
@@ -2327,7 +2425,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Experiment 2: Growing Needle-Shaped Crystals"
+          "text": "Experiment 2: Growing Needle-Shaped Crystals",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2340,7 +2440,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "16"
+          "text": "16",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -2353,7 +2455,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "sp",
@@ -2477,7 +2581,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Procedure for Experiment 2"
+          "text": "Procedure for Experiment 2",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2516,7 +2622,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Turn your bowl upside down on the construction paper and trace it.Cut the circle out and fit it inside the plastic plate.Fill the baby food jar half full of warm water, then add 2 Tablespoons of epsom salt.Put the lid on and shake 60 times.Let the contents of the jar settle for a couple of minutes.Pour the liquid onto the black paper. Don\u2019t pour any undissolved epsom salt onto the paper.Wait a few days, then look at the crystals. What do they look like?"
+          "text": "Turn your bowl upside down on the construction paper and trace it.Cut the circle out and fit it inside the plastic plate.Fill the baby food jar half full of warm water, then add 2 Tablespoons of epsom salt.Put the lid on and shake 60 times.Let the contents of the jar settle for a couple of minutes.Pour the liquid onto the black paper. Don\u2019t pour any undissolved epsom salt onto the paper.Wait a few days, then look at the crystals. What do they look like?",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -2529,7 +2637,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "17"
+          "text": "17",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -2542,7 +2652,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         }
       ]
     },
@@ -2576,7 +2688,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Science Vocabulary for This Week"
+          "text": "Science Vocabulary for This Week",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -2589,7 +2703,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Crystal \u2013 a large, orderly arrangement of atoms or molecules in neat rows.Solvent \u2013 a liquid (like water) that you dissolve stuff in.Solute \u2013 a solid (like sugar) that you dissolve in the solvent.Solution \u2013 the mixture of solvent and solute (like sugar water).Saturated solution \u2013 a solution (like sugar in water) that can\u2019t hold any more solute.Supersaturated solution \u2013 a solution that has been heated and holds more solute (like sugar) than it can at room temperature.Nucleation \u2013 the process in which a sugar molecule (solute) comes out of the sugar water solution and sticks to the sugar crystals on the string."
+          "text": "Crystal \u2013 a large, orderly arrangement of atoms or molecules in neat rows.Solvent \u2013 a liquid (like water) that you dissolve stuff in.Solute \u2013 a solid (like sugar) that you dissolve in the solvent.Solution \u2013 the mixture of solvent and solute (like sugar water).Saturated solution \u2013 a solution (like sugar in water) that can\u2019t hold any more solute.Supersaturated solution \u2013 a solution that has been heated and holds more solute (like sugar) than it can at room temperature.Nucleation \u2013 the process in which a sugar molecule (solute) comes out of the sugar water solution and sticks to the sugar crystals on the string.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -2719,7 +2835,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "18"
+          "text": "18",
+          "ph_type": "sldNum",
+          "ph_idx": "12"
         },
         {
           "type": "sp",
@@ -2732,7 +2850,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Atoms and Molecules Session 14"
+          "text": "Atoms and Molecules Session 14",
+          "ph_type": "ftr",
+          "ph_idx": "11"
         },
         {
           "type": "pic",
@@ -2775,5 +2895,6 @@
     "image7.jpeg",
     "image8.png",
     "image9.jpeg"
-  ]
+  ],
+  "master_layout_pics": 0
 }

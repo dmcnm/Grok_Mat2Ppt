@@ -13,6 +13,91 @@
       "file": "slide1.xml",
       "shapes": [
         {
+          "type": "pic",
+          "id": 1032,
+          "name": "MasterLogo_image1.png",
+          "x": 8153400,
+          "y": 489810,
+          "cx": 990600,
+          "cy": 169863,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId13",
+          "media_target": "../media/image1.png",
+          "asset": "image1.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
+          "type": "pic",
+          "id": 3,
+          "name": "MasterLogo_image2.png",
+          "x": 8151813,
+          "y": 226277,
+          "cx": 976267,
+          "cy": 230923,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId14",
+          "media_target": "../media/image2.png",
+          "asset": "image2.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
+          "type": "pic",
+          "id": 5,
+          "name": "MasterLogo_image3.png",
+          "x": 8189153,
+          "y": 702855,
+          "cx": 801654,
+          "cy": 320662,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId15",
+          "media_target": "../media/image3.png",
+          "asset": "image3.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "MasterLogo_image4.png",
+          "x": -3765,
+          "y": 533400,
+          "cx": 992778,
+          "cy": 430788,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId16",
+          "media_target": "../media/image4.png",
+          "asset": "image4.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
+          "type": "pic",
+          "id": 9,
+          "name": "MasterLogo_image5.png",
+          "x": 35099,
+          "y": 152400,
+          "cx": 953914,
+          "cy": 294846,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId17",
+          "media_target": "../media/image5.png",
+          "asset": "image5.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
           "type": "sp",
           "id": 3073,
           "name": "Rectangle 1",
@@ -36,7 +121,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Mechanical EngineeringCareer Overview"
+          "text": "Mechanical EngineeringCareer Overview",
+          "ph_type": "ctrTitle",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -49,7 +136,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Douglas CoombsApril 8, 2021"
+          "text": "Douglas CoombsApril 8, 2021",
+          "ph_type": "subTitle",
+          "ph_idx": "1"
         }
       ]
     },
@@ -67,7 +156,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Overview"
+          "text": "Overview",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -80,7 +171,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Personal IntroTypes of EngineeringEducational RequirementsCareer OverviewSucceed in Any CareerQ & ADisclaimer: These are the presenter\u2019s opinions and do not necessarily reflect those of his employers, past and present"
+          "text": "Personal IntroTypes of EngineeringEducational RequirementsCareer OverviewSucceed in Any CareerQ & ADisclaimer: These are the presenter\u2019s opinions and do not necessarily reflect those of his employers, past and present",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -98,7 +191,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Brief Personal Intro"
+          "text": "Brief Personal Intro",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -111,7 +206,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Name: Douglas CoombsEmployer: Sandia National LaboratoriesTitle: Principal Member of the Technical StaffJob Roles: Audit scientific and engineering work to ensure national securityPerform system analyses to ensure safetyManage software projects to help engineers work more productively Contribute to R&D efforts to advance product linesDid that make any sense?"
+          "text": "Name: Douglas CoombsEmployer: Sandia National LaboratoriesTitle: Principal Member of the Technical StaffJob Roles: Audit scientific and engineering work to ensure national securityPerform system analyses to ensure safetyManage software projects to help engineers work more productively Contribute to R&D efforts to advance product linesDid that make any sense?",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -200,7 +297,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Types of Engineering"
+          "text": "Types of Engineering",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -213,7 +312,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "What do engineers do? We solve scientific and technical problems to create the infrastructure and products that enable modern lifeTrain engineers vs. technical engineers Types of EngineersCivil, Mechanical, and Electrical (most engineers) Niche fieldsChemical, Bio-Medical, Materials, Industrial, Aerospace, Mining, Petroleum, Nuclear, Marine, Agricultural, EnvironmentalWide range of pay depending on industry, difficulty and educational level attained ($50k-$250k, median ~85k)Commodities vs cutting edge technologiesScalability of productGood bread and butter job to support a family withMost people can do it if they work hard enough \u2013 not like sports or acting where only the top .01% succeed and make enough money to support a family"
+          "text": "What do engineers do? We solve scientific and technical problems to create the infrastructure and products that enable modern lifeTrain engineers vs. technical engineers Types of EngineersCivil, Mechanical, and Electrical (most engineers) Niche fieldsChemical, Bio-Medical, Materials, Industrial, Aerospace, Mining, Petroleum, Nuclear, Marine, Agricultural, EnvironmentalWide range of pay depending on industry, difficulty and educational level attained ($50k-$250k, median ~85k)Commodities vs cutting edge technologiesScalability of productGood bread and butter job to support a family withMost people can do it if they work hard enough \u2013 not like sports or acting where only the top .01% succeed and make enough money to support a family",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -622,7 +723,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Educational Requirements"
+          "text": "Educational Requirements",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -635,7 +738,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "A bachelors degree in engineering \uf0e8 entry level jobsA master\u2019s (minimum) is required for more advanced projects Most flexible degree.  Takes an extra two years after getting a bachelor\u2019s degreeMore advanced engineering pays better \u2013 Excellent investment of timeA PhD is required for very high level projects Can narrow opportunities.  Increases pay in many fields but can take a long time to attain (typically 2-8 years, average of 3-4).Sometimes the monetary pay-off isn\u2019t there \u2013 Succeed or fail quickly is a good strategyEngineers get paid to go to graduate school.  They only take out loans for undergrad."
+          "text": "A bachelors degree in engineering \uf0e8 entry level jobsA master\u2019s (minimum) is required for more advanced projects Most flexible degree.  Takes an extra two years after getting a bachelor\u2019s degreeMore advanced engineering pays better \u2013 Excellent investment of timeA PhD is required for very high level projects Can narrow opportunities.  Increases pay in many fields but can take a long time to attain (typically 2-8 years, average of 3-4).Sometimes the monetary pay-off isn\u2019t there \u2013 Succeed or fail quickly is a good strategyEngineers get paid to go to graduate school.  They only take out loans for undergrad.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -695,7 +800,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "High School and College JobsPicked produce at local farmsYard work for elderlyCampus workstudy: mailroom and computer labBuilt homes for local construction companyBachelor\u2019s degree @ University of PortlandInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 Master\u2019s degree @ University of CincinnatiTaught classes and worked on suspension modeling of pickup trucksYork InternationalDesigned and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitalsMoog-CSA Engineering Projects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.Sandia National Laboratories Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe"
+          "text": "High School and College JobsPicked produce at local farmsYard work for elderlyCampus workstudy: mailroom and computer labBuilt homes for local construction companyBachelor\u2019s degree @ University of PortlandInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 Master\u2019s degree @ University of CincinnatiTaught classes and worked on suspension modeling of pickup trucksYork InternationalDesigned and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitalsMoog-CSA Engineering Projects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.Sandia National Laboratories Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -708,7 +815,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Career Overview"
+          "text": "Career Overview",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -781,7 +890,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Step 1: Learn to Work Hard"
+          "text": "Step 1: Learn to Work Hard",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -794,7 +905,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "High School and College JobsPicked produce at local farmsYard work for elderlyCampus workstudy: mailroom and computer labBuilt homes for local construction company"
+          "text": "High School and College JobsPicked produce at local farmsYard work for elderlyCampus workstudy: mailroom and computer labBuilt homes for local construction company",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1132,7 +1245,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Step 2: Learn a Valuable Skill"
+          "text": "Step 2: Learn a Valuable Skill",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1145,7 +1260,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Bachelor\u2019s degree @ University of PortlandInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 Master\u2019s degree @ University of CincinnatiTaught classes and worked on suspension modeling of pickup trucks"
+          "text": "Bachelor\u2019s degree @ University of PortlandInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 Master\u2019s degree @ University of CincinnatiTaught classes and worked on suspension modeling of pickup trucks",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1387,7 +1504,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Step 3: Work Hard at Job Using Valuable Skill"
+          "text": "Step 3: Work Hard at Job Using Valuable Skill",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1400,7 +1519,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "York InternationalDesigned and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitals"
+          "text": "York InternationalDesigned and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitals",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -1508,7 +1629,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Succeed in Any Career"
+          "text": "Succeed in Any Career",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1521,7 +1644,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "What are the most important ingredients to a successful career?Hard workLearn as much as possible about the fieldFormal educationInternshipsApprenticeshipsVery difficult and very dangerous jobs pay better than easy jobsExamples: doctors and underwater weldersJobs that can replicate at scale pay better than jobs that require individual attentionSoftware development vs. early childhood educationPay isn\u2019t the only factor in deciding on a careerThe pay is terrible for artists, priests and stay-at-home moms, but the spiritual and emotional rewards are great \u2013 money isn\u2019t the most important thing in life"
+          "text": "What are the most important ingredients to a successful career?Hard workLearn as much as possible about the fieldFormal educationInternshipsApprenticeshipsVery difficult and very dangerous jobs pay better than easy jobsExamples: doctors and underwater weldersJobs that can replicate at scale pay better than jobs that require individual attentionSoftware development vs. early childhood educationPay isn\u2019t the only factor in deciding on a careerThe pay is terrible for artists, priests and stay-at-home moms, but the spiritual and emotional rewards are great \u2013 money isn\u2019t the most important thing in life",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1539,12 +1664,15 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Questions?"
+          "text": "Questions?",
+          "ph_type": "title",
+          "ph_idx": ""
         }
       ]
     }
   ],
   "media_assets": [
+    "image1.png",
     "image10.png",
     "image11.png",
     "image12.png",
@@ -1555,6 +1683,7 @@
     "image17.png",
     "image18.png",
     "image19.jpg",
+    "image2.png",
     "image20.png",
     "image21.jpg",
     "image22.png",
@@ -1565,6 +1694,7 @@
     "image27.png",
     "image28.png",
     "image29.png",
+    "image3.png",
     "image30.png",
     "image31.jpg",
     "image32.jpeg",
@@ -1575,6 +1705,7 @@
     "image37.jpg",
     "image38.jpg",
     "image39.jpg",
+    "image4.png",
     "image40.jpg",
     "image41.jpg",
     "image42.jpg",
@@ -1585,6 +1716,7 @@
     "image47.jpg",
     "image48.jpg",
     "image49.jpg",
+    "image5.png",
     "image50.jpg",
     "image51.jpg",
     "image52.jpg",
@@ -1609,5 +1741,6 @@
     "image7.jpg",
     "image8.jpg",
     "image9.png"
-  ]
+  ],
+  "master_layout_pics": 5
 }

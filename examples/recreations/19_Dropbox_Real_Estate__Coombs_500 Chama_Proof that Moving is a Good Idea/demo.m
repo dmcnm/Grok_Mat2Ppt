@@ -19,11 +19,11 @@ s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
 % Title 1
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(685800), mat2ppt.util.Emu(2130425), mat2ppt.util.Emu(7772400), mat2ppt.util.Emu(1470025));
 sp.text_frame().text = 'Incontrovertible Proof that Moving to Town is a Step Up in the World for the Coombs Family';
 
 % Subtitle 2
-sp = sh.add_shape('rect', mat2ppt.util.Emu(838200), mat2ppt.util.Emu(365125), mat2ppt.util.Emu(10515600), mat2ppt.util.Emu(1325563));
+sp = sh.add_shape('rect', mat2ppt.util.Emu(1371600), mat2ppt.util.Emu(3886200), mat2ppt.util.Emu(6400800), mat2ppt.util.Emu(1752600));
 sp.text_frame().text = 'December 31, 2014 @1454';
 
 
@@ -518,8 +518,6 @@ prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
 
 % --- generation gaps ---
-% GAP: slide1 sp used title-area default geom: Title 1
-% GAP: slide1 sp used title-area default geom: Subtitle 2
 % GAP: slide2 sp used title-area default geom: Title 1
 % GAP: slide3 sp used title-area default geom: Title 1
 % GAP: slide4 sp used title-area default geom: Title 1

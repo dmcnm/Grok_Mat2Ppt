@@ -14,9 +14,3 @@
 | Type recall | 1.0 |
 | Prst recall | 1.0 |
 | Geom recall | 0.0 |
-
-## Generator gaps
-
-- slide2 sp used title-area default geom: Title 1
-- slide2 sp used title-area default geom: Content Placeholder 2
-- slide3 sp used title-area default geom: Title 1

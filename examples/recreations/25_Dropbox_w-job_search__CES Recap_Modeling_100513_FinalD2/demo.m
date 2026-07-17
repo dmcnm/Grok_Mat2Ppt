@@ -18,6 +18,36 @@ blank = prs.slide_layouts().get_by_name("Blank");
 s = prs.slides().add_slide(blank);
 sh = s.shapes();
 
+% picture MasterLogo_image1.png
+img = fullfile(assets, 'image1.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(14288), mat2ppt.util.Emu(52388), mat2ppt.util.Emu(1189037), mat2ppt.util.Emu(969962));
+end
+
+% picture MasterLogo_image2.png
+img = fullfile(assets, 'image2.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(8153400), mat2ppt.util.Emu(609600), mat2ppt.util.Emu(990600), mat2ppt.util.Emu(169863));
+end
+
+% picture MasterLogo_image3.png
+img = fullfile(assets, 'image3.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(8077200), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(471488), mat2ppt.util.Emu(450850));
+end
+
+% picture MasterLogo_image4.png
+img = fullfile(assets, 'image4.png');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(8624888), mat2ppt.util.Emu(152400), mat2ppt.util.Emu(519112), mat2ppt.util.Emu(493713));
+end
+
+% picture MasterLogo_image5.jpeg
+img = fullfile(assets, 'image5.jpeg');
+if isfile(img)
+    sh.add_picture(img, mat2ppt.util.Emu(8153400), mat2ppt.util.Emu(0), mat2ppt.util.Emu(819150), mat2ppt.util.Emu(120650));
+end
+
 % Rectangle 1
 sp = sh.add_shape('rect', mat2ppt.util.Emu(190500), mat2ppt.util.Emu(1219200), mat2ppt.util.Emu(8763000), mat2ppt.util.Emu(2362200));
 

@@ -13,6 +13,91 @@
       "file": "slide1.xml",
       "shapes": [
         {
+          "type": "pic",
+          "id": 1030,
+          "name": "MasterLogo_image1.png",
+          "x": 14288,
+          "y": 52388,
+          "cx": 1189037,
+          "cy": 969962,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId14",
+          "media_target": "../media/image1.png",
+          "asset": "image1.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
+          "type": "pic",
+          "id": 1032,
+          "name": "MasterLogo_image2.png",
+          "x": 8153400,
+          "y": 609600,
+          "cx": 990600,
+          "cy": 169863,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId15",
+          "media_target": "../media/image2.png",
+          "asset": "image2.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
+          "type": "pic",
+          "id": 1033,
+          "name": "MasterLogo_image3.png",
+          "x": 8077200,
+          "y": 152400,
+          "cx": 471488,
+          "cy": 450850,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId16",
+          "media_target": "../media/image3.png",
+          "asset": "image3.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
+          "type": "pic",
+          "id": 1034,
+          "name": "MasterLogo_image4.png",
+          "x": 8624888,
+          "y": 152400,
+          "cx": 519112,
+          "cy": 493713,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId17",
+          "media_target": "../media/image4.png",
+          "asset": "image4.png",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
+          "type": "pic",
+          "id": 1035,
+          "name": "MasterLogo_image5.jpeg",
+          "x": 8153400,
+          "y": 0,
+          "cx": 819150,
+          "cy": 120650,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "rId": "rId18",
+          "media_target": "../media/image5.jpeg",
+          "asset": "image5.jpeg",
+          "from_master_or_layout": "slideMaster1.xml"
+        },
+        {
           "type": "sp",
           "id": 3073,
           "name": "Rectangle 1",
@@ -52,7 +137,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable Effects Study Program Reviewand Cable Modelling Approach"
+          "text": "Cable Effects Study Program Reviewand Cable Modelling Approach",
+          "ph_type": "ctrTitle",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -65,7 +152,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Douglas CoombsMay 2, 2011"
+          "text": "Douglas CoombsMay 2, 2011",
+          "ph_type": "subTitle",
+          "ph_idx": "1"
         }
       ]
     },
@@ -83,7 +172,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "The Cable Effects Study Missions"
+          "text": "The Cable Effects Study Missions",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -96,7 +187,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Do electrical cable harnesses significantly affect dynamics of precision spacecraft structures?Lightweight and with stringent jitter budgetsCable harnesses are generally not included in spacecraft structural design.  As a consequence:Models and designs are overly conservativeIsolation system requirements are too stringentStructural control systems may be adversely affected by plant model errorsMotivation: develop techniques and methodologies to incorporate cable dynamics in models thereby reducing conservatism and program risk"
+          "text": "Do electrical cable harnesses significantly affect dynamics of precision spacecraft structures?Lightweight and with stringent jitter budgetsCable harnesses are generally not included in spacecraft structural design.  As a consequence:Models and designs are overly conservativeIsolation system requirements are too stringentStructural control systems may be adversely affected by plant model errorsMotivation: develop techniques and methodologies to incorporate cable dynamics in models thereby reducing conservatism and program risk",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "sp",
@@ -143,7 +236,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "The Why of theCable Effects Study"
+          "text": "The Why of theCable Effects Study",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -156,7 +251,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable harnesses are a large part of spacecraft mass and generally considered a non-structural component at low frequencies. A survey showed that the cable-to-structure mass ratio for DoD and commercial spacecraft can approach 25%.Cables are not modeled in detail because no one cared about the \u201cmid frequency\u201d range until a need for better large precision structure models was identified.  Mission performance is driven by on-orbit dynamics: better models are required.The program was directed to finding a solution to an Air Force need, not to develop an understanding of the fundamental mechanics of cable behavior.Applied research"
+          "text": "Cable harnesses are a large part of spacecraft mass and generally considered a non-structural component at low frequencies. A survey showed that the cable-to-structure mass ratio for DoD and commercial spacecraft can approach 25%.Cables are not modeled in detail because no one cared about the \u201cmid frequency\u201d range until a need for better large precision structure models was identified.  Mission performance is driven by on-orbit dynamics: better models are required.The program was directed to finding a solution to an Air Force need, not to develop an understanding of the fundamental mechanics of cable behavior.Applied research",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -174,7 +271,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "The Significance of Cable Modelling"
+          "text": "The Significance of Cable Modelling",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -187,7 +286,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Electrical cables mounted on space structures can influence the structural dynamics. The effects of cables on spacecraft dynamics is not documented in the industry. Cables not included in models can impact controller performance and robustness, impact isolation system requirements and increase program risk."
+          "text": "Electrical cables mounted on space structures can influence the structural dynamics. The effects of cables on spacecraft dynamics is not documented in the industry. Cables not included in models can impact controller performance and robustness, impact isolation system requirements and increase program risk.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -234,7 +335,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "The What of theCable Effects Study / Focus Restrictions"
+          "text": "The What of theCable Effects Study / Focus Restrictions",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -247,7 +350,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Only studied small-to-moderate conductor count twisted pair cable bundles.  Not coaxial, ribbon cables, twisted pair in wire or polymer braided sleeving.Concerned with low-level vibration problem (i.e., when the spacecraft is on-station), not launch vibration or shock conditions.Cables with bends and connectors excluded from study."
+          "text": "Only studied small-to-moderate conductor count twisted pair cable bundles.  Not coaxial, ribbon cables, twisted pair in wire or polymer braided sleeving.Concerned with low-level vibration problem (i.e., when the spacecraft is on-station), not launch vibration or shock conditions.Cables with bends and connectors excluded from study.",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -393,7 +498,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "The How of the Cable Effects Study"
+          "text": "The How of the Cable Effects Study",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -406,7 +513,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable models are implemented using Nastran standard elements. Well integrated with standard analysis toolsLinear beam elements are appropriate, using composite properties and general formulation.Measurements showed that cable models must include shear: a Bernoulli-Euler beam formulation cannot predict cable dynamicsEquivalent cable properties in the Nastran deck are obtained through experiment and parameter estimationThe cable-to-structure model uses linear spring elements (PBUSH)Spring properties were identified through experiment Validation experiments used throughout the program for cable parameter estimation and modeling techniquesDemonstration experiment to verify methodsValidation and verification \u2013 it was a research program"
+          "text": "Cable models are implemented using Nastran standard elements. Well integrated with standard analysis toolsLinear beam elements are appropriate, using composite properties and general formulation.Measurements showed that cable models must include shear: a Bernoulli-Euler beam formulation cannot predict cable dynamicsEquivalent cable properties in the Nastran deck are obtained through experiment and parameter estimationThe cable-to-structure model uses linear spring elements (PBUSH)Spring properties were identified through experiment Validation experiments used throughout the program for cable parameter estimation and modeling techniquesDemonstration experiment to verify methodsValidation and verification \u2013 it was a research program",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -424,7 +533,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Research Topics not Includedin the Cable Effects Study"
+          "text": "Research Topics not Includedin the Cable Effects Study",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -437,7 +548,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Bundles of twisted pair conductors exceeding 30 pairs and 20 AWGLimited design space to maintain focusNonlinear cable modelsParameter extraction was based on the assumption of linear behaviorDetailed cable mechanicsModel-based cable bulk property derivationCable loss mechanism modelsInter-strand in a conductor, loss due to strain energy in the conductor shields or conductor-to-conductor lossLocalized cable tie-down behavior"
+          "text": "Bundles of twisted pair conductors exceeding 30 pairs and 20 AWGLimited design space to maintain focusNonlinear cable modelsParameter extraction was based on the assumption of linear behaviorDetailed cable mechanicsModel-based cable bulk property derivationCable loss mechanism modelsInter-strand in a conductor, loss due to strain energy in the conductor shields or conductor-to-conductor lossLocalized cable tie-down behavior",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -455,7 +568,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable Construction and Effects on Dynamics"
+          "text": "Cable Construction and Effects on Dynamics",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "pic",
@@ -469,6 +584,8 @@
           "flipH": null,
           "flipV": null,
           "text": "",
+          "ph_type": "body",
+          "ph_idx": "1",
           "rId": "rId3",
           "media_target": "../media/image15.png",
           "asset": "image15.png"
@@ -484,7 +601,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Bundles of twisted pair single-conductor wires stitched and wrapped with Kapton\u00ae tapeConsistent with spacecraft power and signal cable fabricationCables add damping and can shift modal frequencies"
+          "text": "Bundles of twisted pair single-conductor wires stitched and wrapped with Kapton\u00ae tapeConsistent with spacecraft power and signal cable fabricationCables add damping and can shift modal frequencies",
+          "ph_type": "body",
+          "ph_idx": "2"
         },
         {
           "type": "pic",
@@ -696,7 +815,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Attachment to Host Structure:Cable-Structure Interaction"
+          "text": "Attachment to Host Structure:Cable-Structure Interaction",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -709,7 +830,9 @@
           "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": "9"
+          "text": "9",
+          "ph_type": "sldNum",
+          "ph_idx": "4294967295"
         },
         {
           "type": "sp",
@@ -736,6 +859,8 @@
           "flipH": null,
           "flipV": null,
           "text": "",
+          "ph_type": "body",
+          "ph_idx": "1",
           "rId": "rId3",
           "media_target": "../media/image20.jpeg",
           "asset": "image20.jpeg"
@@ -931,7 +1056,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable Modeling Approach Overview"
+          "text": "Cable Modeling Approach Overview",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "pic",
@@ -981,7 +1108,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "The Cable ParameterExtraction Mission and Approach"
+          "text": "The Cable ParameterExtraction Mission and Approach",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "pic",
@@ -1010,7 +1139,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Test-derived cable properties are neededWhat is the appropriate model for a cable?Inputs for linear finite element modelsExtensional modulus derived through testShear modulus based on lateral driving point mobility FRFs\u201cEasy\u201d to measureChallengesAccount for vibrometer time delay Cancel driving point fixture mass loading effectRepeated rootsLightly damped fixture modesParameter estimation algorithm Based on a beam model including shearSpecimen cross sectional area and extensional modulus from tensile testsDetermine area moment of inertia and k\u2019GValidated through experiment"
+          "text": "Test-derived cable properties are neededWhat is the appropriate model for a cable?Inputs for linear finite element modelsExtensional modulus derived through testShear modulus based on lateral driving point mobility FRFs\u201cEasy\u201d to measureChallengesAccount for vibrometer time delay Cancel driving point fixture mass loading effectRepeated rootsLightly damped fixture modesParameter estimation algorithm Based on a beam model including shearSpecimen cross sectional area and extensional modulus from tensile testsDetermine area moment of inertia and k\u2019GValidated through experiment",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1177,7 +1308,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable Natural Frequency Progression:The Beam Model Indicator"
+          "text": "Cable Natural Frequency Progression:The Beam Model Indicator",
+          "ph_type": "title",
+          "ph_idx": ""
         }
       ]
     },
@@ -1195,7 +1328,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Bare Cable Lateral Test: Parameter Estimation Approach"
+          "text": "Bare Cable Lateral Test: Parameter Estimation Approach",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1208,7 +1343,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Measurements are cleaned up Modal parameter estimation step\uf067 (        ) and k\u00b4G determined from modal frequenciesEstimate I and effective diameterDamping averaged over all modesEstimated parameters benchmarked by comparing shear model frequencies and measurementParameters estimated for different spans of each cable specimen and multiple specimens of each cable construction"
+          "text": "Measurements are cleaned up Modal parameter estimation step\uf067 (        ) and k\u00b4G determined from modal frequenciesEstimate I and effective diameterDamping averaged over all modesEstimated parameters benchmarked by comparing shear model frequencies and measurementParameters estimated for different spans of each cable specimen and multiple specimens of each cable construction",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1230,10 +1367,10 @@
           "type": "graphicFrame",
           "id": 7,
           "name": "Object 6",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 3505200,
+          "y": 2286000,
+          "cx": 660400,
+          "cy": 533400,
           "prst": null,
           "flipH": null,
           "flipV": null,
@@ -1256,7 +1393,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Parameter Estimation: Tie down stiffness"
+          "text": "Parameter Estimation: Tie down stiffness",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1269,7 +1408,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Rod-on-beam eliminates cable property uncertainty Tune attachment stiffness to correlate test and model FRFsDirect measurement tests an alternative means to estimate Assumes cable is infinitely stiff over frequency range of estimate"
+          "text": "Rod-on-beam eliminates cable property uncertainty Tune attachment stiffness to correlate test and model FRFsDirect measurement tests an alternative means to estimate Assumes cable is infinitely stiff over frequency range of estimate",
+          "ph_type": "body",
+          "ph_idx": "2"
         },
         {
           "type": "pic",
@@ -1424,7 +1565,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable-on-Beam Results"
+          "text": "Cable-on-Beam Results",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1437,7 +1580,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable effects differ over two distinct frequency rangesMass and stiffness effects below cable resonanceIncreased damping above cable resonanceGood agreement between measured and modeled dynamicsBuild-to-build variability is evident in predictions using \u201ccoupon\u201d or \u201cfamily\u201d cable properties"
+          "text": "Cable effects differ over two distinct frequency rangesMass and stiffness effects below cable resonanceIncreased damping above cable resonanceGood agreement between measured and modeled dynamicsBuild-to-build variability is evident in predictions using \u201ccoupon\u201d or \u201cfamily\u201d cable properties",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1571,7 +1716,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Model Validation Effort \u2013A Panel Structure"
+          "text": "Model Validation Effort \u2013A Panel Structure",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1584,7 +1731,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Mission: A test case to prove the applicability of the cable test, parameter estimation and modelling methods to a spacecraft-like panelGround rules: Conduct experiments to quantify dynamics. Modelling effort uses estimated cable properties, but cannot include model tuning.Test caseAluminum panel 2\u2019 x 2\u2019 x 3/16\u201dThree cast aluminum electronics boxesCable mass ratios ~ 3% or 6%"
+          "text": "Mission: A test case to prove the applicability of the cable test, parameter estimation and modelling methods to a spacecraft-like panelGround rules: Conduct experiments to quantify dynamics. Modelling effort uses estimated cable properties, but cannot include model tuning.Test caseAluminum panel 2\u2019 x 2\u2019 x 3/16\u201dThree cast aluminum electronics boxesCable mass ratios ~ 3% or 6%",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1598,6 +1747,8 @@
           "flipH": null,
           "flipV": null,
           "text": "",
+          "ph_type": "body",
+          "ph_idx": "2",
           "rId": "rId3",
           "media_target": "../media/image35.jpeg",
           "asset": "image35.jpeg"
@@ -1618,7 +1769,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Measured Driving Point FRFs"
+          "text": "Measured Driving Point FRFs",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1631,7 +1784,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Little influence in panel dynamics below cable resonanceVarious cable spans become resonant between ~75 and ~175 HzDetermined by cable type and open span dimensionsLow cable-to-panel mass ratio limits the cable influence on the coupled dynamics"
+          "text": "Little influence in panel dynamics below cable resonanceVarious cable spans become resonant between ~75 and ~175 HzDetermined by cable type and open span dimensionsLow cable-to-panel mass ratio limits the cable influence on the coupled dynamics",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1697,7 +1852,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Panel Model Validation"
+          "text": "Panel Model Validation",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1739,7 +1896,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Compared traditional modelling approach (i.e., nonstructural mass) with dynamic cable modelsRunning RMS metric is driven by modal dampingLumped mass approach does not account for coupling and over estimates responseNonstructural mass approach may be adequate for low frequencies and low cable/structure mass ratios"
+          "text": "Compared traditional modelling approach (i.e., nonstructural mass) with dynamic cable modelsRunning RMS metric is driven by modal dampingLumped mass approach does not account for coupling and over estimates responseNonstructural mass approach may be adequate for low frequencies and low cable/structure mass ratios",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1761,10 +1920,10 @@
           "type": "graphicFrame",
           "id": 808962,
           "name": "Object 2",
-          "x": null,
-          "y": null,
-          "cx": null,
-          "cy": null,
+          "x": 762000,
+          "y": 5662613,
+          "cx": 3076575,
+          "cy": 1195387,
           "prst": null,
           "flipH": null,
           "flipV": null,
@@ -1816,7 +1975,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Shear Modulus Choice"
+          "text": "Shear Modulus Choice",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1829,7 +1990,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Use of \u201cfamily\u201d or \u201ccoupon\u201d shear modulus values does not have large impact on model accuracy for cables testedDifferent conclusion than for cable-on-beam test"
+          "text": "Use of \u201cfamily\u201d or \u201ccoupon\u201d shear modulus values does not have large impact on model accuracy for cables testedDifferent conclusion than for cable-on-beam test",
+          "ph_type": "body",
+          "ph_idx": "1"
         },
         {
           "type": "pic",
@@ -1863,7 +2026,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Major Findings"
+          "text": "Major Findings",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1876,7 +2041,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "A shear beam model predicts cable dynamicsCoupon tests may be justified for critical applicationsVariability in cable properties can be traced toCable construction due to hand fabrication Differences in wire structural properties can vary between lotsRunning stitch tensionThere is evidence of cable property dependence on spanMeasurement of cable extensional modulus requires a low load capacity tensile test machine and a custom extensometer witness fixtureRod-on-beam validation experiments were instrumental in refining connection stiffness value estimates"
+          "text": "A shear beam model predicts cable dynamicsCoupon tests may be justified for critical applicationsVariability in cable properties can be traced toCable construction due to hand fabrication Differences in wire structural properties can vary between lotsRunning stitch tensionThere is evidence of cable property dependence on spanMeasurement of cable extensional modulus requires a low load capacity tensile test machine and a custom extensometer witness fixtureRod-on-beam validation experiments were instrumental in refining connection stiffness value estimates",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1894,7 +2061,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Summary"
+          "text": "Summary",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1907,7 +2076,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Innovative test, analysis and modelling approaches were developed to Increase accuracy of models to include the influence of power and signal cablesUsed standard linear finite element model methodsCables can have a significant impact on coupled structure dynamicsMass loading on the cable stiffness lineIncreased damping above first cable resonanceLarge reductions in resonant response when cable and host structure natural frequencies are close to one anotherThe traditional nonstructural mass approach cannot predict the cable interaction, leading to overestimates of resonant response"
+          "text": "Innovative test, analysis and modelling approaches were developed to Increase accuracy of models to include the influence of power and signal cablesUsed standard linear finite element model methodsCables can have a significant impact on coupled structure dynamicsMass loading on the cable stiffness lineIncreased damping above first cable resonanceLarge reductions in resonant response when cable and host structure natural frequencies are close to one anotherThe traditional nonstructural mass approach cannot predict the cable interaction, leading to overestimates of resonant response",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1925,7 +2096,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Open Research Topics"
+          "text": "Open Research Topics",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1938,7 +2111,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Develop cable fabrication techniques to increase cable predictability for structural dynamicsExtend efforts to include other cable construction methodsConsiderable interest in the space communityExtend efforts to more massive cables and those with bends and connectorsCable service loop modelling Study behavior of cables under launch vibration and mechanical shock conditionsWorkmanship under high loading conditionsMounting bracket strength Concerns in the space industry and DoD Detailed cable mechanicsReduce dependence on empirically derived propertiesAccelerate modelling and analysis programs"
+          "text": "Develop cable fabrication techniques to increase cable predictability for structural dynamicsExtend efforts to include other cable construction methodsConsiderable interest in the space communityExtend efforts to more massive cables and those with bends and connectorsCable service loop modelling Study behavior of cables under launch vibration and mechanical shock conditionsWorkmanship under high loading conditionsMounting bracket strength Concerns in the space industry and DoD Detailed cable mechanicsReduce dependence on empirically derived propertiesAccelerate modelling and analysis programs",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -1956,7 +2131,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Questions"
+          "text": "Questions",
+          "ph_type": "ctrTitle",
+          "ph_idx": ""
         }
       ]
     },
@@ -1974,7 +2151,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Acknowledgments"
+          "text": "Acknowledgments",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "sp",
@@ -1987,7 +2166,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Thanks to the Air Force Research Laboratory and the Air Force Office for Scientific Research for funding.Thanks to the following project collaborators without whom this work would not have been possible.  Dr. Vit Babu\u0161ka - Sandia National LaboratoriesDr. Emil Ardelean - Schafer CorporationJames Goodding - CSA EngineeringCody Griffee - CSA EngineeringGreg Mehle - CSA EngineeringDr. Lawrence \u201cRobbie\u201d Robertson AFRL, SV*Dr. Steve Lane - AFRL, SV*Brea Ingram- AFRL, SV**AFRL, SV = Air Force Research Laboratory, Space Vehicles Directorate"
+          "text": "Thanks to the Air Force Research Laboratory and the Air Force Office for Scientific Research for funding.Thanks to the following project collaborators without whom this work would not have been possible.  Dr. Vit Babu\u0161ka - Sandia National LaboratoriesDr. Emil Ardelean - Schafer CorporationJames Goodding - CSA EngineeringCody Griffee - CSA EngineeringGreg Mehle - CSA EngineeringDr. Lawrence \u201cRobbie\u201d Robertson AFRL, SV*Dr. Steve Lane - AFRL, SV*Brea Ingram- AFRL, SV**AFRL, SV = Air Force Research Laboratory, Space Vehicles Directorate",
+          "ph_type": "body",
+          "ph_idx": "1"
         }
       ]
     },
@@ -2005,7 +2186,9 @@
           "prst": null,
           "flipH": null,
           "flipV": null,
-          "text": "Cable Tie Down Details"
+          "text": "Cable Tie Down Details",
+          "ph_type": "title",
+          "ph_idx": ""
         },
         {
           "type": "pic",
@@ -2027,6 +2210,7 @@
     }
   ],
   "media_assets": [
+    "image1.png",
     "image10.gif",
     "image11.jpeg",
     "image12.gif",
@@ -2037,6 +2221,7 @@
     "image17.jpeg",
     "image18.jpeg",
     "image19.png",
+    "image2.png",
     "image20.jpeg",
     "image21.jpeg",
     "image22.png",
@@ -2046,6 +2231,7 @@
     "image26.png",
     "image28.png",
     "image29.jpeg",
+    "image3.png",
     "image30.emf",
     "image31.emf",
     "image32.emf",
@@ -2055,13 +2241,16 @@
     "image36.emf",
     "image38.emf",
     "image39.emf",
+    "image4.png",
     "image40.emf",
     "image41.emf",
     "image42.emf",
     "image43.png",
+    "image5.jpeg",
     "image6.png",
     "image7.jpeg",
     "image8.jpeg",
     "image9.jpeg"
-  ]
+  ],
+  "master_layout_pics": 5
 }
