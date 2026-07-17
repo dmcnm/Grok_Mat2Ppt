@@ -97,6 +97,8 @@ function [elm, pos] = parse_element_(s, pos, nsStack)
     end
 
     % content: text and child elements until </name>
+    % textBuf holds raw character data (with entities) until flush;
+    % CDATA is appended already-final (no entity processing).
     textBuf = '';
     while pos <= n
         if s(pos) == '<'
@@ -112,18 +114,7 @@ function [elm, pos] = parse_element_(s, pos, nsStack)
                 if ~strcmp(endName, rawName)
                     error("mat2ppt:XMLSyntaxError", "Mismatched end tag %s vs %s", endName, rawName);
                 end
-                if ~isempty(textBuf)
-                    if elm.childCount() == 0
-                        elm.text = textBuf;
-                    else
-                        last = elm.child(elm.childCount());
-                        if mat2ppt.isAbsent(last.tail)
-                            last.tail = textBuf;
-                        else
-                            last.tail = [char(last.tail), textBuf];
-                        end
-                    end
-                end
+                flush_text_buf_(elm, textBuf, true);
                 nsStack(end) = [];
                 return
             elseif pos < n && s(pos+1) == '!'
@@ -135,26 +126,18 @@ function [elm, pos] = parse_element_(s, pos, nsStack)
                 end
                 if pos+8 <= n && strcmp(s(pos:pos+8), "<![CDATA[")
                     endp = strfind(s(pos:end), "]]>");
+                    % Flush pending entity-bearing text first, then append CDATA raw
+                    flush_text_buf_(elm, textBuf, true);
+                    textBuf = '';
                     cdata = s(pos+9:pos+endp(1)-2);
-                    textBuf = [textBuf, cdata]; %#ok<AGROW>
+                    append_text_final_(elm, cdata);
                     pos = pos + endp(1) + 2;
                     continue
                 end
             end
             % child element — flush text as text or tail
-            if ~isempty(textBuf)
-                if elm.childCount() == 0
-                    elm.text = textBuf;
-                else
-                    last = elm.child(elm.childCount());
-                    if mat2ppt.isAbsent(last.tail)
-                        last.tail = textBuf;
-                    else
-                        last.tail = [char(last.tail), textBuf];
-                    end
-                end
-                textBuf = '';
-            end
+            flush_text_buf_(elm, textBuf, true);
+            textBuf = '';
             [child, pos] = mat2ppt.oxml.parse_element_(s, pos, nsStack);
             elm.append(child);
         else
@@ -164,3 +147,34 @@ function [elm, pos] = parse_element_(s, pos, nsStack)
     end
     error("mat2ppt:XMLSyntaxError", "Unexpected end of document");
 end
+
+function flush_text_buf_(elm, textBuf, doUnescape)
+    if isempty(textBuf)
+        return
+    end
+    if doUnescape
+        textBuf = mat2ppt.oxml.unescape_xml_(textBuf);
+    end
+    append_text_final_(elm, textBuf);
+end
+
+function append_text_final_(elm, textBuf)
+    if isempty(textBuf)
+        return
+    end
+    if elm.childCount() == 0
+        if mat2ppt.isAbsent(elm.text) || isempty(elm.text)
+            elm.text = textBuf;
+        else
+            elm.text = [char(elm.text), textBuf];
+        end
+    else
+        last = elm.child(elm.childCount());
+        if mat2ppt.isAbsent(last.tail)
+            last.tail = textBuf;
+        else
+            last.tail = [char(last.tail), textBuf];
+        end
+    end
+end
+
