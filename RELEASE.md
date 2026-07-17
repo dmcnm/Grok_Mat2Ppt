@@ -1,31 +1,40 @@
-# Mat2Ppt release notes — campaign 2026-07-15
+# Mat2Ppt release notes — residual campaign 2026-07-17
 
-**Version string:** `mat2ppt.version` → `0.10.1-p10-w1` (toolbox)  
+**Version string:** `0.11.0-residual`  
 **Upstream pin:** python-pptx **v1.0.2** / `278b47b` (read-only)
 
-## Highlights
+## Campaigns
 
-- Full PRT campaign P0–P10 through showcase + coverage matrix close-out
-- M1 open/save L1 36/36; M2 hello-world L1 38/38
-- Tables, pictures (imfinfo metrics, no Pillow), notes, hyperlinks
-- Charts: data model, xlsx embed (D-xlsx), xmlwriters, `add_chart`, Chart API,
-  `replace_data`, multi-type structural matrix
-- Showcase deck: title, shapes, table+picture, chart, notes, hyperlink  
-  (L0 inventory match vs python-pptx oracle)
+| Campaign | Result |
+|----------|--------|
+| P0–P10 primary | **COMPLETE** (M1/M2/M3 + showcase) |
+| Residual R0–R8 | **COMPLETE** (public-surface twin + infra DEFs) |
+| Residual R9 | system polish in progress (corpus postponed) |
 
-## Known deviations / deferrals
+## Residual highlights (R1–R8)
+
+- Presentation/slide shell, text/DML/table residuals
+- Connector, group, freeform, picture crop
+- ActionSetting / click_action / named slide
+- Area / XY / Bubble / Radar charts + chart title/style
+- **add_movie** (Video, MediaPart, dual MEDIA+VIDEO, p:timing, speaker poster)
+- **add_ole_object** (PROG_ID metadata, embeddings, ole_format)
+- Domain CT registration + DEF-008/009/012 close-out (XmlElement residual signed)
+
+## Known deviations / open items
 
 | ID | Summary |
 |----|---------|
-| **D-xlsx** | Embedded chart workbook bytes may not match xlsxwriter; structural + caches required |
-| XY/bubble/radar xmlwriters | `mat2ppt:notYetPorted` on ChartXmlWriter factory |
-| Full chart XML L1 | Prefer structural L0 + D-xlsx for embeddings |
+| **D-xlsx** | Chart workbook bytes may differ from xlsxwriter |
+| **RES-CORPUS** | External presentation corpus postponed (user HD scrape) |
+| Movie experimental | Upstream experimental limits apply |
+| Inventory heuristic | ~134 name-presence misses remain (many inherit/property aliases); authoring dual-audit surfaces closed |
 
 ## Test
 
 ```matlab
 addpath('C:\Users\dougl\Repos\MSOffice_Grok\Mat2Ppt');
-runtests('tests');  % or workspace ./harness/run_matlab.sh --tests
+runtests('tests');
 ```
 
 ## License

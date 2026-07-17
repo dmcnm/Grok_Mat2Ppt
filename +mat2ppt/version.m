@@ -6,5 +6,5 @@ function v = version()
 %   Returns the semantic version of this toolbox. Tracks parity target
 %   python-pptx 1.0.2 during the port (see NOTICE).
 
-    v = "0.10.3-p10-complete";
+    v = "0.11.0-residual";
 end
