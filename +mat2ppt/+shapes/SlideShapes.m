@@ -130,6 +130,73 @@ classdef SlideShapes < mat2ppt.shared.Collection
             sh = obj.item(obj.length);
         end
 
+        function sh = add_group_shape(obj, shapes)
+            %ADD_GROUP_SHAPE  Empty group or reparent given shapes (R3-W2).
+            arguments
+                obj
+                shapes = {}
+            end
+            if ~iscell(shapes)
+                if isempty(shapes)
+                    shapes = {};
+                else
+                    shapes = {shapes};
+                end
+            end
+            sid = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+            name = sprintf("Group %d", sid - 1);
+            grpSp = mat2ppt.oxml.shapes.new_grpSp(sid, name);
+            for i = 1:numel(shapes)
+                el = shapes{i}.shape_element();
+                % detach from current parent if any
+                try
+                    par = el.getparent();
+                    if ~isempty(par)
+                        par.remove(el);
+                    end
+                catch
+                end
+                grpSp.append(el);
+            end
+            if ~isempty(shapes)
+                mat2ppt.shapes.SlideShapes.recalc_group_extents_(grpSp);
+            end
+            mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, grpSp);
+            obj.rebuild_items_();
+            sh = obj.item(obj.length);
+        end
+
+        function sh = add_connector(obj, connectorType, beginX, beginY, endX, endY)
+            %ADD_CONNECTOR  Append connector shape (python SlideShapes.add_connector).
+            arguments
+                obj
+                connectorType
+                beginX
+                beginY
+                endX
+                endY
+            end
+            bx = double(mat2ppt.util.Length.toEmuInt_(beginX));
+            by = double(mat2ppt.util.Length.toEmuInt_(beginY));
+            ex = double(mat2ppt.util.Length.toEmuInt_(endX));
+            ey = double(mat2ppt.util.Length.toEmuInt_(endY));
+            flipH = bx > ex;
+            flipV = by > ey;
+            x = min(bx, ex);
+            y = min(by, ey);
+            cx = abs(ex - bx);
+            cy = abs(ey - by);
+            prst = mat2ppt.enum.MSO_CONNECTOR.to_xml(connectorType);
+            sid = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+            name = sprintf("Connector %d", sid - 1);
+            cxnSp = mat2ppt.oxml.shapes.new_cxnSp(sid, name, prst, x, y, cx, cy, flipH, flipV);
+            mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, cxnSp);
+            obj.rebuild_items_();
+            sh = obj.item(obj.length);
+        end
+
         function sh = add_chart(obj, chartType, left, top, width, height, chartData)
             %ADD_CHART  Embed category chart graphicFrame + ChartPart (P8-W6).
             %   chartData is CategoryChartData/ChartData. Returns GraphicFrame.
@@ -259,6 +326,76 @@ classdef SlideShapes < mat2ppt.shared.Collection
                 otherwise
                     name = prst;
             end
+        end
+
+        function recalc_group_extents_(grpSp)
+            %RECALC_GROUP_EXTENTS_  Set grp xfrm from member bounding box.
+            kids = grpSp.getchildren();
+            minX = inf; minY = inf; maxX = -inf; maxY = -inf;
+            anyShape = false;
+            for i = 1:numel(kids)
+                ln = char(kids{i}.localName());
+                if ~any(strcmp(ln, {"sp","pic","cxnSp","grpSp","graphicFrame"}))
+                    continue
+                end
+                r = mat2ppt.oxml.evaluate_xpath(kids{i}, ".//a:off");
+                e = mat2ppt.oxml.evaluate_xpath(kids{i}, ".//a:ext");
+                if isempty(r) || isempty(e), continue; end
+                off = r{1}; ext = e{1};
+                x = str2double(string(off.get("x")));
+                y = str2double(string(off.get("y")));
+                cx = str2double(string(ext.get("cx")));
+                cy = str2double(string(ext.get("cy")));
+                if any(isnan([x y cx cy])), continue; end
+                anyShape = true;
+                minX = min(minX, x); minY = min(minY, y);
+                maxX = max(maxX, x + cx); maxY = max(maxY, y + cy);
+            end
+            if ~anyShape, return; end
+            w = max(0, maxX - minX);
+            h = max(0, maxY - minY);
+            % find a:xfrm under grpSpPr
+            gpr = grpSp.find("p:grpSpPr");
+            if isempty(gpr)
+                kids2 = grpSp.getchildren();
+                for i = 1:numel(kids2)
+                    if strcmp(char(kids2{i}.localName()), "grpSpPr")
+                        gpr = kids2{i}; break
+                    end
+                end
+            end
+            if isempty(gpr), return; end
+            xfrm = gpr.find("a:xfrm");
+            if isempty(xfrm)
+                kids2 = gpr.getchildren();
+                for i = 1:numel(kids2)
+                    if strcmp(char(kids2{i}.localName()), "xfrm")
+                        xfrm = kids2{i}; break
+                    end
+                end
+            end
+            if isempty(xfrm), return; end
+            function set_child(parent, tagLocal, attrs)
+                el = [];
+                ck = parent.getchildren();
+                for ii = 1:numel(ck)
+                    if strcmp(char(ck{ii}.localName()), tagLocal)
+                        el = ck{ii}; break
+                    end
+                end
+                if isempty(el)
+                    el = mat2ppt.oxml.OxmlElement("a:" + string(tagLocal));
+                    parent.append(el);
+                end
+                keys = fieldnames(attrs);
+                for ii = 1:numel(keys)
+                    el.set(keys{ii}, char(string(attrs.(keys{ii}))));
+                end
+            end
+            set_child(xfrm, "off", struct("x", round(minX), "y", round(minY)));
+            set_child(xfrm, "ext", struct("cx", round(w), "cy", round(h)));
+            set_child(xfrm, "chOff", struct("x", round(minX), "y", round(minY)));
+            set_child(xfrm, "chExt", struct("cx", round(w), "cy", round(h)));
         end
     end
 end

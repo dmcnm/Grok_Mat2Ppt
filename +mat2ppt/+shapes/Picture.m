@@ -1,7 +1,14 @@
 classdef Picture < mat2ppt.shapes.BaseShape
 %PICTURE  Picture shape (p:pic).
 %
-%   Ported from python-pptx 1.0.2: src/pptx/shapes/picture.py::Picture (P5-W4 / P7-W3)
+%   Ported from python-pptx 1.0.2: src/pptx/shapes/picture.py::Picture (R3-W4 crops)
+
+    properties (Dependent)
+        crop_left
+        crop_right
+        crop_top
+        crop_bottom
+    end
 
     methods
         function obj = Picture(pic, parent)
@@ -10,6 +17,135 @@ classdef Picture < mat2ppt.shapes.BaseShape
 
         function t = shape_type(obj)
             t = mat2ppt.enum.MSO_SHAPE_TYPE.PICTURE;
+        end
+
+        function v = get.crop_left(obj)
+            v = obj.srcRect_attr_("l");
+        end
+        function set.crop_left(obj, value)
+            obj.set_srcRect_attr_("l", value);
+        end
+        function v = get.crop_right(obj)
+            v = obj.srcRect_attr_("r");
+        end
+        function set.crop_right(obj, value)
+            obj.set_srcRect_attr_("r", value);
+        end
+        function v = get.crop_top(obj)
+            v = obj.srcRect_attr_("t");
+        end
+        function set.crop_top(obj, value)
+            obj.set_srcRect_attr_("t", value);
+        end
+        function v = get.crop_bottom(obj)
+            v = obj.srcRect_attr_("b");
+        end
+        function set.crop_bottom(obj, value)
+            obj.set_srcRect_attr_("b", value);
+        end
+
+        function ln = line(obj)
+            ln = mat2ppt.dml.LineFormat(obj);
+        end
+
+        function el = ln(obj)
+            spPr = mat2ppt.oxml.shapes.ensure_spPr(obj.sp_);
+            el = spPr.find("a:ln");
+            if ~isempty(el), return; end
+            kids = spPr.getchildren();
+            for i = 1:numel(kids)
+                if strcmp(char(kids{i}.localName()), "ln")
+                    el = kids{i}; return
+                end
+            end
+            el = [];
+        end
+
+        function el = get_or_add_ln(obj)
+            el = obj.ln();
+            if ~isempty(el), return; end
+            spPr = mat2ppt.oxml.shapes.ensure_spPr(obj.sp_);
+            el = mat2ppt.oxml.OxmlElement("a:ln");
+            spPr.append(el);
+        end
+    end
+
+    methods (Access = private)
+        function v = srcRect_attr_(obj, attr)
+            src = obj.find_srcRect_();
+            if isempty(src)
+                v = 0.0;
+                return
+            end
+            raw = src.get(attr);
+            if mat2ppt.isAbsent(raw)
+                v = 0.0;
+            else
+                % ST_Percentage style: integer thousandths of percent
+                s = char(string(raw));
+                if contains(s, "%")
+                    v = str2double(erase(s, "%")) / 100.0;
+                else
+                    v = str2double(s) / 100000.0;
+                end
+            end
+        end
+
+        function set_srcRect_attr_(obj, attr, value)
+            src = obj.ensure_srcRect_();
+            ival = int64(round(double(value) * 100000.0));
+            src.set(attr, char(string(ival)));
+        end
+
+        function src = find_srcRect_(obj)
+            bf = obj.find_blipFill_();
+            src = [];
+            if isempty(bf), return; end
+            src = bf.find("a:srcRect");
+            if ~isempty(src), return; end
+            kids = bf.getchildren();
+            for i = 1:numel(kids)
+                if strcmp(char(kids{i}.localName()), "srcRect")
+                    src = kids{i}; return
+                end
+            end
+        end
+
+        function src = ensure_srcRect_(obj)
+            src = obj.find_srcRect_();
+            if ~isempty(src), return; end
+            bf = obj.find_blipFill_();
+            if isempty(bf)
+                error("mat2ppt:InvalidXmlError", "pic missing blipFill");
+            end
+            src = mat2ppt.oxml.OxmlElement("a:srcRect");
+            % insert before stretch if present
+            kids = bf.getchildren();
+            stretch = [];
+            for i = 1:numel(kids)
+                if strcmp(char(kids{i}.localName()), "stretch")
+                    stretch = kids{i}; break
+                end
+            end
+            if isempty(stretch)
+                bf.append(src);
+            else
+                bf.remove(stretch);
+                bf.append(src);
+                bf.append(stretch);
+            end
+        end
+
+        function bf = find_blipFill_(obj)
+            bf = obj.sp_.find("p:blipFill");
+            if ~isempty(bf), return; end
+            kids = obj.sp_.getchildren();
+            for i = 1:numel(kids)
+                if strcmp(char(kids{i}.localName()), "blipFill")
+                    bf = kids{i}; return
+                end
+            end
+            bf = [];
         end
     end
 
