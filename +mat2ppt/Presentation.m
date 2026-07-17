@@ -134,6 +134,20 @@ classdef Presentation < handle
             %SLIDE_LAYOUTS  Layouts of the first slide master (1-based).
             layouts = obj.slide_master().slide_layouts();
         end
+
+        function nm = notes_master(obj)
+            %NOTES_MASTER  |NotesMaster| for this presentation (lazy create).
+            %
+            %   Ported from python-pptx presentation.py::Presentation.notes_master
+            %   + parts/presentation.py notes_master_part.
+            masterPn = mat2ppt.slide.ensure_notes_master(obj);
+            elm = obj.package().xml_part_element(masterPn);
+            if isempty(elm)
+                error("mat2ppt:InvalidPackage", ...
+                    "Notes master part missing after ensure: %s", masterPn);
+            end
+            nm = mat2ppt.slide.NotesMaster(elm, masterPn, obj);
+        end
     end
 
     methods (Access = private)

@@ -46,6 +46,44 @@ classdef Slides < mat2ppt.shared.Collection
             % return the collection member (same tree)
             slide = obj.item(obj.length);
         end
+
+        function slide = get(obj, slideId, default)
+            %GET  Slide with stable slide_id, or default / [].
+            %
+            %   Mat2Ppt: get(id) or get(id, default). Default is [] when omitted.
+            %   Ported from python-pptx Slides.get (0-based index N/A here).
+            arguments
+                obj
+                slideId (1,1) double
+                default = []
+            end
+            for i = 1:obj.length
+                s = obj.item(i);
+                if s.slide_id() == slideId
+                    slide = s;
+                    return
+                end
+            end
+            slide = default;
+        end
+
+        function k = index(obj, slide)
+            %INDEX  1-based position of slide in this collection.
+            %
+            %   Raises ValueError if not present. (python-pptx returns 0-based.)
+            arguments
+                obj
+                slide (1,1) mat2ppt.slide.Slide
+            end
+            pn = char(slide.partname());
+            for i = 1:obj.length
+                if strcmp(char(obj.item(i).partname()), pn)
+                    k = i;
+                    return
+                end
+            end
+            error("mat2ppt:ValueError", "Slide is not in this presentation's slides collection.");
+        end
     end
 
     methods (Access = private)

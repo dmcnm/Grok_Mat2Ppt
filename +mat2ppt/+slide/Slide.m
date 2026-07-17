@@ -79,5 +79,46 @@ classdef Slide < handle
                 n = string(raw);
             end
         end
+
+        function id = slide_id(obj)
+            %SLIDE_ID  Stable integer id from presentation p:sldId/@id.
+            %
+            %   Ported from python-pptx Slide.slide_id / PresentationPart.slide_id
+            id = mat2ppt.slide.slide_id_for_partname_(obj.prs_, obj.partname_);
+        end
+
+        function layout = slide_layout(obj)
+            %SLIDE_LAYOUT  Layout this slide inherits from (via SLIDE_LAYOUT rel).
+            pkg = obj.prs_.package();
+            layoutPn = mat2ppt.opc.related_partname_by_type(pkg, obj.partname_, ...
+                mat2ppt.opc.RELATIONSHIP_TYPE.SLIDE_LAYOUT);
+            if isempty(layoutPn)
+                error("mat2ppt:InvalidPackage", ...
+                    "Slide has no slideLayout relationship: %s", obj.partname_);
+            end
+            elm = pkg.xml_part_element(layoutPn);
+            if isempty(elm)
+                error("mat2ppt:InvalidPackage", "Missing layout part %s", layoutPn);
+            end
+            layout = mat2ppt.slide.SlideLayout(elm, layoutPn, obj.prs_);
+        end
+
+        function tf = follow_master_background(obj)
+            %FOLLOW_MASTER_BACKGROUND  True when slide has no custom p:bg (getter only).
+            %
+            %   Upstream v1.0.2 documents assign True/False but implements getter only.
+            [cSld, ~] = mat2ppt.slide.find_cSld_spTree(obj.element_);
+            bg = cSld.find("p:bg");
+            if isempty(bg)
+                kids = cSld.getchildren();
+                for i = 1:numel(kids)
+                    if strcmp(char(kids{i}.localName()), "bg")
+                        bg = kids{i};
+                        break
+                    end
+                end
+            end
+            tf = isempty(bg);
+        end
     end
 end
