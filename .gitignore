@@ -17,3 +17,6 @@ docs/package.json
 docs/_build_guide.js
 examples/out_*.pptx
 
+
+# Full package dumps for recreation work (huge; inventory.json kept)
+examples/recreations/**/extracted/unzip/
