@@ -13,6 +13,12 @@ classdef Presentation < handle
         coreProps_ = []  % cached CoreProperties or []
     end
 
+    properties (Dependent)
+        % Slide size in EMU (python-pptx Presentation.slide_width / slide_height)
+        slide_width
+        slide_height
+    end
+
     methods
         function obj = Presentation(pptx)
             %PRESENTATION  Open default template or path.
@@ -65,6 +71,50 @@ classdef Presentation < handle
             end
         end
 
+        function w = get.slide_width(obj)
+            %SLIDE_WIDTH  Width of slides (EMU Length) or [] if no p:sldSz.
+            sldSz = obj.find_sldSz_();
+            if isempty(sldSz)
+                w = [];
+                return
+            end
+            raw = sldSz.get("cx");
+            if mat2ppt.isAbsent(raw)
+                w = [];
+            else
+                w = mat2ppt.util.Emu(str2double(string(raw)));
+            end
+        end
+
+        function set.slide_width(obj, width)
+            %SLIDE_WIDTH  Set slide width (Length or numeric EMU).
+            sldSz = obj.get_or_add_sldSz_();
+            e = mat2ppt.util.Length.toEmuInt_(width);
+            sldSz.set("cx", char(string(e)));
+        end
+
+        function h = get.slide_height(obj)
+            %SLIDE_HEIGHT  Height of slides (EMU Length) or [] if no p:sldSz.
+            sldSz = obj.find_sldSz_();
+            if isempty(sldSz)
+                h = [];
+                return
+            end
+            raw = sldSz.get("cy");
+            if mat2ppt.isAbsent(raw)
+                h = [];
+            else
+                h = mat2ppt.util.Emu(str2double(string(raw)));
+            end
+        end
+
+        function set.slide_height(obj, height)
+            %SLIDE_HEIGHT  Set slide height (Length or numeric EMU).
+            sldSz = obj.get_or_add_sldSz_();
+            e = mat2ppt.util.Length.toEmuInt_(height);
+            sldSz.set("cy", char(string(e)));
+        end
+
         function s = slides(obj)
             %SLIDES  |Slides| collection (1-based). Empty on default template.
             s = mat2ppt.slide.Slides(obj);
@@ -83,6 +133,40 @@ classdef Presentation < handle
         function layouts = slide_layouts(obj)
             %SLIDE_LAYOUTS  Layouts of the first slide master (1-based).
             layouts = obj.slide_master().slide_layouts();
+        end
+    end
+
+    methods (Access = private)
+        function sldSz = find_sldSz_(obj)
+            prs = obj.presentation_element();
+            sldSz = prs.find("p:sldSz");
+        end
+
+        function sldSz = get_or_add_sldSz_(obj)
+            %GET_OR_ADD_SLDSZ_  p:sldSz child; insert before p:notesSz when adding.
+            prs = obj.presentation_element();
+            sldSz = prs.find("p:sldSz");
+            if ~isempty(sldSz)
+                return
+            end
+            sldSz = mat2ppt.oxml.OxmlElement("p:sldSz");
+            % Default 10" x 7.5" (standard) if creating bare — setters overwrite.
+            sldSz.set("cx", "9144000");
+            sldSz.set("cy", "6858000");
+            notesSz = prs.find("p:notesSz");
+            if ~isempty(notesSz)
+                kids = prs.getchildren();
+                idx = 1;
+                for i = 1:numel(kids)
+                    if kids{i} == notesSz
+                        idx = i;
+                        break
+                    end
+                end
+                prs.insert(idx, sldSz);
+            else
+                prs.append(sldSz);
+            end
         end
     end
 end

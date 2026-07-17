@@ -47,7 +47,7 @@ s = prs.slides().add_slide(layouts.get_by_name("Two Content"));
 s.shapes().item(1).text_frame().text = "Two Content (bullets + image)";
 fill_bullets_(s.shapes().item(2).text_frame(), { ...
     "Left: bullet list", 0; ...
-    "Right: JPEG via add_picture", 0});
+    "Right: JPEG via add_picture", 1});
 % Right column is shape 3 (content placeholder). Leave empty; place picture
 % over the right half (same approach as the repaired Two Content sample).
 if isfile(imgLaunch)
