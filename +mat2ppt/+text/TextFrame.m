@@ -15,6 +15,7 @@ classdef TextFrame < mat2ppt.shared.ParentedElementProxy
         margin_top
         margin_bottom
         vertical_anchor
+        auto_size
     end
 
     methods
@@ -194,6 +195,74 @@ classdef TextFrame < mat2ppt.shared.ParentedElementProxy
                 bodyPr.set("anchor", mat2ppt.enum.MSO_VERTICAL_ANCHOR.to_xml(value));
             end
         end
+
+        function v = get.auto_size(obj)
+            %AUTO_SIZE  MSO_AUTO_SIZE member or [] if no autofit child.
+            bodyPr = obj.bodyPr_();
+            if isempty(bodyPr)
+                v = [];
+                return
+            end
+            if ~isempty(obj.find_body_child_(bodyPr, "noAutofit"))
+                v = mat2ppt.enum.MSO_AUTO_SIZE.NONE;
+            elseif ~isempty(obj.find_body_child_(bodyPr, "normAutofit"))
+                v = mat2ppt.enum.MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE;
+            elseif ~isempty(obj.find_body_child_(bodyPr, "spAutoFit"))
+                v = mat2ppt.enum.MSO_AUTO_SIZE.SHAPE_TO_FIT_TEXT;
+            else
+                v = [];
+            end
+        end
+
+        function set.auto_size(obj, value)
+            bodyPr = obj.ensure_bodyPr_();
+            obj.remove_autofit_children_(bodyPr);
+            if mat2ppt.isAbsent(value)
+                return
+            end
+            if isa(value, "mat2ppt.enum.BaseEnum")
+                val = value.value;
+            else
+                val = double(value);
+            end
+            AS = mat2ppt.enum.MSO_AUTO_SIZE;
+            if val == AS.NONE.value
+                bodyPr.append(mat2ppt.oxml.OxmlElement("a:noAutofit"));
+            elseif val == AS.TEXT_TO_FIT_SHAPE.value
+                bodyPr.append(mat2ppt.oxml.OxmlElement("a:normAutofit"));
+            elseif val == AS.SHAPE_TO_FIT_TEXT.value
+                bodyPr.append(mat2ppt.oxml.OxmlElement("a:spAutoFit"));
+            else
+                error("mat2ppt:ValueError", ...
+                    "auto_size must be None or a member of MSO_AUTO_SIZE");
+            end
+        end
+
+        function fit_text(obj, fontFamily, maxSize, bold, italic, fontFile)
+            %FIT_TEXT  Best-fit font size into shape extents (python TextFrame.fit_text).
+            arguments
+                obj
+                fontFamily = "Calibri"
+                maxSize (1,1) double = 18
+                bold (1,1) logical = false
+                italic (1,1) logical = false
+                fontFile = []
+            end
+            if strlength(string(obj.text)) == 0
+                return
+            end
+            if mat2ppt.isAbsent(fontFile) || strlength(string(fontFile)) == 0
+                fontFile = mat2ppt.text.FontFiles.find(char(string(fontFamily)), bold, italic);
+            else
+                fontFile = char(string(fontFile));
+            end
+            extents = obj.extents_emu_();
+            pt = mat2ppt.text.TextFitter.best_fit_font_size( ...
+                obj.text, extents, maxSize, fontFile);
+            obj.auto_size = mat2ppt.enum.MSO_AUTO_SIZE.NONE;
+            obj.word_wrap = true;
+            obj.set_font_all_(char(string(fontFamily)), pt, bold, italic);
+        end
     end
 
     methods (Access = private)
@@ -257,6 +326,83 @@ classdef TextFrame < mat2ppt.shared.ParentedElementProxy
             obj.txBody_.append(bodyPr);
             for i = 1:numel(kids)
                 obj.txBody_.append(kids{i});
+            end
+        end
+
+        function c = find_body_child_(~, bodyPr, localName)
+            c = bodyPr.find("a:" + string(localName));
+            if ~isempty(c), return; end
+            kids = bodyPr.getchildren();
+            for i = 1:numel(kids)
+                if strcmp(char(kids{i}.localName()), localName)
+                    c = kids{i};
+                    return
+                end
+            end
+            c = [];
+        end
+
+        function remove_autofit_children_(obj, bodyPr)
+            names = {"noAutofit", "normAutofit", "spAutoFit"};
+            for n = 1:numel(names)
+                while true
+                    ch = obj.find_body_child_(bodyPr, names{n});
+                    if isempty(ch), break; end
+                    bodyPr.remove(ch);
+                end
+            end
+        end
+
+        function extents = extents_emu_(obj)
+            % Effective rendering area (parent size minus margins).
+            parent = obj.parent_;
+            if ismethod(parent, "width_emu")
+                w = double(parent.width_emu().emu);
+                h = double(parent.height_emu().emu);
+            else
+                w = double(parent.width.emu);
+                h = double(parent.height.emu);
+            end
+            ml = double(obj.margin_left.emu);
+            mr = double(obj.margin_right.emu);
+            mt = double(obj.margin_top.emu);
+            mb = double(obj.margin_bottom.emu);
+            extents = [max(0, w - ml - mr), max(0, h - mt - mb)];
+        end
+
+        function set_font_all_(obj, family, pointSize, bold, italic)
+            % Set font on all runs + endParaRPr (python TextFrame._set_font).
+            ps = obj.paragraphs();
+            for i = 1:numel(ps)
+                p = ps{i};
+                rs = p.runs();
+                for j = 1:numel(rs)
+                    f = rs{j}.font();
+                    f.name = family;
+                    f.size = mat2ppt.util.Pt(pointSize);
+                    f.bold = bold;
+                    f.italic = italic;
+                end
+                % endParaRPr
+                endRPr = p.element().find("a:endParaRPr");
+                if isempty(endRPr)
+                    kids = p.element().getchildren();
+                    for k = 1:numel(kids)
+                        if strcmp(char(kids{k}.localName()), "endParaRPr")
+                            endRPr = kids{k};
+                            break
+                        end
+                    end
+                end
+                if isempty(endRPr)
+                    endRPr = mat2ppt.oxml.OxmlElement("a:endParaRPr");
+                    p.element().append(endRPr);
+                end
+                fEnd = mat2ppt.text.Font(endRPr);
+                fEnd.name = family;
+                fEnd.size = mat2ppt.util.Pt(pointSize);
+                fEnd.bold = bold;
+                fEnd.italic = italic;
             end
         end
     end

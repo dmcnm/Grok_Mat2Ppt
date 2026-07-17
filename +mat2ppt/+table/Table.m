@@ -64,6 +64,142 @@ classdef Table < handle
             tc = obj.tc_at_(tr, colIdx);
             c = mat2ppt.table.TableCell(tc, obj);
         end
+
+        function coll = rows(obj)
+            %ROWS  1-based collection of |TableRow|.
+            items = {};
+            kids = obj.tbl_.getchildren();
+            for i = 1:numel(kids)
+                if strcmp(char(kids{i}.localName()), "tr")
+                    items{end+1} = mat2ppt.table.TableRow(kids{i}, obj); %#ok<AGROW>
+                end
+            end
+            coll = mat2ppt.shared.Collection();
+            coll.set_items_(items);
+        end
+
+        function coll = columns(obj)
+            %COLUMNS  1-based collection of |TableColumn|.
+            items = {};
+            grid = obj.tblGrid_();
+            if ~isempty(grid)
+                kids = grid.getchildren();
+                for i = 1:numel(kids)
+                    if strcmp(char(kids{i}.localName()), "gridCol")
+                        items{end+1} = mat2ppt.table.TableColumn(kids{i}, obj); %#ok<AGROW>
+                    end
+                end
+            end
+            coll = mat2ppt.shared.Collection();
+            coll.set_items_(items);
+        end
+
+        function cells = iter_cells(obj)
+            %ITER_CELLS  Cell array of all cells row-major (1-based order).
+            cells = {};
+            nr = obj.row_count();
+            nc = obj.column_count();
+            for r = 1:nr
+                for c = 1:nc
+                    cells{end+1} = obj.cell(r, c); %#ok<AGROW>
+                end
+            end
+        end
+
+        function tf = first_row(obj)
+            tf = mat2ppt.table.Table.read_tbl_bool(obj.tbl_, "firstRow");
+        end
+        function set_first_row(obj, value)
+            mat2ppt.table.Table.write_tbl_bool(obj.tbl_, "firstRow", value);
+        end
+
+        function tf = first_col(obj)
+            tf = mat2ppt.table.Table.read_tbl_bool(obj.tbl_, "firstCol");
+        end
+        function set_first_col(obj, value)
+            mat2ppt.table.Table.write_tbl_bool(obj.tbl_, "firstCol", value);
+        end
+
+        function tf = last_row(obj)
+            tf = mat2ppt.table.Table.read_tbl_bool(obj.tbl_, "lastRow");
+        end
+        function set_last_row(obj, value)
+            mat2ppt.table.Table.write_tbl_bool(obj.tbl_, "lastRow", value);
+        end
+
+        function tf = last_col(obj)
+            tf = mat2ppt.table.Table.read_tbl_bool(obj.tbl_, "lastCol");
+        end
+        function set_last_col(obj, value)
+            mat2ppt.table.Table.write_tbl_bool(obj.tbl_, "lastCol", value);
+        end
+
+        function tf = horz_banding(obj)
+            tf = mat2ppt.table.Table.read_tbl_bool(obj.tbl_, "bandRow");
+        end
+        function set_horz_banding(obj, value)
+            mat2ppt.table.Table.write_tbl_bool(obj.tbl_, "bandRow", value);
+        end
+
+        function tf = vert_banding(obj)
+            tf = mat2ppt.table.Table.read_tbl_bool(obj.tbl_, "bandCol");
+        end
+        function set_vert_banding(obj, value)
+            mat2ppt.table.Table.write_tbl_bool(obj.tbl_, "bandCol", value);
+        end
+    end
+
+    methods (Static)
+        function tf = read_tbl_bool(tblElm, attr)
+            tblPr = mat2ppt.table.Table.find_tblPr(tblElm);
+            if isempty(tblPr)
+                tf = false;
+                return
+            end
+            raw = tblPr.get(attr);
+            if mat2ppt.isAbsent(raw)
+                tf = false;
+            else
+                s = lower(strtrim(char(string(raw))));
+                tf = strcmp(s, "1") || strcmp(s, "true");
+            end
+        end
+
+        function write_tbl_bool(tblElm, attr, value)
+            tblPr = mat2ppt.table.Table.ensure_tblPr(tblElm);
+            if value
+                tblPr.set(attr, "1");
+            else
+                tblPr.removeAttr(attr);
+            end
+        end
+
+        function tblPr = find_tblPr(tblElm)
+            tblPr = tblElm.find("a:tblPr");
+            if ~isempty(tblPr), return; end
+            kids = tblElm.getchildren();
+            for i = 1:numel(kids)
+                if strcmp(char(kids{i}.localName()), "tblPr")
+                    tblPr = kids{i};
+                    return
+                end
+            end
+            tblPr = [];
+        end
+
+        function tblPr = ensure_tblPr(tblElm)
+            tblPr = mat2ppt.table.Table.find_tblPr(tblElm);
+            if ~isempty(tblPr), return; end
+            tblPr = mat2ppt.oxml.OxmlElement("a:tblPr");
+            kids = tblElm.getchildren();
+            for i = 1:numel(kids)
+                tblElm.remove(kids{i});
+            end
+            tblElm.append(tblPr);
+            for i = 1:numel(kids)
+                tblElm.append(kids{i});
+            end
+        end
     end
 
     methods (Access = private)
