@@ -280,6 +280,91 @@ classdef SlideShapes < mat2ppt.shared.Collection
             sh = obj.item(obj.length);
         end
 
+        function sh = add_ole_object(obj, objectFile, progId, left, top, width, height, iconFile, iconWidth, iconHeight)
+            %ADD_OLE_OBJECT  Embed file as OLE graphicFrame (python SlideShapes.add_ole_object).
+            arguments
+                obj
+                objectFile
+                progId
+                left
+                top
+                width = []
+                height = []
+                iconFile = []
+                iconWidth = []
+                iconHeight = []
+            end
+            objectFile = char(string(objectFile));
+            fid = fopen(objectFile, "rb");
+            if fid < 0
+                error("mat2ppt:IOError", "Cannot open OLE object %s", objectFile);
+            end
+            objectBlob = fread(fid, inf, "*uint8");
+            fclose(fid);
+
+            isProg = mat2ppt.enum.PROG_ID.is_member(progId);
+            if isProg
+                progIdStr = char(progId.progId);
+                defW = progId.width;
+                defH = progId.height;
+                iconName = char(progId.icon_filename);
+            else
+                progIdStr = char(string(progId));
+                defW = 965200;
+                defH = 609600;
+                iconName = "generic-icon.emf";
+            end
+            if mat2ppt.isAbsent(width), width = mat2ppt.util.Emu(defW); end
+            if mat2ppt.isAbsent(height), height = mat2ppt.util.Emu(defH); end
+            if mat2ppt.isAbsent(iconWidth), iconWidth = mat2ppt.util.Emu(965200); end
+            if mat2ppt.isAbsent(iconHeight), iconHeight = mat2ppt.util.Emu(609600); end
+
+            [pkg, slidePn] = mat2ppt.shapes.SlideShapes.pkg_slide_(obj.parent_);
+            embedPn = mat2ppt.parts.EmbeddedPackagePart.factory(pkg, progId, objectBlob);
+            if isProg
+                relType = mat2ppt.opc.RELATIONSHIP_TYPE.PACKAGE;
+            else
+                relType = mat2ppt.opc.RELATIONSHIP_TYPE.OLE_OBJECT;
+            end
+            oleRId = pkg.add_relationship(slidePn, relType, embedPn);
+
+            if mat2ppt.isAbsent(iconFile) || (isstring(iconFile) && strlength(iconFile) == 0)
+                iconPath = mat2ppt.shapes.SlideShapes.template_icon_path_(iconName);
+            else
+                iconPath = char(string(iconFile));
+            end
+            % EMF icons often fail imfinfo — fall back by extension
+            try
+                [~, ~, iext, ict] = mat2ppt.util.image_size_emu(iconPath);
+            catch
+                [~, ~, e] = fileparts(iconPath);
+                iext = char(lower(erase(string(e), ".")));
+                if strcmp(iext, "emf")
+                    ict = char(mat2ppt.opc.CONTENT_TYPE.X_EMF);
+                else
+                    ict = "application/octet-stream";
+                end
+            end
+            imgPn = mat2ppt.shapes.SlideShapes.next_media_partname_(pkg, iext);
+            fid = fopen(iconPath, "rb");
+            if fid < 0
+                error("mat2ppt:IOError", "Cannot open icon %s", iconPath);
+            end
+            iblob = fread(fid, inf, "*uint8");
+            fclose(fid);
+            pkg.add_blob_part(imgPn, iblob, ict);
+            iconRId = pkg.add_relationship(slidePn, mat2ppt.opc.RELATIONSHIP_TYPE.IMAGE, imgPn);
+
+            sid = obj.nextId_;
+            obj.nextId_ = obj.nextId_ + 1;
+            name = sprintf("Object %d", sid - 1);
+            gf = mat2ppt.oxml.shapes.new_ole_object_graphicFrame( ...
+                sid, name, oleRId, progIdStr, iconRId, left, top, width, height, iconWidth, iconHeight);
+            mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, gf);
+            obj.rebuild_items_();
+            sh = obj.item(obj.length);
+        end
+
         function sh = add_movie(obj, movieFile, left, top, width, height, posterFrame, mimeType)
             %ADD_MOVIE  Embed video as movie p:pic (python SlideShapes.add_movie).
             %   EXPERIMENTAL twin of python-pptx: size required; poster optional
@@ -457,6 +542,15 @@ classdef SlideShapes < mat2ppt.shared.Collection
             p = fullfile(root, "resources", "speaker.png");
             if ~isfile(p)
                 error("mat2ppt:TemplateNotFound", "Default poster missing: %s", p);
+            end
+        end
+
+        function p = template_icon_path_(name)
+            here = fileparts(mfilename("fullpath"));
+            root = fileparts(fileparts(here));
+            p = fullfile(root, "resources", "templates", char(string(name)));
+            if ~isfile(p)
+                error("mat2ppt:TemplateNotFound", "OLE icon missing: %s", p);
             end
         end
 

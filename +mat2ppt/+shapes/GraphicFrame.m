@@ -13,6 +13,8 @@ classdef GraphicFrame < mat2ppt.shapes.BaseShape
                 t = mat2ppt.enum.MSO_SHAPE_TYPE.CHART;
             elseif obj.has_table()
                 t = mat2ppt.enum.MSO_SHAPE_TYPE.TABLE;
+            elseif obj.has_ole_object()
+                t = mat2ppt.enum.MSO_SHAPE_TYPE.EMBEDDED_OLE_OBJECT;
             else
                 t = mat2ppt.enum.MSO_SHAPE_TYPE.TABLE;
             end
@@ -24,6 +26,19 @@ classdef GraphicFrame < mat2ppt.shapes.BaseShape
 
         function tf = has_chart(obj)
             tf = ~isempty(obj.find_chart_rId_());
+        end
+
+        function tf = has_ole_object(obj)
+            r = mat2ppt.oxml.evaluate_xpath(obj.sp_, ".//p:oleObj");
+            tf = ~isempty(r);
+        end
+
+        function of = ole_format(obj)
+            %OLE_FORMAT  |OleFormat| for embedded OLE frames (R7-W4).
+            if ~obj.has_ole_object()
+                error("mat2ppt:ValueError", "not an OLE-object shape");
+            end
+            of = mat2ppt.shapes.OleFormat(obj.sp_, obj.parent_);
         end
 
         function tbl = table(obj)
