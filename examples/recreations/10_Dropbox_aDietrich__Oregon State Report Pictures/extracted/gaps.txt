@@ -1,14 +1,1 @@
-slide1 sp missing geom: Title 1
-slide2 sp missing geom: Title 1
-slide3 sp missing geom: Title 1
-slide4 sp missing geom: Title 1
-slide5 sp missing geom: Title 1
-slide6 sp missing geom: Title 1
-slide7 sp missing geom: Title 1
-slide8 sp missing geom: Title 1
-slide9 sp missing geom: Title 1
-slide10 sp missing geom: Title 1
-slide11 sp missing geom: Title 1
-slide12 sp missing geom: Title 1
-slide13 sp missing geom: Title 1
-slide14 sp missing geom: Title 1
+

@@ -1,0 +1,3098 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "ctrTitle",
+        "box": null,
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Art Non-profit",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Art Non-profit",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Subtitle 2",
+        "ph": "subTitle:1",
+        "box": null,
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Informational and Planning Meeting",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Informational and Planning Meeting",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "December 20, 2020",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "December 20, 2020",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": null,
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Overview",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Overview",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": [
+          0.5393,
+          1.2388,
+          11.5,
+          5.0869
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Summary of Current Project and Status",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Summary of Current Project and Status",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Overview of Potential Non-profit Purpose and Goals",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Overview of Potential Non-profit Purpose and Goals",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Survey of Participants and Potential Next Steps ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Survey of Participants and Potential Next Steps ",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": null,
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Holy Child Project Overview",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Holy Child Project Overview",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": [
+          0.5393,
+          1.2692,
+          11.5,
+          5.0565
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 62500,
+          "lnSpcReduction": 20000,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Mother Seton Hall art schema finished",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Mother Seton Hall art schema finished",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Five main hallway sections, plus intro, closing, and side hallways",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Five main hallway sections, plus intro, closing, and side hallways",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Focus is on reproductions of masterpiece paintings and will not include photos of statues and other architecture",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Focus is on reproductions of masterpiece paintings and will not include photos of statues and other architecture",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Each main section to cover an era of history ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Each main section to cover an era of history ",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Also looking to highlight art history ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Also looking to highlight art history ",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Intro section complete",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Intro section complete",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "10 paintings for just over $10k ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "10 paintings for just over $10k ",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Modern Era Funding Promised – Currently in RFQ Stage",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Modern Era Funding Promised – Currently in RFQ Stage",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Two pieces awaiting final down select",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Two pieces awaiting final down select",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "15 paintings for $10.5k-14k",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "15 paintings for $10.5k-14k",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Fundraising and final selection remains for following sections",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Fundraising and final selection remains for following sections",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Cradle of Civilization and OT ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Cradle of Civilization and OT ",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Greece and Rome ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Greece and Rome ",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Paschal Mystery",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Paschal Mystery",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Early Church to Medieval Era",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Early Church to Medieval Era",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Estimated Costs remaining: ~40 paintings for $35k plus lighting",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Estimated Costs remaining: ~40 paintings for $35k plus lighting",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Planning not yet begun for Blessed Miguel Pro Hall",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Planning not yet begun for Blessed Miguel Pro Hall",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 6",
+        "ph": "free",
+        "box": [
+          8.7451,
+          2.8281,
+          4.5882,
+          2.1205
+        ],
+        "prst": "rect",
+        "body": {
+          "autofit": "sp",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {
+            "lIns": "91440",
+            "tIns": "45720",
+            "rIns": "91440",
+            "bIns": "45720"
+          },
+          "anchor": null,
+          "wrap": "square"
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Mother Seton Hall Nearly 1/3 Complete!!! ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Mother Seton Hall Nearly 1/3 Complete!!! ",
+                "sz": 4000,
+                "face": null,
+                "srgb": null,
+                "scheme": "bg1",
+                "bold": true
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.173
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Mother Seton Hall Art Schema",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Mother Seton Hall Art Schema",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": [
+          1.571,
+          5.2128,
+          3.1311,
+          1.5142
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 92500,
+          "lnSpcReduction": 10000,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Completed",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Completed",
+                "sz": null,
+                "face": null,
+                "srgb": "00B050",
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "In-progress",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "In-progress",
+                "sz": null,
+                "face": null,
+                "srgb": "7030A0",
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Planning Stages",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Planning Stages",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent2",
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "ph": "free",
+        "box": [
+          0.7736,
+          1.2641,
+          10.8753,
+          4.0312
+        ],
+        "prst": "rect",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": "image4.png",
+        "crop": "r=\"1414\""
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 7",
+        "ph": "free",
+        "box": [
+          0.9362,
+          3.4953,
+          1.9043,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 8",
+        "ph": "free",
+        "box": [
+          3.1809,
+          3.5273,
+          2.6509,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 13",
+        "ph": "free",
+        "box": [
+          0.9362,
+          3.0131,
+          1.9043,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 14",
+        "ph": "free",
+        "box": [
+          0.9362,
+          4.4031,
+          0.8617,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 16",
+        "ph": "free",
+        "box": [
+          0.9574,
+          3.4953,
+          0.0,
+          0.8819
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 18",
+        "ph": "free",
+        "box": [
+          5.8317,
+          3.6514,
+          0.4575,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 20",
+        "ph": "free",
+        "box": [
+          3.1809,
+          3.0368,
+          2.6509,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 23",
+        "ph": "free",
+        "box": [
+          6.1879,
+          3.0368,
+          2.4078,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 25",
+        "ph": "free",
+        "box": [
+          6.6348,
+          3.4967,
+          1.9397,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 27",
+        "ph": "free",
+        "box": [
+          8.9291,
+          3.506,
+          2.3794,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 29",
+        "ph": "free",
+        "box": [
+          8.9291,
+          3.0368,
+          1.3262,
+          0.0
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 31",
+        "ph": "free",
+        "box": [
+          6.656,
+          3.4953,
+          0.0,
+          0.5829
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 33",
+        "ph": "free",
+        "box": [
+          6.1915,
+          2.4302,
+          0.0,
+          0.4102
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 34",
+        "ph": "free",
+        "box": [
+          5.8743,
+          2.4539,
+          0.0,
+          0.5829
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 35",
+        "ph": "free",
+        "box": [
+          6.2893,
+          3.6514,
+          0.0,
+          0.2112
+        ],
+        "prst": "line",
+        "body": null,
+        "lstStyle": null,
+        "paras": null,
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2487
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Non-profit Purposes\nAsset Protection",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Non-profit Purposes",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              },
+              {
+                "t": "Asset Protection",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": [
+          0.5393,
+          1.625,
+          12.3934,
+          4.7007
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Asset protection is critical to fundraising in parishes/dioceses where future friendliness toward classical education and great art is in question",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Asset protection is critical to fundraising in parishes/dioceses where future friendliness toward classical education and great art is in question",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Barbarian bishops and modernist priests have destroyed much church art and sold off numerous assets to pay abuse settlements",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Barbarian bishops and modernist priests have destroyed much church art and sold off numerous assets to pay abuse settlements",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Most people have stories of friends/family saving church art from literal dumpsters",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Most people have stories of friends/family saving church art from literal dumpsters",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Non-profit can hold assets in trust and give them away to other schools if unfriendly powers take control and want to dispose of the art",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Non-profit can hold assets in trust and give them away to other schools if unfriendly powers take control and want to dispose of the art",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2487
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Non-profit Purposes\nProject and Concept Promotion",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Non-profit Purposes",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              },
+              {
+                "t": "Project and Concept Promotion",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": [
+          0.5393,
+          1.625,
+          12.3934,
+          4.7007
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 92500,
+          "lnSpcReduction": 20000,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Holy Child is pioneering something new",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Holy Child is pioneering something new",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Never before have modern printing methods been combined with the ever-growing library of high resolution photos of museum paintings to bring the best masterpiece paintings in the western canon to schools",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Never before have modern printing methods been combined with the ever-growing library of high resolution photos of museum paintings to bring the best masterpiece paintings in the western canon to schools",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "The classical school movement is rapidly expanding and pioneering new ways to bring the a traditional education to the modern world",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "The classical school movement is rapidly expanding and pioneering new ways to bring the a traditional education to the modern world",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Many schools would likely be interested if they could see this project",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Many schools would likely be interested if they could see this project",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Ways to promote concept",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Ways to promote concept",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Speak at educational conferences",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Speak at educational conferences",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "News coverage",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "News coverage",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Publishing in academic journals and educational magazines",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Publishing in academic journals and educational magazines",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Partnerships with local art museums",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Partnerships with local art museums",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Partnerships with other schools",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Partnerships with other schools",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2487
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Non-profit Purposes\nConnecting School Communities and Museums",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Non-profit Purposes",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              },
+              {
+                "t": "Connecting School Communities and Museums",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": [
+          0.5393,
+          1.25,
+          12.3934,
+          5.0757
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 92500,
+          "lnSpcReduction": 10000,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Reproductions shouldn’t be the only art children see",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Reproductions shouldn’t be the only art children see",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Most masterpiece paintings live in museums",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Most masterpiece paintings live in museums",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Traveling exhibits bring masterpieces to even smaller cities like Albuquerque",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Traveling exhibits bring masterpieces to even smaller cities like Albuquerque",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Reserving a section of wall to display the best of local art museums would encourage families to visit",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Reserving a section of wall to display the best of local art museums would encourage families to visit",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Requires working with museum staff to acquire rights and select pieces for display",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Requires working with museum staff to acquire rights and select pieces for display",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Provides visibility of museum exhibits to school families",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Provides visibility of museum exhibits to school families",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Provides visibility of school in the wider community",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Provides visibility of school in the wider community",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Win-win for families, museum, and school",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Win-win for families, museum, and school",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Strong partnerships generate opportunity for positive media interest and coverage",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Strong partnerships generate opportunity for positive media interest and coverage",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Museum staff will likely lead this effort",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Museum staff will likely lead this effort",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2487
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Non-profit Purposes\nConnecting Likeminded School Communities",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Non-profit Purposes",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              },
+              {
+                "t": "Connecting Likeminded School Communities",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": [
+          0.5393,
+          1.25,
+          12.3934,
+          5.0757
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": 10000,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Serve as central resource to connect classical schools that want to implement this idea",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Serve as central resource to connect classical schools that want to implement this idea",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Provide planning and logistical support to schools lacking expertise",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Provide planning and logistical support to schools lacking expertise",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Can help schools with planning and piece selection",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Can help schools with planning and piece selection",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Holy Child has already looked at thousands of paintings and has presentations with hundreds of potential candidates",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Holy Child has already looked at thousands of paintings and has presentations with hundreds of potential candidates",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Provide logistical support to schools",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Provide logistical support to schools",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Connect with Duraplaq and Derek Brooks",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Connect with ",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              },
+              {
+                "t": "Duraplaq",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              },
+              {
+                "t": " and Derek Brooks",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Develop connections to companies in other parts of  the country/world as time progresses",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Develop connections to companies in other parts of  the country/world as time progresses",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Provide support to schools looking to circulate loaned paintings",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Provide support to schools looking to circulate loaned paintings",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Similar to how most museums have traveling exhibits",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Similar to how most museums have traveling exhibits",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Help connect schools with their local art community",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Help connect schools with their local art community",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2102
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Starting a Non-profit",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Starting a Non-profit",
+                "sz": 3600,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": [
+          0.6154,
+          1.2933,
+          6.0513,
+          4.8798
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 92500,
+          "lnSpcReduction": 20000,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Decide on purpose for organization and general goals",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Decide on purpose for organization and general goals",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Feedback - Disagreement on goals in previous slides or other ideas?",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Feedback - Disagreement on goals in previous slides or other ideas?",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Select board model",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Select board model",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Recruit and vote on transition board members (with future in mind)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Recruit and vote on transition board members (with future in mind)",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Highlight business/non-profit experience, time, motivation, and art expertise",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Highlight business/non-profit experience, time, motivation, and art expertise",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Avoid conflicts of interest",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Avoid conflicts of interest",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Decide on committees - both business and art related",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Decide on committees - both business and art related",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Vote on a name",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Vote on a name",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "free",
+        "box": [
+          6.5321,
+          1.7051,
+          6.7083,
+          4.8798
+        ],
+        "prst": "rect",
+        "body": {
+          "autofit": "norm",
+          "fontScale": 85000,
+          "lnSpcReduction": 10000,
+          "insets": {
+            "lIns": "91440",
+            "tIns": "45720",
+            "rIns": "91440",
+            "bIns": "45720"
+          },
+          "anchor": null,
+          "wrap": null,
+          "rtlCol": "0",
+          "vert": "horz"
+        },
+        "lstStyle": {
+          "levels": {
+            "1": {
+              "marL": "228600",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "2800",
+              "lnSpc": "90000",
+              "spcBef": "1000",
+              "bu": "char"
+            },
+            "2": {
+              "marL": "685800",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "2400",
+              "lnSpc": "90000",
+              "spcBef": "500",
+              "bu": "char"
+            },
+            "3": {
+              "marL": "1143000",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "2000",
+              "lnSpc": "90000",
+              "spcBef": "500",
+              "bu": "char"
+            },
+            "4": {
+              "marL": "1600200",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "1800",
+              "lnSpc": "90000",
+              "spcBef": "500",
+              "bu": "char"
+            },
+            "5": {
+              "marL": "2057400",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "1800",
+              "lnSpc": "90000",
+              "spcBef": "500",
+              "bu": "char"
+            },
+            "6": {
+              "marL": "2514600",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "1800",
+              "lnSpc": "90000",
+              "spcBef": "500",
+              "bu": "char"
+            },
+            "7": {
+              "marL": "2971800",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "1800",
+              "lnSpc": "90000",
+              "spcBef": "500",
+              "bu": "char"
+            },
+            "8": {
+              "marL": "3429000",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "1800",
+              "lnSpc": "90000",
+              "spcBef": "500",
+              "bu": "char"
+            },
+            "9": {
+              "marL": "3886200",
+              "indent": "-228600",
+              "algn": "l",
+              "sz": "1800",
+              "lnSpc": "90000",
+              "spcBef": "500",
+              "bu": "char"
+            }
+          }
+        },
+        "paras": [
+          {
+            "text": "Set board meeting dates for regular meetings",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Set board meeting dates for regular meetings",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Set due dates and goals for tasks",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Set due dates and goals for tasks",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Write Articles of Incorporation and Bylaws",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Write Articles of Incorporation and Bylaws",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Select annual meeting date (mostly set in stone)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Select annual meeting date (mostly set in stone)",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Formally vote on board members",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Formally vote on board members",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Work with volunteer legal help to",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Work with volunteer legal help to",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Submit paperwork to state of NM",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Submit paperwork to state of NM",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Submit paperwork to IRS",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Submit paperwork to IRS",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Get training for IRS paperwork and business aspects of tax deductibility",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Get training for IRS paperwork and business aspects of tax deductibility",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Prioritize art-related projects and get to work",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Prioritize art-related projects and get to work",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          },
+          {
+            "text": "Can’t do everything at once – Figure out projects with high impact and low difficulty to begin",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Can’t do everything at once – Figure out projects with high impact and low difficulty to begin",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": [
+          0.0,
+          3.2321,
+          13.3333,
+          1.4497
+        ],
+        "prst": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Questions and Feedback",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Questions and Feedback",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "box": null,
+        "prst": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Resources",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "spcBef": null,
+              "lnSpc": null
+            },
+            "runs": [
+              {
+                "t": "Resources",
+                "sz": null,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "bold": false
+              }
+            ]
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "box": null,
+        "prst": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "insets": {},
+          "anchor": null,
+          "wrap": null
+        },
+        "lstStyle": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  }
+]

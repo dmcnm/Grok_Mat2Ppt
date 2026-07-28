@@ -1,7 +1,9 @@
-function cxnSp = new_cxnSp(shapeId, name, prst, x, y, cx, cy, flipH, flipV)
+function cxnSp = new_cxnSp(shapeId, name, prst, x, y, cx, cy, flipH, flipV, adj)
 %NEW_CXNSP  p:cxnSp connector (python CT_Connector.new_cxnSp).
 %
 %   Ported from python-pptx 1.0.2: oxml/shapes/connector.py
+%   Optional adj: Nx2 cell/string array of {name, fmla} e.g. {"adj1","val 50000"}
+%   for bentConnector path control points.
 
     x = double(mat2ppt.util.Length.toEmuInt_(x));
     y = double(mat2ppt.util.Length.toEmuInt_(y));
@@ -9,6 +11,7 @@ function cxnSp = new_cxnSp(shapeId, name, prst, x, y, cx, cy, flipH, flipV)
     cy = double(mat2ppt.util.Length.toEmuInt_(cy));
     if nargin < 8, flipH = false; end
     if nargin < 9, flipV = false; end
+    if nargin < 10, adj = {}; end
 
     cxnSp = mat2ppt.oxml.OxmlElement("p:cxnSp");
     nv = mat2ppt.oxml.OxmlElement("p:nvCxnSpPr");
@@ -39,8 +42,25 @@ function cxnSp = new_cxnSp(shapeId, name, prst, x, y, cx, cy, flipH, flipV)
     spPr.append(xfrm);
     prstGeom = mat2ppt.oxml.OxmlElement("a:prstGeom");
     prstGeom.set("prst", char(string(prst)));
-    prstGeom.append(mat2ppt.oxml.OxmlElement("a:avLst"));
+    avLst = mat2ppt.oxml.OxmlElement("a:avLst");
+    if ~isempty(adj)
+        if iscell(adj)
+            for i = 1:size(adj, 1)
+                gd = mat2ppt.oxml.OxmlElement("a:gd");
+                gd.set("name", char(string(adj{i, 1})));
+                gd.set("fmla", char(string(adj{i, 2})));
+                avLst.append(gd);
+            end
+        end
+    end
+    prstGeom.append(avLst);
     spPr.append(prstGeom);
+    % Default arrowhead at end (common flowchart / Office connectors)
+    ln = mat2ppt.oxml.OxmlElement("a:ln");
+    tail = mat2ppt.oxml.OxmlElement("a:tailEnd");
+    tail.set("type", "triangle");
+    ln.append(tail);
+    spPr.append(ln);
     cxnSp.append(spPr);
 
     % style (python new_cxnSp)

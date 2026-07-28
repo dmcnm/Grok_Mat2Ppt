@@ -1,0 +1,1499 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "ctrTitle",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Fairies",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Fairies",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Fairies",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Lavender Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Lavender Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Lavender Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image2.png",
+        "crop": {
+          "t": 14759,
+          "b": 14759
+        }
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Scilla Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Scilla",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Scilla Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": null,
+        "asset": "image3.jpeg",
+        "crop": {
+          "t": 13804,
+          "b": 13804
+        }
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Delphinium Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Delphinium Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Delphinium Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image4.jpeg",
+        "crop": {
+          "t": 17612,
+          "b": 17612
+        }
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 3",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Lilac Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Lilac Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Lilac Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image5.png",
+        "crop": {
+          "t": 19,
+          "b": 19
+        }
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 5.9167,
+          "y": 1.25,
+          "cx": 3.75,
+          "cy": 2.25,
+          "x_emu": 5410200,
+          "y_emu": 1143000,
+          "cx_emu": 3429000,
+          "cy_emu": 2057400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Daisy Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Daisy Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Daisy Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image6.jpeg",
+        "crop": {
+          "t": 17285,
+          "b": 17285
+        }
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Harebell Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Harebell Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Harebell Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 11",
+        "box": null,
+        "asset": "image7.jpeg",
+        "crop": {
+          "t": 14759,
+          "b": 14759
+        }
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 5.8936,
+          "y": 2.75,
+          "cx": 2.7731,
+          "cy": 0.75,
+          "x_emu": 5389098,
+          "y_emu": 2514600,
+          "cx_emu": 2535702,
+          "cy_emu": 685800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Rose Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Rose Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Rose Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 10",
+        "box": null,
+        "asset": "image8.jpeg",
+        "crop": {
+          "t": 14564,
+          "b": 14564
+        }
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Aster Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Aster Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Aster Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": null,
+        "asset": "image9.jpeg",
+        "crop": {
+          "t": 12927,
+          "b": 12927
+        }
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Morning glory Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Morning glory Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Morning glory Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 1",
+        "box": null,
+        "asset": "image10.png",
+        "crop": {
+          "t": 17612,
+          "b": 17612
+        }
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Forget-me-not Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Forget-me-not Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Forget-me-not Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 1",
+        "box": null,
+        "asset": "image11.png",
+        "crop": {
+          "t": 14369,
+          "b": 14369
+        }
+      }
+    ]
+  },
+  {
+    "slide": 12,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Wild Thyme  Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Wild Thyme  Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Wild Thyme  Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image12.jpeg",
+        "crop": {
+          "t": 16126,
+          "b": 16126
+        }
+      }
+    ]
+  },
+  {
+    "slide": 13,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Thistle Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Thistle Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Thistle Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": null,
+        "asset": "image13.jpeg",
+        "crop": {
+          "t": 16513,
+          "b": 16513
+        }
+      }
+    ]
+  },
+  {
+    "slide": 14,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Larkspur Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Larkspur Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Larkspur Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": null,
+        "asset": "image14.jpeg",
+        "crop": {
+          "t": 16931,
+          "b": 16931
+        }
+      }
+    ]
+  },
+  {
+    "slide": 15,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Elderberry Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Elderberry Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Elderberry Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image15.jpeg",
+        "crop": {
+          "t": 15736,
+          "b": 15736
+        }
+      }
+    ]
+  },
+  {
+    "slide": 16,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Blackthorn Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Blackthorn Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Blackthorn Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image16.jpeg",
+        "crop": {
+          "t": 14513,
+          "b": 14513
+        }
+      }
+    ]
+  },
+  {
+    "slide": 17,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "White clover Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "White clover Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "White clover Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image17.jpeg",
+        "crop": {
+          "t": 17301,
+          "b": 17301
+        }
+      }
+    ]
+  },
+  {
+    "slide": 18,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Periwinkle  Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Periwinkle  Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Periwinkle  Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image18.jpeg",
+        "crop": {
+          "t": 14214,
+          "b": 14214
+        }
+      }
+    ]
+  },
+  {
+    "slide": 19,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Black Medic Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Black Medic Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Black Medic Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image19.jpeg",
+        "crop": {
+          "t": 13814,
+          "b": 13814
+        }
+      }
+    ]
+  },
+  {
+    "slide": 20,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Marigold Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Marigold Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Marigold Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image20.jpeg",
+        "crop": {
+          "t": 14613,
+          "b": 14613
+        }
+      }
+    ]
+  },
+  {
+    "slide": 21,
+    "layout": "Picture with Caption",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Hawthorn Fairy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Hawthorn Fairy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Algerian",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Hawthorn Fairy",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": null,
+        "asset": "image21.jpeg",
+        "crop": {
+          "t": 15736,
+          "b": 15736
+        }
+      }
+    ]
+  }
+]

@@ -46,8 +46,9 @@ function sp = new_sp(shapeId, name, left, top, width, height, prst)
     sc.set("val", "accent1");
     lnRef.append(sc);
     style.append(lnRef);
+    % idx 1 ≈ solid theme fill (Office flowchart look); idx 3 is lighter/gradient-like
     fillRef = mat2ppt.oxml.OxmlElement("a:fillRef");
-    fillRef.set("idx", "3");
+    fillRef.set("idx", "1");
     sc2 = mat2ppt.oxml.OxmlElement("a:schemeClr");
     sc2.set("val", "accent1");
     fillRef.append(sc2);

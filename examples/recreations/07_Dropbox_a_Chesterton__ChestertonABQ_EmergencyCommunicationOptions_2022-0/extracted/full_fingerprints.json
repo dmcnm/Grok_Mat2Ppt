@@ -1,0 +1,1195 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "ctrTitle",
+        "prst": null,
+        "box": {
+          "x": 1.6667,
+          "y": 1.9557,
+          "cx": 10.0,
+          "cy": 2.6111,
+          "x_emu": 1524000,
+          "y_emu": 1788284,
+          "cx_emu": 9144000,
+          "cy_emu": 2387600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Chesterton AcademyEmergency Communication Options",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Chesterton Academy",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Emergency Communication Options",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Chesterton AcademyEmergency Communication Options",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 3",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 4.1082,
+          "y": 4.8354,
+          "cx": 4.3143,
+          "cy": 0.9088,
+          "x_emu": 3756572,
+          "y_emu": 4421505,
+          "cx_emu": 3944994,
+          "cy_emu": 830997,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Douglas Coombs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Douglas Coombs",
+                "sz": 2400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "February 8, 2022",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "February 8, 2022",
+                "sz": 2400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Douglas Coombs\nFebruary 8, 2022",
+        "txBox": true
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Overview of Options",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Overview of Options",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Overview of Options",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5393,
+          "y": 1.2388,
+          "cx": 12.5453,
+          "cy": 5.5293,
+          "x_emu": 493094,
+          "y_emu": 1132764,
+          "cx_emu": 11471379,
+          "cy_emu": 5056001,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Comprehensive Email and Texting Programs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Comprehensive Email and Texting Programs",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "JupiterEd",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "JupiterEd",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Potentially cheapest and easiest to set up",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Potentially cheapest and easiest to set up",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Flocknotes",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Flocknotes",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Much more flexible but also more expensive and time consuming to set up",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Much more flexible but also more expensive and time consuming to set up",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Standalone Texting Solutions",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Standalone Texting Solutions",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "ExpertTexting.com",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ExpertTexting.com",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Seems straightforward with intuitive user interface",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Seems straightforward with intuitive user interface",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Offers two-way texting with parents, if desired",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Offers two-way texting with parents, if desired",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Per text pricing makes it more attractive for infrequent, emergency use",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Per text pricing makes it more attractive for infrequent, emergency use",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "TextEmAll.com",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "TextEmAll.com",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Comprehensive Email and Texting Programs\nJupiterEd\nPotentially cheapest and easiest to set up\nFlocknotes\nMuch more flexible but also more expensive and time consuming to set up\nStandalone Texting Solutions\nExpertTexting.com\nSeems straightforward with intuitive user interface\nOffers two-way texting with parents, if desired\nPer text pricing makes it more attractive for infrequent, emergency use\nTextEmAll.com",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "JupiterEd.com",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "JupiterEd.com",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "JupiterEd.com",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5393,
+          "y": 1.2388,
+          "cx": 11.7207,
+          "cy": 5.5293,
+          "x_emu": 493094,
+          "y_emu": 1132764,
+          "cx_emu": 10717449,
+          "cy_emu": 5056001,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Parents need to login to JupiterEd and opt-in to emergency texting service",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Parents need to login to ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "JupiterEd",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " and opt-in to emergency texting service",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Another option would be to use non-emergency text messages for weather announcements, but these can get lost as they are common",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Another option would be to use non-emergency text messages for weather announcements, but these can get lost as they are common",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Parents need to login to JupiterEd and opt-in to emergency texting service\nAnother option would be to use non-emergency text messages for weather announcements, but these can get lost as they are common",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Flocknotes",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Flocknotes",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Flocknotes",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Comprehensive email and texting service",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Comprehensive email and texting service",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Mrs. Sena is familiar with the service",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Mrs. Sena is familiar with the service",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "More expensive at ~",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "More expensive at ~",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Comprehensive email and texting service\nMrs. Sena is familiar with the service\nMore expensive at ~",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ExpertTexting.com",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ExpertTexting.com",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ExpertTexting.com",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Com",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Com",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Com",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "TextEmAll.com",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "TextEmAll.com",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "TextEmAll.com",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "jkh",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "jkh",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "jkh",
+        "txBox": false
+      }
+    ]
+  }
+]

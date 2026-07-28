@@ -1,0 +1,44 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 5.9717,
+          "y": 3.13,
+          "cx": 1.39,
+          "cy": 1.24,
+          "x_emu": 5460490,
+          "y_emu": 2862071,
+          "cx_emu": 1271019,
+          "cy_emu": 1133858,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 7.3617,
+          "y": 3.13,
+          "cx": 2.926,
+          "cy": 1.2438,
+          "x_emu": 6731510,
+          "y_emu": 2862071,
+          "cx_emu": 2675538,
+          "cy_emu": 1137374,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image2.png",
+        "crop": null
+      }
+    ]
+  }
+]

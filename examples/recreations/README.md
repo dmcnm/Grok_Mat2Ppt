@@ -20,7 +20,7 @@ Order: easy → hard.
 | 10 | 64 | OK | 2 | 1 | `20_Dropbox_Recreation__ExampleItinerary.pptx` |
 | 11 | 71 | OK | 3 | 0 | `18_Dropbox_Poverty_Awareness__Display Board Titles Headers.pptx` |
 | 12 | 86 | OK | 5 | 4 | `26_Dropbox_w-Sandia__Vibrationdata_download.pptx` |
-| 13 | 88 | OK | 6 | 2 | `01_Box_Conferences__SLG_Intro4Scientists.pptx` |
+| 13 | — | OK | 8 | 11 | `01_…` from **Rev1** (`SLG_Intro4Scientists_Rev1.pptx`; non-Rev1 archived) |
 | 14 | 89 | OK | 2 | 9 | `15_Dropbox_Family__picturesForPuttingAwayClothes.pptx` |
 | 15 | 90 | OK | 4 | 0 | `22_Dropbox_Sangre_de_Cristo__Aerial_Views_Markup.pptx` |
 | 16 | 92 | OK | 6 | 0 | `07_Dropbox_a_Chesterton__ChestertonABQ_EmergencyCommunicationOptions_2022-0.pptx` |
@@ -37,7 +37,12 @@ Order: easy → hard.
 
 ## Notes
 
-- Generator: workspace `harness/recreate_pptx_demo.py`
+- Generator: workspace `harness/recreate_pptx_demo.py` (**layout-aware** — uses
+  Title and Content / Comparison / etc., not only Blank; Inches; multi-para;
+  textboxes; connector adj). Re-run carefully; hand-tuned demos win.
+- Visual second round (slow batches): workspace `status/VISUAL_REVIEW_PROCESS.md`
 - Gaps in per-folder `extracted/gaps.txt` (groups, charts, some placeholders)
 - EMF/WMF supported with explicit size
-- First validated exact geom/text: FoundingDocs flowchart
+- Visual pilots: FoundingDocs flowchart; Conferences **Rev1** polished final
+  (non-Rev1 archived under `_archive/`); Secretary planning meeting
+- Example 01 source: `Box\Conferences\SLG_Intro4Scientists_Rev1.pptx`

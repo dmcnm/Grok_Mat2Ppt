@@ -1,0 +1,5860 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Rectangle 1",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.2083,
+          "y": 1.3333,
+          "cx": 9.5833,
+          "cy": 2.5833,
+          "x_emu": 190500,
+          "y_emu": 1219200,
+          "cx_emu": 8763000,
+          "cy_emu": 2362200,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "9525",
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {
+            "lIns": 45720,
+            "tIns": 47520,
+            "rIns": 45720,
+            "bIns": 47520
+          }
+        },
+        "paras": [
+          {
+            "text": "",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": 84000,
+              "spcBef": 713
+            },
+            "runs": []
+          }
+        ],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Title 10",
+        "ph": "ctrTitle",
+        "prst": null,
+        "box": {
+          "x": 0.1667,
+          "y": 1.7889,
+          "cx": 9.4167,
+          "cy": 1.7944,
+          "x_emu": 152400,
+          "y_emu": 1635760,
+          "cx_emu": 8610600,
+          "cy_emu": 1640840,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Mechanical EngineeringCareer Overview",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Mechanical Engineering",
+                "sz": 3600,
+                "bold": "inherit",
+                "italic": true,
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "Lucida Sans Unicode",
+                "ea": "Lucida Sans Unicode",
+                "srgb": "0070C0",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Career Overview",
+                "sz": 3600,
+                "bold": "inherit",
+                "italic": true,
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "Lucida Sans Unicode",
+                "ea": "Lucida Sans Unicode",
+                "srgb": "0070C0",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Mechanical EngineeringCareer Overview",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Subtitle 11",
+        "ph": "subTitle:1",
+        "prst": null,
+        "box": {
+          "x": 2.1667,
+          "y": 3.8333,
+          "cx": 6.0,
+          "cy": 1.4167,
+          "x_emu": 1981200,
+          "y_emu": 3505200,
+          "cx_emu": 5486400,
+          "cy_emu": 1295400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Douglas Coombs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Douglas Coombs",
+                "sz": 2800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "April 8, 2021",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "April 8, 2021",
+                "sz": 2800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "Lucida Sans Unicode",
+                "ea": "Lucida Sans Unicode",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Douglas Coombs\nApril 8, 2021",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0,
+          "cx": 7.8316,
+          "cy": 1.1858,
+          "x_emu": 990600,
+          "y_emu": 0,
+          "cx_emu": 7161213,
+          "cy_emu": 1084263,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Overview",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Overview",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Overview",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Personal Intro",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Personal Intro",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Types of Engineering",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Types of Engineering",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Educational Requirements",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Educational Requirements",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Career Overview",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Career Overview",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Succeed in Any Career",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Succeed in Any Career",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Q & A",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Q & A",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Disclaimer: These are the presenter\u2019s opinions and do not necessarily reflect those of his employers, past and present",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": 0,
+              "indent": 0,
+              "bu": "none",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Disclaimer: ",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "These are the presenter\u2019s opinions and do not necessarily reflect those of his employers, past and present",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Personal Intro\nTypes of Engineering\nEducational Requirements\nCareer Overview\nSucceed in Any Career\nQ & A\nDisclaimer: These are the presenter\u2019s opinions and do not necessarily reflect those of his employers, past and present",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0,
+          "cx": 7.8316,
+          "cy": 1.1858,
+          "x_emu": 990600,
+          "y_emu": 0,
+          "cx_emu": 7161213,
+          "cy_emu": 1084263,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Brief Personal Intro",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Brief Personal Intro",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Brief Personal Intro",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Name: Douglas Coombs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Name: Douglas Coombs",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Employer: Sandia National Laboratories",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Employer: Sandia National Laboratories",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Title: Principal Member of the Technical Staff",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Title: Principal Member of the Technical Staff",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Job Roles: ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Job Roles: ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Audit scientific and engineering work to ensure national security",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Audit scientific and engineering work to ensure national security",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Perform system analyses to ensure safety",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Perform system analyses to ensure safety",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Manage software projects to help engineers work more productively ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Manage software projects to help engineers work more productively ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Contribute to R&D efforts to advance product lines",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Contribute to R&D efforts to advance product lines",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Did that make any sense?",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Did that ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "make any sense?",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Name: Douglas Coombs\nEmployer: Sandia National Laboratories\nTitle: Principal Member of the Technical Staff\nJob Roles: \nAudit scientific and engineering work to ensure national security\nPerform system analyses to ensure safety\nManage software projects to help engineers work more productively \nContribute to R&D efforts to advance product lines\nDid that make any sense?",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 21",
+        "box": {
+          "x": 5.5833,
+          "y": 3.3333,
+          "cx": 4.2796,
+          "cy": 3.4271,
+          "x_emu": 5105400,
+          "y_emu": 3048000,
+          "cx_emu": 3913259,
+          "cy_emu": 3133725,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image6.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 22",
+        "box": {
+          "x": 0.4796,
+          "y": 3.5417,
+          "cx": 4.8369,
+          "cy": 3.2188,
+          "x_emu": 438555,
+          "y_emu": 3238499,
+          "cx_emu": 4422881,
+          "cy_emu": 2943226,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image7.jpg",
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 23",
+        "prst": "line",
+        "box": {
+          "x": 0.4796,
+          "y": 3.5417,
+          "cx": 4.8369,
+          "cy": 3.2188,
+          "x_emu": 438555,
+          "y_emu": 3238499,
+          "cx_emu": 4422881,
+          "cy_emu": 2943226,
+          "flipH": false,
+          "flipV": false
+        },
+        "ln": {
+          "w": 73025,
+          "type": "solid",
+          "srgb": "C00000",
+          "tail": {
+            "type": "none",
+            "w": "med",
+            "len": "med"
+          }
+        },
+        "adj": [],
+        "ends": {
+          "bx": 0.4796,
+          "by": 3.5417,
+          "ex": 5.3165,
+          "ey": 6.7605,
+          "bx_emu": 438555,
+          "by_emu": 3238499,
+          "ex_emu": 4861436,
+          "ey_emu": 6181725
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 24",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 8.5466,
+          "y": 3.75,
+          "cx": 0.9961,
+          "cy": 1.3127,
+          "x_emu": 7814985,
+          "y_emu": 3429000,
+          "cx_emu": 910827,
+          "cy_emu": 1200329,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "none",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "\uf0fc",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "\uf0fc",
+                "sz": 7200,
+                "bold": false,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "Wingdings"
+              }
+            ]
+          }
+        ],
+        "text_join": "\uf0fc",
+        "txBox": false
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 20",
+        "prst": "line",
+        "box": {
+          "x": 0.4796,
+          "y": 3.5417,
+          "cx": 4.8369,
+          "cy": 3.2188,
+          "x_emu": 438555,
+          "y_emu": 3238499,
+          "cx_emu": 4422881,
+          "cy_emu": 2943226,
+          "flipH": false,
+          "flipV": true
+        },
+        "ln": {
+          "w": 73025,
+          "type": "solid",
+          "srgb": "C00000",
+          "tail": {
+            "type": "none",
+            "w": "med",
+            "len": "med"
+          }
+        },
+        "adj": [],
+        "ends": {
+          "bx": 0.4796,
+          "by": 6.7605,
+          "ex": 5.3165,
+          "ey": 3.5417,
+          "bx_emu": 438555,
+          "by_emu": 6181725,
+          "ex_emu": 4861436,
+          "ey_emu": 3238499
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0,
+          "cx": 7.8316,
+          "cy": 1.1858,
+          "x_emu": 990600,
+          "y_emu": 0,
+          "cx_emu": 7161213,
+          "cy_emu": 1084263,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Types of Engineering",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Types of Engineering",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Types of Engineering",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "What do engineers do? ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "What do engineers do? ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "We solve scientific and technical problems to create the infrastructure and products that enable modern life",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "We solve scientific and technical problems to create the infrastructure and products that enable modern life",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Train engineers vs. technical engineers ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Train engineers vs. technical engineers ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Types of Engineers",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Types of Engineers",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Civil, Mechanical, and Electrical (most engineers) ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Civil, Mechanical, and Electrical (most engineers) ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Niche fields",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Niche fields",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Chemical, Bio-Medical, Materials, Industrial, Aerospace, Mining, Petroleum, Nuclear, Marine, Agricultural, Environmental",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Chemical, Bio-Medical, Materials, Industrial, Aerospace, Mining, Petroleum, Nuclear, Marine, Agricultural, Environmental",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Wide range of pay depending on industry, difficulty and educational level attained ($50k-$250k, median ~85k)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Wide range of pay depending on industry, difficulty and educational level attained ($50k-$250k, median ~85k)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Commodities vs cutting edge technologies",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Commodities vs cutting edge technologies",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Scalability of product",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Scalability of product",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Good bread and butter job to support a family with",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Good bread and butter job to support a family with",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Most people can do it if they work hard enough \u2013 not like sports or acting where only the top .01% succeed and make enough money to support a family",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Most people can do it if they work hard enough \u2013 not like sports or acting where only the top .01% succeed and make enough money to support a family",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "What do engineers do? \nWe solve scientific and technical problems to create the infrastructure and products that enable modern life\nTrain engineers vs. technical engineers \nTypes of Engineers\nCivil, Mechanical, and Electrical (most engineers) \nNiche fields\nChemical, Bio-Medical, Materials, Industrial, Aerospace, Mining, Petroleum, Nuclear, Marine, Agricultural, Environmental\nWide range of pay depending on industry, difficulty and educational level attained ($50k-$250k, median ~85k)\nCommodities vs cutting edge technologies\nScalability of product\nGood bread and butter job to support a family with\nMost people can do it if they work hard enough \u2013 not like sports or acting where only the top .01% succeed and make enough money to support a family",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Content Placeholder 5",
+        "box": {
+          "x": 2.6667,
+          "y": 5.3835,
+          "cx": 3.7314,
+          "cy": 2.0149,
+          "x_emu": 2438460,
+          "y_emu": 4922671,
+          "cx_emu": 3411954,
+          "cy_emu": 1842425,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image8.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 15",
+        "box": {
+          "x": 6.4989,
+          "y": 5.4504,
+          "cx": 3.0573,
+          "cy": 1.9553,
+          "x_emu": 5942630,
+          "y_emu": 4983801,
+          "cx_emu": 2795621,
+          "cy_emu": 1787908,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image9.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 16",
+        "box": {
+          "x": 2.6667,
+          "y": 3.4021,
+          "cx": 3.605,
+          "cy": 1.9402,
+          "x_emu": 2438460,
+          "y_emu": 3110880,
+          "cx_emu": 3296402,
+          "cy_emu": 1774094,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image10.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 17",
+        "box": {
+          "x": 6.3239,
+          "y": 3.4401,
+          "cx": 3.4206,
+          "cy": 1.8643,
+          "x_emu": 5782552,
+          "y_emu": 3145565,
+          "cx_emu": 3127774,
+          "cy_emu": 1704724,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image11.png",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 13",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.185,
+          "y": 4.0734,
+          "cx": 1.9664,
+          "cy": 3.1302,
+          "x_emu": 169145,
+          "y_emu": 3724746,
+          "cx_emu": 1798153,
+          "cy_emu": 2862270,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Civil Engineering ",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Civil Engineering",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Bridges, Roads,  Dams, Skyscrapers, Sewage Treatment",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Bridges, Roads,  Dams, Skyscrapers, Sewage Treatment",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Civil Engineering \nBridges, Roads,  Dams, Skyscrapers, Sewage Treatment",
+        "txBox": true
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 28",
+        "box": {
+          "x": 2.5311,
+          "y": 5.5884,
+          "cx": 2.1771,
+          "cy": 1.6307,
+          "x_emu": 2314456,
+          "y_emu": 5109989,
+          "cx_emu": 1990754,
+          "cy_emu": 1491144,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image12.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 29",
+        "box": {
+          "x": 4.8928,
+          "y": 5.7201,
+          "cx": 2.194,
+          "cy": 1.46,
+          "x_emu": 4473946,
+          "y_emu": 5230477,
+          "cx_emu": 2006193,
+          "cy_emu": 1335030,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image13.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 30",
+        "box": {
+          "x": 7.1915,
+          "y": 5.6907,
+          "cx": 2.5985,
+          "cy": 1.46,
+          "x_emu": 6575878,
+          "y_emu": 5203544,
+          "cx_emu": 2376034,
+          "cy_emu": 1335029,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image14.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 31",
+        "box": {
+          "x": 2.5016,
+          "y": 4.0621,
+          "cx": 2.2362,
+          "cy": 1.4245,
+          "x_emu": 2287454,
+          "y_emu": 3714393,
+          "cx_emu": 2044757,
+          "cy_emu": 1302532,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image15.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 32",
+        "box": {
+          "x": 4.829,
+          "y": 4.0893,
+          "cx": 2.3802,
+          "cy": 1.3973,
+          "x_emu": 4415662,
+          "y_emu": 3739275,
+          "cx_emu": 2176462,
+          "cy_emu": 1277650,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image16.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 33",
+        "box": {
+          "x": 7.1777,
+          "y": 3.9875,
+          "cx": 1.4516,
+          "cy": 1.6008,
+          "x_emu": 6563326,
+          "y_emu": 3646211,
+          "cx_emu": 1327324,
+          "cy_emu": 1463778,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image17.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 34",
+        "box": {
+          "x": 8.3739,
+          "y": 4.0833,
+          "cx": 1.505,
+          "cy": 1.505,
+          "x_emu": 7657128,
+          "y_emu": 3733800,
+          "cx_emu": 1376189,
+          "cy_emu": 1376189,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image18.png",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 27",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.2027,
+          "y": 4.0415,
+          "cx": 2.2362,
+          "cy": 3.4669,
+          "x_emu": 185331,
+          "y_emu": 3695590,
+          "cx_emu": 2044757,
+          "cy_emu": 3170099,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Mechanical Engineering ",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Mechanical Engineering",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Rockets, Trucks, Cars, Household Appliances, Airplanes, Machines in General",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Rockets, Trucks, Cars, Household Appliances, Airplanes, Machines in General",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Mechanical Engineering \nRockets, Trucks, Cars, Household Appliances, Airplanes, Machines in General",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 36",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.1667,
+          "y": 3.9932,
+          "cx": 2.3807,
+          "cy": 3.1303,
+          "x_emu": 152429,
+          "y_emu": 3651369,
+          "cx_emu": 2176869,
+          "cy_emu": 2862322,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Electrical Engineering ",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Electrical Engineering",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Computers, Phones, Communication Infrastructure, General Electronics",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Computers, Phones, Communication Infrastructure, General Electronics",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Electrical Engineering \nComputers, Phones, Communication Infrastructure, General Electronics",
+        "txBox": true
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 38",
+        "box": {
+          "x": 7.1133,
+          "y": 5.4397,
+          "cx": 2.6725,
+          "cy": 1.675,
+          "x_emu": 6504380,
+          "y_emu": 4974083,
+          "cx_emu": 2443760,
+          "cy_emu": 1531652,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image19.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 39",
+        "box": {
+          "x": 6.966,
+          "y": 3.5335,
+          "cx": 2.8646,
+          "cy": 1.9062,
+          "x_emu": 6369731,
+          "y_emu": 3231008,
+          "cx_emu": 2619375,
+          "cy_emu": 1743075,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image20.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 40",
+        "box": {
+          "x": 2.7754,
+          "y": 5.5738,
+          "cx": 1.4041,
+          "cy": 1.5289,
+          "x_emu": 2537815,
+          "y_emu": 5096683,
+          "cx_emu": 1283907,
+          "cy_emu": 1398032,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image21.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 41",
+        "box": {
+          "x": 3.1613,
+          "y": 3.5692,
+          "cx": 3.5575,
+          "cy": 1.8705,
+          "x_emu": 2890684,
+          "y_emu": 3263665,
+          "cx_emu": 3252941,
+          "cy_emu": 1710418,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image22.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 42",
+        "box": {
+          "x": 4.2255,
+          "y": 5.5738,
+          "cx": 2.8329,
+          "cy": 1.6311,
+          "x_emu": 3863757,
+          "y_emu": 5096683,
+          "cx_emu": 2590389,
+          "cy_emu": 1491442,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image23.jpg",
+        "crop": {
+          "r": 9818
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 44",
+        "box": {
+          "x": 7.3338,
+          "y": 6.1027,
+          "cx": 1.9637,
+          "cy": 1.3322,
+          "x_emu": 6706040,
+          "y_emu": 5580350,
+          "cx_emu": 1795578,
+          "cy_emu": 1218145,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image24.jpg",
+        "crop": {
+          "l": 32000
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 45",
+        "box": {
+          "x": 6.9408,
+          "y": 4.6849,
+          "cx": 2.6471,
+          "cy": 1.4511,
+          "x_emu": 6346631,
+          "y_emu": 4283903,
+          "cx_emu": 2420510,
+          "cy_emu": 1326908,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image25.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 46",
+        "box": {
+          "x": 3.3059,
+          "y": 4.6948,
+          "cx": 3.6349,
+          "cy": 1.232,
+          "x_emu": 3022903,
+          "y_emu": 4292942,
+          "cx_emu": 3323728,
+          "cy_emu": 1126511,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image26.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 47",
+        "box": {
+          "x": 3.6756,
+          "y": 5.9838,
+          "cx": 2.6471,
+          "cy": 1.4511,
+          "x_emu": 3361040,
+          "y_emu": 5471587,
+          "cx_emu": 2420510,
+          "cy_emu": 1326908,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image27.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 48",
+        "box": {
+          "x": 0.6588,
+          "y": 5.9367,
+          "cx": 2.6471,
+          "cy": 1.4511,
+          "x_emu": 602393,
+          "y_emu": 5428493,
+          "cx_emu": 2420510,
+          "cy_emu": 1326908,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image28.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 49",
+        "box": {
+          "x": 0.7358,
+          "y": 4.7071,
+          "cx": 2.4931,
+          "cy": 1.433,
+          "x_emu": 672807,
+          "y_emu": 4304198,
+          "cx_emu": 2279680,
+          "cy_emu": 1310379,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image29.png",
+        "crop": {
+          "t": 6845
+        }
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0,
+          "cx": 7.8316,
+          "cy": 1.1858,
+          "x_emu": 990600,
+          "y_emu": 0,
+          "cx_emu": 7161213,
+          "cy_emu": 1084263,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Educational Requirements",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Educational Requirements",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Educational Requirements",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.0833,
+          "y": 1.25,
+          "cx": 9.9167,
+          "cy": 4.75,
+          "x_emu": 76200,
+          "y_emu": 1143001,
+          "cx_emu": 9067800,
+          "cy_emu": 4343400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "A bachelors degree in engineering \uf0e8 entry level jobs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "A bachelors degree in engineering ",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "\uf0e8 ",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "Wingdings"
+              },
+              {
+                "t": "entry level jobs",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "A master\u2019s (minimum) is required for more advanced projects ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "A master\u2019s (minimum) is required for more advanced projects ",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Most flexible degree.  Takes an extra two years after getting a bachelor\u2019s degree",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Most flexible degree.  Takes an extra two years after getting a bachelor\u2019s degree",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "More advanced engineering pays better \u2013 Excellent investment of time",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "More advanced engineering pays better \u2013 Excellent investment of time",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "A PhD is required for very high level projects ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "A PhD is required for very high level projects ",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Can narrow opportunities.  Increases pay in many fields but can take a long time to attain (typically 2-8 years, average of 3-4).",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Can narrow opportunities.  Increases pay in many fields but can take a long time to attain (typically 2-8 years, average of 3-4).",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Sometimes the monetary pay-off isn\u2019t there \u2013 Succeed or fail quickly is a good strategy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Sometimes the monetary pay-off isn\u2019t there \u2013 Succeed or fail quickly is a good strategy",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Engineers get paid to go to graduate school.  They only take out loans for undergrad.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Engineers get paid to go to graduate school.  ",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "They only take out loans for undergrad.",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "A bachelors degree in engineering \uf0e8 entry level jobs\nA master\u2019s (minimum) is required for more advanced projects \nMost flexible degree.  Takes an extra two years after getting a bachelor\u2019s degree\nMore advanced engineering pays better \u2013 Excellent investment of time\nA PhD is required for very high level projects \nCan narrow opportunities.  Increases pay in many fields but can take a long time to attain (typically 2-8 years, average of 3-4).\nSometimes the monetary pay-off isn\u2019t there \u2013 Succeed or fail quickly is a good strategy\nEngineers get paid to go to graduate school.  They only take out loans for undergrad.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 2.6667,
+          "y": 4.9184,
+          "cx": 5.3333,
+          "cy": 2.5935,
+          "x_emu": 2438401,
+          "y_emu": 4497352,
+          "cx_emu": 4876800,
+          "cy_emu": 2371533,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image30.png",
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Arrow Connector 7",
+        "prst": "straightConnector1",
+        "box": {
+          "x": 5.5,
+          "y": 5.3333,
+          "cx": 2.3333,
+          "cy": 0.0,
+          "x_emu": 5029200,
+          "y_emu": 4876800,
+          "cx_emu": 2133600,
+          "cy_emu": 0,
+          "flipH": false,
+          "flipV": false
+        },
+        "ln": {
+          "w": 25400,
+          "type": "solid",
+          "scheme": "accent1",
+          "tail": {
+            "type": "triangle"
+          }
+        },
+        "adj": [],
+        "ends": {
+          "bx": 5.5,
+          "by": 5.3333,
+          "ex": 7.8332999999999995,
+          "ey": 5.3333,
+          "bx_emu": 5029200,
+          "by_emu": 4876800,
+          "ex_emu": 7162800,
+          "ey_emu": 4876800
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 8",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 5.5032,
+          "y": 4.9838,
+          "cx": 2.4167,
+          "cy": 0.3366,
+          "x_emu": 5032169,
+          "y_emu": 4557204,
+          "cx_emu": 2209801,
+          "cy_emu": 307777,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Get paid to go to school",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Get paid to go to school",
+                "sz": 1400,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "accent1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Get paid to go to school",
+        "txBox": true
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.0,
+          "y": 1.1858,
+          "cx": 9.8333,
+          "cy": 5.8385,
+          "x_emu": 0,
+          "y_emu": 1084264,
+          "cx_emu": 8991600,
+          "cy_emu": 5338762,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "High School and College Jobs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "High School and College Jobs",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Picked produce at local farms",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Picked produce at local farms",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Yard work for elderly",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Yard work for elderly",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Campus workstudy: mailroom and computer lab",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Campus ",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "workstudy",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": ": mailroom and computer lab",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Built homes for local construction company",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Built homes for local construction company",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Bachelor\u2019s degree @ University of Portland",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Bachelor\u2019s degree @ University of Portland",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Internship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Internship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 ",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Master\u2019s degree @ University of Cincinnati",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Master\u2019s degree @ University of Cincinnati",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Taught classes and worked on suspension modeling of pickup trucks",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Taught classes and worked on suspension modeling of pickup trucks",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "York International",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "York International",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Designed and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitals",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Designed and produced air handlers to keep things comfortable ",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "and quiet in schools, concert halls, and hospitals",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Moog-CSA Engineering ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Moog-CSA Engineering ",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Projects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Projects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Sandia National Laboratories ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Sandia National Laboratories ",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe ",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "High School and College Jobs\nPicked produce at local farms\nYard work for elderly\nCampus workstudy: mailroom and computer lab\nBuilt homes for local construction company\nBachelor\u2019s degree @ University of Portland\nInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 \nMaster\u2019s degree @ University of Cincinnati\nTaught classes and worked on suspension modeling of pickup trucks\nYork International\nDesigned and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitals\nMoog-CSA Engineering \nProjects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.\nSandia National Laboratories \nEvaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0,
+          "cx": 7.8316,
+          "cy": 1.1858,
+          "x_emu": 990600,
+          "y_emu": 0,
+          "cx_emu": 7161213,
+          "cy_emu": 1084263,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Career Overview",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Career Overview",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Career Overview",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 3",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 7.5847,
+          "y": 1.6,
+          "cx": 1.6667,
+          "cy": 1.1107,
+          "x_emu": 6935417,
+          "y_emu": 1463073,
+          "cx_emu": 1524000,
+          "cy_emu": 1015663,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Step 1:Learn to work hard",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Step 1:",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B0F0",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Learn to work hard",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B0F0",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Step 1:Learn to work hard",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 16",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 7.6234,
+          "y": 2.8185,
+          "cx": 2.2024,
+          "cy": 1.1107,
+          "x_emu": 6970823,
+          "y_emu": 2577247,
+          "cx_emu": 2013857,
+          "cy_emu": 1015663,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Step 2:Learn a Valuable Skill",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Step 2:",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B0F0",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Learn a Valuable Skill",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B0F0",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Step 2:Learn a Valuable Skill",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 18",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 7.1666,
+          "y": 3.9831,
+          "cx": 2.8529,
+          "cy": 1.3127,
+          "x_emu": 6553097,
+          "y_emu": 3642111,
+          "cx_emu": 2608716,
+          "cy_emu": 1200329,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Step 3:Get Paid to Work Hard at Job Using Your  Valuable Skill",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Step 3:",
+                "sz": 1800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B0F0",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Get Paid to Work Hard at Job Using Your  Valuable Skill",
+                "sz": 1800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B0F0",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Step 3:Get Paid to Work Hard at Job Using Your  Valuable Skill",
+        "txBox": true
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 11",
+        "box": {
+          "x": 10.2614,
+          "y": 5.72,
+          "cx": 2.875,
+          "cy": 1.9062,
+          "x_emu": 9383038,
+          "y_emu": 5230371,
+          "cx_emu": 2628900,
+          "cy_emu": 1743075,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image31.jpg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0104,
+          "cx": 7.8316,
+          "cy": 1.1754,
+          "x_emu": 990600,
+          "y_emu": 9510,
+          "cx_emu": 7161213,
+          "cy_emu": 1074753,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Step 1: Learn to Work Hard",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Step 1: Learn to Work Hard",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Step 1: Learn to Work Hard",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.0871,
+          "y": 1.3183,
+          "cx": 9.3681,
+          "cy": 5.6684,
+          "x_emu": 79610,
+          "y_emu": 1205418,
+          "cx_emu": 8566150,
+          "cy_emu": 5183187,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "High School and College Jobs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "High School and College Jobs",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Picked produce at local farms",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Picked produce at local farms",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Yard work for elderly",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Yard work for elderly",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Campus workstudy: mailroom and computer lab",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Campus ",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "workstudy",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": ": mailroom and computer lab",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Built homes for local construction company",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Built homes for local construction company",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "High School and College Jobs\nPicked produce at local farms\nYard work for elderly\nCampus workstudy: mailroom and computer lab\nBuilt homes for local construction company",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 11",
+        "box": {
+          "x": 0.3101,
+          "y": 3.3085,
+          "cx": 3.5312,
+          "cy": 2.0873,
+          "x_emu": 283590,
+          "y_emu": 3025239,
+          "cx_emu": 3228865,
+          "cy_emu": 1908680,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image32.jpeg",
+        "crop": {
+          "l": 52219,
+          "t": 68680
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 12",
+        "box": {
+          "x": 3.8124,
+          "y": 5.2039,
+          "cx": 4.3681,
+          "cy": 2.1118,
+          "x_emu": 3486059,
+          "y_emu": 4758391,
+          "cx_emu": 3994191,
+          "cy_emu": 1931056,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image33.jpg",
+        "crop": {
+          "t": 19076
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 13",
+        "box": {
+          "x": 3.8062,
+          "y": 3.023,
+          "cx": 4.3743,
+          "cy": 2.1992,
+          "x_emu": 3480334,
+          "y_emu": 2764240,
+          "cx_emu": 3999916,
+          "cy_emu": 2010986,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image34.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 14",
+        "box": {
+          "x": 0.3101,
+          "y": 5.3958,
+          "cx": 3.5193,
+          "cy": 1.9199,
+          "x_emu": 283590,
+          "y_emu": 4933920,
+          "cx_emu": 3218044,
+          "cy_emu": 1755527,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image35.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 16",
+        "box": {
+          "x": 0.2673,
+          "y": 3.1168,
+          "cx": 5.8987,
+          "cy": 4.1777,
+          "x_emu": 244385,
+          "y_emu": 2849961,
+          "cx_emu": 5393779,
+          "cy_emu": 3820085,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image36.jpg",
+        "crop": {
+          "l": 3396,
+          "t": 2578,
+          "r": 7922,
+          "b": 3893
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 17",
+        "box": {
+          "x": 6.1485,
+          "y": 4.9684,
+          "cx": 3.3976,
+          "cy": 2.2609,
+          "x_emu": 5622188,
+          "y_emu": 4543136,
+          "cx_emu": 3106720,
+          "cy_emu": 2067381,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image37.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 18",
+        "box": {
+          "x": 6.1485,
+          "y": 1.5422,
+          "cx": 3.4262,
+          "cy": 3.4262,
+          "x_emu": 5622188,
+          "y_emu": 1410184,
+          "cx_emu": 3132952,
+          "cy_emu": 3132952,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image38.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 20",
+        "box": {
+          "x": 5.0725,
+          "y": 3.8466,
+          "cx": 4.8533,
+          "cy": 3.2711,
+          "x_emu": 4638333,
+          "y_emu": 3517294,
+          "cx_emu": 4437878,
+          "cy_emu": 2991097,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image39.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 21",
+        "box": {
+          "x": 0.2205,
+          "y": 3.8529,
+          "cx": 4.8609,
+          "cy": 3.2347,
+          "x_emu": 201593,
+          "y_emu": 3523059,
+          "cx_emu": 4444832,
+          "cy_emu": 2957834,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image40.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 3.4964,
+          "y": 5.4549,
+          "cx": 3.125,
+          "cy": 1.75,
+          "x_emu": 3197145,
+          "y_emu": 4987919,
+          "cx_emu": 2857500,
+          "cy_emu": 1600200,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image41.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 6.933,
+          "y": 3.1571,
+          "cx": 2.3438,
+          "cy": 2.3438,
+          "x_emu": 6339507,
+          "y_emu": 2886882,
+          "cx_emu": 2143125,
+          "cy_emu": 2143125,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image42.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 0.3746,
+          "y": 5.4549,
+          "cx": 3.125,
+          "cy": 1.75,
+          "x_emu": 342489,
+          "y_emu": 4987919,
+          "cx_emu": 2857500,
+          "cy_emu": 1600200,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image43.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 7",
+        "box": {
+          "x": 6.579,
+          "y": 5.4549,
+          "cx": 2.6249,
+          "cy": 1.7467,
+          "x_emu": 6015800,
+          "y_emu": 4987918,
+          "cx_emu": 2400189,
+          "cy_emu": 1597217,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image44.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 8",
+        "box": {
+          "x": 3.4713,
+          "y": 3.7049,
+          "cx": 3.489,
+          "cy": 1.75,
+          "x_emu": 3174196,
+          "y_emu": 3387719,
+          "cx_emu": 3190334,
+          "cy_emu": 1600199,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image45.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 9",
+        "box": {
+          "x": 0.3697,
+          "y": 3.7049,
+          "cx": 3.1146,
+          "cy": 1.75,
+          "x_emu": 338097,
+          "y_emu": 3387719,
+          "cx_emu": 2847975,
+          "cy_emu": 1600200,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image46.jpg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 10",
+        "box": {
+          "x": 0.1849,
+          "y": 2.8165,
+          "cx": 4.1482,
+          "cy": 3.3439,
+          "x_emu": 169078,
+          "y_emu": 2575411,
+          "cx_emu": 3793089,
+          "cy_emu": 3057620,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image47.jpg",
+        "crop": {
+          "l": 4536
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 11",
+        "box": {
+          "x": 4.2716,
+          "y": 2.8395,
+          "cx": 5.6207,
+          "cy": 3.3209,
+          "x_emu": 3905948,
+          "y_emu": 2596401,
+          "cx_emu": 5139609,
+          "cy_emu": 3036629,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image48.jpg",
+        "crop": {
+          "r": 5218
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 13",
+        "box": {
+          "x": 6.5,
+          "y": 6.2375,
+          "cx": 3.0862,
+          "cy": 1.1035,
+          "x_emu": 5943600,
+          "y_emu": 5703611,
+          "cx_emu": 2821981,
+          "cy_emu": 1009072,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image49.jpg",
+        "crop": {
+          "t": 23760,
+          "b": 22507
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 15",
+        "box": {
+          "x": 3.3155,
+          "y": 6.24,
+          "cx": 3.0078,
+          "cy": 1.1035,
+          "x_emu": 3031679,
+          "y_emu": 5705850,
+          "cx_emu": 2750327,
+          "cy_emu": 1009073,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image50.jpg",
+        "crop": {
+          "t": 18389,
+          "b": 16314
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 17",
+        "box": {
+          "x": 0.2097,
+          "y": 6.2375,
+          "cx": 2.9291,
+          "cy": 1.106,
+          "x_emu": 191759,
+          "y_emu": 5703612,
+          "cx_emu": 2678327,
+          "cy_emu": 1011312,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image51.jpg",
+        "crop": {
+          "t": 12592,
+          "b": 26822
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0,
+          "cx": 7.8316,
+          "cy": 1.1858,
+          "x_emu": 990600,
+          "y_emu": 0,
+          "cx_emu": 7161213,
+          "cy_emu": 1084263,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Step 2: Learn a Valuable Skill",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Step 2: Learn a Valuable Skill",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Step 2: Learn a Valuable Skill",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.1849,
+          "y": 1.2393,
+          "cx": 9.4331,
+          "cy": 5.7851,
+          "x_emu": 169095,
+          "y_emu": 1133172,
+          "cx_emu": 8625655,
+          "cy_emu": 5289853,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Bachelor\u2019s degree @ University of Portland",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Bachelor\u2019s degree @ University of Portland",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Internship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Internship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 ",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Master\u2019s degree @ University of Cincinnati",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Master\u2019s degree @ University of Cincinnati",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Taught classes and worked on suspension modeling of pickup trucks",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Taught classes and worked on suspension modeling of pickup trucks",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Bachelor\u2019s degree @ University of Portland\nInternship @ Boeing: Maintained manufacturing equipment for Boeing 747 and 737 \nMaster\u2019s degree @ University of Cincinnati\nTaught classes and worked on suspension modeling of pickup trucks",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 2.6006,
+          "y": 4.8464,
+          "cx": 3.5421,
+          "cy": 2.6193,
+          "x_emu": 2377982,
+          "y_emu": 4431529,
+          "cx_emu": 3238897,
+          "cy_emu": 2395046,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image52.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 6.1118,
+          "y": 4.8125,
+          "cx": 3.5421,
+          "cy": 2.6532,
+          "x_emu": 5588600,
+          "y_emu": 4400529,
+          "cx_emu": 3238897,
+          "cy_emu": 2426046,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image53.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 6.1118,
+          "y": 2.5,
+          "cx": 3.5421,
+          "cy": 2.3571,
+          "x_emu": 5588599,
+          "y_emu": 2285975,
+          "cx_emu": 3238897,
+          "cy_emu": 2155339,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image54.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 7",
+        "box": {
+          "x": 2.7278,
+          "y": 3.252,
+          "cx": 3.4062,
+          "cy": 1.6042,
+          "x_emu": 2494259,
+          "y_emu": 2973612,
+          "cx_emu": 3114675,
+          "cy_emu": 1466850,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image55.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 8",
+        "box": {
+          "x": 0.1667,
+          "y": 4.7929,
+          "cx": 2.5833,
+          "cy": 2.629,
+          "x_emu": 152392,
+          "y_emu": 4382620,
+          "cx_emu": 2362200,
+          "cy_emu": 2403979,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image56.jpg",
+        "crop": {
+          "l": 1942,
+          "t": 5411,
+          "r": 61637,
+          "b": 8106
+        }
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 0.169,
+          "y": 2.2412,
+          "cx": 3.516,
+          "cy": 2.5363,
+          "x_emu": 154563,
+          "y_emu": 2049348,
+          "cx_emu": 3214995,
+          "cy_emu": 2319187,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image57.jpg",
+        "crop": {
+          "l": 7751
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 7",
+        "box": {
+          "x": 3.419,
+          "y": 2.2412,
+          "cx": 6.4102,
+          "cy": 2.5713,
+          "x_emu": 3126364,
+          "y_emu": 2049349,
+          "cx_emu": 5861487,
+          "cy_emu": 2351218,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image58.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 11",
+        "box": {
+          "x": 0.0041,
+          "y": 4.9377,
+          "cx": 3.5807,
+          "cy": 2.3828,
+          "x_emu": 3764,
+          "y_emu": 4515041,
+          "cx_emu": 3274230,
+          "cy_emu": 2178851,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image59.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 12",
+        "box": {
+          "x": 8.4758,
+          "y": 5.4275,
+          "cx": 1.2786,
+          "cy": 1.8768,
+          "x_emu": 7750263,
+          "y_emu": 4962936,
+          "cx_emu": 1169136,
+          "cy_emu": 1716173,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image60.jpg",
+        "crop": {
+          "l": 29381,
+          "r": 32947
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 13",
+        "box": {
+          "x": 3.4623,
+          "y": 2.9186,
+          "cx": 3.4879,
+          "cy": 4.4343,
+          "x_emu": 3165951,
+          "y_emu": 2668750,
+          "cx_emu": 3189322,
+          "cy_emu": 4054766,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image61.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 14",
+        "box": {
+          "x": 6.813,
+          "y": 3.8133,
+          "cx": 2.9411,
+          "cy": 1.6525,
+          "x_emu": 6229777,
+          "y_emu": 3486838,
+          "cx_emu": 2689332,
+          "cy_emu": 1511062,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image62.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 15",
+        "box": {
+          "x": 0.0587,
+          "y": 2.595,
+          "cx": 3.2396,
+          "cy": 2.3228,
+          "x_emu": 53683,
+          "y_emu": 2372841,
+          "cx_emu": 2962323,
+          "cy_emu": 2123930,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image63.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 16",
+        "box": {
+          "x": 6.813,
+          "y": 2.574,
+          "cx": 2.1978,
+          "cy": 1.2308,
+          "x_emu": 6229777,
+          "y_emu": 2353678,
+          "cx_emu": 2009652,
+          "cy_emu": 1125405,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image64.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 10",
+        "box": {
+          "x": 6.9447,
+          "y": 5.6502,
+          "cx": 1.5448,
+          "cy": 1.8301,
+          "x_emu": 6350271,
+          "y_emu": 5166581,
+          "cx_emu": 1412566,
+          "cy_emu": 1673454,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image65.jpg",
+        "crop": {
+          "l": 2833,
+          "t": 6759,
+          "r": 15955,
+          "b": 25137
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0197,
+          "cx": 7.8316,
+          "cy": 1.1661,
+          "x_emu": 990600,
+          "y_emu": 17969,
+          "cx_emu": 7161213,
+          "cy_emu": 1066294,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Step 3: Work Hard at Job Using Valuable Skill",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Step 3: Work Hard at Job ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Using Valuable Skill",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Step 3: Work Hard at Job Using Valuable Skill",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": -0.0097,
+          "y": 1.2552,
+          "cx": 9.5196,
+          "cy": 0.8906,
+          "x_emu": -8906,
+          "y_emu": 1147775,
+          "cx_emu": 8704696,
+          "cy_emu": 814388,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "York International",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "York International",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Designed and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitals",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Designed and produced air handlers to keep things comfortable ",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "and quiet in schools, concert halls, and hospitals",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "York International\nDesigned and produced air handlers to keep things comfortable and quiet in schools, concert halls, and hospitals",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": -0.0003,
+          "y": 1.25,
+          "cx": 9.4514,
+          "cy": 1.526,
+          "x_emu": -235,
+          "y_emu": 1143000,
+          "cx_emu": 8642350,
+          "cy_emu": 1395411,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "9525",
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "t",
+          "wrap": "square",
+          "insets": {
+            "lIns": 87480,
+            "tIns": 42840,
+            "rIns": 87480,
+            "bIns": 42840
+          }
+        },
+        "paras": [
+          {
+            "text": "Moog-CSA Engineering ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Moog-CSA Engineering ",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Projects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Projects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Moog-CSA Engineering \nProjects: Space Launch System (rocket to go to the moon), ESPA (mount lots of small satellites on big rockets), NICER (looking at the sun\u2019s energy from the International Space Station to feed environmental models for global warming calculations), XSS-11, DSX, Giant Magellan Telescope (six 27\u2019 mirrors to make an 80 ft visible spectrum telescope, resolution 10 times better than Hubble), Recon Optical telescopes for pods on F-15 jets.",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.0,
+          "y": 1.25,
+          "cx": 9.4514,
+          "cy": 0.8906,
+          "x_emu": 0,
+          "y_emu": 1143000,
+          "cx_emu": 8642350,
+          "cy_emu": 814388,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "9525",
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "t",
+          "wrap": "square",
+          "insets": {
+            "lIns": 87480,
+            "tIns": 42840,
+            "rIns": 87480,
+            "bIns": 42840
+          }
+        },
+        "paras": [
+          {
+            "text": "Sandia National Laboratories ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Sandia National Laboratories ",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Evaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe ",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Sandia National Laboratories \nEvaluate the engineering work of others to ensure that it meets technical rigor in order to keep our country safe",
+        "txBox": true
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 18",
+        "box": {
+          "x": 1.2761,
+          "y": 4.8275,
+          "cx": 3.4759,
+          "cy": 2.0664,
+          "x_emu": 1166867,
+          "y_emu": 4414225,
+          "cx_emu": 3178373,
+          "cy_emu": 1889548,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image66.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 19",
+        "box": {
+          "x": 4.769,
+          "y": 4.3237,
+          "cx": 3.8037,
+          "cy": 2.5312,
+          "x_emu": 4360762,
+          "y_emu": 3953602,
+          "cx_emu": 3478094,
+          "cy_emu": 2314513,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image67.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 20",
+        "box": {
+          "x": 1.3055,
+          "y": 2.4418,
+          "cx": 3.4759,
+          "cy": 2.3857,
+          "x_emu": 1193766,
+          "y_emu": 2232758,
+          "cx_emu": 3178373,
+          "cy_emu": 2181466,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image68.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 21",
+        "box": {
+          "x": 4.7765,
+          "y": 2.8454,
+          "cx": 3.7923,
+          "cy": 1.5169,
+          "x_emu": 4367649,
+          "y_emu": 2601839,
+          "cx_emu": 3467653,
+          "cy_emu": 1387061,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image69.jpg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 1.0833,
+          "y": 0.0,
+          "cx": 7.8316,
+          "cy": 1.1858,
+          "x_emu": 990600,
+          "y_emu": 0,
+          "cx_emu": 7161213,
+          "cy_emu": 1084263,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Succeed in Any Career",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Succeed in Any Career",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Succeed in Any Career",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.0833,
+          "y": 1.3333,
+          "cx": 9.8333,
+          "cy": 5.6684,
+          "x_emu": 76200,
+          "y_emu": 1219200,
+          "cx_emu": 8991600,
+          "cy_emu": 5183187,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "What are the most important ingredients to a successful career?",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "What are the most important ingredients to a successful career?",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Hard work",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Hard work",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Learn as much as possible about the field",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Learn as much as possible about the field",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Formal education",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Formal education",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Internships",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Internships",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Apprenticeships",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Apprenticeships",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Very difficult and very dangerous jobs pay better than easy jobs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Very difficult and very dangerous jobs pay better than easy jobs",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Examples: doctors and underwater welders",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Examples: doctors and underwater welders",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Jobs that can replicate at scale pay better than jobs that require individual attention",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Jobs that can replicate at scale pay better than jobs that require individual attention",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Software development vs. early childhood education",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Software development vs. early childhood education",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Pay isn\u2019t the only factor in deciding on a career",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Pay isn\u2019t the only factor in deciding on a career",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "The pay is terrible for artists, priests and stay-at-home moms, but the spiritual and emotional rewards are great \u2013 money isn\u2019t the most important thing in life",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "The pay is terrible for artists, priests and stay-at-home moms, but the spiritual and emotional rewards are great \u2013 money isn\u2019t the most important thing in life",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "What are the most important ingredients to a successful career?\nHard work\nLearn as much as possible about the field\nFormal education\nInternships\nApprenticeships\nVery difficult and very dangerous jobs pay better than easy jobs\nExamples: doctors and underwater welders\nJobs that can replicate at scale pay better than jobs that require individual attention\nSoftware development vs. early childhood education\nPay isn\u2019t the only factor in deciding on a career\nThe pay is terrible for artists, priests and stay-at-home moms, but the spiritual and emotional rewards are great \u2013 money isn\u2019t the most important thing in life",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "layout": "Section Header",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 3",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.75,
+          "y": 3.7468,
+          "cx": 8.5,
+          "cy": 1.4896,
+          "x_emu": 685800,
+          "y_emu": 3426031,
+          "cx_emu": 7772400,
+          "cy_emu": 1362075,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Questions?",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Questions?",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Questions?",
+        "txBox": false
+      }
+    ]
+  }
+]

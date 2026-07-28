@@ -1,10 +1,15 @@
 # Inventory: 13_Dropbox_Education__Engineering_CareerOverview_SHS_DMCoombs_20210407_r.pptx
 
 Slides: 11
-Assets: ['image10.png', 'image11.png', 'image12.png', 'image13.png', 'image14.png', 'image15.png', 'image16.png', 'image17.png', 'image18.png', 'image19.jpg', 'image20.png', 'image21.jpg', 'image22.png', 'image23.jpg', 'image24.jpg', 'image25.jpg', 'image26.jpg', 'image27.png', 'image28.png', 'image29.png', 'image30.png', 'image31.jpg', 'image32.jpeg', 'image33.jpg', 'image34.jpg', 'image35.jpg', 'image36.jpg', 'image37.jpg', 'image38.jpg', 'image39.jpg', 'image40.jpg', 'image41.jpg', 'image42.jpg', 'image43.jpg', 'image44.jpg', 'image45.jpg', 'image46.jpg', 'image47.jpg', 'image48.jpg', 'image49.jpg', 'image50.jpg', 'image51.jpg', 'image52.jpg', 'image53.jpg', 'image54.jpg', 'image55.jpg', 'image56.jpg', 'image57.jpg', 'image58.jpg', 'image59.jpg', 'image6.jpg', 'image60.jpg', 'image61.jpg', 'image62.jpg', 'image63.jpg', 'image64.jpg', 'image65.jpg', 'image66.jpg', 'image67.jpg', 'image68.jpg', 'image69.jpg', 'image7.jpg', 'image8.jpg', 'image9.png']
+Assets: ['image1.png', 'image10.png', 'image11.png', 'image12.png', 'image13.png', 'image14.png', 'image15.png', 'image16.png', 'image17.png', 'image18.png', 'image19.jpg', 'image2.png', 'image20.png', 'image21.jpg', 'image22.png', 'image23.jpg', 'image24.jpg', 'image25.jpg', 'image26.jpg', 'image27.png', 'image28.png', 'image29.png', 'image3.png', 'image30.png', 'image31.jpg', 'image32.jpeg', 'image33.jpg', 'image34.jpg', 'image35.jpg', 'image36.jpg', 'image37.jpg', 'image38.jpg', 'image39.jpg', 'image4.png', 'image40.jpg', 'image41.jpg', 'image42.jpg', 'image43.jpg', 'image44.jpg', 'image45.jpg', 'image46.jpg', 'image47.jpg', 'image48.jpg', 'image49.jpg', 'image5.png', 'image50.jpg', 'image51.jpg', 'image52.jpg', 'image53.jpg', 'image54.jpg', 'image55.jpg', 'image56.jpg', 'image57.jpg', 'image58.jpg', 'image59.jpg', 'image6.jpg', 'image60.jpg', 'image61.jpg', 'image62.jpg', 'image63.jpg', 'image64.jpg', 'image65.jpg', 'image66.jpg', 'image67.jpg', 'image68.jpg', 'image69.jpg', 'image7.jpg', 'image8.jpg', 'image9.png']
 
 ## Slide 1
 
+- `pic` prst=rect (8153400,489810) 990600x169863 asset=image1.png text=''
+- `pic` prst=rect (8151813,226277) 976267x230923 asset=image2.png text=''
+- `pic` prst=rect (8189153,702855) 801654x320662 asset=image3.png text=''
+- `pic` prst=rect (-3765,533400) 992778x430788 asset=image4.png text=''
+- `pic` prst=rect (35099,152400) 953914x294846 asset=image5.png text=''
 - `sp` prst=rect (190500,1219200) 8763000x2362200 asset= text=''
 - `sp` prst=None (152400,1635760) 8610600x1640840 asset= text='Mechanical EngineeringCareer Overview'
 - `sp` prst=None (1981200,3505200) 5486400x1295400 asset= text='Douglas CoombsApril 8, 2021'

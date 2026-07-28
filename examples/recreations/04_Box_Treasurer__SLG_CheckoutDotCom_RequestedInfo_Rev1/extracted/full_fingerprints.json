@@ -1,0 +1,4763 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "ctrTitle",
+        "prst": null,
+        "box": {
+          "x": 2.6471,
+          "y": 0.9711,
+          "cx": 9.4314,
+          "cy": 2.7793,
+          "x_emu": 2420471,
+          "y_emu": 887991,
+          "cx_emu": 8624048,
+          "cy_emu": 2541431,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "The Saint Luke GuildCheckout.com Requested Info",
+            "soft_breaks": 2,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "The Saint Luke Guild",
+                "sz": null,
+                "bold": false,
+                "face": "+mn-lt",
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "Checkout.com ",
+                "sz": null,
+                "bold": false,
+                "face": "+mn-lt",
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "Requested Info",
+                "sz": null,
+                "bold": false,
+                "face": "+mn-lt",
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "The Saint Luke GuildCheckout.com Requested Info"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Subtitle 2",
+        "ph": "subTitle:1",
+        "prst": null,
+        "box": {
+          "x": 5.5638,
+          "y": 4.9309,
+          "cx": 7.7696,
+          "cy": 1.7554,
+          "x_emu": 5087501,
+          "y_emu": 4508825,
+          "cx_emu": 7104499,
+          "cy_emu": 1605104,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Douglas Coombs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Douglas Coombs",
+                "sz": 2400,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "July 1, 2022, Rev. 1",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "July 1, ",
+                "sz": 2400,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "2022, Rev. 1",
+                "sz": 2400,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Douglas Coombs\nJuly 1, 2022, Rev. 1"
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Transaction InformationData Request",
+            "soft_breaks": 2,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Transaction Information",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "Data Request",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Transaction InformationData Request"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.525,
+          "y": 1.0263,
+          "cx": 12.573,
+          "cy": 6.2201,
+          "x_emu": 480061,
+          "y_emu": 938440,
+          "cx_emu": 11496786,
+          "cy_emu": 5687646,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "A payment flow to properly understand what Checkout.com is exactly processing for.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "A payment flow to properly understand what Checkout.com is exactly processing for.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "See the next slide",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "See the next slide",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Please provide further details on what the merchant will be accepting payments for.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Please provide further details on what the merchant will be accepting payments for.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "We are accepting donations to fund",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "We are accepting donations to fund",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Art displays at schools",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Art displays at schools",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Projects to help schools in the selection of art (e.g., a timeline/database of art masterpieces)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Projects to help schools in the selection of art (e.g., a timeline/database of art masterpieces)",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Costs to attend educational conferences and educate schools on the value of art reproductions",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 2,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Costs to attend educational conferences and educate schools on the value of art reproductions",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Please provide the URL where payments will be accepted. Please also provide demo or Test login details to verify the website",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Please provide the URL where payments will be accepted. Please also provide demo or Test login details to verify the website",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "www.saintlukeguild.com/projects (this will be updated when we begin taking payments)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "www.saintlukeguild.com/projects",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": "http://www.saintlukeguild.com/projects",
+                "sym": null
+              },
+              {
+                "t": " (this will be updated when we begin taking payments)",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Please confirm the annual processing volume",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Please confirm the annual processing volume",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Maybe $5k-$10k/year to begin.  It is hard to say.  We currently bring in around $20k/year in large checks.  Most larger donors will probably still choose to give via check.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Maybe $5k-$10k/year to begin.  It is hard to say.  We currently bring in around $20k/year in large checks.  Most larger donors will probably still choose to give via check.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "A payment flow to properly understand what Checkout.com is exactly processing for.\nSee the next slide\nPlease provide further details on what the merchant will be accepting payments for.\nWe are accepting donations to fund\nArt displays at schools\nProjects to help schools in the selection of art (e.g., a timeline/database of art masterpieces)\nCosts to attend educational conferences and educate schools on the value of art reproductions\nPlease provide the URL where payments will be accepted. Please also provide demo or Test login details to verify the website\nwww.saintlukeguild.com/projects (this will be updated when we begin taking payments)\nPlease confirm the annual processing volume\nMaybe $5k-$10k/year to begin.  It is hard to say.  We currently bring in around $20k/year in large checks.  Most larger donors will probably still choose to give via check."
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 33",
+        "prst": "bentConnector3",
+        "box": {
+          "x": 7.1517,
+          "y": 2.6663,
+          "cx": 1.8877,
+          "cy": 3.2315,
+          "x_emu": 6539551,
+          "y_emu": 2438050,
+          "cx_emu": 1726089,
+          "cy_emu": 2954840,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "ln": {
+          "w": 38100,
+          "tail": {
+            "type": "triangle",
+            "w": "lg",
+            "len": "lg"
+          }
+        },
+        "adj": [
+          {
+            "name": "adj1",
+            "fmla": "val 39613"
+          }
+        ],
+        "stCxn": {
+          "id": "18",
+          "idx": 3
+        },
+        "endCxn": {
+          "id": "17",
+          "idx": 1
+        },
+        "ends": {
+          "bx": 7.1517,
+          "by": 2.6663,
+          "ex": 9.0394,
+          "ey": 5.8978,
+          "bx_emu": 6539551,
+          "by_emu": 2438050,
+          "ex_emu": 8265640,
+          "ey_emu": 5392890
+        }
+      },
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.1212,
+          "y": 0.0505,
+          "cx": 13.2121,
+          "cy": 0.9588,
+          "x_emu": 110836,
+          "y_emu": 46180,
+          "cx_emu": 12081164,
+          "cy_emu": 876687,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Transaction Flow Chart for Website Donor Funds",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Transaction Flow Chart for Website Donor Funds",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Transaction Flow Chart for Website Donor Funds"
+      },
+      {
+        "kind": "sp",
+        "id": "8",
+        "name": "Content Placeholder 7",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.1212,
+          "y": 5.02,
+          "cx": 6.0604,
+          "cy": 1.6614,
+          "x_emu": 110836,
+          "y_emu": 4590252,
+          "cx_emu": 5541614,
+          "cy_emu": 1519145,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 92500,
+          "lnSpcReduction": 20000,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "General support projects are not specific to any school ",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "General support projects are not ",
+                "sz": 2800,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "specific to any school ",
+                "sz": 2800,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Project costs are school specific",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Project costs are school specific",
+                "sz": 2800,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "General support projects are not specific to any school \nProject costs are school specific"
+      },
+      {
+        "kind": "sp",
+        "id": "4",
+        "name": "Rectangle: Rounded Corners 3",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 0.1212,
+          "y": 2.9664,
+          "cx": 3.2071,
+          "cy": 1.9142,
+          "x_emu": 110836,
+          "y_emu": 2712492,
+          "cx_emu": 2932615,
+          "cy_emu": 1750326,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Donors give to either a school project (restricted), a general support project, (restricted) or general funds (unrestricted)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Donors give to either a school project (restricted), a general support project, (restricted) or general funds (unrestricted)",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Donors give to either a school project (restricted), a general support project, (restricted) or general funds (unrestricted)"
+      },
+      {
+        "kind": "sp",
+        "id": "17",
+        "name": "Rectangle: Rounded Corners 16",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 9.0394,
+          "y": 5.1142,
+          "cx": 3.2071,
+          "cy": 1.5672,
+          "x_emu": 8265640,
+          "y_emu": 4676382,
+          "cx_emu": 2932615,
+          "cy_emu": 1433015,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": " Project costs are spent 100% on school art projects for specific schools",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": " Project costs are spent 100% on school art projects for specific schools",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Project costs are spent 100% on school art projects for specific schools"
+      },
+      {
+        "kind": "sp",
+        "id": "18",
+        "name": "Rectangle: Rounded Corners 17",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 3.9446,
+          "y": 1.8827,
+          "cx": 3.2071,
+          "cy": 1.5672,
+          "x_emu": 3606936,
+          "y_emu": 1721542,
+          "cx_emu": 2932615,
+          "cy_emu": 1433015,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "General funds are discretionary and can cover either overhead or project costs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "General funds are discretionary and can cover either overhead or project costs",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "General funds are discretionary and can cover either overhead or project costs"
+      },
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 8",
+        "prst": "bentConnector3",
+        "box": {
+          "x": 3.3284,
+          "y": 3.9235,
+          "cx": 5.7111,
+          "cy": 1.9742,
+          "x_emu": 3043451,
+          "y_emu": 3587655,
+          "cx_emu": 5222189,
+          "cy_emu": 1805235,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4,
+          "tail": {
+            "type": "triangle",
+            "w": "lg",
+            "len": "lg"
+          }
+        },
+        "adj": [],
+        "stCxn": {
+          "id": "4",
+          "idx": 3
+        },
+        "endCxn": {
+          "id": "17",
+          "idx": 1
+        },
+        "ends": {
+          "bx": 3.3284,
+          "by": 3.9235,
+          "ex": 9.0395,
+          "ey": 5.8977,
+          "bx_emu": 3043451,
+          "by_emu": 3587655,
+          "ex_emu": 8265640,
+          "ey_emu": 5392890
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 18",
+        "prst": "bentConnector3",
+        "box": {
+          "x": 3.3284,
+          "y": 2.6663,
+          "cx": 0.6162,
+          "cy": 1.2572,
+          "x_emu": 3043451,
+          "y_emu": 2438050,
+          "cx_emu": 563485,
+          "cy_emu": 1149605,
+          "flipH": false,
+          "flipV": true,
+          "rot": null
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4,
+          "tail": {
+            "type": "triangle",
+            "w": "lg",
+            "len": "lg"
+          }
+        },
+        "adj": [],
+        "stCxn": {
+          "id": "4",
+          "idx": 3
+        },
+        "endCxn": {
+          "id": "18",
+          "idx": 1
+        },
+        "ends": {
+          "bx": 3.3284,
+          "by": 3.9235,
+          "ex": 3.9446,
+          "ey": 2.6663,
+          "bx_emu": 3043451,
+          "by_emu": 3587655,
+          "ex_emu": 3606936,
+          "ey_emu": 2438050
+        }
+      },
+      {
+        "kind": "sp",
+        "id": "22",
+        "name": "Rectangle: Rounded Corners 21",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 9.0394,
+          "y": 1.2043,
+          "cx": 3.2071,
+          "cy": 1.5672,
+          "x_emu": 8265641,
+          "y_emu": 1101172,
+          "cx_emu": 2932615,
+          "cy_emu": 1433015,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Overhead costs are things like PO box and website fees",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Overhead costs are things like PO box and website fees",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Overhead costs are things like PO box and website fees"
+      },
+      {
+        "kind": "sp",
+        "id": "24",
+        "name": "Rectangle: Rounded Corners 23",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 9.0394,
+          "y": 3.1592,
+          "cx": 3.2071,
+          "cy": 1.5672,
+          "x_emu": 8265640,
+          "y_emu": 2888777,
+          "cx_emu": 2932615,
+          "cy_emu": 1433015,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "General support project costs are for things like an art timeline database to help schools select art for their hallways",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "General support project costs are for things like an art timeline database to help schools select art for their hallways",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "General support project costs are for things like an art timeline database to help schools select art for their hallways"
+      },
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 29",
+        "prst": "bentConnector3",
+        "box": {
+          "x": 7.1517,
+          "y": 1.9663,
+          "cx": 1.9269,
+          "cy": 0.6999,
+          "x_emu": 6539551,
+          "y_emu": 1798030,
+          "cx_emu": 1761934,
+          "cy_emu": 640020,
+          "flipH": false,
+          "flipV": true,
+          "rot": null
+        },
+        "ln": {
+          "w": 38100,
+          "tail": {
+            "type": "triangle",
+            "w": "lg",
+            "len": "lg"
+          }
+        },
+        "adj": [
+          {
+            "name": "adj1",
+            "fmla": "val 62211"
+          }
+        ],
+        "stCxn": {
+          "id": "18",
+          "idx": 3
+        },
+        "endCxn": null,
+        "ends": {
+          "bx": 7.1517,
+          "by": 2.6662,
+          "ex": 9.0786,
+          "ey": 1.9663,
+          "bx_emu": 6539551,
+          "by_emu": 2438050,
+          "ex_emu": 8301485,
+          "ey_emu": 1798030
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 31",
+        "prst": "bentConnector3",
+        "box": {
+          "x": 7.1517,
+          "y": 2.6663,
+          "cx": 1.8877,
+          "cy": 1.2765,
+          "x_emu": 6539551,
+          "y_emu": 2438050,
+          "cx_emu": 1726089,
+          "cy_emu": 1167235,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "ln": {
+          "w": 38100,
+          "tail": {
+            "type": "triangle",
+            "w": "lg",
+            "len": "lg"
+          }
+        },
+        "adj": [
+          {
+            "name": "adj1",
+            "fmla": "val 52077"
+          }
+        ],
+        "stCxn": {
+          "id": "18",
+          "idx": 3
+        },
+        "endCxn": {
+          "id": "24",
+          "idx": 1
+        },
+        "ends": {
+          "bx": 7.1517,
+          "by": 2.6663,
+          "ex": 9.0394,
+          "ey": 3.9428,
+          "bx_emu": 6539551,
+          "by_emu": 2438050,
+          "ex_emu": 8265640,
+          "ey_emu": 3605285
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Arrow Connector 35",
+        "prst": "straightConnector1",
+        "box": {
+          "x": 3.3284,
+          "y": 3.9235,
+          "cx": 5.7111,
+          "cy": 0.0193,
+          "x_emu": 3043451,
+          "y_emu": 3587655,
+          "cx_emu": 5222189,
+          "cy_emu": 17630,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4,
+          "tail": {
+            "type": "triangle",
+            "w": "lg",
+            "len": "lg"
+          }
+        },
+        "adj": [],
+        "stCxn": {
+          "id": "4",
+          "idx": 3
+        },
+        "endCxn": {
+          "id": "24",
+          "idx": 1
+        },
+        "ends": {
+          "bx": 3.3284,
+          "by": 3.9235,
+          "ex": 9.0395,
+          "ey": 3.9428,
+          "bx_emu": 3043451,
+          "by_emu": 3587655,
+          "ex_emu": 8265640,
+          "ey_emu": 3605285
+        }
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.1212,
+          "y": 0.0505,
+          "cx": 13.2121,
+          "cy": 0.9588,
+          "x_emu": 110836,
+          "y_emu": 46180,
+          "cx_emu": 12081164,
+          "cy_emu": 876687,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Website Donor FormsEntry Point for Project Funding",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Website Donor Forms",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "Entry Point for Project Funding",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Website Donor FormsEntry Point for Project Funding"
+      },
+      {
+        "kind": "sp",
+        "id": "5",
+        "name": "Content Placeholder 4",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.2774,
+          "y": 1.0263,
+          "cx": 5.3249,
+          "cy": 3.9345,
+          "x_emu": 253639,
+          "y_emu": 938439,
+          "cx_emu": 4869072,
+          "cy_emu": 3597702,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": 10000,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Simple Donate Button next to each project on website takes donors to a common donation form with a drop down menu to select a project",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Simple Donate Button next to each project on website takes donors to a common donation form with a drop down menu to select a project",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "The Saint Luke Guild should be able to add projects to the list",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "The Saint Luke Guild should be able to add projects to the list",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "All form information should be communicated to the Saint Luke Guild along with money",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "All form information should be communicated to the Saint Luke Guild along with money",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Simple Donate Button next to each project on website takes donors to a common donation form with a drop down menu to select a project\nThe Saint Luke Guild should be able to add projects to the list\nAll form information should be communicated to the Saint Luke Guild along with money"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Rectangle: Rounded Corners 2",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.8908,
+          "y": 5.1749,
+          "cx": 2.098,
+          "cy": 0.7696,
+          "x_emu": 1728951,
+          "y_emu": 4731972,
+          "cx_emu": 1918447,
+          "cy_emu": 703729,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Donate Now",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Donate Now",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Donate Now"
+      },
+      {
+        "kind": "sp",
+        "id": "4",
+        "name": "Rectangle: Rounded Corners 3",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 6.0925,
+          "y": 1.1406,
+          "cx": 6.5294,
+          "cy": 6.0297,
+          "x_emu": 5570950,
+          "y_emu": 1042950,
+          "cx_emu": 5970494,
+          "cy_emu": 5513521,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 5.6023,
+          "y": 1.6112,
+          "cx": 6.5294,
+          "cy": 6.0297,
+          "x_emu": 5122711,
+          "y_emu": 1473267,
+          "cx_emu": 5970494,
+          "cy_emu": 5513521,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "20000"
+            ],
+            [
+              "lumOff",
+              "80000"
+            ]
+          ],
+          "brightness": 0.8
+        },
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "6",
+        "name": "TextBox 5",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 6.6947,
+          "y": 1.1416,
+          "cx": 5.9271,
+          "cy": 6.0287,
+          "x_emu": 6121660,
+          "y_emu": 1043872,
+          "cx_emu": 5419783,
+          "cy_emu": 5512599,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 6.2045,
+          "y": 1.6122,
+          "cx": 5.9271,
+          "cy": 6.0287,
+          "x_emu": 5673421,
+          "y_emu": 1474189,
+          "cx_emu": 5419783,
+          "cy_emu": 5512599,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": "square",
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "First Name: _______________________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "First Name: _______________________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Last Name: _______________________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Last Name: _______________________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Address: _________________________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Address: _________________________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "City: ____________________________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "City: ____________________________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "State:  [Drop Down ]         Zip: ___________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "State:  [Drop Down ]         Zip: ___________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "\uf085  Keep me anonymous to project schools.Project: [Drop Down List]",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 250000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "\uf085  Keep me anonymous to project schools.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": "Symbol"
+              },
+              {
+                "t": "Project: [Drop Down List]",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Pledge Amount: $  ___________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 250000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Pledge Amount: $  ___________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Credit Card Info",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 250000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Credit Card Info",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "First Name: _______________________\nLast Name: _______________________\nAddress: _________________________\nCity: ____________________________\nState:  [Drop Down ]         Zip: ___________\n\uf085  Keep me anonymous to project schools.Project: [Drop Down List]\nPledge Amount: $  ___________\nCredit Card Info"
+      },
+      {
+        "kind": "sp",
+        "id": "8",
+        "name": "Arrow: Right 7",
+        "ph": null,
+        "prst": "rightArrow",
+        "box": {
+          "x": 4.4706,
+          "y": 5.2934,
+          "cx": 1.0196,
+          "cy": 0.5328,
+          "x_emu": 4087905,
+          "y_emu": 4840244,
+          "cx_emu": 932325,
+          "cy_emu": 487183,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "20000"
+            ],
+            [
+              "lumOff",
+              "80000"
+            ]
+          ],
+          "brightness": 0.8
+        },
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.1212,
+          "y": 0.0505,
+          "cx": 13.2121,
+          "cy": 0.9588,
+          "x_emu": 110836,
+          "y_emu": 46180,
+          "cx_emu": 12081164,
+          "cy_emu": 876687,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Website Donor FormsIdeal Point",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Website Donor Forms",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "Ideal Point",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Website Donor FormsIdeal Point"
+      },
+      {
+        "kind": "sp",
+        "id": "5",
+        "name": "Content Placeholder 4",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.2774,
+          "y": 1.0263,
+          "cx": 5.3249,
+          "cy": 3.9345,
+          "x_emu": 253639,
+          "y_emu": 938439,
+          "cx_emu": 4869072,
+          "cy_emu": 3597702,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": 10000,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "In an ideal world, we would be able to have bar graphs showing how much money has been donated to a given project",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "In an ideal world, we would be able to have bar graphs showing how much money has been donated to a given project",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Similar to Kickstarter",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Similar to Kickstarter",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "SLG staff would be able to enter check donations to move the bar",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "SLG staff would be able to enter check donations to move the bar",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "This would mean each project would have a standalone donor form.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "This would mean each project would have a standalone donor form.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "In an ideal world, we would be able to have bar graphs showing how much money has been donated to a given project\nSimilar to Kickstarter\nSLG staff would be able to enter check donations to move the bar\nThis would mean each project would have a standalone donor form."
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Rectangle: Rounded Corners 2",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.3137,
+          "y": 5.77,
+          "cx": 2.098,
+          "cy": 0.7696,
+          "x_emu": 1201275,
+          "y_emu": 5276081,
+          "cx_emu": 1918447,
+          "cy_emu": 703729,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Donate Now",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Donate Now",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Donate Now"
+      },
+      {
+        "kind": "sp",
+        "id": "4",
+        "name": "Rectangle: Rounded Corners 3",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 6.4454,
+          "y": 1.6896,
+          "cx": 6.5294,
+          "cy": 5.7267,
+          "x_emu": 5893642,
+          "y_emu": 1544956,
+          "cx_emu": 5970494,
+          "cy_emu": 5236522,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 5.6023,
+          "y": 1.6112,
+          "cx": 6.5294,
+          "cy": 5.7267,
+          "x_emu": 5122711,
+          "y_emu": 1473267,
+          "cx_emu": 5970494,
+          "cy_emu": 5236522,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "20000"
+            ],
+            [
+              "lumOff",
+              "80000"
+            ]
+          ],
+          "brightness": 0.8
+        },
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "6",
+        "name": "TextBox 5",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 7.0476,
+          "y": 1.6906,
+          "cx": 5.3249,
+          "cy": 5.7257,
+          "x_emu": 6444353,
+          "y_emu": 1545878,
+          "cx_emu": 4869072,
+          "cy_emu": 5235600,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 6.2045,
+          "y": 1.6122,
+          "cx": 5.3249,
+          "cy": 5.7257,
+          "x_emu": 5673422,
+          "y_emu": 1474189,
+          "cx_emu": 4869072,
+          "cy_emu": 5235600,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": "square",
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Project: Holy Child Catholic School",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Project: Holy Child Catholic School",
+                "sz": null,
+                "bold": true,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "First Name: _______________________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "First Name: _______________________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Last Name: _______________________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Last Name: _______________________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Address: _________________________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Address: _________________________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "City: ____________________________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "City: ____________________________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "State:  [Drop Down ]         Zip: ___________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "State:  [Drop Down ]         Zip: ___________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "\uf085 Keep me anonymous to the above school.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 200000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "\uf085 ",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": "Symbol"
+              },
+              {
+                "t": "Keep me anonymous to the above school.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Pledge Amount: $  ___________",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 250000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Pledge Amount: $  ___________",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Credit Card Info",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": 250000,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Credit Card Info",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Project: Holy Child Catholic School\nFirst Name: _______________________\nLast Name: _______________________\nAddress: _________________________\nCity: ____________________________\nState:  [Drop Down ]         Zip: ___________\n\uf085 Keep me anonymous to the above school.\nPledge Amount: $  ___________\nCredit Card Info"
+      },
+      {
+        "kind": "sp",
+        "id": "8",
+        "name": "Arrow: Right 7",
+        "ph": null,
+        "prst": "rightArrow",
+        "box": {
+          "x": 4.6537,
+          "y": 5.834,
+          "cx": 1.0196,
+          "cy": 0.5328,
+          "x_emu": 4255368,
+          "y_emu": 5334618,
+          "cx_emu": 932325,
+          "cy_emu": 487183,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "20000"
+            ],
+            [
+              "lumOff",
+              "80000"
+            ]
+          ],
+          "brightness": 0.8
+        },
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "9",
+        "name": "Oval 8",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.1306,
+          "y": 5.0404,
+          "cx": 0.65,
+          "cy": 0.65,
+          "x_emu": 119377,
+          "y_emu": 4608946,
+          "cx_emu": 594360,
+          "cy_emu": 594360,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 6.6275,
+          "y": 1.0,
+          "cx": 0.65,
+          "cy": 0.65,
+          "x_emu": 6060142,
+          "y_emu": 914404,
+          "cx_emu": 594360,
+          "cy_emu": 594360,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "20000"
+            ],
+            [
+              "lumOff",
+              "80000"
+            ]
+          ],
+          "brightness": 0.8
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "10",
+        "name": "Rectangle 9",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.4345,
+          "y": 5.1895,
+          "cx": 2.0588,
+          "cy": 0.3517,
+          "x_emu": 397283,
+          "y_emu": 4745314,
+          "cx_emu": 1882588,
+          "cy_emu": 321624,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 6.9314,
+          "y": 1.1491,
+          "cx": 2.0588,
+          "cy": 0.3517,
+          "x_emu": 6338048,
+          "y_emu": 1050772,
+          "cx_emu": 1882588,
+          "cy_emu": 321624,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "20000"
+            ],
+            [
+              "lumOff",
+              "80000"
+            ]
+          ],
+          "brightness": 0.8
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "11",
+        "name": "Rectangle 10",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.3462,
+          "y": 5.1895,
+          "cx": 2.0,
+          "cy": 0.3517,
+          "x_emu": 2145400,
+          "y_emu": 4745314,
+          "cx_emu": 1828800,
+          "cy_emu": 321624,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 8.8431,
+          "y": 1.1491,
+          "cx": 2.0,
+          "cy": 0.3517,
+          "x_emu": 8086165,
+          "y_emu": 1050772,
+          "cx_emu": 1828800,
+          "cy_emu": 321624,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "12",
+        "name": "TextBox 11",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 4.3462,
+          "y": 4.9778,
+          "cx": 2.0673,
+          "cy": 0.7068,
+          "x_emu": 3974200,
+          "y_emu": 4551728,
+          "cx_emu": 1890320,
+          "cy_emu": 646331,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 10.8431,
+          "y": 0.9374,
+          "cx": 2.0673,
+          "cy": 0.7068,
+          "x_emu": 9914965,
+          "y_emu": 857186,
+          "cx_emu": 1890320,
+          "cy_emu": 646331,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": "square",
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "$15,250 of $30,000 Raised ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "$15,250 of $30,000 Raised ",
+                "sz": null,
+                "bold": true,
+                "face": "Times New Roman",
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "$15,250 of $30,000 Raised"
+      },
+      {
+        "kind": "sp",
+        "id": "15",
+        "name": "Oval 14",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 6.6863,
+          "y": 1.0391,
+          "cx": 0.65,
+          "cy": 0.65,
+          "x_emu": 6113909,
+          "y_emu": 950157,
+          "cx_emu": 594360,
+          "cy_emu": 594360,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 6.6275,
+          "y": 1.0,
+          "cx": 0.65,
+          "cy": 0.65,
+          "x_emu": 6060142,
+          "y_emu": 914404,
+          "cx_emu": 594360,
+          "cy_emu": 594360,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "20000"
+            ],
+            [
+              "lumOff",
+              "80000"
+            ]
+          ],
+          "brightness": 0.8
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "16",
+        "name": "Rectangle 15",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 6.9902,
+          "y": 1.1882,
+          "cx": 2.0588,
+          "cy": 0.3517,
+          "x_emu": 6391815,
+          "y_emu": 1086525,
+          "cx_emu": 1882588,
+          "cy_emu": 321624,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 6.9314,
+          "y": 1.1491,
+          "cx": 2.0588,
+          "cy": 0.3517,
+          "x_emu": 6338048,
+          "y_emu": 1050772,
+          "cx_emu": 1882588,
+          "cy_emu": 321624,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "20000"
+            ],
+            [
+              "lumOff",
+              "80000"
+            ]
+          ],
+          "brightness": 0.8
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "17",
+        "name": "Rectangle 16",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 8.9019,
+          "y": 1.1882,
+          "cx": 2.0,
+          "cy": 0.3517,
+          "x_emu": 8139932,
+          "y_emu": 1086525,
+          "cx_emu": 1828800,
+          "cy_emu": 321624,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 8.8431,
+          "y": 1.1491,
+          "cx": 2.0,
+          "cy": 0.3517,
+          "x_emu": 8086165,
+          "y_emu": 1050772,
+          "cx_emu": 1828800,
+          "cy_emu": 321624,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [],
+        "text_join": ""
+      },
+      {
+        "kind": "sp",
+        "id": "18",
+        "name": "TextBox 17",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 10.9019,
+          "y": 0.9765,
+          "cx": 2.0673,
+          "cy": 0.7068,
+          "x_emu": 9968732,
+          "y_emu": 892939,
+          "cx_emu": 1890320,
+          "cy_emu": 646331,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": {
+          "x": 10.8431,
+          "y": 0.9374,
+          "cx": 2.0673,
+          "cy": 0.7068,
+          "x_emu": 9914965,
+          "y_emu": 857186,
+          "cx_emu": 1890320,
+          "cy_emu": 646331,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": "square",
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "$15,250 of $30,000 Raised ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "$15,250 of $30,000 Raised ",
+                "sz": null,
+                "bold": true,
+                "face": "Times New Roman",
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "$15,250 of $30,000 Raised"
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Bank Account Info",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Bank Account Info",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Bank Account Info"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.1421,
+          "y": 1.0263,
+          "cx": 4.8775,
+          "cy": 6.2201,
+          "x_emu": 129981,
+          "y_emu": 938440,
+          "cx_emu": 4459948,
+          "cy_emu": 5687646,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Routing #: 307083911",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Routing #: 307083911",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Auto WD and Direct Deposit #: 9225000161",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Auto WD and Direct Deposit #: 9225000161",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Account #: 10422500-9001",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Account #: 10422500-9001",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Not used for electronic transactions",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Not used for electronic transactions",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Routing #: 307083911\nAuto WD and Direct Deposit #: 9225000161\nAccount #: 10422500-9001\nNot used for electronic transactions"
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 5.208,
+          "y": 1.0132,
+          "cx": 7.7775,
+          "cy": 6.4489,
+          "x_emu": 4762187,
+          "y_emu": 926471,
+          "cx_emu": 7111760,
+          "cy_emu": 5896834,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "asset": "image3.png",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "KYC documentation",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "KYC documentation",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "KYC documentation"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.525,
+          "y": 1.0263,
+          "cx": 11.3591,
+          "cy": 0.7384,
+          "x_emu": 480061,
+          "y_emu": 938440,
+          "cx_emu": 10386722,
+          "cy_emu": 675207,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Passport/Driver\u2019s License for Douglas Coombs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Passport/Driver\u2019s License for Douglas Coombs",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Passport/Driver\u2019s License for Douglas Coombs"
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 0.0733,
+          "y": 1.841,
+          "cx": 6.6078,
+          "cy": 4.0784,
+          "x_emu": 67047,
+          "y_emu": 1683381,
+          "cx_emu": 6042212,
+          "cy_emu": 3729317,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "asset": "image4.jpg",
+        "crop": {
+          "l": 6551,
+          "r": 6053,
+          "b": 13693
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 6.8025,
+          "y": 1.848,
+          "cx": 6.4782,
+          "cy": 4.0714,
+          "x_emu": 6220216,
+          "y_emu": 1689847,
+          "cx_emu": 5923677,
+          "cy_emu": 3722851,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "asset": "image5.jpg",
+        "crop": {
+          "l": 15460,
+          "r": 15520,
+          "b": 27705
+        }
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Legalese on Website",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Legalese on Website",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Legalese on Website"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.525,
+          "y": 1.0263,
+          "cx": 12.0869,
+          "cy": 6.2201,
+          "x_emu": 480060,
+          "y_emu": 938440,
+          "cx_emu": 11052297,
+          "cy_emu": 5687646,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Legal entity name: The Saint Luke Guild",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Legal entity name: ",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "The Saint Luke Guild",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Governing jurisdiction: New Mexico",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Governing jurisdiction: ",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "New Mexico",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Merchant registered business address: 2718 University Blvd NE, Albuquerque, NM 87107",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Merchant registered business address: ",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "2718 University Blvd NE, Albuquerque, NM 87107",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Privacy Policy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Privacy Policy",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "See next slide",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "See next slide",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Refund/Cancellation/Return Policy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Refund/Cancellation/Return Policy",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "See next slide",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "See next slide",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "See www.SaintLukeGuild.com/About-Us",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "See ",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "www.SaintLukeGuild.com/About-Us",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": "http://www.saintlukeguild.com/About-Us",
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "To be moved to www.SaintLukeGuild.com/Legalese at a future date",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "To be moved to ",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "www.SaintLukeGuild.com/Legalese",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": "http://www.saintlukeguild.com/Legalese",
+                "sym": null
+              },
+              {
+                "t": " at a future date",
+                "sz": null,
+                "bold": false,
+                "face": "Arial",
+                "srgb": "222222",
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Legal entity name: The Saint Luke Guild\nGoverning jurisdiction: New Mexico\nMerchant registered business address: 2718 University Blvd NE, Albuquerque, NM 87107\nPrivacy Policy\nSee next slide\nRefund/Cancellation/Return Policy\nSee next slide\nSee www.SaintLukeGuild.com/About-Us\nTo be moved to www.SaintLukeGuild.com/Legalese at a future date"
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Privacy and Refund Policy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Privacy and Refund Policy",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Privacy and Refund Policy"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.3478,
+          "y": 1.0263,
+          "cx": 12.4953,
+          "cy": 5.6796,
+          "x_emu": 318052,
+          "y_emu": 938439,
+          "cx_emu": 11425713,
+          "cy_emu": 5193419,
+          "flipH": false,
+          "flipV": false,
+          "rot": null
+        },
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 92500,
+          "lnSpcReduction": 20000,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "https://www.saintlukeguild.com/about-us",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": 0,
+              "indent": 0,
+              "bu": "none",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "https://www.saintlukeguild.com/about-us",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": "https://www.saintlukeguild.com/about-us",
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Refund Policy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": 0,
+              "indent": 0,
+              "bu": "none",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Refund Policy",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "The Saint Luke Guild does not deliver products to individuals; therefore cancellations and returns are not applicable.  Also, donor refunds are not generally offered.  Refunds will be considered on a case-by-case basis before money is distributed to the designated project (e.g., if someone accidentally entered the wrong donation amount and contact is made within one business day).  To request a refund, contact us at refunds@saintlukeguild.com.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "The Saint Luke Guild does not deliver products to individuals; therefore cancellations and returns are not applicable.  Also, donor refunds are not generally offered.  Refunds will be considered on a case-by-case basis before money is distributed to the designated project (e.g., if someone accidentally entered the wrong donation amount and contact is made within one business day).  To request a refund, contact us at ",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              },
+              {
+                "t": "refunds@saintlukeguild.com",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": "mailto:refunds@saintlukeguild.com",
+                "sym": null
+              },
+              {
+                "t": ".",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Privacy Policy",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": 0,
+              "indent": 0,
+              "bu": "none",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Privacy Policy",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "The Saint Luke Guild takes donor information and privacy very seriously.  We will never sell donor information to a third party for any reason.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "The Saint Luke Guild takes donor information and privacy very seriously.  We will never sell donor information to a third party for any reason.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Donor information will only be shared with outside businesses as necessary to deliver services (e.g., processing credit card donations, etc.).",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Donor information will only be shared with outside businesses as necessary to deliver services (e.g., processing credit card donations, etc.).",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "The exception is when donors choose a specific school project to donate to.  When this occurs, donor information will typically be shared with the specified school, so that they can know to whom they should be grateful.  Donors may opt out of information sharing on the donor form.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "The exception is when donors choose a specific school project to donate to.  When this occurs, donor information will typically be shared with the specified school, so that they can know to whom they should be grateful.  Donors may opt out of information sharing on the donor form.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "https://www.saintlukeguild.com/about-us\nRefund Policy\nThe Saint Luke Guild does not deliver products to individuals; therefore cancellations and returns are not applicable.  Also, donor refunds are not generally offered.  Refunds will be considered on a case-by-case basis before money is distributed to the designated project (e.g., if someone accidentally entered the wrong donation amount and contact is made within one business day).  To request a refund, contact us at refunds@saintlukeguild.com.\nPrivacy Policy\nThe Saint Luke Guild takes donor information and privacy very seriously.  We will never sell donor information to a third party for any reason.\nDonor information will only be shared with outside businesses as necessary to deliver services (e.g., processing credit card donations, etc.).\nThe exception is when donors choose a specific school project to donate to.  When this occurs, donor information will typically be shared with the specified school, so that they can know to whom they should be grateful.  Donors may opt out of information sharing on the donor form."
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Regulatory Documents",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Regulatory Documents",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Regulatory Documents"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "License required to operate the business",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "License required to operate the business",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "NM_SoS_InitialReport_2016917025-502856.pdf",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "NM_SoS_InitialReport_2016917025-502856.pdf",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "NM_ArticlesOfIncorporation_AoI_Approved.pdf",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "NM_ArticlesOfIncorporation_AoI_Approved.pdf",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Licenses for all jurisdictions in which you intend to provide your services.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Licenses for all jurisdictions in which you intend to provide your services.",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Starting in NM.  Other locations unknown, so far.  ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Starting in NM.  Other locations unknown, so far.  ",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Copy of AML/KYC policy and procedures",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Copy of AML/KYC policy and procedures",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Not sure what this would look like.  Are there examples?",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Not sure what this would look like.  Are there examples?",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Completed AML Questionnaire",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Completed AML Questionnaire",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "Has this been done?",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Has this been done?",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "License required to operate the business\nNM_SoS_InitialReport_2016917025-502856.pdf\nNM_ArticlesOfIncorporation_AoI_Approved.pdf\nLicenses for all jurisdictions in which you intend to provide your services.\nStarting in NM.  Other locations unknown, so far.  \nCopy of AML/KYC policy and procedures\nNot sure what this would look like.  Are there examples?\nCompleted AML Questionnaire\nHas this been done?"
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "id": "2",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Corporate Documents",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Corporate Documents",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Corporate Documents"
+      },
+      {
+        "kind": "sp",
+        "id": "3",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "local_box": null,
+        "fill": null,
+        "ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": null,
+          "wrap": null,
+          "insets": {}
+        },
+        "lstStyle": null,
+        "paras": [
+          {
+            "text": "Please provide 501c3 document to confirm tax exempt status",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "Please provide 501c3 document to confirm tax exempt status",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": null,
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "The following are attached",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "The following are attached",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "IRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdf",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "IRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdf",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          },
+          {
+            "text": "IRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": null,
+              "marL": null,
+              "indent": null,
+              "bu": "inherit",
+              "lnSpcPct": null,
+              "spcBef": null
+            },
+            "runs": [
+              {
+                "t": "IRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf",
+                "sz": null,
+                "bold": false,
+                "face": null,
+                "srgb": null,
+                "scheme": "accent6",
+                "brightness": null,
+                "hlink": null,
+                "sym": null
+              }
+            ]
+          }
+        ],
+        "text_join": "Please provide 501c3 document to confirm tax exempt status\nThe following are attached\nIRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdf\nIRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf"
+      }
+    ]
+  }
+]

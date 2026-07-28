@@ -38,7 +38,11 @@ classdef FillFormat < handle
                     end
                 end
                 sf = mat2ppt.oxml.dml.CT_SolidColorFillProperties(sprintf("{%s}solidFill", A));
-                obj.parentElm_.append(sf);
+                % OOXML CT_TextCharacterProperties / CT_ShapeProperties: fill
+                % elements must precede latin/ea/cs. Appending after latin
+                % makes PowerPoint ignore solidFill (text stays black).
+                idx = mat2ppt.dml.FillFormat.fill_insert_index_(obj.parentElm_);
+                obj.parentElm_.insert(idx, sf);
                 obj.solidElm_ = sf;
             else
                 % shell mode (no XML parent): keep a private solidFill element
@@ -157,6 +161,26 @@ classdef FillFormat < handle
     methods (Static)
         function f = from_fill_parent(parentElm)
             f = mat2ppt.dml.FillFormat(parentElm);
+        end
+
+        function idx = fill_insert_index_(parentElm)
+            %FILL_INSERT_INDEX_  1-based child index for solidFill/noFill/etc.
+            % Must come before effectLst / latin / ea / cs (OOXML sequence).
+            % Use string arrays (not cell) so ln == afterFill works.
+            afterFill = [ ...
+                "effectLst", "effectDag", "highlight", ...
+                "uLnTx", "uLn", "uFillTx", "uFill", ...
+                "latin", "ea", "cs", "sym", ...
+                "hlinkClick", "hlinkMouseOver", "rtl", "extLst"];
+            kids = parentElm.getchildren();
+            for i = 1:numel(kids)
+                ln = string(kids{i}.localName());
+                if any(ln == afterFill)
+                    idx = i;
+                    return
+                end
+            end
+            idx = numel(kids) + 1;
         end
     end
 end

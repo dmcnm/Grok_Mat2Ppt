@@ -1,0 +1,1790 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"ctrTitle\"",
+        "box": [
+          2.6471,
+          0.9711,
+          9.4314,
+          2.7793
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "90000",
+        "paras": [
+          {
+            "text": "The Saint Luke Guild\nCheckout.com \nRequested Info",
+            "lvl": 0,
+            "pt": null,
+            "face": "+mn-lt",
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Subtitle 2",
+        "ph": "<p:ph type=\"subTitle\" idx=\"1\"",
+        "box": [
+          5.5638,
+          4.9309,
+          7.7696,
+          1.7554
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Douglas Coombs",
+            "lvl": 0,
+            "pt": 24,
+            "face": "Apple Chancery",
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "July 1, 2022, Rev. 1",
+            "lvl": 0,
+            "pt": 24,
+            "face": "Apple Chancery",
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "90000",
+        "paras": [
+          {
+            "text": "Transaction Information\nData Request\n",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.525,
+          1.0263,
+          12.573,
+          6.2201
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "A payment flow to properly understand what Checkout.com is exactly processing for.",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "See the next slide",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Please provide further details on what the merchant will be accepting payments for.",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "We are accepting donations to fund",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Art displays at schools",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Projects to help schools in the selection of art (e.g., a timeline/database of art masterpieces)",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Costs to attend educational conferences and educate schools on the value of art reproductions",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Please provide the URL where payments will be accepted. Please also provide demo or Test login details to verify the website",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "www.saintlukeguild.com/projects (this will be updated when we begin taking payments)",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Please confirm the annual processing volume",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Maybe $5k-$10k/year to begin.  It is hard to say.  We currently bring in around $20k/year in large checks.  Most larger donors will probably still choose to give via check.",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 33",
+        "ph": "",
+        "box": [
+          7.1517,
+          2.6663,
+          1.8877,
+          3.2315
+        ],
+        "prst": "bentConnector3",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.1212,
+          0.0505,
+          13.2121,
+          0.9588
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Transaction Flow Chart for Website Donor Funds",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 7",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.1212,
+          5.02,
+          6.0604,
+          1.6614
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "92500",
+        "paras": [
+          {
+            "text": "General support projects are not \nspecific to any school ",
+            "lvl": 0,
+            "pt": 28,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Project costs are school specific",
+            "lvl": 0,
+            "pt": 28,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": 28,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 3",
+        "ph": "",
+        "box": [
+          0.1212,
+          2.9664,
+          3.2071,
+          1.9142
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Donors give to either a school project (restricted), a general support project, (restricted) or general funds (unrestricted)",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 16",
+        "ph": "",
+        "box": [
+          9.0394,
+          5.1142,
+          3.2071,
+          1.5672
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": " Project costs are spent 100% on school art projects for specific schools",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 17",
+        "ph": "",
+        "box": [
+          3.9446,
+          1.8827,
+          3.2071,
+          1.5672
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "General funds are discretionary and can cover either overhead or project costs",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 8",
+        "ph": "",
+        "box": [
+          3.3284,
+          3.9235,
+          5.7111,
+          1.9742
+        ],
+        "prst": "bentConnector3",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 18",
+        "ph": "",
+        "box": [
+          3.3284,
+          2.6663,
+          0.6162,
+          1.2572
+        ],
+        "prst": "bentConnector3",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 21",
+        "ph": "",
+        "box": [
+          9.0394,
+          1.2043,
+          3.2071,
+          1.5672
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Overhead costs are things like PO box and website fees",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 23",
+        "ph": "",
+        "box": [
+          9.0394,
+          3.1592,
+          3.2071,
+          1.5672
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "General support project costs are for things like an art timeline database to help schools select art for their hallways",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 29",
+        "ph": "",
+        "box": [
+          7.1517,
+          1.9663,
+          1.9269,
+          0.6999
+        ],
+        "prst": "bentConnector3",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Connector: Elbow 31",
+        "ph": "",
+        "box": [
+          7.1517,
+          2.6663,
+          1.8877,
+          1.2765
+        ],
+        "prst": "bentConnector3",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Arrow Connector 35",
+        "ph": "",
+        "box": [
+          3.3284,
+          3.9235,
+          5.7111,
+          0.0193
+        ],
+        "prst": "straightConnector1",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.1212,
+          0.0505,
+          13.2121,
+          0.9588
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "90000",
+        "paras": [
+          {
+            "text": "Website Donor Forms\nEntry Point for Project Funding",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 4",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.2774,
+          1.0263,
+          5.3249,
+          3.9345
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Simple Donate Button next to each project on website takes donors to a common donation form with a drop down menu to select a project",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "The Saint Luke Guild should be able to add projects to the list",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "All form information should be communicated to the Saint Luke Guild along with money",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 2",
+        "ph": "",
+        "box": [
+          1.8908,
+          5.1749,
+          2.098,
+          0.7696
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Donate Now",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 3",
+        "ph": "",
+        "box": [
+          5.6023,
+          1.6112,
+          6.5294,
+          6.0297
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 5",
+        "ph": "",
+        "box": [
+          6.2045,
+          1.6122,
+          5.9271,
+          6.0287
+        ],
+        "prst": "rect",
+        "autofit": "sp",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "First Name: _______________________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Last Name: _______________________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Address: _________________________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "City: ____________________________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "State:  [Drop Down ]         Zip: ___________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "\uf085  Keep me anonymous to project schools.\nProject: [Drop Down List]",
+            "lvl": 0,
+            "pt": null,
+            "face": "Symbol",
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Pledge Amount: $  ___________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Credit Card Info",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Arrow: Right 7",
+        "ph": "",
+        "box": [
+          4.4706,
+          5.2934,
+          1.0196,
+          0.5328
+        ],
+        "prst": "rightArrow",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.1212,
+          0.0505,
+          13.2121,
+          0.9588
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "90000",
+        "paras": [
+          {
+            "text": "Website Donor Forms\nIdeal Point",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 4",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.2774,
+          1.0263,
+          5.3249,
+          3.9345
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "In an ideal world, we would be able to have bar graphs showing how much money has been donated to a given project",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Similar to Kickstarter",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "SLG staff would be able to enter check donations to move the bar",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "This would mean each project would have a standalone donor form.",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 2",
+        "ph": "",
+        "box": [
+          1.3137,
+          5.77,
+          2.098,
+          0.7696
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Donate Now",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 3",
+        "ph": "",
+        "box": [
+          5.6023,
+          1.6112,
+          6.5294,
+          5.7267
+        ],
+        "prst": "roundRect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 5",
+        "ph": "",
+        "box": [
+          6.2045,
+          1.6122,
+          5.3249,
+          5.7257
+        ],
+        "prst": "rect",
+        "autofit": "sp",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Project: Holy Child Catholic School",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": true
+          },
+          {
+            "text": "First Name: _______________________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Last Name: _______________________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Address: _________________________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "City: ____________________________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "State:  [Drop Down ]         Zip: ___________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "\uf085 Keep me anonymous to the above school.",
+            "lvl": 0,
+            "pt": null,
+            "face": "Symbol",
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Pledge Amount: $  ___________",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Credit Card Info",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Arrow: Right 7",
+        "ph": "",
+        "box": [
+          4.6537,
+          5.834,
+          1.0196,
+          0.5328
+        ],
+        "prst": "rightArrow",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 8",
+        "ph": "",
+        "box": [
+          6.6275,
+          1.0,
+          0.65,
+          0.65
+        ],
+        "prst": "ellipse",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 9",
+        "ph": "",
+        "box": [
+          6.9314,
+          1.1491,
+          2.0588,
+          0.3517
+        ],
+        "prst": "rect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 10",
+        "ph": "",
+        "box": [
+          8.8431,
+          1.1491,
+          2.0,
+          0.3517
+        ],
+        "prst": "rect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 11",
+        "ph": "",
+        "box": [
+          10.8431,
+          0.9374,
+          2.0673,
+          0.7068
+        ],
+        "prst": "rect",
+        "autofit": "sp",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "$15,250 of $30,000 Raised ",
+            "lvl": 0,
+            "pt": null,
+            "face": "Times New Roman",
+            "rgb": null,
+            "bold": true
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 14",
+        "ph": "",
+        "box": [
+          6.6275,
+          1.0,
+          0.65,
+          0.65
+        ],
+        "prst": "ellipse",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 15",
+        "ph": "",
+        "box": [
+          6.9314,
+          1.1491,
+          2.0588,
+          0.3517
+        ],
+        "prst": "rect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 16",
+        "ph": "",
+        "box": [
+          8.8431,
+          1.1491,
+          2.0,
+          0.3517
+        ],
+        "prst": "rect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 17",
+        "ph": "",
+        "box": [
+          10.8431,
+          0.9374,
+          2.0673,
+          0.7068
+        ],
+        "prst": "rect",
+        "autofit": "sp",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "$15,250 of $30,000 Raised ",
+            "lvl": 0,
+            "pt": null,
+            "face": "Times New Roman",
+            "rgb": null,
+            "bold": true
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Bank Account Info",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.1421,
+          1.0263,
+          4.8775,
+          6.2201
+        ],
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Routing #: 307083911",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Auto WD and Direct Deposit #: 9225000161",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Account #: 10422500-9001",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Not used for electronic transactions",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "ph": "",
+        "box": [
+          5.208,
+          1.0132,
+          7.7775,
+          6.4489
+        ],
+        "prst": "rect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": "image3.png",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "90000",
+        "paras": [
+          {
+            "text": "KYC documentation\n",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.525,
+          1.0263,
+          11.3591,
+          0.7384
+        ],
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Passport/Driver\u2019s License for Douglas Coombs",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "ph": "",
+        "box": [
+          0.0733,
+          1.841,
+          6.6078,
+          4.0784
+        ],
+        "prst": "rect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": "image4.jpg",
+        "crop": " l=\"6551\" r=\"6053\" b=\"13693\""
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "ph": "",
+        "box": [
+          6.8025,
+          1.848,
+          6.4782,
+          4.0714
+        ],
+        "prst": "rect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": "image5.jpg",
+        "crop": " l=\"15460\" r=\"15520\" b=\"27705\""
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Legalese on Website",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.525,
+          1.0263,
+          12.0869,
+          6.2201
+        ],
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Legal entity name: The Saint Luke Guild",
+            "lvl": 0,
+            "pt": null,
+            "face": "Arial",
+            "rgb": "222222",
+            "bold": false
+          },
+          {
+            "text": "Governing jurisdiction: New Mexico",
+            "lvl": 0,
+            "pt": null,
+            "face": "Arial",
+            "rgb": "222222",
+            "bold": false
+          },
+          {
+            "text": "Merchant registered business address: 2718 University Blvd NE, Albuquerque, NM 87107",
+            "lvl": 0,
+            "pt": null,
+            "face": "Arial",
+            "rgb": "222222",
+            "bold": false
+          },
+          {
+            "text": "Privacy Policy",
+            "lvl": 0,
+            "pt": null,
+            "face": "Arial",
+            "rgb": "222222",
+            "bold": false
+          },
+          {
+            "text": "See next slide",
+            "lvl": 1,
+            "pt": null,
+            "face": "Arial",
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Refund/Cancellation/Return Policy",
+            "lvl": 0,
+            "pt": null,
+            "face": "Arial",
+            "rgb": "222222",
+            "bold": false
+          },
+          {
+            "text": "See next slide",
+            "lvl": 1,
+            "pt": null,
+            "face": "Arial",
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "See www.SaintLukeGuild.com/About-Us",
+            "lvl": 0,
+            "pt": null,
+            "face": "Arial",
+            "rgb": "222222",
+            "bold": false
+          },
+          {
+            "text": "To be moved to www.SaintLukeGuild.com/Legalese at a future date",
+            "lvl": 1,
+            "pt": null,
+            "face": "Arial",
+            "rgb": "222222",
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Privacy and Refund Policy",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.3478,
+          1.0263,
+          12.4953,
+          5.6796
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "92500",
+        "paras": [
+          {
+            "text": "https://www.saintlukeguild.com/about-us",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Refund Policy",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "The Saint Luke Guild does not deliver products to individuals; therefore cancellations and returns are not applicable.  Also, donor refunds are not generally offered.  Refunds will be considered on a case-by-case basis before money is distributed to the designated project (e.g., if someone accidentally entered the wrong donation amount and contact is made within one business day).  To request a refund, contact us at refunds@saintlukeguild.com.",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Privacy Policy",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "The Saint Luke Guild takes donor information and privacy very seriously.  We will never sell donor information to a third party for any reason.",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Donor information will only be shared with outside businesses as necessary to deliver services (e.g., processing credit card donations, etc.).",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "The exception is when donors choose a specific school project to donate to.  When this occurs, donor information will typically be shared with the specified school, so that they can know to whom they should be grateful.  Donors may opt out of information sharing on the donor form.",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Regulatory Documents",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": null,
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "License required to operate the business",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "NM_SoS_InitialReport_2016917025-502856.pdf",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "NM_ArticlesOfIncorporation_AoI_Approved.pdf",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Licenses for all jurisdictions in which you intend to provide your services.",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Starting in NM.  Other locations unknown, so far.  ",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Copy of AML/KYC policy and procedures",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Not sure what this would look like.  Are there examples?",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Completed AML Questionnaire",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Has this been done?",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Corporate Documents",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": null,
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Please provide 501c3 document to confirm tax exempt status",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "The following are attached",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "IRS_f1023ez_SaintLukeGuild_20210711_AsSubmitted.pdf",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "IRS_fSS4_EIN_Letter_CP575Notice_1622224687610.pdf",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  }
+]

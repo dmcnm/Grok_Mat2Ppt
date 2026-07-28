@@ -1,0 +1,863 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.75,
+          "cx": 9.0,
+          "cy": 0.5833,
+          "x_emu": 457200,
+          "y_emu": 1600201,
+          "cx_emu": 8229600,
+          "cy_emu": 533400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": 10000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 3",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.25,
+          "y": 2.25,
+          "cx": 9.5833,
+          "cy": 1.279,
+          "x_emu": 228600,
+          "y_emu": 2057400,
+          "cx_emu": 8762999,
+          "cy_emu": 1169551,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent3"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "A Few Children ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "A Few Children ",
+                "sz": 7000,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "A Few Children",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 6",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.25,
+          "y": 3.75,
+          "cx": 9.5833,
+          "cy": 1.279,
+          "x_emu": 228600,
+          "y_emu": 3429000,
+          "cx_emu": 8762999,
+          "cy_emu": 1169551,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent3"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "Sponsored",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Sponsored",
+                "sz": 7000,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Sponsored",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 7",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.25,
+          "y": 5.1667,
+          "cx": 9.5833,
+          "cy": 1.279,
+          "x_emu": 228600,
+          "y_emu": 4724400,
+          "cx_emu": 8762999,
+          "cy_emu": 1169551,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent3"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "By Parish Members",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "By Parish Members",
+                "sz": 7000,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "By Parish Members",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.75,
+          "cx": 9.0,
+          "cy": 0.5833,
+          "x_emu": 457200,
+          "y_emu": 1600201,
+          "cx_emu": 8229600,
+          "cy_emu": 533400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": 10000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 3",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.1667,
+          "y": 2.25,
+          "cx": 9.5833,
+          "cy": 1.0266,
+          "x_emu": 152400,
+          "y_emu": 2057400,
+          "cx_emu": 8762999,
+          "cy_emu": 938719,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent3"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "A Few Children ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "A Few Children ",
+                "sz": 5500,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "A Few Children",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 6",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.25,
+          "y": 3.75,
+          "cx": 9.5833,
+          "cy": 1.0266,
+          "x_emu": 228600,
+          "y_emu": 3429000,
+          "cx_emu": 8762999,
+          "cy_emu": 938719,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent3"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "Sponsored",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Sponsored",
+                "sz": 5500,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Sponsored",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 7",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.25,
+          "y": 5.1667,
+          "cx": 9.5833,
+          "cy": 1.0266,
+          "x_emu": 228600,
+          "y_emu": 4724400,
+          "cx_emu": 8762999,
+          "cy_emu": 938719,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent3"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "By Parish Members",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "By Parish Members",
+                "sz": 5500,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "By Parish Members",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.75,
+          "cx": 9.0,
+          "cy": 0.5833,
+          "x_emu": 457200,
+          "y_emu": 1600201,
+          "cx_emu": 8229600,
+          "cy_emu": 533400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": 10000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 3",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.25,
+          "y": 2.6667,
+          "cx": 9.5833,
+          "cy": 1.0266,
+          "x_emu": 228600,
+          "y_emu": 2438400,
+          "cx_emu": 8762999,
+          "cy_emu": 938719,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent2"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "A Brief Look at Poverty ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "A Brief Look at Poverty ",
+                "sz": 5500,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "A Brief Look at Poverty",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 8",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.1667,
+          "y": 4.0,
+          "cx": 9.5833,
+          "cy": 1.279,
+          "x_emu": 152400,
+          "y_emu": 3657600,
+          "cx_emu": 8762999,
+          "cy_emu": 1169551,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent2"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "at Poverty ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "at Poverty",
+                "sz": 7000,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": 5500,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "at Poverty",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 9",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.1667,
+          "y": 5.5833,
+          "cx": 9.5833,
+          "cy": 1.279,
+          "x_emu": 152400,
+          "y_emu": 5105400,
+          "cx_emu": 8762999,
+          "cy_emu": 1169551,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "1",
+          "scheme": "accent2"
+        },
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "A Brief Look",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "A Brief Look",
+                "sz": 7000,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "none",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "A Brief Look",
+        "txBox": false
+      }
+    ]
+  }
+]

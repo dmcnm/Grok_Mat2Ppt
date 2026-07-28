@@ -1,0 +1,98 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Rectangle 2",
+        "ph": "ctrTitle",
+        "prst": null,
+        "box": {
+          "x": 2.0,
+          "y": 2.5833,
+          "cx": 7.1007,
+          "cy": 0.75,
+          "x_emu": 1828800,
+          "y_emu": 2362200,
+          "cx_emu": 6492875,
+          "cy_emu": 685800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "inherit"
+          },
+          "noFill": false
+        },
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "t",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 3",
+        "ph": "subTitle:1",
+        "prst": null,
+        "box": {
+          "x": 2.5,
+          "y": 3.9931,
+          "cx": 6.2014,
+          "cy": 1.3403,
+          "x_emu": 2286000,
+          "y_emu": 3651250,
+          "cx_emu": 5670550,
+          "cy_emu": 1225550,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "inherit"
+          },
+          "noFill": false
+        },
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "t",
+          "wrap": "square",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      }
+    ]
+  }
+]

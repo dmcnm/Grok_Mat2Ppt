@@ -20,3 +20,7 @@ examples/out_*.pptx
 
 # Full package dumps for recreation work (huge; inventory.json kept)
 examples/recreations/**/extracted/unzip/
+
+# recreation batch noise
+examples/recreations/_batch_*.log
+examples/recreations/**/probe_color.pptx

@@ -1,0 +1,1199 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 0.0,
+          "y": 0.75,
+          "cx": 10.0,
+          "cy": 6.0417,
+          "x_emu": 15,
+          "y_emu": 685770,
+          "cx_emu": 9143985,
+          "cy_emu": 5524500,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.png",
+        "crop": {
+          "l": 19876,
+          "t": 16816
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 4",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 2.0751,
+          "y": 4.1041,
+          "cx": 1.3347,
+          "cy": 0.4167,
+          "x_emu": 1897464,
+          "y_emu": 3752820,
+          "cx_emu": 1220469,
+          "cy_emu": 381000,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "b1: Coombs\u2019 House",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "b1",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": ": Coombs\u2019 House",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "b1: Coombs\u2019 House",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 5",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 6.83,
+          "y": 3.7708,
+          "cx": 1.3347,
+          "cy": 0.4167,
+          "x_emu": 6245385,
+          "y_emu": 3448020,
+          "cx_emu": 1220469,
+          "cy_emu": 381000,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "b2: Smith\u2019s House",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "b2",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": ": Smith\u2019s House",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "b2: Smith\u2019s House",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": {
+          "x": 0.0,
+          "y": 0.75,
+          "cx": 10.0,
+          "cy": 6.02,
+          "x_emu": 0,
+          "y_emu": 685800,
+          "cx_emu": 9144000,
+          "cy_emu": 5504688,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image2.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 3",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 2.9167,
+          "y": 3.26,
+          "cx": 1.3333,
+          "cy": 0.1667,
+          "x_emu": 2667000,
+          "y_emu": 2980944,
+          "cx_emu": 1219200,
+          "cy_emu": 152400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "a1: Coombs\u2019 House",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "a1",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": ": Coombs\u2019 House",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "a1: Coombs\u2019 House",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 4",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 5.25,
+          "y": 3.0933,
+          "cx": 1.3333,
+          "cy": 0.1667,
+          "x_emu": 4800600,
+          "y_emu": 2828544,
+          "cx_emu": 1219200,
+          "cy_emu": 152400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "a2: Smith\u2019s House",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "a2",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": ": Smith\u2019s House",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "a2: Smith\u2019s House",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 5",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 4.5,
+          "y": 5.3433,
+          "cx": 1.8333,
+          "cy": 0.1667,
+          "x_emu": 4114800,
+          "y_emu": 4885944,
+          "cx_emu": 1676400,
+          "cy_emu": 152400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "a3: Brannock\u2019s Home Site",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "a3",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": ": ",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Brannock\u2019s",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " Home Site",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "a3: Brannock\u2019s Home Site",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 0.0,
+          "y": 0.75,
+          "cx": 10.0,
+          "cy": 6.0417,
+          "x_emu": 15,
+          "y_emu": 685770,
+          "cx_emu": 9143985,
+          "cy_emu": 5524500,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.png",
+        "crop": {
+          "l": 19876,
+          "t": 16816
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 4",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 2.4088,
+          "y": 4.2708,
+          "cx": 0.4171,
+          "cy": 0.3333,
+          "x_emu": 2202581,
+          "y_emu": 3905220,
+          "cx_emu": 381397,
+          "cy_emu": 304800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "b1",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "b1",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "b1",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 5",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 7.1638,
+          "y": 3.7708,
+          "cx": 0.5005,
+          "cy": 0.3333,
+          "x_emu": 6550503,
+          "y_emu": 3448020,
+          "cx_emu": 457676,
+          "cy_emu": 304800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "b2",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "b2",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "b2",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": {
+          "x": 0.0,
+          "y": 0.75,
+          "cx": 10.0,
+          "cy": 6.02,
+          "x_emu": 0,
+          "y_emu": 685800,
+          "cx_emu": 9144000,
+          "cy_emu": 5504688,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image2.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 3",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 4.1667,
+          "y": 2.6767,
+          "cx": 0.4167,
+          "cy": 0.17,
+          "x_emu": 3810000,
+          "y_emu": 2447544,
+          "cx_emu": 381000,
+          "cy_emu": 155448,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "a1",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "a1",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "a1",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 4",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 5.3333,
+          "y": 3.0933,
+          "cx": 0.4167,
+          "cy": 0.1667,
+          "x_emu": 4876800,
+          "y_emu": 2828544,
+          "cx_emu": 381000,
+          "cy_emu": 152400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "a2",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "a2",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "a2",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rounded Rectangle 5",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 4.4167,
+          "y": 5.4267,
+          "cx": 0.4167,
+          "cy": 0.1667,
+          "x_emu": 4038600,
+          "y_emu": 4962144,
+          "cx_emu": 381000,
+          "cy_emu": 152400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "accent1",
+            "mods": [
+              [
+                "lumMod",
+                "40000"
+              ],
+              [
+                "lumOff",
+                "60000"
+              ]
+            ],
+            "brightness": 0.6
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "a3",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "a3",
+                "sz": 900,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Symbol",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "a3",
+        "txBox": false
+      }
+    ]
+  }
+]

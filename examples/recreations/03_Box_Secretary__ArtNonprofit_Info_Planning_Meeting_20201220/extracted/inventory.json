@@ -1,6 +1,6 @@
 {
-  "source": "validation/mat2ppt/references/external_corpus/03_Box_Secretary__ArtNonprofit_Info_Planning_Meeting_20201220.pptx",
-  "source_name": "03_Box_Secretary__ArtNonprofit_Info_Planning_Meeting_20201220.pptx",
+  "source": "/mnt/c/Users/dougl/Repos/MSOffice_Grok/Mat2Ppt/examples/recreations/03_Box_Secretary__ArtNonprofit_Info_Planning_Meeting_20201220/reference_original.pptx",
+  "source_name": "reference_original.pptx",
   "slide_size_emu": {
     "cx": "12192000",
     "cy": "6858000"
@@ -23,6 +23,8 @@
           "flipH": null,
           "flipV": null,
           "text": "",
+          "paragraphs": [],
+          "no_fill": true,
           "rId": "rId2",
           "media_target": "../media/image2.jpeg",
           "asset": "image2.jpeg",
@@ -40,6 +42,7 @@
           "flipH": null,
           "flipV": null,
           "text": "",
+          "paragraphs": [],
           "rId": "rId3",
           "media_target": "../media/image3.jpg",
           "asset": "image3.jpg",
@@ -57,8 +60,17 @@
           "flipH": null,
           "flipV": null,
           "text": "Art Non-profit",
+          "paragraphs": [
+            {
+              "text": "Art Non-profit",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "ctrTitle",
           "ph_idx": "",
+          "is_placeholder": true,
           "geom_from_layout": true
         },
         {
@@ -73,11 +85,36 @@
           "flipH": null,
           "flipV": null,
           "text": "Informational and Planning MeetingDecember 20, 2020",
+          "paragraphs": [
+            {
+              "text": "Informational and Planning Meeting",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "December 20, 2020",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "subTitle",
           "ph_idx": "1",
+          "is_placeholder": true,
           "geom_from_layout": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout1.xml",
+      "layout_name_source": "Title Slide",
+      "layout_name": "Title Slide",
+      "layout_name_mapped_raw": "Title Slide"
     },
     {
       "file": "slide2.xml",
@@ -86,16 +123,25 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": 493095,
-          "y": 1226,
+          "x": 838200,
+          "y": 365125,
           "cx": 10515600,
           "cy": 1325563,
           "prst": null,
           "flipH": null,
           "flipV": null,
           "text": "Overview",
+          "paragraphs": [
+            {
+              "text": "Overview",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
           "ph_idx": "",
+          "is_placeholder": true,
           "geom_from_layout": true
         },
         {
@@ -110,10 +156,35 @@
           "flipH": null,
           "flipV": null,
           "text": "Summary of Current Project and StatusOverview of Potential Non-profit Purpose and GoalsSurvey of Participants and Potential Next Steps",
+          "paragraphs": [
+            {
+              "text": "Summary of Current Project and Status",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Overview of Potential Non-profit Purpose and Goals",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Survey of Participants and Potential Next Steps ",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
-          "ph_idx": "1"
+          "ph_idx": "1",
+          "is_placeholder": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide3.xml",
@@ -122,16 +193,25 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": 493095,
-          "y": 1226,
+          "x": 838200,
+          "y": 365125,
           "cx": 10515600,
           "cy": 1325563,
           "prst": null,
           "flipH": null,
           "flipV": null,
           "text": "Holy Child Project Overview",
+          "paragraphs": [
+            {
+              "text": "Holy Child Project Overview",
+              "level": 0,
+              "sz": 3600,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
           "ph_idx": "",
+          "is_placeholder": true,
           "geom_from_layout": true
         },
         {
@@ -146,8 +226,113 @@
           "flipH": null,
           "flipV": null,
           "text": "Mother Seton Hall art schema finishedFive main hallway sections, plus intro, closing, and side hallwaysFocus is on reproductions of masterpiece paintings and will not include photos of statues and other architectureEach main section to cover an era of history Also looking to highlight art history Intro section complete10 paintings for just over $10k Modern Era Funding Promised \u2013 Currently in RFQ StageTwo pieces awaiting final down select15 paintings for $10.5k-14kFundraising and final selection remains for following sectionsCradle of Civilization and OT Greece and Rome Paschal MysteryEarly Church to Medieval EraEstimated Costs remaining: ~40 paintings for $35k plus lightingPlanning not yet begun for Blessed Miguel Pro Hall",
+          "paragraphs": [
+            {
+              "text": "Mother Seton Hall art schema finished",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Five main hallway sections, plus intro, closing, and side hallways",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Focus is on reproductions of masterpiece paintings and will not include photos of statues and other architecture",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Each main section to cover an era of history ",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Also looking to highlight art history ",
+              "level": 2,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Intro section complete",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "10 paintings for just over $10k ",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Modern Era Funding Promised \u2013 Currently in RFQ Stage",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Two pieces awaiting final down select",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "15 paintings for $10.5k-14k",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Fundraising and final selection remains for following sections",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Cradle of Civilization and OT ",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Greece and Rome ",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Paschal Mystery",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Early Church to Medieval Era",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Estimated Costs remaining: ~40 paintings for $35k plus lighting",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Planning not yet begun for Blessed Miguel Pro Hall",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
-          "ph_idx": "1"
+          "ph_idx": "1",
+          "is_placeholder": true
         },
         {
           "type": "sp",
@@ -160,9 +345,22 @@
           "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": "Mother Seton Hall Nearly 1/3 Complete!!!"
+          "text": "Mother Seton Hall Nearly 1/3 Complete!!!",
+          "paragraphs": [
+            {
+              "text": "Mother Seton Hall Nearly 1/3 Complete!!! ",
+              "level": 0,
+              "sz": 4000,
+              "bold": true
+            }
+          ],
+          "no_fill": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide4.xml",
@@ -179,8 +377,17 @@
           "flipH": null,
           "flipV": null,
           "text": "Mother Seton Hall Art Schema",
+          "paragraphs": [
+            {
+              "text": "Mother Seton Hall Art Schema",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
-          "ph_idx": ""
+          "ph_idx": "",
+          "is_placeholder": true
         },
         {
           "type": "sp",
@@ -194,8 +401,29 @@
           "flipH": null,
           "flipV": null,
           "text": "CompletedIn-progressPlanning Stages",
+          "paragraphs": [
+            {
+              "text": "Completed",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "In-progress",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Planning Stages",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
-          "ph_idx": "1"
+          "ph_idx": "1",
+          "is_placeholder": true
         },
         {
           "type": "pic",
@@ -209,6 +437,7 @@
           "flipH": null,
           "flipV": null,
           "text": "",
+          "paragraphs": [],
           "rId": "rId2",
           "media_target": "../media/image4.png",
           "asset": "image4.png"
@@ -224,7 +453,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -237,7 +468,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -250,7 +483,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -263,7 +498,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -276,7 +513,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": "1",
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -289,7 +528,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -302,7 +543,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -315,7 +558,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -328,7 +573,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -341,7 +588,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -354,7 +603,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": null,
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -367,7 +618,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": "1",
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -380,7 +633,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": "1",
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -393,7 +648,9 @@
           "prst": "line",
           "flipH": null,
           "flipV": "1",
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         },
         {
           "type": "cxnSp",
@@ -406,9 +663,15 @@
           "prst": "line",
           "flipH": null,
           "flipV": "1",
-          "text": ""
+          "text": "",
+          "paragraphs": [],
+          "fill_ref_idx": "0"
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide5.xml",
@@ -425,8 +688,17 @@
           "flipH": null,
           "flipV": null,
           "text": "Non-profit PurposesAsset Protection",
+          "paragraphs": [
+            {
+              "text": "Non-profit PurposesAsset Protection",
+              "level": 0,
+              "sz": 3600,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
-          "ph_idx": ""
+          "ph_idx": "",
+          "is_placeholder": true
         },
         {
           "type": "sp",
@@ -440,10 +712,41 @@
           "flipH": null,
           "flipV": null,
           "text": "Asset protection is critical to fundraising in parishes/dioceses where future friendliness toward classical education and great art is in questionBarbarian bishops and modernist priests have destroyed much church art and sold off numerous assets to pay abuse settlementsMost people have stories of friends/family saving church art from literal dumpstersNon-profit can hold assets in trust and give them away to other schools if unfriendly powers take control and want to dispose of the art",
+          "paragraphs": [
+            {
+              "text": "Asset protection is critical to fundraising in parishes/dioceses where future friendliness toward classical education and great art is in question",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Barbarian bishops and modernist priests have destroyed much church art and sold off numerous assets to pay abuse settlements",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Most people have stories of friends/family saving church art from literal dumpsters",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Non-profit can hold assets in trust and give them away to other schools if unfriendly powers take control and want to dispose of the art",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
-          "ph_idx": "1"
+          "ph_idx": "1",
+          "is_placeholder": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide6.xml",
@@ -460,8 +763,17 @@
           "flipH": null,
           "flipV": null,
           "text": "Non-profit PurposesProject and Concept Promotion",
+          "paragraphs": [
+            {
+              "text": "Non-profit PurposesProject and Concept Promotion",
+              "level": 0,
+              "sz": 3600,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
-          "ph_idx": ""
+          "ph_idx": "",
+          "is_placeholder": true
         },
         {
           "type": "sp",
@@ -475,10 +787,77 @@
           "flipH": null,
           "flipV": null,
           "text": "Holy Child is pioneering something newNever before have modern printing methods been combined with the ever-growing library of high resolution photos of museum paintings to bring the best masterpiece paintings in the western canon to schoolsThe classical school movement is rapidly expanding and pioneering new ways to bring the a traditional education to the modern worldMany schools would likely be interested if they could see this projectWays to promote conceptSpeak at educational conferencesNews coveragePublishing in academic journals and educational magazinesPartnerships with local art museumsPartnerships with other schools",
+          "paragraphs": [
+            {
+              "text": "Holy Child is pioneering something new",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Never before have modern printing methods been combined with the ever-growing library of high resolution photos of museum paintings to bring the best masterpiece paintings in the western canon to schools",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "The classical school movement is rapidly expanding and pioneering new ways to bring the a traditional education to the modern world",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Many schools would likely be interested if they could see this project",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Ways to promote concept",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Speak at educational conferences",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "News coverage",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Publishing in academic journals and educational magazines",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Partnerships with local art museums",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Partnerships with other schools",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
-          "ph_idx": "1"
+          "ph_idx": "1",
+          "is_placeholder": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide7.xml",
@@ -495,8 +874,17 @@
           "flipH": null,
           "flipV": null,
           "text": "Non-profit PurposesConnecting School Communities and Museums",
+          "paragraphs": [
+            {
+              "text": "Non-profit PurposesConnecting School Communities and Museums",
+              "level": 0,
+              "sz": 3600,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
-          "ph_idx": ""
+          "ph_idx": "",
+          "is_placeholder": true
         },
         {
           "type": "sp",
@@ -510,10 +898,77 @@
           "flipH": null,
           "flipV": null,
           "text": "Reproductions shouldn\u2019t be the only art children seeMost masterpiece paintings live in museumsTraveling exhibits bring masterpieces to even smaller cities like AlbuquerqueReserving a section of wall to display the best of local art museums would encourage families to visitRequires working with museum staff to acquire rights and select pieces for displayProvides visibility of museum exhibits to school familiesProvides visibility of school in the wider communityWin-win for families, museum, and schoolStrong partnerships generate opportunity for positive media interest and coverageMuseum staff will likely lead this effort",
+          "paragraphs": [
+            {
+              "text": "Reproductions shouldn\u2019t be the only art children see",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Most masterpiece paintings live in museums",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Traveling exhibits bring masterpieces to even smaller cities like Albuquerque",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Reserving a section of wall to display the best of local art museums would encourage families to visit",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Requires working with museum staff to acquire rights and select pieces for display",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Provides visibility of museum exhibits to school families",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Provides visibility of school in the wider community",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Win-win for families, museum, and school",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Strong partnerships generate opportunity for positive media interest and coverage",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Museum staff will likely lead this effort",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
-          "ph_idx": "1"
+          "ph_idx": "1",
+          "is_placeholder": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide8.xml",
@@ -530,8 +985,17 @@
           "flipH": null,
           "flipV": null,
           "text": "Non-profit PurposesConnecting Likeminded School Communities",
+          "paragraphs": [
+            {
+              "text": "Non-profit PurposesConnecting Likeminded School Communities",
+              "level": 0,
+              "sz": 3600,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
-          "ph_idx": ""
+          "ph_idx": "",
+          "is_placeholder": true
         },
         {
           "type": "sp",
@@ -545,10 +1009,77 @@
           "flipH": null,
           "flipV": null,
           "text": "Serve as central resource to connect classical schools that want to implement this ideaProvide planning and logistical support to schools lacking expertiseCan help schools with planning and piece selectionHoly Child has already looked at thousands of paintings and has presentations with hundreds of potential candidatesProvide logistical support to schoolsConnect with Duraplaq and Derek BrooksDevelop connections to companies in other parts of  the country/world as time progressesProvide support to schools looking to circulate loaned paintingsSimilar to how most museums have traveling exhibitsHelp connect schools with their local art community",
+          "paragraphs": [
+            {
+              "text": "Serve as central resource to connect classical schools that want to implement this idea",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Provide planning and logistical support to schools lacking expertise",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Can help schools with planning and piece selection",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Holy Child has already looked at thousands of paintings and has presentations with hundreds of potential candidates",
+              "level": 2,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Provide logistical support to schools",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Connect with Duraplaq and Derek Brooks",
+              "level": 2,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Develop connections to companies in other parts of  the country/world as time progresses",
+              "level": 2,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Provide support to schools looking to circulate loaned paintings",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Similar to how most museums have traveling exhibits",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Help connect schools with their local art community",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
-          "ph_idx": "1"
+          "ph_idx": "1",
+          "is_placeholder": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide9.xml",
@@ -565,8 +1096,17 @@
           "flipH": null,
           "flipV": null,
           "text": "Starting a Non-profit",
+          "paragraphs": [
+            {
+              "text": "Starting a Non-profit",
+              "level": 0,
+              "sz": 3600,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
-          "ph_idx": ""
+          "ph_idx": "",
+          "is_placeholder": true
         },
         {
           "type": "sp",
@@ -580,8 +1120,59 @@
           "flipH": null,
           "flipV": null,
           "text": "Decide on purpose for organization and general goalsFeedback - Disagreement on goals in previous slides or other ideas?Select board modelRecruit and vote on transition board members (with future in mind)Highlight business/non-profit experience, time, motivation, and art expertiseAvoid conflicts of interestDecide on committees - both business and art relatedVote on a name",
+          "paragraphs": [
+            {
+              "text": "Decide on purpose for organization and general goals",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Feedback - Disagreement on goals in previous slides or other ideas?",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Select board model",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Recruit and vote on transition board members (with future in mind)",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Highlight business/non-profit experience, time, motivation, and art expertise",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Avoid conflicts of interest",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Decide on committees - both business and art related",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Vote on a name",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
-          "ph_idx": "1"
+          "ph_idx": "1",
+          "is_placeholder": true
         },
         {
           "type": "sp",
@@ -594,9 +1185,82 @@
           "prst": "rect",
           "flipH": null,
           "flipV": null,
-          "text": "Set board meeting dates for regular meetingsSet due dates and goals for tasksWrite Articles of Incorporation and BylawsSelect annual meeting date (mostly set in stone)Formally vote on board membersWork with volunteer legal help toSubmit paperwork to state of NMSubmit paperwork to IRSGet training for IRS paperwork and business aspects of tax deductibilityPrioritize art-related projects and get to workCan\u2019t do everything at once \u2013 Figure out projects with high impact and low difficulty to begin"
+          "text": "Set board meeting dates for regular meetingsSet due dates and goals for tasksWrite Articles of Incorporation and BylawsSelect annual meeting date (mostly set in stone)Formally vote on board membersWork with volunteer legal help toSubmit paperwork to state of NMSubmit paperwork to IRSGet training for IRS paperwork and business aspects of tax deductibilityPrioritize art-related projects and get to workCan\u2019t do everything at once \u2013 Figure out projects with high impact and low difficulty to begin",
+          "paragraphs": [
+            {
+              "text": "Set board meeting dates for regular meetings",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Set due dates and goals for tasks",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Write Articles of Incorporation and Bylaws",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Select annual meeting date (mostly set in stone)",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Formally vote on board members",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Work with volunteer legal help to",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Submit paperwork to state of NM",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Submit paperwork to IRS",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Get training for IRS paperwork and business aspects of tax deductibility",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Prioritize art-related projects and get to work",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Can\u2019t do everything at once \u2013 Figure out projects with high impact and low difficulty to begin",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "txBox": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide10.xml",
@@ -613,10 +1277,23 @@
           "flipH": null,
           "flipV": null,
           "text": "Questions and Feedback",
+          "paragraphs": [
+            {
+              "text": "Questions and Feedback",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
-          "ph_idx": ""
+          "ph_idx": "",
+          "is_placeholder": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     },
     {
       "file": "slide11.xml",
@@ -625,35 +1302,57 @@
           "type": "sp",
           "id": 2,
           "name": "Title 1",
-          "x": 493095,
-          "y": 1226,
+          "x": 838200,
+          "y": 365125,
           "cx": 10515600,
           "cy": 1325563,
           "prst": null,
           "flipH": null,
           "flipV": null,
           "text": "Resources",
+          "paragraphs": [
+            {
+              "text": "Resources",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "title",
           "ph_idx": "",
+          "is_placeholder": true,
           "geom_from_layout": true
         },
         {
           "type": "sp",
           "id": 3,
           "name": "Content Placeholder 2",
-          "x": 493095,
-          "y": 1432877,
+          "x": 838200,
+          "y": 1825625,
           "cx": 10515600,
           "cy": 4351338,
           "prst": null,
           "flipH": null,
           "flipV": null,
           "text": "",
+          "paragraphs": [
+            {
+              "text": "",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
           "ph_type": "body",
           "ph_idx": "1",
+          "is_placeholder": true,
           "geom_from_layout": true
         }
-      ]
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
     }
   ],
   "media_assets": [
@@ -661,5 +1360,15 @@
     "image3.jpg",
     "image4.png"
   ],
-  "master_layout_pics": 2
+  "master_layout_pics": 2,
+  "layouts_used": [
+    [
+      "Title Slide",
+      "Title Slide"
+    ],
+    [
+      "Title and Content",
+      "Title and Content"
+    ]
+  ]
 }

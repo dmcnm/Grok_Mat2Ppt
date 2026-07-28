@@ -1,0 +1,91 @@
+[
+  {
+    "slide": 1,
+    "layout": "Blank",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 0.0,
+          "y": 0.4769,
+          "cx": 13.3333,
+          "cy": 5.9591,
+          "x_emu": 0,
+          "y_emu": 436084,
+          "cx_emu": 12192000,
+          "cy_emu": 5449019,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.png",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 5",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.6591,
+          "y": 6.436,
+          "cx": 12.0152,
+          "cy": 0.5722,
+          "x_emu": 602673,
+          "y_emu": 5885103,
+          "cx_emu": 10986654,
+          "cy_emu": 523220,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "One of these is a symbol of scandal and clericalism.  The other is a hat.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "One of these is a symbol of scandal and clericalism.  The other is a hat.",
+                "sz": 2800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "One of these is a symbol of scandal and clericalism.  The other is a hat.",
+        "txBox": true
+      }
+    ]
+  }
+]

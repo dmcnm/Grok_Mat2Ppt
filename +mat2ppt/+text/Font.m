@@ -114,7 +114,9 @@ classdef Font < handle
             end
             if isempty(latin)
                 latin = mat2ppt.oxml.OxmlElement("a:latin");
-                obj.rPr_.append(latin);
+                % OOXML: latin follows fill/effect elements on rPr
+                idx = mat2ppt.text.Font.latin_insert_index_(obj.rPr_);
+                obj.rPr_.insert(idx, latin);
             end
             latin.set("typeface", char(string(value)));
         end
@@ -229,6 +231,20 @@ classdef Font < handle
             else
                 rPr.set(attr, "0");
             end
+        end
+
+        function idx = latin_insert_index_(rPr)
+            %LATIN_INSERT_INDEX_  Place latin after fills/effects, before ea/cs.
+            afterLatin = ["ea", "cs", "sym", "hlinkClick", "hlinkMouseOver", "rtl", "extLst"];
+            kids = rPr.getchildren();
+            for i = 1:numel(kids)
+                ln = string(kids{i}.localName());
+                if any(ln == afterLatin)
+                    idx = i;
+                    return
+                end
+            end
+            idx = numel(kids) + 1;
         end
     end
 end

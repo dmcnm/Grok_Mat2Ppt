@@ -5,8 +5,8 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13
 
 ## Slide 1
 
-- `sp` prst=None (None,None) NonexNone asset= text='Incontrovertible Proof that Moving to Town is a Step Up in the World f'
-- `sp` prst=None (None,None) NonexNone asset= text='December 31, 2014 @1454'
+- `sp` prst=None (685800,2130425) 7772400x1470025 asset= text='Incontrovertible Proof that Moving to Town is a Step Up in the World f'
+- `sp` prst=None (1371600,3886200) 6400800x1752600 asset= text='December 31, 2014 @1454'
 
 ## Slide 2
 

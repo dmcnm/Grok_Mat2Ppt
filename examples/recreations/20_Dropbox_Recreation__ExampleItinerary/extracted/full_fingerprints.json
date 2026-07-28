@@ -1,0 +1,120 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": {
+          "x": 1.85,
+          "y": -1.1614,
+          "cx": 6.25,
+          "cy": 9.9061,
+          "x_emu": 1691640,
+          "y_emu": -1061992,
+          "cx_emu": 5715000,
+          "cy_emu": 9058182,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.jpeg",
+        "crop": {
+          "b": 31236
+        }
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": {
+          "x": -2.8333,
+          "y": 3.5833,
+          "cx": 6.25,
+          "cy": 0.4167,
+          "x_emu": -2590800,
+          "y_emu": 3276599,
+          "cx_emu": 5715000,
+          "cy_emu": 381000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.jpeg",
+        "crop": {
+          "b": 97108
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": {
+          "x": -0.2135,
+          "y": 1.4635,
+          "cx": 6.25,
+          "cy": 4.6562,
+          "x_emu": -195263,
+          "y_emu": 1338264,
+          "cx_emu": 5715000,
+          "cy_emu": 4257673,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.jpeg",
+        "crop": {
+          "t": 67679
+        }
+      }
+    ]
+  }
+]

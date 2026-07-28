@@ -1,10 +1,15 @@
 # Inventory: 25_Dropbox_w-job_search__CES Recap_Modeling_100513_FinalD2.pptx
 
 Slides: 26
-Assets: ['image10.gif', 'image11.jpeg', 'image12.gif', 'image13.jpeg', 'image14.wmf', 'image15.png', 'image16.jpeg', 'image17.jpeg', 'image18.jpeg', 'image19.png', 'image20.jpeg', 'image21.jpeg', 'image22.png', 'image23.jpeg', 'image24.jpeg', 'image25.png', 'image26.png', 'image28.png', 'image29.jpeg', 'image30.emf', 'image31.emf', 'image32.emf', 'image33.emf', 'image34.emf', 'image35.jpeg', 'image36.emf', 'image38.emf', 'image39.emf', 'image40.emf', 'image41.emf', 'image42.emf', 'image43.png', 'image6.png', 'image7.jpeg', 'image8.jpeg', 'image9.jpeg']
+Assets: ['image1.png', 'image10.gif', 'image11.jpeg', 'image12.gif', 'image13.jpeg', 'image14.wmf', 'image15.png', 'image16.jpeg', 'image17.jpeg', 'image18.jpeg', 'image19.png', 'image2.png', 'image20.jpeg', 'image21.jpeg', 'image22.png', 'image23.jpeg', 'image24.jpeg', 'image25.png', 'image26.png', 'image28.png', 'image29.jpeg', 'image3.png', 'image30.emf', 'image31.emf', 'image32.emf', 'image33.emf', 'image34.emf', 'image35.jpeg', 'image36.emf', 'image38.emf', 'image39.emf', 'image4.png', 'image40.emf', 'image41.emf', 'image42.emf', 'image43.png', 'image5.jpeg', 'image6.png', 'image7.jpeg', 'image8.jpeg', 'image9.jpeg']
 
 ## Slide 1
 
+- `pic` prst=rect (14288,52388) 1189037x969962 asset=image1.png text=''
+- `pic` prst=rect (8153400,609600) 990600x169863 asset=image2.png text=''
+- `pic` prst=rect (8077200,152400) 471488x450850 asset=image3.png text=''
+- `pic` prst=rect (8624888,152400) 519112x493713 asset=image4.png text=''
+- `pic` prst=rect (8153400,0) 819150x120650 asset=image5.jpeg text=''
 - `sp` prst=rect (190500,1219200) 8763000x2362200 asset= text=''
 - `pic` prst=rect (457200,4648200) 1864775x1524000 asset=image6.png text=''
 - `sp` prst=None (152400,1635760) 8610600x1640840 asset= text='Cable Effects Study Program Reviewand Cable Modelling Approach'
@@ -124,7 +129,7 @@ Assets: ['image10.gif', 'image11.jpeg', 'image12.gif', 'image13.jpeg', 'image14.
 - `sp` prst=None (990600,269875) 7159625x720725 asset= text='Bare Cable Lateral Test: Parameter Estimation Approach'
 - `sp` prst=None (2895600,1295400) 6096000x5181600 asset= text='Measurements are cleaned up Modal parameter estimation step\uf067 (        '
 - `pic` prst=rect (228601,1219200) 2220702x5154323 asset=image28.png text=''
-- `graphicFrame` prst=None (None,None) NonexNone asset= text=''
+- `graphicFrame` prst=None (3505200,2286000) 660400x533400 asset= text=''
 
 ## Slide 14
 
@@ -177,7 +182,7 @@ Assets: ['image10.gif', 'image11.jpeg', 'image12.gif', 'image13.jpeg', 'image14.
 - `pic` prst=rect (4419600,1600200) 4367213x3902075 asset=image39.emf text=''
 - `sp` prst=None (0,1143000) 4800600x5280025 asset= text='Compared traditional modelling approach (i.e., nonstructural mass) wit'
 - `pic` prst=rect (4724400,2057400) 4419600x4419600 asset=image40.emf text=''
-- `graphicFrame` prst=None (None,None) NonexNone asset= text=''
+- `graphicFrame` prst=None (762000,5662613) 3076575x1195387 asset= text=''
 - `pic` prst=rect (4676132,1981200) 4467868x4876800 asset=image41.emf text=''
 - `sp` prst=rect (4648200,5562600) 4495800x923330 asset= text='Least benefit from dynamic cable models with low mass ratio and/or lar'
 

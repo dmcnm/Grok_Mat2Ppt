@@ -5,6 +5,7 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13
 
 ## Slide 1
 
+- `pic` prst=rect (0,1143000) 2286000x5729288 asset=image1.jpeg text=''
 - `sp` prst=None (381000,304800) 8077200x1143000 asset= text='Jeff and Erika Cowman'
 - `sp` prst=None (4724400,1828800) 4038600x4114800 asset= text='Met when Jeff was 17 and Erika 18, on Bishop Kelly campusMarried at St'
 - `pic` prst=rect (381000,1793837) 3962400x4479235 asset=image2.jpeg text=''
@@ -228,13 +229,13 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13
 
 - `sp` prst=None (909100,69056) 7886700x1325563 asset= text='How the pill and IUD work'
 - `sp` prst=None (2438400,1663700) 6667500x3810001 asset= text='Progestin convinces woman’s body she’s pregnantSuppress ovulationBack-'
-- `graphicFrame` prst=None (None,None) NonexNone asset= text=''
+- `graphicFrame` prst=None (-152400,1066800) 2971800x2146300 asset= text=''
 - `sp` prst=rect (38100,2743200) 2209800x400110 asset= text='Combined pill'
 - `sp` prst=rect (909100,1408172) 662361x420628 asset= text='28%'
-- `graphicFrame` prst=None (None,None) NonexNone asset= text=''
+- `graphicFrame` prst=None (-152400,2965102) 2971800x2146300 asset= text=''
 - `sp` prst=rect (38100,4643735) 2209800x400110 asset= text='Progestin-only'
 - `sp` prst=rect (727961,3465572) 1024639x420628 asset= text='33-65%'
-- `graphicFrame` prst=None (None,None) NonexNone asset= text=''
+- `graphicFrame` prst=None (-170543,4800600) 2971800x2146300 asset= text=''
 - `sp` prst=rect (38100,6457890) 2209800x400110 asset= text='Mirena'
 - `sp` prst=rect (909100,5294372) 662361x420628 asset= text='75%'
 - `sp` prst=rect (2057400,6044625) 6749143x584775 asset= text='Larimore W, Stanford J, Postfertilization Effects of Oral Contraceptiv'
@@ -271,7 +272,7 @@ Assets: ['image1.jpeg', 'image10.jpeg', 'image11.jpeg', 'image12.jpeg', 'image13
 ## Slide 44
 
 - `sp` prst=None (655264,768349) 7886700x2852737 asset= text='NFP Benefit #5'
-- `sp` prst=None (None,None) NonexNone asset= text='Effective'
+- `sp` prst=None (623888,4589464) 7886700x1500187 asset= text='Effective'
 
 ## Slide 45
 

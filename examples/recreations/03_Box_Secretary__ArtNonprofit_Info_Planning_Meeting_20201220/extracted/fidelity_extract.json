@@ -1,0 +1,1764 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"ctrTitle\"",
+        "box": null,
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Art Non-profit",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Subtitle 2",
+        "ph": "<p:ph type=\"subTitle\" idx=\"1\"",
+        "box": null,
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Informational and Planning Meeting",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "December 20, 2020",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Overview",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.5393,
+          1.2388,
+          11.5,
+          5.0869
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Summary of Current Project and Status",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Overview of Potential Non-profit Purpose and Goals",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Survey of Participants and Potential Next Steps ",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Holy Child Project Overview",
+            "lvl": 0,
+            "pt": 36,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.5393,
+          1.2692,
+          11.5,
+          5.0565
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "62500",
+        "paras": [
+          {
+            "text": "Mother Seton Hall art schema finished",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Five main hallway sections, plus intro, closing, and side hallways",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Focus is on reproductions of masterpiece paintings and will not include photos of statues and other architecture",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Each main section to cover an era of history ",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Also looking to highlight art history ",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Intro section complete",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "10 paintings for just over $10k ",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Modern Era Funding Promised \u2013 Currently in RFQ Stage",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Two pieces awaiting final down select",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "15 paintings for $10.5k-14k",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Fundraising and final selection remains for following sections",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Cradle of Civilization and OT ",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Greece and Rome ",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Paschal Mystery",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Early Church to Medieval Era",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Estimated Costs remaining: ~40 paintings for $35k plus lighting",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Planning not yet begun for Blessed Miguel Pro Hall",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 3,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 6",
+        "ph": "",
+        "box": [
+          8.7451,
+          2.8281,
+          4.5882,
+          2.1205
+        ],
+        "prst": "rect",
+        "autofit": "sp",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Mother Seton Hall Nearly 1/3 Complete!!! ",
+            "lvl": 0,
+            "pt": 40,
+            "face": null,
+            "rgb": null,
+            "bold": true
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.173
+        ],
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Mother Seton Hall Art Schema",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          1.571,
+          5.2128,
+          3.1311,
+          1.5142
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "92500",
+        "paras": [
+          {
+            "text": "Completed",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": "00B050",
+            "bold": false
+          },
+          {
+            "text": "In-progress",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": "7030A0",
+            "bold": false
+          },
+          {
+            "text": "Planning Stages",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "ph": "",
+        "box": [
+          0.7736,
+          1.2641,
+          10.8753,
+          4.0312
+        ],
+        "prst": "rect",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": "image4.png",
+        "crop": " r=\"1414\""
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 7",
+        "ph": "",
+        "box": [
+          0.9362,
+          3.4953,
+          1.9043,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 8",
+        "ph": "",
+        "box": [
+          3.1809,
+          3.5273,
+          2.6509,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 13",
+        "ph": "",
+        "box": [
+          0.9362,
+          3.0131,
+          1.9043,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 14",
+        "ph": "",
+        "box": [
+          0.9362,
+          4.4031,
+          0.8617,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 16",
+        "ph": "",
+        "box": [
+          0.9574,
+          3.4953,
+          0.0,
+          0.8819
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 18",
+        "ph": "",
+        "box": [
+          5.8317,
+          3.6514,
+          0.4575,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 20",
+        "ph": "",
+        "box": [
+          3.1809,
+          3.0368,
+          2.6509,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 23",
+        "ph": "",
+        "box": [
+          6.1879,
+          3.0368,
+          2.4078,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 25",
+        "ph": "",
+        "box": [
+          6.6348,
+          3.4967,
+          1.9397,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 27",
+        "ph": "",
+        "box": [
+          8.9291,
+          3.506,
+          2.3794,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 29",
+        "ph": "",
+        "box": [
+          8.9291,
+          3.0368,
+          1.3262,
+          0.0
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 31",
+        "ph": "",
+        "box": [
+          6.656,
+          3.4953,
+          0.0,
+          0.5829
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 33",
+        "ph": "",
+        "box": [
+          6.1915,
+          2.4302,
+          0.0,
+          0.4102
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 34",
+        "ph": "",
+        "box": [
+          5.8743,
+          2.4539,
+          0.0,
+          0.5829
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 35",
+        "ph": "",
+        "box": [
+          6.2893,
+          3.6514,
+          0.0,
+          0.2112
+        ],
+        "prst": "line",
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2487
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Non-profit Purposes\nAsset Protection",
+            "lvl": 0,
+            "pt": 36,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.5393,
+          1.625,
+          12.3934,
+          4.7007
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Asset protection is critical to fundraising in parishes/dioceses where future friendliness toward classical education and great art is in question",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Barbarian bishops and modernist priests have destroyed much church art and sold off numerous assets to pay abuse settlements",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Most people have stories of friends/family saving church art from literal dumpsters",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Non-profit can hold assets in trust and give them away to other schools if unfriendly powers take control and want to dispose of the art",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 3,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2487
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Non-profit Purposes\nProject and Concept Promotion",
+            "lvl": 0,
+            "pt": 36,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.5393,
+          1.625,
+          12.3934,
+          4.7007
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "92500",
+        "paras": [
+          {
+            "text": "Holy Child is pioneering something new",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Never before have modern printing methods been combined with the ever-growing library of high resolution photos of museum paintings to bring the best masterpiece paintings in the western canon to schools",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "The classical school movement is rapidly expanding and pioneering new ways to bring the a traditional education to the modern world",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Many schools would likely be interested if they could see this project",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Ways to promote concept",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Speak at educational conferences",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "News coverage",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Publishing in academic journals and educational magazines",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Partnerships with local art museums",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Partnerships with other schools",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 3,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2487
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Non-profit Purposes\nConnecting School Communities and Museums",
+            "lvl": 0,
+            "pt": 36,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.5393,
+          1.25,
+          12.3934,
+          5.0757
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "92500",
+        "paras": [
+          {
+            "text": "Reproductions shouldn\u2019t be the only art children see",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Most masterpiece paintings live in museums",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Traveling exhibits bring masterpieces to even smaller cities like Albuquerque",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Reserving a section of wall to display the best of local art museums would encourage families to visit",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Requires working with museum staff to acquire rights and select pieces for display",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Provides visibility of museum exhibits to school families",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Provides visibility of school in the wider community",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Win-win for families, museum, and school",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Strong partnerships generate opportunity for positive media interest and coverage",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Museum staff will likely lead this effort",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 3,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2487
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Non-profit Purposes\nConnecting Likeminded School Communities",
+            "lvl": 0,
+            "pt": 36,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.5393,
+          1.25,
+          12.3934,
+          5.0757
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Serve as central resource to connect classical schools that want to implement this idea",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Provide planning and logistical support to schools lacking expertise",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Can help schools with planning and piece selection",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Holy Child has already looked at thousands of paintings and has presentations with hundreds of potential candidates",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Provide logistical support to schools",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Connect with Duraplaq and Derek Brooks",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Develop connections to companies in other parts of  the country/world as time progresses",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Provide support to schools looking to circulate loaned paintings",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Similar to how most museums have traveling exhibits",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Help connect schools with their local art community",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 3,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.5393,
+          0.0013,
+          11.5,
+          1.2102
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Starting a Non-profit",
+            "lvl": 0,
+            "pt": 36,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": [
+          0.6154,
+          1.2933,
+          6.0513,
+          4.8798
+        ],
+        "prst": null,
+        "autofit": "norm",
+        "fontScale": "92500",
+        "paras": [
+          {
+            "text": "Decide on purpose for organization and general goals",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Feedback - Disagreement on goals in previous slides or other ideas?",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Select board model",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Recruit and vote on transition board members (with future in mind)",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Highlight business/non-profit experience, time, motivation, and art expertise",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Avoid conflicts of interest",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Decide on committees - both business and art related",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Vote on a name",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 3,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "",
+        "box": [
+          6.5321,
+          1.7051,
+          6.7083,
+          4.8798
+        ],
+        "prst": "rect",
+        "autofit": "norm",
+        "fontScale": "85000",
+        "paras": [
+          {
+            "text": "Set board meeting dates for regular meetings",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Set due dates and goals for tasks",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Write Articles of Incorporation and Bylaws",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Select annual meeting date (mostly set in stone)",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Formally vote on board members",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Work with volunteer legal help to",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Submit paperwork to state of NM",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Submit paperwork to IRS",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Get training for IRS paperwork and business aspects of tax deductibility",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Prioritize art-related projects and get to work",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "Can\u2019t do everything at once \u2013 Figure out projects with high impact and low difficulty to begin",
+            "lvl": 1,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 3,
+            "pt": null,
+            "face": "Arial",
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          },
+          {
+            "text": "",
+            "lvl": 2,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": [
+          0.0,
+          3.2321,
+          13.3333,
+          1.4497
+        ],
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Questions and Feedback",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "<p:ph type=\"title\"",
+        "box": null,
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "Resources",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "<p:ph idx=\"1\"",
+        "box": null,
+        "prst": null,
+        "autofit": "none",
+        "fontScale": null,
+        "paras": [
+          {
+            "text": "",
+            "lvl": 0,
+            "pt": null,
+            "face": null,
+            "rgb": null,
+            "bold": false
+          }
+        ],
+        "asset": null,
+        "crop": null
+      }
+    ]
+  }
+]

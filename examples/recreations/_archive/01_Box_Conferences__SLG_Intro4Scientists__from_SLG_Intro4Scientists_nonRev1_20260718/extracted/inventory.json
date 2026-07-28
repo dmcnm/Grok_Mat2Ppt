@@ -1,0 +1,1116 @@
+{
+  "source": "/mnt/c/Users/dougl/Repos/MSOffice_Grok/Mat2Ppt/examples/recreations/01_Box_Conferences__SLG_Intro4Scientists/reference_original.pptx",
+  "source_name": "reference_original.pptx",
+  "slide_size_emu": {
+    "cx": "9144000",
+    "cy": "6858000",
+    "type": "screen4x3"
+  },
+  "n_parts": 52,
+  "n_slides": 6,
+  "slides": [
+    {
+      "file": "slide1.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 457200,
+          "y": 274638,
+          "cx": 8229600,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "What Makes a Great Scientist?",
+          "paragraphs": [
+            {
+              "text": "What Makes a Great Scientist?",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "title",
+          "ph_idx": "",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Content Placeholder 4",
+          "x": 457200,
+          "y": 1295400,
+          "cx": 8229600,
+          "cy": 4830763,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Knowing science and math factsBeing able to solve known scientific problemsBeing able to acquire new data and assemble new theories to expand knowledge and answer specific questions about the universeIs there something that many of our greatest scientists have in common?Pictures of Newton, Einstein, and FeynmanOverlays of the Bible, Violin, and Congo drums",
+          "paragraphs": [
+            {
+              "text": "Knowing science and math facts",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Being able to solve known scientific problems",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Being able to acquire new data and assemble new theories to expand knowledge and answer specific questions about the universe",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Is there something that many of our greatest scientists have in common?",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Pictures of Newton, Einstein, and Feynman",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Overlays of the Bible, Violin, and Congo drums",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "1",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Footer Placeholder 2",
+          "x": 3124200,
+          "y": 6356350,
+          "cx": 2895600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Lesson 18 Biology 2",
+          "paragraphs": [
+            {
+              "text": "Lesson 18 Biology 2",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "ftr",
+          "ph_idx": "11",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Slide Number Placeholder 3",
+          "x": 6553200,
+          "y": 6356350,
+          "cx": 2133600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "1",
+          "paragraphs": [
+            {
+              "text": "1",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "sldNum",
+          "ph_idx": "12",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        }
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
+    },
+    {
+      "file": "slide2.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 457200,
+          "y": 274638,
+          "cx": 8229600,
+          "cy": 639762,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Science: Left-Brain or Right-Brain Thinking?",
+          "paragraphs": [
+            {
+              "text": "Science: Left-Brain or Right-Brain Thinking?",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "title",
+          "ph_idx": "",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 6,
+          "name": "Text Placeholder 5",
+          "x": 457200,
+          "y": 1230313,
+          "cx": 4040188,
+          "cy": 639762,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Left-Brain Characteristics",
+          "paragraphs": [
+            {
+              "text": "Left-Brain Characteristics",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "1",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 457200,
+          "y": 1870075,
+          "cx": 4040188,
+          "cy": 4256088,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Helps us manipulate the worldClinical attentionLeft hemisphere sees isolated details that areFamiliarKnownFixedGraspableAbstractedTaken out of contextCategorizableGeneral in natureGenerally inanimate, because the process has completely isolated them from everything else and deanimated themGrasping a tiny detailNarrowly, focused, targeted attention to something it already knows about",
+          "paragraphs": [
+            {
+              "text": "Helps us manipulate the world",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Clinical attention",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Left hemisphere sees isolated details that are",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Familiar",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Known",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Fixed",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Graspable",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Abstracted",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Taken out of context",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Categorizable",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "General in nature",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Generally inanimate, because the process has completely isolated them from everything else and deanimated them",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Grasping a tiny detail",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Narrowly, focused, targeted attention to something it already knows about",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "2",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 7,
+          "name": "Text Placeholder 6",
+          "x": 4645025,
+          "y": 1230313,
+          "cx": 4041775,
+          "cy": 639762,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Right-Brain Characteristics",
+          "paragraphs": [
+            {
+              "text": "Right-Brain Characteristics",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "3",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 8,
+          "name": "Content Placeholder 7",
+          "x": 4645025,
+          "y": 1870075,
+          "cx": 4041775,
+          "cy": 4256088,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Helps us understand the worldRapt attentionRight hemisphere\u2019s vision sees things that areonly partly knownonly partly certain of what we are looking atFreshInterconnected, and situated where they are in contextWhen we take them out of context, they change their natureFlowing and changing, not fixed and graspable in a simple wayUnique rather than exemplars of a common themeEmbodied rather than abstracted and disembodiedAnimate, rather than inanimateHas the ability to look out for something we might be missing -- more skepticalAssembles facts for application in an embodied world.",
+          "paragraphs": [
+            {
+              "text": "Helps us understand the world",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Rapt attention",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Right hemisphere\u2019s vision sees things that are",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "only partly known",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "only partly certain of what we are looking at",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Fresh",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Interconnected, and situated where they are in context",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "When we take them out of context, they change their nature",
+              "level": 2,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Flowing and changing, not fixed and graspable in a simple way",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Unique rather than exemplars of a common theme",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Embodied rather than abstracted and disembodied",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Animate, rather than inanimate",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Has the ability to look out for something we might be missing -- more skeptical",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Assembles facts for application in an embodied world. ",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "4",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Footer Placeholder 3",
+          "x": 3124200,
+          "y": 6356350,
+          "cx": 2895600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Lesson 18 Biology 2",
+          "paragraphs": [
+            {
+              "text": "Lesson 18 Biology 2",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "ftr",
+          "ph_idx": "11",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Slide Number Placeholder 4",
+          "x": 6553200,
+          "y": 6356350,
+          "cx": 2133600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "2",
+          "paragraphs": [
+            {
+              "text": "2",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "sldNum",
+          "ph_idx": "12",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "TextBox 8",
+          "x": 152400,
+          "y": 5943600,
+          "cx": 8763000,
+          "cy": 646331,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Reason is this ability to bring together the faculties of logic with the faculties of an intuitive, implicit, embodied understanding of what it means to be alive\u201d \u2013Iain McGilchrist",
+          "paragraphs": [
+            {
+              "text": "Reason is this ability to bring together the faculties of logic with the faculties of an intuitive, implicit, embodied understanding of what it means to be alive\u201d \u2013Iain McGilchrist",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "no_fill": true,
+          "txBox": true
+        },
+        {
+          "type": "sp",
+          "id": 10,
+          "name": "TextBox 9",
+          "x": 0,
+          "y": 1066800,
+          "cx": 9117874,
+          "cy": 369332,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "Our perceptions of the world come from paying a certain kind of attention to it",
+          "paragraphs": [
+            {
+              "text": "Our perceptions of the world come from paying a certain kind of attention to it",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "no_fill": true,
+          "txBox": true
+        }
+      ],
+      "layout_file": "slideLayout5.xml",
+      "layout_name_source": "Comparison",
+      "layout_name": "Comparison",
+      "layout_name_mapped_raw": "Comparison"
+    },
+    {
+      "file": "slide3.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 9,
+          "name": "Title 8",
+          "x": 457200,
+          "y": 274638,
+          "cx": 8229600,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Developing the Right-Brain",
+          "paragraphs": [
+            {
+              "text": "Developing the Right-Brain",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "title",
+          "ph_idx": "",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 10,
+          "name": "Content Placeholder 9",
+          "x": 457200,
+          "y": 1600200,
+          "cx": 8229600,
+          "cy": 4756150,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "If we want to educate students to be world-class scientists, we need to develop and not dismiss right-brain thinkingBoth left and right-brain thinking are critical for breakthrough scienceTeach an understanding of and appreciation for Music, Art, and the SacredFor example: band, drawing, family, and the pledge of allegiance/reveilleThe Saint Luke Guild was founded to bring high quality, physical reproductions of the greatest works of art to students of average meansEnabled by two technological developments from the last 20 yearsThe explosion of high-resolution, digital imagery of the greatest works of art, previously reserved to museum visitorsThe dramatic improvements in low-cost, museum quality photographic printing methods",
+          "paragraphs": [
+            {
+              "text": "If we want to educate students to be world-class scientists, we need to develop and not dismiss right-brain thinking",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Both left and right-brain thinking are critical for breakthrough science",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Teach an understanding of and appreciation for Music, Art, and the Sacred",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "For example: band, drawing, family, and the pledge of allegiance/reveille",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "The Saint Luke Guild was founded to bring high quality, physical reproductions of the greatest works of art to students of average means",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Enabled by two technological developments from the last 20 years",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "The explosion of high-resolution, digital imagery of the greatest works of art, previously reserved to museum visitors",
+              "level": 2,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "The dramatic improvements in low-cost, museum quality photographic printing methods",
+              "level": 2,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "1",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 7,
+          "name": "Footer Placeholder 6",
+          "x": 3124200,
+          "y": 6356350,
+          "cx": 2895600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Lesson 18 Biology 2",
+          "paragraphs": [
+            {
+              "text": "Lesson 18 Biology 2",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "ftr",
+          "ph_idx": "11",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 8,
+          "name": "Slide Number Placeholder 7",
+          "x": 6553200,
+          "y": 6356350,
+          "cx": 2133600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "3",
+          "paragraphs": [
+            {
+              "text": "3",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "sldNum",
+          "ph_idx": "12",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        }
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
+    },
+    {
+      "file": "slide4.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 457200,
+          "y": 274638,
+          "cx": 8229600,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Example Project",
+          "paragraphs": [
+            {
+              "text": "Example Project",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "title",
+          "ph_idx": "",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 457200,
+          "y": 1600200,
+          "cx": 8229600,
+          "cy": 4525963,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Bring around 50 paintings showing both a timeline of art and world history to Holy Child Catholic School$30k in artwork installed in the last 1.5 years$30k in funding promised by donors to complete the hallwayOver 20 years projects of a similar scale could be done in every school throughout the country for ~.05% of their budgetCompare with Zuckerberg\u2019s $300,000,000 donation to one school district \u2013 Zero improvement in student achievement",
+          "paragraphs": [
+            {
+              "text": "Bring around 50 paintings showing both a timeline of art and world history to Holy Child Catholic School",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "$30k in artwork installed in the last 1.5 years",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "$30k in funding promised by donors to complete the hallway",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Over 20 years projects of a similar scale could be done in every school throughout the country for ~.05% of their budget",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Compare with Zuckerberg\u2019s $300,000,000 donation to one school district \u2013 Zero improvement in student achievement",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "1",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Footer Placeholder 3",
+          "x": 3124200,
+          "y": 6356350,
+          "cx": 2895600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Lesson 18 Biology 2",
+          "paragraphs": [
+            {
+              "text": "Lesson 18 Biology 2",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "ftr",
+          "ph_idx": "11",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Slide Number Placeholder 4",
+          "x": 6553200,
+          "y": 6356350,
+          "cx": 2133600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "4",
+          "paragraphs": [
+            {
+              "text": "4",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "sldNum",
+          "ph_idx": "12",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        }
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
+    },
+    {
+      "file": "slide5.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 457200,
+          "y": 274638,
+          "cx": 8229600,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Example Paintings",
+          "paragraphs": [
+            {
+              "text": "Example Paintings",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "title",
+          "ph_idx": "",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 76200,
+          "y": 1600200,
+          "cx": 8991600,
+          "cy": 4525963,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Science brings us facts about the world",
+          "paragraphs": [
+            {
+              "text": "Science brings us facts about the world",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "1",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Footer Placeholder 3",
+          "x": 3124200,
+          "y": 6356350,
+          "cx": 2895600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Lesson 18 Biology 2",
+          "paragraphs": [
+            {
+              "text": "Lesson 18 Biology 2",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "ftr",
+          "ph_idx": "11",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Slide Number Placeholder 4",
+          "x": 6553200,
+          "y": 6356350,
+          "cx": 2133600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "5",
+          "paragraphs": [
+            {
+              "text": "5",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "sldNum",
+          "ph_idx": "12",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "pic",
+          "id": 6,
+          "name": "Picture 5",
+          "x": 3826220,
+          "y": 2087090,
+          "cx": 5334807,
+          "cy": 4110912,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "paragraphs": [],
+          "rId": "rId2",
+          "media_target": "../media/image1.jpg",
+          "asset": "image1.jpg"
+        },
+        {
+          "type": "pic",
+          "id": 7,
+          "name": "Content Placeholder 4",
+          "x": -13236,
+          "y": 1827818,
+          "cx": 3839456,
+          "cy": 4786024,
+          "prst": "rect",
+          "flipH": null,
+          "flipV": null,
+          "text": "",
+          "paragraphs": [],
+          "rId": "rId3",
+          "media_target": "../media/image2.jpg",
+          "asset": "image2.jpg"
+        }
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
+    },
+    {
+      "file": "slide6.xml",
+      "shapes": [
+        {
+          "type": "sp",
+          "id": 2,
+          "name": "Title 1",
+          "x": 457200,
+          "y": 274638,
+          "cx": 8229600,
+          "cy": 1143000,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Summary",
+          "paragraphs": [
+            {
+              "text": "Summary",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "title",
+          "ph_idx": "",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 3,
+          "name": "Content Placeholder 2",
+          "x": 76200,
+          "y": 1600200,
+          "cx": 8991600,
+          "cy": 4525963,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Science brings us disembodied, decontextualized facts about the worldArt and myth are focused on how embodied humans should act in the real world, which is particular and uncertainBoth left and right-brained thinking is necessary for a world-class scientific enterpriseThe scientist is servant to the humanities majorThey control how our inventions are usedThe Saint Luke Guild helps develop right-brain thinking by bringing high quality reproductions of the greatest works of art in the Western Canon to average studentsDeveloping an appreciation for rapt attention alongside clinical attention",
+          "paragraphs": [
+            {
+              "text": "Science brings us disembodied, decontextualized facts about the world",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Art and myth are focused on how embodied humans should act in the real world, which is particular and uncertain",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Both left and right-brained thinking is necessary for a world-class scientific enterprise",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "The scientist is servant to the humanities major",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "They control how our inventions are used",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "The Saint Luke Guild helps develop right-brain thinking by bringing high quality reproductions of the greatest works of art in the Western Canon to average students",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            },
+            {
+              "text": "Developing an appreciation for rapt attention alongside clinical attention",
+              "level": 1,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "body",
+          "ph_idx": "1",
+          "is_placeholder": true
+        },
+        {
+          "type": "sp",
+          "id": 4,
+          "name": "Footer Placeholder 3",
+          "x": 3124200,
+          "y": 6356350,
+          "cx": 2895600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "Lesson 18 Biology 2",
+          "paragraphs": [
+            {
+              "text": "Lesson 18 Biology 2",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "ftr",
+          "ph_idx": "11",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        },
+        {
+          "type": "sp",
+          "id": 5,
+          "name": "Slide Number Placeholder 4",
+          "x": 6553200,
+          "y": 6356350,
+          "cx": 2133600,
+          "cy": 365125,
+          "prst": null,
+          "flipH": null,
+          "flipV": null,
+          "text": "6",
+          "paragraphs": [
+            {
+              "text": "6",
+              "level": 0,
+              "sz": null,
+              "bold": null
+            }
+          ],
+          "ph_type": "sldNum",
+          "ph_idx": "12",
+          "is_placeholder": true,
+          "geom_from_layout": true
+        }
+      ],
+      "layout_file": "slideLayout2.xml",
+      "layout_name_source": "Title and Content",
+      "layout_name": "Title and Content",
+      "layout_name_mapped_raw": "Title and Content"
+    }
+  ],
+  "media_assets": [
+    "image1.jpg",
+    "image2.jpg"
+  ],
+  "master_layout_pics": 0,
+  "layouts_used": [
+    [
+      "Comparison",
+      "Comparison"
+    ],
+    [
+      "Title and Content",
+      "Title and Content"
+    ]
+  ]
+}

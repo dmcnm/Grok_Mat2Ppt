@@ -1,0 +1,60 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.9167,
+          "y": 0.3993,
+          "cx": 11.5,
+          "cy": 0.6364,
+          "x_emu": 838200,
+          "y_emu": 365126,
+          "cx_emu": 10515600,
+          "cy_emu": 581932,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 0.4506,
+          "y": 0.3036,
+          "cx": 12.1465,
+          "cy": 7.5,
+          "x_emu": 411995,
+          "y_emu": 277586,
+          "cx_emu": 11106751,
+          "cy_emu": 6858000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.png",
+        "crop": null
+      }
+    ]
+  }
+]

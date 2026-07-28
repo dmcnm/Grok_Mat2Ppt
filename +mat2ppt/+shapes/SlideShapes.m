@@ -226,8 +226,11 @@ classdef SlideShapes < mat2ppt.shared.Collection
             sh = obj.item(obj.length);
         end
 
-        function sh = add_connector(obj, connectorType, beginX, beginY, endX, endY)
+        function sh = add_connector(obj, connectorType, beginX, beginY, endX, endY, adj)
             %ADD_CONNECTOR  Append connector shape (python SlideShapes.add_connector).
+            %   begin/end define the path endpoints; flipH/flipV are derived.
+            %   Optional adj: Nx2 cell of {name, fmla} for bentConnector path
+            %   control points (e.g. {"adj1","val -49334"; "adj2","val 59784"}).
             arguments
                 obj
                 connectorType
@@ -235,6 +238,7 @@ classdef SlideShapes < mat2ppt.shared.Collection
                 beginY
                 endX
                 endY
+                adj = {}
             end
             bx = double(mat2ppt.util.Length.toEmuInt_(beginX));
             by = double(mat2ppt.util.Length.toEmuInt_(beginY));
@@ -254,7 +258,7 @@ classdef SlideShapes < mat2ppt.shared.Collection
             sid = obj.nextId_;
             obj.nextId_ = obj.nextId_ + 1;
             name = sprintf("Connector %d", sid - 1);
-            cxnSp = mat2ppt.oxml.shapes.new_cxnSp(sid, name, prst, x, y, cx, cy, flipH, flipV);
+            cxnSp = mat2ppt.oxml.shapes.new_cxnSp(sid, name, prst, x, y, cx, cy, flipH, flipV, adj);
             mat2ppt.oxml.shapes.spTree_add_sp(obj.spTree_, cxnSp);
             obj.rebuild_items_();
             sh = obj.item(obj.length);

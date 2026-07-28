@@ -1,322 +1,214 @@
-%% demo.m — Recreate FoundingDocs Dissolution Assets FlowChart via Mat2Ppt API
-% Source: Box/FoundingDocs/Bylaws/Dissolution_DistributionOfAssets_FlowChart.pptx
-% Assets: none (vector flowchart only). Inventory: extracted/shapes.json
+%% demo.m — Hand-authored recreation: Dissolution / Distribution of Assets flowchart
+% Source: reference_original.pptx (Office-authored flowchart)
 %
-% Run from anywhere; writes out_mat2ppt.pptx next to this script.
+% Goals for this demo (visual pass, not just structural inventory):
+%   1) Human units: Inches (not raw EMU) — slide is 13.33" x 7.50" widescreen
+%   2) Font size on every shape (14 pt body / 12 pt Yes-No labels)
+%   3) Yes/No as textboxes (noFill) — not styled rectangles with fill
+%   4) Theme solid fill via fillRef idx 1 (product default; not gradient idx 3)
+%   5) Connector begin/end + flip + adj (path) + triangle tailEnd arrows
+%
+% Run from MATLAB:
+%   cd to this folder, then: demo
+% Outputs: out_mat2ppt.pptx next to this script.
 
 here = fileparts(mfilename("fullpath"));
 addpath(fullfile(here, "..", "..", ".."));  % Mat2Ppt root
 outPath = fullfile(here, "out_mat2ppt.pptx");
+tpl = fullfile(here, "source_template.pptx");
 
-prs = mat2ppt.Presentation();
-% Match original slide size 13.33" x 7.5" (widescreen)
-prs.slide_width = mat2ppt.util.Emu(12192000);
-prs.slide_height = mat2ppt.util.Emu(6858000);
-blank = prs.slide_layouts().get_by_name("Blank");
-s = prs.slides().add_slide(blank);
+In = @mat2ppt.util.Inches;
+Pt = @mat2ppt.util.Pt;
+
+% Fidelity: open source package (Office Theme + layouts), not default.pptx
+if isfile(tpl)
+    prs = mat2ppt.Presentation(tpl);
+else
+    prs = mat2ppt.Presentation();
+    prs.slide_width = In(13.333333);
+    prs.slide_height = In(7.5);
+end
+% Free flowchart on Blank layout (no placeholders).
+lay = prs.slide_layouts().get_by_name("Blank");
+s = prs.slides().add_slide(lay);
 sh = s.shapes();
 
-%% Flowchart nodes and labels (geometry from original slide XML)
+%% ===== Decision diamonds (flowChartDecision) — 14 pt white theme text =====
+sp = add_flow_(sh, "flowChartDecision", 6.265, 0.145, 2.029, 1.080, ...
+    "Are the Assets Artistic?");
+sp = add_flow_(sh, "flowChartDecision", 4.047, 0.997, 2.620, 1.110, ...
+    "Assets Reside at a School or Nonprofit?");
+sp = add_flow_(sh, "flowChartDecision", 1.592, 1.965, 2.850, 1.240, ...
+    "School or Nonprofit will Accept Gift of  Artistic Assets?");
+sp = add_flow_(sh, "flowChartDecision", 7.913, 1.163, 2.620, 1.110, ...
+    "Are Assets Monetary?");
+sp = add_flow_(sh, "flowChartDecision", 9.883, 2.052, 2.620, 1.240, ...
+    "Was money donated for a specific program?");
+sp = add_flow_(sh, "flowChartDecision", 3.150, 2.911, 3.517, 1.609, ...
+    "School or non-profit specifies alternate non-profit to receive artistic assets?");
 
-% --- Flowchart: Decision 4 ---
-sp0 = sh.add_shape("flowChartDecision", mat2ppt.util.Emu(5728260), mat2ppt.util.Emu(132588), mat2ppt.util.Emu(1855089), mat2ppt.util.Emu(987552));
-sp0.text_frame().text = 'Are the Assets Artistic?';
-try
-    ps = sp0.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
+%% ===== Process boxes (flowChartProcess) =====
+sp = add_flow_(sh, "flowChartProcess", 0.165, 6.223, 1.650, 1.063, ...
+    "A) Artistic Assets gifted to school or non-profit where they reside");
+sp = add_flow_(sh, "flowChartProcess", 1.965, 5.840, 1.650, 1.447, ...
+    "B) Artistic Assets gifted to non-profit specified by school or non-profit where the asset resides.");
+sp = add_flow_(sh, "flowChartProcess", 3.766, 4.930, 2.593, 2.356, ...
+    ["C) Artistic assets distributed equally among other affiliate schools ", ...
+     "where assets reside (or their specified non-profits).  Receiving schools ", ...
+     "must pay for associated packaging and transportation costs beyond what ", ...
+     "the St. Luke Guild monetary assets will cover."]);
+sp = add_flow_(sh, "flowChartProcess", 6.510, 6.207, 1.793, 1.080, ...
+    "E) Non-monetary assets sold and proceeds enter general fund");
+sp = add_flow_(sh, "flowChartProcess", 8.453, 6.207, 2.160, 1.080, ...
+    "D) Monetary gifts tied to specific programs returned to original donors");
+sp = add_flow_(sh, "flowChartProcess", 10.763, 5.840, 2.467, 1.447, ...
+    ["F) Remaining monetary assets not used for distributing artistic assets ", ...
+     "distributed equally among schools where artistic assets reside"]);
 
-% --- Flowchart: Decision 5 ---
-sp1 = sh.add_shape("flowChartDecision", mat2ppt.util.Emu(3700272), mat2ppt.util.Emu(911352), mat2ppt.util.Emu(2395728), mat2ppt.util.Emu(1014984));
-sp1.text_frame().text = 'Assets Reside at a School or Nonprofit?';
-try
-    ps = sp1.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
+%% ===== Connectors: begin = source, end = destination (arrow at end) =====
+% Office originals often store flipV with geom end at the SOURCE and rely on
+% a:stCxn/a:endCxn for attachment. Mat2Ppt does not yet wire connection sites,
+% so for free-standing connectors we put begin at the upstream shape and end at
+% the downstream shape — triangle tailEnd then points the right way.
+% bentConnector4 also needs adj gd values or the mid elbow routes wrong.
 
-% --- Flowchart: Decision 6 ---
-sp2 = sh.add_shape("flowChartDecision", mat2ppt.util.Emu(1455384), mat2ppt.util.Emu(1796796), mat2ppt.util.Emu(2606040), mat2ppt.util.Emu(1133856));
-sp2.text_frame().text = 'School or Nonprofit will Accept Gift of  Artistic Assets?';
-try
-    ps = sp2.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
+% 16: Are Assets Monetary? → Was money donated for a specific program?
+sh.add_connector("bentConnector2", In(10.533), In(1.718), In(11.193), In(2.052));
+% 18: Are Assets Monetary? → E (long vertical)
+sh.add_connector("bentConnector2", In(7.913), In(1.718), In(7.406), In(6.207));
+% 20: Was money donated? → D
+sh.add_connector("bentConnector2", In(9.883), In(2.672), In(9.533), In(6.207));
+% 22: Was money donated? No → F (bentConnector4 + adj)
+sh.add_connector("bentConnector4", In(12.503), In(2.672), In(11.996), In(5.840), ...
+    {"adj1", "val -49334"; "adj2", "val 59784"});
+% 24: Are the Assets Artistic? No → Are Assets Monetary?
+sh.add_connector("bentConnector2", In(8.293), In(0.685), In(9.223), In(1.163));
+% 26: Are the Assets Artistic? Yes → Assets Reside at a School?
+sh.add_connector("bentConnector2", In(6.265), In(0.685), In(5.357), In(0.997));
+% 28: Accept Gift? Yes → A
+sh.add_connector("bentConnector2", In(1.592), In(2.585), In(0.990), In(6.223));
+% 31: Alternate non-profit? Yes → B
+sh.add_connector("bentConnector2", In(3.150), In(3.716), In(2.790), In(5.840));
+% 33: Alternate non-profit? No → C (bentConnector4 + adj)
+sh.add_connector("bentConnector4", In(6.667), In(3.716), In(5.062), In(4.930), ...
+    {"adj1", "val -15582"; "adj2", "val 83133"});
+% 36: Accept Gift? No → Alternate non-profit?
+sh.add_connector("bentConnector2", In(4.442), In(2.585), In(4.908), In(2.911));
+% 38: Assets Reside? Yes → Accept Gift?
+sh.add_connector("bentConnector2", In(4.047), In(1.552), In(3.017), In(1.965));
+% 40: Assets Reside? No → toward E/C merge (original has no tailEnd)
+sh.add_connector("bentConnector2", In(6.667), In(1.552), In(6.930), In(4.281));
 
-% --- Flowchart: Process 7 ---
-sp3 = sh.add_shape("flowChartProcess", mat2ppt.util.Emu(150876), mat2ppt.util.Emu(5690616), mat2ppt.util.Emu(1508760), mat2ppt.util.Emu(972312));
-sp3.text_frame().text = 'A) Artistic Assets gifted to school or non-profit where they reside';
-try
-    ps = sp3.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- Flowchart: Process 8 ---
-sp4 = sh.add_shape("flowChartProcess", mat2ppt.util.Emu(3443538), mat2ppt.util.Emu(4507992), mat2ppt.util.Emu(2370812), mat2ppt.util.Emu(2154936));
-sp4.text_frame().text = 'C) Artistic assets distributed equally among other affiliate schools where assets reside (or their specified non-profits).  Receiving schools must pay for associated packaging and transportation costs beyond what the St. Luke Guild monetary assets will cover.';
-try
-    ps = sp4.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- Flowchart: Process 9 ---
-sp5 = sh.add_shape("flowChartProcess", mat2ppt.util.Emu(7729012), mat2ppt.util.Emu(5675376), mat2ppt.util.Emu(1975104), mat2ppt.util.Emu(987552));
-sp5.text_frame().text = 'D) Monetary gifts tied to specific programs returned to original donors';
-try
-    ps = sp5.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- Flowchart: Process 10 ---
-sp6 = sh.add_shape("flowChartProcess", mat2ppt.util.Emu(9841687), mat2ppt.util.Emu(5340096), mat2ppt.util.Emu(2255824), mat2ppt.util.Emu(1322832));
-sp6.text_frame().text = 'F) Remaining monetary assets not used for distributing artistic assets distributed equally among schools where artistic assets reside';
-try
-    ps = sp6.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- Flowchart: Process 11 ---
-sp7 = sh.add_shape("flowChartProcess", mat2ppt.util.Emu(5951921), mat2ppt.util.Emu(5675376), mat2ppt.util.Emu(1639520), mat2ppt.util.Emu(987552));
-sp7.text_frame().text = 'E) Non-monetary assets sold and proceeds enter general fund';
-try
-    ps = sp7.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- Flowchart: Process 12 ---
-sp8 = sh.add_shape("flowChartProcess", mat2ppt.util.Emu(1797207), mat2ppt.util.Emu(5340096), mat2ppt.util.Emu(1508760), mat2ppt.util.Emu(1322832));
-sp8.text_frame().text = 'B) Artistic Assets gifted to non-profit specified by school or non-profit where the asset resides.';
-try
-    ps = sp8.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- Flowchart: Decision 13 ---
-sp9 = sh.add_shape("flowChartDecision", mat2ppt.util.Emu(7235877), mat2ppt.util.Emu(1063752), mat2ppt.util.Emu(2395728), mat2ppt.util.Emu(1014984));
-sp9.text_frame().text = 'Are Assets Monetary?';
-try
-    ps = sp9.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- Flowchart: Decision 14 ---
-sp10 = sh.add_shape("flowChartDecision", mat2ppt.util.Emu(9037245), mat2ppt.util.Emu(1876044), mat2ppt.util.Emu(2395728), mat2ppt.util.Emu(1133856));
-sp10.text_frame().text = 'Was money donated for a specific program?';
-try
-    ps = sp10.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- connector Connector: Elbow 16 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(9631605), mat2ppt.util.Emu(1571244), mat2ppt.util.Emu(10235109), mat2ppt.util.Emu(1876044));
-
-% --- connector Connector: Elbow 18 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(6771681), mat2ppt.util.Emu(5675376), mat2ppt.util.Emu(7235877), mat2ppt.util.Emu(1571244));
-
-% --- connector Connector: Elbow 20 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(8716565), mat2ppt.util.Emu(5675376), mat2ppt.util.Emu(9037246), mat2ppt.util.Emu(2442972));
-
-% --- connector Connector: Elbow 22 (bentConnector4) ---
-sh.add_connector("bentConnector4", mat2ppt.util.Emu(11432973), mat2ppt.util.Emu(2442972), mat2ppt.util.Emu(10969599), mat2ppt.util.Emu(5340096));
-
-% --- connector Connector: Elbow 24 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(7583349), mat2ppt.util.Emu(626364), mat2ppt.util.Emu(8433741), mat2ppt.util.Emu(1063752));
-
-% --- connector Connector: Elbow 26 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(4898136), mat2ppt.util.Emu(911352), mat2ppt.util.Emu(5728260), mat2ppt.util.Emu(626364));
-
-% --- connector Connector: Elbow 28 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(905256), mat2ppt.util.Emu(5690616), mat2ppt.util.Emu(1455384), mat2ppt.util.Emu(2363724));
-
-% --- Flowchart: Decision 29 ---
-sp18 = sh.add_shape("flowChartDecision", mat2ppt.util.Emu(2880360), mat2ppt.util.Emu(2662047), mat2ppt.util.Emu(3215640), mat2ppt.util.Emu(1471422));
-sp18.text_frame().text = 'School or non-profit specifies alternate non-profit to receive artistic assets?';
-try
-    ps = sp18.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1400);
-    end
-catch
-end
-
-% --- connector Connector: Elbow 31 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(2551588), mat2ppt.util.Emu(5340096), mat2ppt.util.Emu(2880361), mat2ppt.util.Emu(3397758));
-
-% --- connector Connector: Elbow 33 (bentConnector4) ---
-sh.add_connector("bentConnector4", mat2ppt.util.Emu(6096000), mat2ppt.util.Emu(3397758), mat2ppt.util.Emu(4628944), mat2ppt.util.Emu(4507992));
-
-% --- connector Connector: Elbow 36 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(4061424), mat2ppt.util.Emu(2363724), mat2ppt.util.Emu(4488180), mat2ppt.util.Emu(2662047));
-
-% --- connector Connector: Elbow 38 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(2758404), mat2ppt.util.Emu(1796796), mat2ppt.util.Emu(3700272), mat2ppt.util.Emu(1418844));
-
-% --- connector Connector: Elbow 40 (bentConnector2) ---
-sh.add_connector("bentConnector2", mat2ppt.util.Emu(6096000), mat2ppt.util.Emu(1418844), mat2ppt.util.Emu(6336832), mat2ppt.util.Emu(3914966));
-
-% --- TextBox 44 ---
-sp24 = sh.add_shape("rect", mat2ppt.util.Emu(7660617), mat2ppt.util.Emu(321171), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp24.text_frame().text = 'No';
-try
-    ps = sp24.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 45 ---
-sp25 = sh.add_shape("rect", mat2ppt.util.Emu(6772672), mat2ppt.util.Emu(1278427), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp25.text_frame().text = 'No';
-try
-    ps = sp25.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 46 ---
-sp26 = sh.add_shape("rect", mat2ppt.util.Emu(11292896), mat2ppt.util.Emu(2165973), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp26.text_frame().text = 'No';
-try
-    ps = sp26.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 47 ---
-sp27 = sh.add_shape("rect", mat2ppt.util.Emu(3980555), mat2ppt.util.Emu(2155692), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp27.text_frame().text = 'No';
-try
-    ps = sp27.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 48 ---
-sp28 = sh.add_shape("rect", mat2ppt.util.Emu(5967829), mat2ppt.util.Emu(3093720), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp28.text_frame().text = 'No';
-try
-    ps = sp28.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 49 ---
-sp29 = sh.add_shape("rect", mat2ppt.util.Emu(5967885), mat2ppt.util.Emu(1165362), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp29.text_frame().text = 'No';
-try
-    ps = sp29.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 51 ---
-sp30 = sh.add_shape("rect", mat2ppt.util.Emu(5048002), mat2ppt.util.Emu(347847), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp30.text_frame().text = 'Yes';
-try
-    ps = sp30.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 52 ---
-sp31 = sh.add_shape("rect", mat2ppt.util.Emu(2958675), mat2ppt.util.Emu(1123397), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp31.text_frame().text = 'Yes';
-try
-    ps = sp31.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 53 ---
-sp32 = sh.add_shape("rect", mat2ppt.util.Emu(833535), mat2ppt.util.Emu(2099126), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp32.text_frame().text = 'Yes';
-try
-    ps = sp32.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
-
-% --- TextBox 54 ---
-sp33 = sh.add_shape("rect", mat2ppt.util.Emu(2412588), mat2ppt.util.Emu(3116562), mat2ppt.util.Emu(530391), mat2ppt.util.Emu(276999));
-sp33.text_frame().text = 'Yes';
-try
-    ps = sp33.text_frame().paragraphs();
-    rs = ps{1}.runs();
-    if ~isempty(rs)
-        rs{1}.font().size = mat2ppt.util.Centipoints(1200);
-    end
-catch
-end
+%% ===== Yes / No labels: textboxes (transparent), 12 pt — NOT filled rects =====
+% Original: p:cNvSpPr txBox="1" + a:noFill. add_textbox matches that.
+% add_shape('rect') applies style fill (solid/gradient) — wrong visually.
+add_label_(sh, 5.520, 0.380, 0.580, 0.303, "Yes");
+add_label_(sh, 3.235, 1.228, 0.580, 0.303, "Yes");
+add_label_(sh, 0.912, 2.296, 0.580, 0.303, "Yes");
+add_label_(sh, 2.638, 3.408, 0.580, 0.303, "Yes");
+add_label_(sh, 8.377, 0.351, 0.580, 0.303, "No");
+add_label_(sh, 7.406, 1.398, 0.580, 0.303, "No");
+add_label_(sh, 6.525, 1.274, 0.580, 0.303, "No");
+add_label_(sh, 4.353, 2.357, 0.580, 0.303, "No");
+add_label_(sh, 6.525, 3.383, 0.580, 0.303, "No");
+add_label_(sh, 12.350, 2.368, 0.580, 0.303, "No");
 
 prs.save(outPath);
 fprintf("Wrote %s\n", outPath);
+fprintf("Slide size: %.3f in x %.3f in (widescreen)\n", 13.333333, 7.5);
+
+%% ----- local helpers (fidelity: size + center paragraph + body anchor) -----
+function sp = add_flow_(sh, prst, left, top, width, height, txt)
+    In = @mat2ppt.util.Inches;
+    Pt = @mat2ppt.util.Pt;
+    if iscell(txt) || isstring(txt)
+        txt = strjoin(string(txt), "");
+    end
+    sp = sh.add_shape(prst, In(left), In(top), In(width), In(height));
+    tf = sp.text_frame();
+    tf.text = char(string(txt));
+    try, tf.word_wrap = true; catch, end
+    % Source: rPr sz=1400, pPr algn=ctr, bodyPr anchor=ctr
+    set_run_font_(tf, Pt(14));
+    set_para_align_center_(tf);
+    set_body_anchor_ctr_(tf);
+end
+
+function add_label_(sh, left, top, width, height, txt)
+    In = @mat2ppt.util.Inches;
+    Pt = @mat2ppt.util.Pt;
+    AS = mat2ppt.enum.MSO_AUTO_SIZE;
+    tb = sh.add_textbox(In(left), In(top), In(width), In(height));
+    tf = tb.text_frame();
+    tf.text = char(string(txt));
+    % Source labels: sz=1200, pPr algn=ctr, bodyPr wrap=square + spAutoFit
+    set_run_font_(tf, Pt(12));
+    set_para_align_center_(tf);
+    try, tf.auto_size = AS.SHAPE_TO_FIT_TEXT; catch, end
+end
+
+function set_run_font_(tf, sizeLen)
+    ps = tf.paragraphs();
+    for pi = 1:numel(ps)
+        runs = ps{pi}.runs();
+        for i = 1:numel(runs)
+            rf = runs{i}.font();
+            rf.size = sizeLen;
+        end
+    end
+end
+
+function set_para_align_center_(tf)
+    % Source flowchart text: <a:pPr algn="ctr"/>
+    ps = tf.paragraphs();
+    for pi = 1:numel(ps)
+        p = ps{pi};
+        try
+            p.alignment = mat2ppt.enum.PP_ALIGN.CENTER;
+        catch
+            % Fallback: write pPr@algn directly
+            el = p.element();
+            pPr = el.find("a:pPr");
+            if isempty(pPr)
+                kids = el.getchildren();
+                for i = 1:numel(kids)
+                    if strcmp(char(kids{i}.localName()), "pPr")
+                        pPr = kids{i}; break
+                    end
+                end
+            end
+            if isempty(pPr)
+                pPr = mat2ppt.oxml.OxmlElement("a:pPr");
+                kids = el.getchildren();
+                for i = 1:numel(kids), el.remove(kids{i}); end
+                el.append(pPr);
+                for i = 1:numel(kids), el.append(kids{i}); end
+            end
+            pPr.set("algn", "ctr");
+        end
+    end
+end
+
+function set_body_anchor_ctr_(tf)
+    % Source diamonds/process: <a:bodyPr rtlCol="0" anchor="ctr"/>
+    try
+        tf.vertical_anchor = mat2ppt.enum.MSO_VERTICAL_ANCHOR.MIDDLE;
+    catch
+        txBody = tf.element();
+        bodyPr = [];
+        kids = txBody.getchildren();
+        for i = 1:numel(kids)
+            if strcmp(char(kids{i}.localName()), "bodyPr")
+                bodyPr = kids{i}; break
+            end
+        end
+        if isempty(bodyPr)
+            bodyPr = mat2ppt.oxml.OxmlElement("a:bodyPr");
+            for i = 1:numel(kids), txBody.remove(kids{i}); end
+            txBody.append(bodyPr);
+            for i = 1:numel(kids), txBody.append(kids{i}); end
+        end
+        bodyPr.set("anchor", "ctr");
+        bodyPr.set("rtlCol", "0");
+    end
+end

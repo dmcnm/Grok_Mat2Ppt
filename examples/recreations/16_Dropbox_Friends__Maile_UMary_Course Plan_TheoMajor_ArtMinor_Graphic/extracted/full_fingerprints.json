@@ -1,0 +1,6780 @@
+[
+  {
+    "slide": 1,
+    "layout": "Blank",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 104",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 14.625,
+          "y": 1.5,
+          "cx": 4.375,
+          "cy": 12.125,
+          "x_emu": 13373099,
+          "y_emu": 1371600,
+          "cx_emu": 4000498,
+          "cy_emu": 11087100,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ],
+            [
+              "alpha",
+              "20000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Semester in Rome",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Semester in Rome",
+                "sz": 3200,
+                "bold": true,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Semester in Rome",
+        "txBox": false
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 4",
+        "prst": "line",
+        "box": {
+          "x": 20.0,
+          "y": 0.0,
+          "cx": 0.0,
+          "cy": 15.0,
+          "x_emu": 18288000,
+          "y_emu": 0,
+          "cx_emu": 0,
+          "cy_emu": 13716000,
+          "flipH": false,
+          "flipV": false
+        },
+        "ln": {
+          "w": 50800,
+          "type": "inherit"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 20.0,
+          "by": 0.0,
+          "ex": 20.0,
+          "ey": 15.0,
+          "bx_emu": 18288000,
+          "by_emu": 0,
+          "ex_emu": 18288000,
+          "ey_emu": 13716000
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 7",
+        "prst": "line",
+        "box": {
+          "x": 9.0,
+          "y": 0.0,
+          "cx": 0.0,
+          "cy": 15.0,
+          "x_emu": 8229600,
+          "y_emu": 0,
+          "cx_emu": 0,
+          "cy_emu": 13716000,
+          "flipH": false,
+          "flipV": false
+        },
+        "ln": {
+          "w": 50800,
+          "type": "inherit"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 9.0,
+          "by": 0.0,
+          "ex": 9.0,
+          "ey": 15.0,
+          "bx_emu": 8229600,
+          "by_emu": 0,
+          "ex_emu": 8229600,
+          "ey_emu": 13716000
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 8",
+        "prst": "line",
+        "box": {
+          "x": 30.0,
+          "y": 0.0,
+          "cx": 0.0,
+          "cy": 15.0,
+          "x_emu": 27432000,
+          "y_emu": 0,
+          "cx_emu": 0,
+          "cy_emu": 13716000,
+          "flipH": false,
+          "flipV": false
+        },
+        "ln": {
+          "w": 50800,
+          "type": "inherit"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 30.0,
+          "by": 0.0,
+          "ex": 30.0,
+          "ey": 15.0,
+          "bx_emu": 27432000,
+          "by_emu": 0,
+          "ex_emu": 27432000,
+          "ey_emu": 13716000
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 9",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.0,
+          "y": 3.654,
+          "cx": 2.6111,
+          "cy": 1.0,
+          "x_emu": 914400,
+          "y_emu": 3341246,
+          "cx_emu": 2387595,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "FYE 122L - President\u2019s Seminar (0, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "FYE 122L - President\u2019s Seminar",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(0, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "FYE 122L - President\u2019s Seminar (0, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 10",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.0,
+          "y": 5.3081,
+          "cx": 2.6111,
+          "cy": 1.0,
+          "x_emu": 914400,
+          "y_emu": 4853692,
+          "cx_emu": 2387595,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent5",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ART 127 - Introduction to Drawing (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ART 127 - Introduction to Drawing",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ART 127 - Introduction to Drawing (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 11",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 10.0252,
+          "y": 5.9866,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 9167021,
+          "y_emu": 5474144,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "PHI 310 - Philosophy of the Human Person (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "PHI 310 - Philosophy of the Human Person",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "PHI 310 - Philosophy of the Human Person (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 12",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 15.5,
+          "y": 3.996,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 14173200,
+          "y_emu": 3653943,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 234 - Benedict: Yesterday and Today (3, B, Rome)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 234 - Benedict: Yesterday and Today",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, B, Rome)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 234 - Benedict: Yesterday and Today (3, B, Rome)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 13",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.0,
+          "y": 8.6161,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 914400,
+          "y_emu": 7878582,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "LAT 101 - Beginning Latin I (3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "LAT 101 - Beginning Latin I",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "LAT 101 - Beginning Latin I (3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 22",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.0,
+          "y": 6.9621,
+          "cx": 2.6111,
+          "cy": 1.0,
+          "x_emu": 914400,
+          "y_emu": 6366137,
+          "cx_emu": 2387589,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ENG 121 - Composition II (3, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ENG 121 - Composition II",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ENG 121 - Composition II (3, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 40",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 5.5,
+          "y": 4.0008,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 5029200,
+          "y_emu": 3658366,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "MAT 215\u00a0-\u00a0Elements of Mathematics (3, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "MAT 215\u00a0-\u00a0Elements of Mathematics",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "MAT 215\u00a0-\u00a0Elements of Mathematics (3, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 41",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 10.0466,
+          "y": 2.02,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 9186648,
+          "y_emu": 1847089,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "SCI 209 - Science & Quantitative Thinking (3/1, S)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "SCI 209 - Science & Quantitative Thinking",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3/1, S)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "SCI 209 - Science & Quantitative Thinking (3/1, S)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 44",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.0,
+          "y": 10.2702,
+          "cx": 2.5972,
+          "cy": 1.0,
+          "x_emu": 914400,
+          "y_emu": 9391027,
+          "cx_emu": 2374892,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 120 - Search for God (3, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 120 - Search for God",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 120 - Search for God (3, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 45",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 5.5,
+          "y": 11.9242,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 5029200,
+          "y_emu": 10903473,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 250 - Sacred Tradition (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 250 - Sacred Tradition",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 250 - Sacred Tradition (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 46",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.0,
+          "y": 11.9242,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 914400,
+          "y_emu": 10903473,
+          "cx_emu": 2285995,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 260 - Sacred Scripture (3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 260 - Sacred Scripture",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 260 - Sacred Scripture (3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 47",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 21.445,
+          "y": 8.0811,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 19609308,
+          "y_emu": 7389378,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "HIS 103 - Western Civ in World History I ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "HIS 103 - Western Civ in World History I",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "HIS 103 - Western Civ in World History I \n(3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 51",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 5.5,
+          "y": 9.9433,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 5029200,
+          "y_emu": 9092197,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "PHI 108 - Search for Truth (3, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "PHI 108 - Search for Truth",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "PHI 108 - Search for Truth (3, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 76",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 1.0,
+          "y": 2.0,
+          "cx": 2.6111,
+          "cy": 1.0,
+          "x_emu": 914400,
+          "y_emu": 1828800,
+          "cx_emu": 2387593,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "FYE 122 - First-Year Experience (1,B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "FYE 122 - First-Year Experience (1,B)",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "FYE 122 - First-Year Experience (1,B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 146",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 15.4722,
+          "y": 5.9622,
+          "cx": 2.5278,
+          "cy": 1.1628,
+          "x_emu": 14147792,
+          "y_emu": 5451790,
+          "cx_emu": 2311407,
+          "cy_emu": 1063310,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "PHI 210 \u2013 Search for Happiness: Faith and Reason in Life ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "PHI 210 \u2013 Search for Happiness: Faith and Reason in Life",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, S, Rome)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, S, Rome)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "PHI 210 \u2013 Search for Happiness: Faith and Reason in Life \n(3, S, Rome)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 147",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 5.5,
+          "y": 2.02,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 5029200,
+          "y_emu": 1847089,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "MAT 200 - Computing (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "MAT 200 - Computing",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "MAT 200 - Computing (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 148",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 10.0252,
+          "y": 9.9364,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 9167021,
+          "y_emu": 9085833,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ART 235 - Art Practicum (2, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ART 235 - Art Practicum",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(2, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ART 235 - Art Practicum (2, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 1",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 0.765,
+          "y": 0.2669,
+          "cx": 7.485,
+          "cy": 1.0,
+          "x_emu": 699512,
+          "y_emu": 244094,
+          "cx_emu": 6844285,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent4",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Freshman (2025-26)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Freshman (2025-26)",
+                "sz": 2800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "         Fall \u2013 16                                 Spring - 18",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "         Fall \u2013 16                                 Spring - 18",
+                "sz": 2800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Freshman (2025-26)\n         Fall \u2013 16                                 Spring - 18",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 2",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 10.9819,
+          "y": 0.25,
+          "cx": 7.0,
+          "cy": 1.0,
+          "x_emu": 10041875,
+          "y_emu": 228600,
+          "cx_emu": 6400800,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent4",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Sophomore (2026-27)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Sophomore (2026-27)",
+                "sz": 2800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Fall \u2013 17                                        Spring - 15",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Fall \u2013 17                                        Spring - 15",
+                "sz": 2800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Sophomore (2026-27)\nFall \u2013 17                                        Spring - 15",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 3",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 21.5,
+          "y": 0.25,
+          "cx": 7.0,
+          "cy": 1.0,
+          "x_emu": 19659600,
+          "y_emu": 228600,
+          "cx_emu": 6400800,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent4",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Junior (2027-28)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Junior (2027-28)",
+                "sz": 2800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Fall \u2013 17                                        Spring - 16",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Fall \u2013 17                                        Spring - 16",
+                "sz": 2800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Junior (2027-28)\nFall \u2013 17                                        Spring - 16",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 5",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 31.5069,
+          "y": 0.25,
+          "cx": 7.0,
+          "cy": 1.0,
+          "x_emu": 28809946,
+          "y_emu": 228600,
+          "cx_emu": 6400800,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent4",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Senior (2028-29)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Senior (2028-29)",
+                "sz": 2800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Fall \u2013 16                                        Spring - 13",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Fall \u2013 16                                        Spring - 13",
+                "sz": 2800,
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Senior (2028-29)\nFall \u2013 16                                        Spring - 13",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 35",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 10.0252,
+          "y": 11.9242,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 9167021,
+          "y_emu": 10903473,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ART 310 - Art History I (3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ART 310 - Art History I",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ART 310 - Art History I (3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 20",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 8.375,
+          "y": -1.6161,
+          "cx": 2.25,
+          "cy": 1.0,
+          "x_emu": 7658100,
+          "y_emu": -1477736,
+          "cx_emu": 2057399,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": {
+          "w": "57150",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THEO-3420:",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THEO-3420:",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Hist of Cath Ch I",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Hist of Cath Ch I",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THEO-3420:\nHist of Cath Ch I",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 25",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 15.5278,
+          "y": 2.02,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 14198607,
+          "y_emu": 1847089,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "CLA 311 - Grandeur of Rome (3, B, Rome)",
+            "soft_breaks": 1,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "CLA 311 - Grandeur of Rome",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, B, Rome)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "CLA 311 - Grandeur of Rome (3, B, Rome)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 26",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 10.0252,
+          "y": 4.0212,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 9167021,
+          "y_emu": 3676976,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "HIS 104 - Western Civ in World History II ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "HIS 104 - Western Civ in World History II",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "HIS 104 - Western Civ in World History II \n(3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 27",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 18.9306,
+          "y": 13.79,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 17310116,
+          "y_emu": 12609576,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ART 410 - Art History II (3, S)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ART 410 - Art History II",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, S)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ART 410 - Art History II (3, S)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 28",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 5.5,
+          "y": 7.9625,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 5029200,
+          "y_emu": 7280920,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "LAT 102 - Beginning Latin II (3, S)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "LAT 102 - Beginning Latin II",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, S)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "LAT 102 - Beginning Latin II (3, S)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 29",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 15.4722,
+          "y": 10.7247,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 14147792,
+          "y_emu": 9806696,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ART 121 - The Art of Italy (3, S, Rome)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ART 121 - The Art of Italy",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, S, Rome)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ART 121 - The Art of Italy (3, S, Rome)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 31",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 21.5,
+          "y": 2.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 19659600,
+          "y_emu": 1828800,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ENG 330 - Survey of World Literature I ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ENG 330 - Survey of World Literature I",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ENG 330 - Survey of World Literature I \n(3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 32",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 21.5,
+          "y": 12.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 19659600,
+          "y_emu": 10972800,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ART 335 - Art Practicum (3, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ART 335 - Art Practicum",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ART 335 - Art Practicum (3, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 33",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 21.5,
+          "y": 4.0,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 19659600,
+          "y_emu": 3657600,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "LAT 201 - Second Year Latin I (3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "LAT 201 - Second Year Latin I",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "LAT 201 - Second Year Latin I (3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 34",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 5.5,
+          "y": 5.9817,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 5029200,
+          "y_emu": 5469643,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 341 - Theology of the Human Person (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 341 - Theology of the Human Person",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 341 - Theology of the Human Person (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 42",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 21.5,
+          "y": 10.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 19659600,
+          "y_emu": 9144000,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 270 - Moral Theology ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 270 - Moral Theology",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 270 - Moral Theology \n(3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 59",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 10.0252,
+          "y": 7.8739,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 9167021,
+          "y_emu": 7199883,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "CLA 201 - Classical Etymology (2, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "CLA 201 - Classical Etymology",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(2, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "CLA 201 - Classical Etymology (2, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 77",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 26.0,
+          "y": 2.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 23774400,
+          "y_emu": 1828800,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ENG 331 - Survey of World Literature II ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ENG 331 - Survey of World Literature II",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, S)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, S)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ENG 331 - Survey of World Literature II \n(3, S)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 79",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 26.0,
+          "y": 4.0,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 23774400,
+          "y_emu": 3657600,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "LAT 201 - Second Year Latin I (3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "LAT 201 - Second Year Latin I",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "LAT 201 - Second Year Latin I (3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 80",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 26.0,
+          "y": 6.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 23774400,
+          "y_emu": 5486400,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 321 - Sacramental Theology (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 321 - Sacramental Theology",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 321 - Sacramental Theology (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 81",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 26.0,
+          "y": 8.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 23774400,
+          "y_emu": 7315200,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 315\u00a0-\u00a0Virtue and Character (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 315\u00a0-\u00a0Virtue and Character",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 315\u00a0-\u00a0Virtue and Character (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 85",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 25.9931,
+          "y": 10.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 23768055,
+          "y_emu": 9144000,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "COM 300 - Visual Communication ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "COM 300 - Visual Communication",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "COM 300 - Visual Communication \n(3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 86",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 36.0069,
+          "y": 2.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 32924745,
+          "y_emu": 1828800,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "HUM 499 - Senior Competency Testing (0, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "HUM 499 - Senior Competency Testing",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(0, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "HUM 499 - Senior Competency Testing (0, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 87",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 8.25,
+          "y": 16.125,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 7543799,
+          "y_emu": 14744700,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "MUS 212 - Concert Choir (1, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "MUS 212 - Concert Choir ",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(1, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "MUS 212 - Concert Choir (1, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 89",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 36.0069,
+          "y": 4.0,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 32924745,
+          "y_emu": 3657600,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "PHI 422\u00a0-\u00a0Aquinas & the Natural Law (3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "PHI 422\u00a0-\u00a0Aquinas & the Natural Law",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "PHI 422\u00a0-\u00a0Aquinas & the Natural Law (3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 90",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 36.0069,
+          "y": 6.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 32924745,
+          "y_emu": 5486400,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 303\u00a0-\u00a0Church History (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 303\u00a0-\u00a0Church History",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 303\u00a0-\u00a0Church History (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 92",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 36.0069,
+          "y": 8.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 32924745,
+          "y_emu": 7315200,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 429 - Seminar in Theology (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 429 - Seminar in Theology",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 429 - Seminar in Theology (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 95",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 31.5,
+          "y": 2.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 28803600,
+          "y_emu": 1828800,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "PHI 327\u00a0-\u00a0Metaphysics ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "PHI 327\u00a0-\u00a0Metaphysics",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "PHI 327\u00a0-\u00a0Metaphysics \n(3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 96",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 31.5,
+          "y": 12.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 28803600,
+          "y_emu": 10972800,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ART 135 - Art Practicum (1, B)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ART 135 - Art Practicum",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(1, B)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ART 135 - Art Practicum (1, B)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 97",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 31.5,
+          "y": 4.0,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 28803600,
+          "y_emu": 3657600,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 302\u00a0-\u00a0Suffering and Christian Healing (3, F)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 302\u00a0-\u00a0Suffering and Christian Healing",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, F)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 302\u00a0-\u00a0Suffering and Christian Healing (3, F)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 98",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 31.5,
+          "y": 8.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 28803600,
+          "y_emu": 7315200,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "PHI 415\u00a0-\u00a0Philosophical Theology (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "PHI 415\u00a0-\u00a0Philosophical Theology",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "PHI 415\u00a0-\u00a0Philosophical Theology (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 100",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 31.5,
+          "y": 10.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 28803600,
+          "y_emu": 9144000,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 440 - The Theology and Legacy of St. Augustine (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 440 - The Theology and Legacy of St. Augustine",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 440 - The Theology and Legacy of St. Augustine (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 101",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 31.5,
+          "y": 6.0,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 28803600,
+          "y_emu": 5486400,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 326\u00a0-\u00a0Christian Marriage (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 326\u00a0-\u00a0Christian Marriage",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 326\u00a0-\u00a0Christian Marriage (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 102",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 36.0069,
+          "y": 10.0,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 32924745,
+          "y_emu": 9144000,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "THE 490\u00a0-\u00a0St. Thomas Aquinas, the Angelic Doctor (3, ?)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE 490\u00a0-\u00a0St. Thomas Aquinas, the Angelic Doctor",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "(3, ?)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "THE 490\u00a0-\u00a0St. Thomas Aquinas, the Angelic Doctor (3, ?)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 6",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 14.625,
+          "y": 15.125,
+          "cx": 6.0,
+          "cy": 3.4332,
+          "x_emu": 13373099,
+          "y_emu": 13830300,
+          "cx_emu": 5486401,
+          "cy_emu": 3139321,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Fall and Spring Semester",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "l",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Fall and Spring Semester",
+                "sz": "inherit",
+                "bold": true,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "PT Serif",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "12325C",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "100-level Italian Language and Culture course (3 credits, liberal arts core elective)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "l",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "100-level Italian Language and Culture course (3 credits, liberal arts core elective)",
+                "sz": "inherit",
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "PT Serif",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "12325C",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "ART 121\u00a0Art of Italy\u00a0(3 credits, Art core)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "l",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ART 121\u00a0Art of Italy\u00a0(3 credits, Art core)",
+                "sz": "inherit",
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "PT Serif",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "12325C",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "CTH/PHI 210 Search for Happiness (3 credits, Ethics core)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "l",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "CTH/PHI 210 Search for Happiness (3 credits, Ethics core)",
+                "sz": "inherit",
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "PT Serif",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "12325C",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "THE/CTH 234 Benedict: Yesterday and Today (3 credits, Theology core or \u201cTHE 200-level or above\u201d core elective)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "l",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "THE/CTH 234 Benedict: Yesterday and Today (3 credits, Theology core or \u201cTHE 200-level or above\u201d core elective)",
+                "sz": "inherit",
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "PT Serif",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "12325C",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "\u00a0HIS/CLA 311 Grandeur of Rome (3 credits, liberal arts core elective)\u00a0",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "l",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "\u00a0HIS/CLA 311 Grandeur of Rome (3 credits, liberal arts core elective)\u00a0",
+                "sz": "inherit",
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "PT Serif",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "12325C",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Fall and Spring Semester\n100-level Italian Language and Culture course (3 credits, liberal arts core elective)\nART 121\u00a0Art of Italy\u00a0(3 credits, Art core)\nCTH/PHI 210 Search for Happiness (3 credits, Ethics core)\nTHE/CTH 234 Benedict: Yesterday and Today (3 credits, Theology core or \u201cTHE 200-level or above\u201d core elective)\n\u00a0HIS/CLA 311 Grandeur of Rome (3 credits, liberal arts core elective)",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 14",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 15.4722,
+          "y": 8.8245,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 14147792,
+          "y_emu": 8069092,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "ITA 101 \u2013 Beginning Italian ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "ITA 101 \u2013 Beginning Italian",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "(3, B, Rome)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "(3, B, Rome)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "tx1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "ITA 101 \u2013 Beginning Italian \n(3, B, Rome)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 15",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 11.375,
+          "y": -1.6081,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 10401300,
+          "y_emu": -1470440,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg2",
+          "mods": [
+            [
+              "lumMod",
+              "75000"
+            ]
+          ]
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Core BA Class",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Core BA Class",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Core BA Class",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 16",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 14.875,
+          "y": -1.5797,
+          "cx": 2.4444,
+          "cy": 1.0,
+          "x_emu": 13601700,
+          "y_emu": -1444507,
+          "cx_emu": 2235186,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent6",
+          "mods": [
+            [
+              "lumMod",
+              "60000"
+            ],
+            [
+              "lumOff",
+              "40000"
+            ]
+          ],
+          "brightness": 0.4
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Classics Minor",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Classics Minor",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Classics Minor",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 17",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 18.2305,
+          "y": -1.5592,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 16669992,
+          "y_emu": -1425741,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent2",
+          "mods": [
+            [
+              "lumMod",
+              "40000"
+            ],
+            [
+              "lumOff",
+              "60000"
+            ]
+          ],
+          "brightness": 0.6
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Theology Minor",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Theology Minor",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Theology Minor",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 18",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 21.4306,
+          "y": -1.5,
+          "cx": 2.5,
+          "cy": 1.0,
+          "x_emu": 19596116,
+          "y_emu": -1371600,
+          "cx_emu": 2286000,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "srgb": "9DC3E6"
+        },
+        "ln": {
+          "w": "63500",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B0F0"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Art Minor",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "ctr",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Art Minor",
+                "sz": 1800,
+                "bold": false,
+                "italic": false,
+                "cap": "inherit",
+                "latin": "Calibri",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "000000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Art Minor",
+        "txBox": false
+      }
+    ]
+  }
+]

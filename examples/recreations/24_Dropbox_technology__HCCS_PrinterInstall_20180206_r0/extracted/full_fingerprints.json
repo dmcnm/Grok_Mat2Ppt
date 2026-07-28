@@ -1,0 +1,2093 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "ctrTitle",
+        "prst": null,
+        "box": {
+          "x": 0.8646,
+          "y": 1.2274,
+          "cx": 11.875,
+          "cy": 2.6111,
+          "x_emu": 790575,
+          "y_emu": 1122363,
+          "cx_emu": 10858499,
+          "cy_emu": 2387600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "HCCS Network Printer Installation",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "HCCS ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Network Printer Installation",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "HCCS Network Printer Installation",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Subtitle 2",
+        "ph": "subTitle:1",
+        "prst": null,
+        "box": {
+          "x": 1.6667,
+          "y": 3.9392,
+          "cx": 10.0,
+          "cy": 1.8108,
+          "x_emu": 1524000,
+          "y_emu": 3602038,
+          "cx_emu": 9144000,
+          "cy_emu": 1655762,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Douglas Coombs",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Douglas Coombs",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "February 6, 2018, Rev. 0",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "February 6, 2018, ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Rev. 0",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Douglas Coombs\nFebruary 6, 2018, Rev. 0",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Overview",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Overview",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Overview",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Description of Current Printers",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Description of Current Printers",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Printer Installation Instructions ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Printer ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "I",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nstallation ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "I",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nstructions ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Description of Current Printers\nPrinter Installation Instructions",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Current Printers",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Current Printers",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Current Printers",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.2057,
+          "y": 1.3365,
+          "cx": 12.7422,
+          "cy": 5.4187,
+          "x_emu": 188121,
+          "y_emu": 1222110,
+          "cx_emu": 11651454,
+          "cy_emu": 4954853,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Teacher\u2019s Lounge",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Teacher\u2019s Lounge",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Color HP Wireless (Model #): 192.168.1.57",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Color HP Wireless (Model #): 192.168.1.57",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "HP Color Laserjet 3500: 192.168.1.58",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "HP Color ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Laserjet",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " 3500: 192.168.1.58",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Mrs. Teeter\u2019s 1/2nd Classroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Mrs. Teeter\u2019s 1/2",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nd",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " Classroom",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "BW: HP Laserjet 4050N: IP Address TBD (ideally 192.168.1.59)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "BW: HP ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Laserjet",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " 4050N: IP Address TBD (ideally 192.168.1.59)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Outside Mrs. Sanchez Classroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Outside Mrs. Sanchez Classroom",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "BW: HP Laserjet 4100: 192.168.1.97",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "BW: HP ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Laserjet",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " 4100: 192.168.1.97",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": " ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Teacher\u2019s Lounge\nColor HP Wireless (Model #): 192.168.1.57\nHP Color Laserjet 3500: 192.168.1.58\nMrs. Teeter\u2019s 1/2nd Classroom\nBW: HP Laserjet 4050N: IP Address TBD (ideally 192.168.1.59)\nOutside Mrs. Sanchez Classroom\nBW: HP Laserjet 4100: 192.168.1.97",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.5316,
+          "y": 0.3993,
+          "cx": 11.0,
+          "cy": 0.7213,
+          "x_emu": 486137,
+          "y_emu": 365125,
+          "cx_emu": 10058400,
+          "cy_emu": 659559,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Installing a Network Printer Using TCP/IP (1/4) ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Installing a Network Printer Using TCP/IP (1/4) ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Installing a Network Printer Using TCP/IP (1/4)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.2057,
+          "y": 1.3365,
+          "cx": 12.7422,
+          "cy": 5.4187,
+          "x_emu": 188121,
+          "y_emu": 1222110,
+          "cx_emu": 11651454,
+          "cy_emu": 4954853,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Overview of steps",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Overview of steps",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Control Panel -> Devices and printers",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Control Panel -> Devices and printers",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Add a printer ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Add a printer",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Add a Local Printer",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Add a Local Printer",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Create a New Port",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Create a New Port",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Select Type of Port: Standard TCP/IP Port",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Select Type of Port: Standard TCP/IP Port",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Type IP Address in Hostname or IP address: 192.168.1.##",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Type IP Address in Hostname or IP address: 192.168.1.##",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Installing the Printer Driver Add Printer -> Have Disk",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Installing the Printer Driver Add Printer -> Have Disk",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Print Test Page",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Print Test Page",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Overview of steps\nControl Panel -> Devices and printers\nAdd a printer \nAdd a Local Printer\nCreate a New Port\nSelect Type of Port: Standard TCP/IP Port\nType IP Address in Hostname or IP address: 192.168.1.##\nInstalling the Printer Driver Add Printer -> Have Disk\nPrint Test Page",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.5851,
+          "y": 0.3993,
+          "cx": 10.9719,
+          "cy": 0.7213,
+          "x_emu": 535021,
+          "y_emu": 365125,
+          "cx_emu": 10032665,
+          "cy_emu": 659559,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Installing a Network Printer Using TCP/IP (2/4)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Installing a Network Printer Using TCP/IP (2/4)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Installing a Network Printer Using TCP/IP (2/4)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.2057,
+          "y": 1.3365,
+          "cx": 12.7422,
+          "cy": 5.4187,
+          "x_emu": 188121,
+          "y_emu": 1222110,
+          "cx_emu": 11651454,
+          "cy_emu": 4954853,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Control Panel -> Devices and printers",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Control Panel -> Devices and printers",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Add a printer ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Add a printer",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Add a Local Printer",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Add a Local Printer",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Control Panel -> Devices and printers\nAdd a printer \nAdd a Local Printer",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 5.8205,
+          "y": 1.9459,
+          "cx": 6.9882,
+          "cy": 4.6414,
+          "x_emu": 5322222,
+          "y_emu": 1779347,
+          "cx_emu": 6390009,
+          "cy_emu": 4244119,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image4.png",
+        "crop": {
+          "b": 21134
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 8",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 6.7655,
+          "y": 2.6523,
+          "cx": 0.7083,
+          "cy": 0.2211,
+          "x_emu": 6186405,
+          "y_emu": 2425304,
+          "cx_emu": 647700,
+          "cy_emu": 202181,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.5851,
+          "y": 0.3993,
+          "cx": 11.0351,
+          "cy": 0.7213,
+          "x_emu": 535021,
+          "y_emu": 365125,
+          "cx_emu": 10090538,
+          "cy_emu": 659559,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Installing a Network Printer Using TCP/IP (3/4) ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Installing a Network Printer Using TCP/IP (3/4) ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Installing a Network Printer Using TCP/IP (3/4)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.2057,
+          "y": 1.3365,
+          "cx": 12.7422,
+          "cy": 5.4187,
+          "x_emu": 188121,
+          "y_emu": 1222110,
+          "cx_emu": 11651454,
+          "cy_emu": 4954853,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Add a Local Printer",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Add a Local Printer",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Create a New Port",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Create a New Port",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Select Type of Port: Standard TCP/IP Port",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Select Type of Port: Standard TCP/IP Port",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Add a Local Printer\nCreate a New Port\nSelect Type of Port: Standard TCP/IP Port",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 2.0007,
+          "y": 2.8412,
+          "cx": 5.023,
+          "cy": 3.6793,
+          "x_emu": 1829470,
+          "y_emu": 2597969,
+          "cx_emu": 4593021,
+          "cy_emu": 3364315,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image5.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 7.1518,
+          "y": 2.1811,
+          "cx": 5.9242,
+          "cy": 4.3394,
+          "x_emu": 6539564,
+          "y_emu": 1994356,
+          "cx_emu": 5417084,
+          "cy_emu": 3967928,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image6.png",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.5851,
+          "y": 0.3993,
+          "cx": 10.9592,
+          "cy": 0.7213,
+          "x_emu": 535021,
+          "y_emu": 365125,
+          "cx_emu": 10021090,
+          "cy_emu": 659559,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Installing a Network Printer Using TCP/IP (4/4) ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Installing a Network Printer Using TCP/IP (4/4) ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Installing a Network Printer Using TCP/IP (4/4)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.2057,
+          "y": 1.3365,
+          "cx": 12.7422,
+          "cy": 5.4187,
+          "x_emu": 188121,
+          "y_emu": 1222110,
+          "cx_emu": 11651454,
+          "cy_emu": 4954853,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Type IP Address in Hostname or IP address: 192.168.1.##",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Type IP Address in Hostname or IP address: 192.168.1.##",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Installing the Printer Driver Add Printer -> Have Disk",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Installing the Printer Driver Add Printer -> Have Disk",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Type IP Address in Hostname or IP address: 192.168.1.##\nInstalling the Printer Driver Add Printer -> Have Disk",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 1.5888,
+          "y": 2.557,
+          "cx": 5.4618,
+          "cy": 4.0007,
+          "x_emu": 1452793,
+          "y_emu": 2338086,
+          "cx_emu": 4994305,
+          "cy_emu": 3658249,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image7.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 7",
+        "box": {
+          "x": 7.3755,
+          "y": 2.557,
+          "cx": 5.4618,
+          "cy": 4.0007,
+          "x_emu": 6744113,
+          "y_emu": 2338086,
+          "cx_emu": 4994305,
+          "cy_emu": 3658249,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image8.png",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 8",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 11.5443,
+          "y": 5.4937,
+          "cx": 1.0759,
+          "cy": 0.3165,
+          "x_emu": 10556111,
+          "y_emu": 5023414,
+          "cx_emu": 983848,
+          "cy_emu": 289366,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 10",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.5232,
+          "y": 4.3544,
+          "cx": 3.3122,
+          "cy": 0.2324,
+          "x_emu": 3221619,
+          "y_emu": 3981690,
+          "cx_emu": 3028709,
+          "cy_emu": 212527,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 11",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.5232,
+          "y": 4.038,
+          "cx": 3.3122,
+          "cy": 0.2085,
+          "x_emu": 3221618,
+          "y_emu": 3692323,
+          "cx_emu": 3028709,
+          "cy_emu": 190653,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      }
+    ]
+  }
+]

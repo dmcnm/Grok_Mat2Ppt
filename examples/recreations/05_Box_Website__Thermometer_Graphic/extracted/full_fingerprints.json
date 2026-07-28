@@ -1,0 +1,6433 @@
+[
+  {
+    "slide": 1,
+    "layout": "Blank",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Oval 20",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 19.9176,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 18212640,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 21",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 19.9176,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 18212640,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 4000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 7000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 22",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 18.9176,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 17298240,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 19",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 19.9365,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 18229918,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 26",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 24.5722,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 22468806,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 27",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 24.5722,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 22468806,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 11000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 9000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 28",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 23.5722,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 21554406,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 25",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 24.5911,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 22486084,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 32",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 29.2268,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 26724972,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 33",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 29.2268,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 26724972,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 16000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 14000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 34",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 28.2268,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 25810572,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 31",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 29.2457,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 26742250,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 38",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 33.8815,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 30981230,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 39",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 33.8815,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 30981230,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 22000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 20000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 40",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 32.8815,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 30066830,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 37",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 33.9004,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 30998508,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 44",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 38.5361,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 35237396,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 45",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 38.5361,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 35237396,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 27000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 25000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 46",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 37.5361,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 34322996,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 43",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 38.555,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 35254674,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 50",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 43.1907,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 39493562,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 51",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 43.1907,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 39493562,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 33000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 31000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 52",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 42.1907,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 38579162,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 49",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 43.2096,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 39510840,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 56",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 47.8454,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 43749820,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 57",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 47.8454,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 43749820,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 38000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 36000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 58",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 46.8454,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 42835420,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 55",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 47.8643,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 43767098,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 62",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 52.5,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 48005986,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 63",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 52.5,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 48005986,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 43000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 41000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 64",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 51.5,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 47091586,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 61",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 52.5189,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 48023264,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 1",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.8568,
+          "y": 15.0512,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45589031,
+          "y_emu": 13762844,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "5%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "5%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "5%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 2",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 50.0,
+          "y": 19.7059,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45720000,
+          "y_emu": 18019039,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "10%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "10%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "10%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 3",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 50.0,
+          "y": 24.3605,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45720000,
+          "y_emu": 22275234,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "15%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "15%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "15%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 4",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.7135,
+          "y": 29.0155,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45458062,
+          "y_emu": 26531795,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "20%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "20%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "20%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 5",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.8568,
+          "y": 33.6702,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45589031,
+          "y_emu": 30787990,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "25%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "25%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "25%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 6",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.9427,
+          "y": 38.3248,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45667613,
+          "y_emu": 35044185,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "30%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "30%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "30%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 65",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.9427,
+          "y": 42.9794,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45667613,
+          "y_emu": 39300380,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "35%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "35%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "35%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 66",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.6562,
+          "y": 47.6344,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45405675,
+          "y_emu": 43556941,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "40%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "40%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "40%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 67",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.7995,
+          "y": 52.2891,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45536644,
+          "y_emu": 47813136,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "45%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "45%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "45%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 82",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 50.0,
+          "y": 10.3966,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45720000,
+          "y_emu": 9506649,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "2%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "2%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "2%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 14",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 15.2629,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 13956382,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 15",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 15.2629,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 13956382,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 16",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 14.2629,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 13041982,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 65000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 45000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": false
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 13",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 15.2818,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 13973660,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 83",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.7161,
+          "y": 15.2785,
+          "cx": 0.4427,
+          "cy": 1.9687,
+          "x_emu": 3398042,
+          "y_emu": 13970645,
+          "cx_emu": 404814,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 90",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 10.6083,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 9700216,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 91",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 10.6083,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 9700216,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 92",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 9.6083,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 8785816,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 25000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 16000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": false
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 89",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 10.6272,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 9717494,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 87",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.7161,
+          "y": 10.6239,
+          "cx": 0.4427,
+          "cy": 1.9687,
+          "x_emu": 3398042,
+          "y_emu": 9714479,
+          "cx_emu": 404814,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 93",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 50.0859,
+          "y": 1.1056,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45798582,
+          "y_emu": 1010925,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "0%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "0%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "0%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 99",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0859,
+          "y": 1.3173,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 43055347,
+          "y_emu": 1204525,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 100",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0859,
+          "y": 1.3173,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1907347,
+          "y_emu": 1204525,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 101",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0859,
+          "y": 0.3173,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 78547,
+          "y_emu": 290125,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 98",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.9427,
+          "y": 1.3362,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43838778,
+          "y_emu": 1221803,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 96",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.802,
+          "y": 1.3329,
+          "cx": 0.4427,
+          "cy": 1.9687,
+          "x_emu": 3476589,
+          "y_emu": 1218788,
+          "cx_emu": 404814,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 102",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 50.0,
+          "y": 5.7602,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45720000,
+          "y_emu": 5267120,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "1%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "1%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "1%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 108",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 5.9719,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 5460691,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 109",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 5.9719,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 5460691,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 110",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 4.9719,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 4546291,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 17000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 6000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": false
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 107",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 5.9908,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 5477970,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 105",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.7161,
+          "y": 5.9875,
+          "cx": 0.4427,
+          "cy": 1.9687,
+          "x_emu": 3398042,
+          "y_emu": 5474955,
+          "cx_emu": 404814,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Blank",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Oval 14",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 1.5306,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 1399567,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 15",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 1.5306,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 1399567,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 49000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 47000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 16",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 0.5306,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 485167,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 13",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 1.5495,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 1416845,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 20",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 6.1852,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 5655733,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 21",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 6.1852,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 5655733,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 54000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 52000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 22",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 5.1852,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 4741333,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 19",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 6.2041,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 5673011,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 26",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 10.8398,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 9911899,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 27",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 10.8398,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 9911899,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 60000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 58000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 28",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 9.8398,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 8997499,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 25",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 10.8587,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 9929177,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 32",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 15.4945,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 14168157,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 33",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 15.4945,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 14168157,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 65000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 63000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 34",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 14.4945,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 13253757,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 31",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 15.5134,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 14185435,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 38",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 20.1491,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 18424323,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 39",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 20.1491,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 18424323,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 71000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 69000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 40",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 19.1491,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 17509923,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 37",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 20.168,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 18441601,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 44",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 24.8037,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 22680489,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 45",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 24.8037,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 22680489,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 76000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 74000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 46",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 23.8037,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 21766089,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 43",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 24.8226,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 22697768,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 50",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 29.4583,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 26936656,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 51",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 29.4583,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 26936656,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 82000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 80000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 52",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 28.4583,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 26022256,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 49",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 29.4772,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 26953934,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 56",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 34.113,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 31192913,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 57",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 34.113,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 31192913,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 86000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 85000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 58",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 33.113,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 30278513,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 55",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 34.1319,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 31210192,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 62",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 47.0,
+          "y": 38.7676,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42976800,
+          "y_emu": 35449080,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 63",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.0,
+          "y": 38.7676,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1828800,
+          "y_emu": 35449080,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 92000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 90000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 64",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 0.0,
+          "y": 37.7676,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": 0,
+          "y_emu": 34534680,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 61",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.8568,
+          "y": 38.7865,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43760231,
+          "y_emu": 35466358,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 1",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.8568,
+          "y": 1.3188,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45589031,
+          "y_emu": 1205947,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "50%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "50%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "50%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 2",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 50.0,
+          "y": 5.9735,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45720000,
+          "y_emu": 5462142,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "55%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "55%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "55%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 3",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 50.0,
+          "y": 10.6281,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45720000,
+          "y_emu": 9718337,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "60%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "60%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "60%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 4",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.7135,
+          "y": 15.2831,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45458062,
+          "y_emu": 13974898,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "65%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "65%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "65%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 5",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.8568,
+          "y": 19.9378,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45589031,
+          "y_emu": 18231093,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "70%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "70%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "70%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 6",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.9427,
+          "y": 24.5924,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45667613,
+          "y_emu": 22487288,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "75%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "75%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "75%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 65",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.9427,
+          "y": 29.247,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45667613,
+          "y_emu": 26743483,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "80%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "80%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "80%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 66",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.6562,
+          "y": 33.9021,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45405675,
+          "y_emu": 31000044,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "85%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "85%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "85%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 67",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.7995,
+          "y": 38.5567,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45536644,
+          "y_emu": 35256239,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "90%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "90%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "90%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 71",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 46.9141,
+          "y": 43.4222,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42898253,
+          "y_emu": 39705246,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 72",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.9141,
+          "y": 43.4222,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1750253,
+          "y_emu": 39705246,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "gradient",
+          "stops": [
+            {
+              "pos": 0,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 98000,
+              "scheme": "bg1"
+            },
+            {
+              "pos": 96000,
+              "scheme": "accent1"
+            },
+            {
+              "pos": 100000,
+              "scheme": "bg1"
+            }
+          ],
+          "ang": 0,
+          "rotWithShape": true
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 73",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": -0.0859,
+          "y": 42.4222,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": -78547,
+          "y_emu": 38790846,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 70",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 47.7709,
+          "y": 43.4411,
+          "cx": 0.2604,
+          "cy": 1.9687,
+          "x_emu": 43681684,
+          "y_emu": 39722524,
+          "cx_emu": 238125,
+          "cy_emu": 1800224,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 77",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 46.9141,
+          "y": 48.0769,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42898253,
+          "y_emu": 43961503,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "bg1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 78",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.9141,
+          "y": 48.0769,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1750253,
+          "y_emu": 43961503,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 79",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": -0.0859,
+          "y": 47.0769,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": -78547,
+          "y_emu": 43047103,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 80",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.5703,
+          "y": 43.2113,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45327093,
+          "y_emu": 39512434,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "95%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "95%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "95%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 81",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.7135,
+          "y": 47.866,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45458062,
+          "y_emu": 43768629,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "98%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "98%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "98%",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 85",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": 46.7708,
+          "y": 52.7315,
+          "cx": 2.0,
+          "cy": 2.0,
+          "x_emu": 42767220,
+          "y_emu": 48217670,
+          "cx_emu": 1828800,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 86",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.7708,
+          "y": 52.7315,
+          "cx": 46.0,
+          "cy": 2.0,
+          "x_emu": 1619220,
+          "y_emu": 48217670,
+          "cx_emu": 42062400,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Oval 87",
+        "ph": null,
+        "prst": "ellipse",
+        "box": {
+          "x": -0.2292,
+          "y": 51.7315,
+          "cx": 4.0,
+          "cy": 4.0,
+          "x_emu": -209580,
+          "y_emu": 47303270,
+          "cx_emu": 3657600,
+          "cy_emu": 3657600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "solid",
+          "scheme": "accent1"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "none"
+          },
+          "noFill": true
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 88",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 49.5703,
+          "y": 52.5206,
+          "cx": 4.6328,
+          "cy": 2.4234,
+          "x_emu": 45327093,
+          "y_emu": 48024824,
+          "cx_emu": 4236244,
+          "cy_emu": 2215991,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "100%",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "100%",
+                "sz": 13800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "100%",
+        "txBox": true
+      }
+    ]
+  }
+]

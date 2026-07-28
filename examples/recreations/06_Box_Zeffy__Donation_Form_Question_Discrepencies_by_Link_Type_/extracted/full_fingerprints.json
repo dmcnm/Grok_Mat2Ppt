@@ -1,0 +1,737 @@
+[
+  {
+    "slide": 1,
+    "layout": "Blank",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 3.4167,
+          "y": 0.5,
+          "cx": 6.5,
+          "cy": 6.5,
+          "x_emu": 3124200,
+          "y_emu": 457200,
+          "cx_emu": 5943600,
+          "cy_emu": 5943600,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.png",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 4",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.7445,
+          "y": 0.6874,
+          "cx": 1.6979,
+          "cy": 1.3127,
+          "x_emu": 1595145,
+          "y_emu": 628560,
+          "cx_emu": 1552575,
+          "cy_emu": 1200329,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Anonymous Donation Check Box",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Anonymous Donation Check Box",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Present",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Present",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Anonymous Donation Check Box\nPresent",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 5",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.7188,
+          "y": 5.1775,
+          "cx": 1.6979,
+          "cy": 1.3127,
+          "x_emu": 1571625,
+          "y_emu": 4734275,
+          "cx_emu": 1552575,
+          "cy_emu": 1200329,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Anonymous Donation Check Box",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Anonymous Donation Check Box",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Present",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Present",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Anonymous Donation Check Box\nPresent",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 6",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.7187,
+          "y": 3.0118,
+          "cx": 1.6979,
+          "cy": 1.3127,
+          "x_emu": 1571624,
+          "y_emu": 2753965,
+          "cx_emu": 1552575,
+          "cy_emu": 1200329,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Anonymous Donation Check Box Missing",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Anonymous Donation Check Box Missing",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "FFC000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Anonymous Donation Check Box Missing",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Left Brace 7",
+        "ph": null,
+        "prst": "leftBrace",
+        "box": {
+          "x": 3.1146,
+          "y": 2.8542,
+          "cx": 0.3021,
+          "cy": 1.5729,
+          "x_emu": 2847975,
+          "y_emu": 2609850,
+          "cx_emu": 276225,
+          "cy_emu": 1438275,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "3",
+          "scheme": "accent2"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Left Brace 8",
+        "ph": null,
+        "prst": "leftBrace",
+        "box": {
+          "x": 3.1403,
+          "y": 0.5573,
+          "cx": 0.3021,
+          "cy": 1.5729,
+          "x_emu": 2871495,
+          "y_emu": 509588,
+          "cx_emu": 276225,
+          "cy_emu": 1438275,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "3",
+          "scheme": "accent6"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Left Brace 9",
+        "ph": null,
+        "prst": "leftBrace",
+        "box": {
+          "x": 3.1556,
+          "y": 4.6997,
+          "cx": 0.3021,
+          "cy": 2.243,
+          "x_emu": 2885489,
+          "y_emu": 4297369,
+          "cx_emu": 276225,
+          "cy_emu": 2051043,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "3",
+          "scheme": "accent6"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Blank",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 3.3508,
+          "y": 0.6687,
+          "cx": 4.975,
+          "cy": 1.35,
+          "x_emu": 3063949,
+          "y_emu": 611505,
+          "cx_emu": 4549140,
+          "cy_emu": 1234440,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image2.png",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 5",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.7549,
+          "y": 0.6375,
+          "cx": 1.6979,
+          "cy": 1.3127,
+          "x_emu": 1604670,
+          "y_emu": 582926,
+          "cx_emu": 1552575,
+          "cy_emu": 1200329,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Anonymous Donation Check Box",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Anonymous Donation Check Box",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Present",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Present",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "00B050",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Anonymous Donation Check Box\nPresent",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Left Brace 9",
+        "ph": null,
+        "prst": "leftBrace",
+        "box": {
+          "x": 3.0361,
+          "y": 0.6062,
+          "cx": 0.4466,
+          "cy": 1.35,
+          "x_emu": 2776245,
+          "y_emu": 554355,
+          "cx_emu": 408371,
+          "cy_emu": 1234440,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": {
+          "w": null,
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "3",
+          "scheme": "accent6"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 10",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.4528,
+          "y": 0.6375,
+          "cx": 3.6201,
+          "cy": 0.3208,
+          "x_emu": 3157245,
+          "y_emu": 582926,
+          "cx_emu": 3310230,
+          "cy_emu": 293374,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "28575",
+          "fill": {
+            "type": "solid",
+            "srgb": "00B050"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 3.5869,
+          "y": 3.386,
+          "cx": 4.7389,
+          "cy": 1.35,
+          "x_emu": 3279866,
+          "y_emu": 3096154,
+          "cx_emu": 4333223,
+          "cy_emu": 1234440,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image3.png",
+        "crop": {
+          "t": 3311,
+          "r": 1631
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 6",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.2236,
+          "y": 3.3297,
+          "cx": 1.6979,
+          "cy": 1.3127,
+          "x_emu": 2033295,
+          "y_emu": 3044633,
+          "cx_emu": 1552575,
+          "cy_emu": 1200329,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Anonymous Donation Check Box Missing",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Anonymous Donation Check Box Missing",
+                "sz": "inherit",
+                "bold": true,
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "FFC000",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Anonymous Donation Check Box Missing",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Left Brace 11",
+        "ph": null,
+        "prst": "leftBrace",
+        "box": {
+          "x": 3.4827,
+          "y": 3.3973,
+          "cx": 0.418,
+          "cy": 1.1826,
+          "x_emu": 3184616,
+          "y_emu": 3106455,
+          "cx_emu": 382204,
+          "cy_emu": 1081357,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "3",
+          "scheme": "accent2"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      }
+    ]
+  }
+]

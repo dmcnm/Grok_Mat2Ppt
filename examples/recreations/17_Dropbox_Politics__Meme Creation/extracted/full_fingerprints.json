@@ -1,0 +1,402 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 0.6979,
+          "y": 1.1612,
+          "cx": 4.3778,
+          "cy": 6.2805,
+          "x_emu": 638173,
+          "y_emu": 1061828,
+          "cx_emu": 4003106,
+          "cy_emu": 5742916,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 5.0757,
+          "y": 1.1612,
+          "cx": 4.3778,
+          "cy": 6.2606,
+          "x_emu": 4641279,
+          "y_emu": 1061828,
+          "cx_emu": 4003107,
+          "cy_emu": 5724617,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image2.jpg",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 8",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.149,
+          "y": 0.6931,
+          "cx": 3.4258,
+          "cy": 0.4376,
+          "x_emu": 1050662,
+          "y_emu": 633780,
+          "cx_emu": 3132546,
+          "cy_emu": 400110,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "What they studied",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "What they studied",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Abadi",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "accent1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "What they studied",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Arrow: Down 9",
+        "ph": null,
+        "prst": "downArrow",
+        "box": {
+          "x": 3.0786,
+          "y": 0.6453,
+          "cx": 0.268,
+          "cy": 0.2784,
+          "x_emu": 2815042,
+          "y_emu": 590104,
+          "cx_emu": 245097,
+          "cy_emu": 254524,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Arrow: Down 10",
+        "ph": null,
+        "prst": "downArrow",
+        "box": {
+          "x": 3.4043,
+          "y": 0.6453,
+          "cx": 0.268,
+          "cy": 0.2784,
+          "x_emu": 3112880,
+          "y_emu": 590104,
+          "cx_emu": 245097,
+          "cy_emu": 254524,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Arrow: Down 11",
+        "ph": null,
+        "prst": "downArrow",
+        "box": {
+          "x": 3.73,
+          "y": 0.6453,
+          "cx": 0.268,
+          "cy": 0.2784,
+          "x_emu": 3410717,
+          "y_emu": 590104,
+          "cx_emu": 245097,
+          "cy_emu": 254524,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 15",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 5.6035,
+          "y": 0.6944,
+          "cx": 1.3965,
+          "cy": 0.4376,
+          "x_emu": 5123852,
+          "y_emu": 634969,
+          "cx_emu": 1276918,
+          "cy_emu": 400110,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "The exam",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "The exam",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "Abadi",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "accent1",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "The exam",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "Arrow: Down 17",
+        "ph": null,
+        "prst": "downArrow",
+        "box": {
+          "x": 2.7177,
+          "y": 0.6453,
+          "cx": 0.268,
+          "cy": 0.2784,
+          "x_emu": 2485100,
+          "y_emu": 590104,
+          "cx_emu": 245097,
+          "cy_emu": 254524,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Arrow: Down 18",
+        "ph": null,
+        "prst": "downArrow",
+        "box": {
+          "x": 3.0435,
+          "y": 0.6453,
+          "cx": 0.268,
+          "cy": 0.2784,
+          "x_emu": 2782938,
+          "y_emu": 590104,
+          "cx_emu": 245097,
+          "cy_emu": 254524,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Arrow: Down 19",
+        "ph": null,
+        "prst": "downArrow",
+        "box": {
+          "x": 3.3692,
+          "y": 0.6453,
+          "cx": 0.268,
+          "cy": 0.2784,
+          "x_emu": 3080775,
+          "y_emu": 590104,
+          "cx_emu": 245097,
+          "cy_emu": 254524,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      }
+    ]
+  }
+]

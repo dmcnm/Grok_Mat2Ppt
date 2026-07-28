@@ -1,0 +1,5386 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title Slide",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "ctrTitle",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Incontrovertible Proof that Moving to Town is a Step Up in the World for the Coombs Family",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Incontrovertible Proof that Moving to Town is a Step Up in the World for the Coombs Family",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Incontrovertible Proof that Moving to Town is a Step Up in the World for the Coombs Family",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Subtitle 2",
+        "ph": "subTitle:1",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "December 31, 2014 @1454",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "December 31, 2014 @1454",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "December 31, 2014 @1454",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Only Warm Bedroom in House",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Only Warm Bedroom in House",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Only Warm Bedroom in House",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.25,
+          "y": 1.3333,
+          "cx": 9.0833,
+          "cy": 1.4167,
+          "x_emu": 228600,
+          "y_emu": 1219200,
+          "cx_emu": 8305800,
+          "cy_emu": 1295399,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "no",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "There is the one and only warm room in the house",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "There is the one and only warm room in the house",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Polyisocyanurate insulation covers outside wall including single pane windows and single pane sliding glass doors",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Polyisocyanurate",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " insulation covers outside wall including single pane windows and single pane sliding glass doors",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Has a massive gap at joint between stationary and moving parts which covered with duct tape to prevent wind from blowing in (see picture on right).",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "H",
+                "sz": 1050,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "as a massive gap at joint between stationary and moving parts which covered with duct tape to prevent wind from blowing in (see picture on right).",
+                "sz": 1050,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "For most of winter, I\u2019ve slept on the floor, my daughter on the top bunk and my 3 boys on the bottom bunk.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "For most of winter, I\u2019ve slept on the floor, my daughter on the top bunk and my 3 boys on the bottom bunk.",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "When my dad visited for Christmas, he slept on the floor of the unheated living room in a 20 degree sleeping bag",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "When my dad visited for Christmas, he slept on the floor of the unheated living room in a 20 degree sleeping bag",
+                "sz": 1050,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "There is the one and only warm room in the house\nPolyisocyanurate insulation covers outside wall including single pane windows and single pane sliding glass doors\nHas a massive gap at joint between stationary and moving parts which covered with duct tape to prevent wind from blowing in (see picture on right).\nFor most of winter, I\u2019ve slept on the floor, my daughter on the top bunk and my 3 boys on the bottom bunk.\nWhen my dad visited for Christmas, he slept on the floor of the unheated living room in a 20 degree sleeping bag",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 0.75,
+          "y": 3.1667,
+          "cx": 3.8889,
+          "cy": 2.9167,
+          "x_emu": 685800,
+          "y_emu": 2895600,
+          "cx_emu": 3556000,
+          "cy_emu": 2667000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 5.5,
+          "y": 3.5,
+          "cx": 3.8889,
+          "cy": 2.9167,
+          "x_emu": 5029200,
+          "y_emu": 3200400,
+          "cx_emu": 3556000,
+          "cy_emu": 2667000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image2.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of Usable Bathroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of Usable Bathroom",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of Usable Bathroom",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.5,
+          "cx": 9.0,
+          "cy": 1.25,
+          "x_emu": 457200,
+          "y_emu": 1371600,
+          "cx_emu": 8229600,
+          "cy_emu": 1143001,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 77500,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Old heater in bathroom removed because 1\u201d gaps \u201cprotecting\u201d exposed heater wire were extreme danger to small kids, such as I have.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Old heater in bathroom removed because 1\u201d gaps \u201cprotecting\u201d exposed heater wire were extreme danger to small kids, such as I have.",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Bathroom unheated, but usable.  Old asbestos tile remediated and shower/toilet/sink work.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Bathroom unheated, but usable.  Old asbestos tile remediated and shower/toilet/sink work.",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Lighting still an issue and ceiling unfinished.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Lighting still an issue and ceiling unfinished.",
+                "sz": 2000,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Old heater in bathroom removed because 1\u201d gaps \u201cprotecting\u201d exposed heater wire were extreme danger to small kids, such as I have.\nBathroom unheated, but usable.  Old asbestos tile remediated and shower/toilet/sink work.\nLighting still an issue and ceiling unfinished.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 2.0365,
+          "y": 3.6719,
+          "cx": 4.0417,
+          "cy": 3.0312,
+          "x_emu": 1862137,
+          "y_emu": 3357563,
+          "cx_emu": 3695700,
+          "cy_emu": 2771775,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image3.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 5.6667,
+          "y": 3.25,
+          "cx": 3.8889,
+          "cy": 2.9167,
+          "x_emu": 5181600,
+          "y_emu": 2971800,
+          "cx_emu": 3556000,
+          "cy_emu": 2667000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image4.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of Kitchen",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of Kitchen",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of Kitchen",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.75,
+          "cx": 9.0,
+          "cy": 1.4167,
+          "x_emu": 457200,
+          "y_emu": 1600201,
+          "cx_emu": 8229600,
+          "cy_emu": 1295400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 70000,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Wife removed cupboard doors and have had trouble finding them.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Wife removed cupboard doors and have had trouble finding them.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Note exposed wiring and 50 year old fluorescent lights that sometimes don\u2019t work when it gets cold.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note exposed wiring and 50 year old fluorescent lights that sometimes don\u2019t work when it gets cold.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Wife removed cupboard doors and have had trouble finding them.\nNote exposed wiring and 50 year old fluorescent lights that sometimes don\u2019t work when it gets cold.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 2.5,
+          "y": 3.1667,
+          "cx": 5.0,
+          "cy": 3.75,
+          "x_emu": 2286000,
+          "y_emu": 2895600,
+          "cx_emu": 4572000,
+          "cy_emu": 3429000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image5.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 0.0833,
+          "cx": 9.0,
+          "cy": 1.0,
+          "x_emu": 457200,
+          "y_emu": 76200,
+          "cx_emu": 8229600,
+          "cy_emu": 914400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of living room (1/3)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of living room (1/3)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of living room (1/3)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.0833,
+          "cx": 9.0833,
+          "cy": 1.1667,
+          "x_emu": 457200,
+          "y_emu": 990601,
+          "cx_emu": 8305800,
+          "cy_emu": 1066799,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 47500,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "One of the 4\u2019x6\u2019 single pane window replaced with used double pane off craig\u2019s list. It has not been trimmed out.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "One of the 4\u2019x6\u2019 single pane window replaced with used double pane off ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "craig\u2019s",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " list. It has not been trimmed out.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Three other single pane windows remain plus single pane sliding glass door.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "T",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "hree other single pane windows remain plus single pane sliding glass door.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": " One window has broken frame and one can see through to the outside",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": " One window has broken frame and one can see through to the outside",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "One of the 4\u2019x6\u2019 single pane window replaced with used double pane off craig\u2019s list. It has not been trimmed out.\nThree other single pane windows remain plus single pane sliding glass door.\n One window has broken frame and one can see through to the outside",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 5.7982,
+          "y": 4.6667,
+          "cx": 3.4037,
+          "cy": 2.5528,
+          "x_emu": 5301836,
+          "y_emu": 4267200,
+          "cx_emu": 3112328,
+          "cy_emu": 2334246,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image6.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 7",
+        "box": {
+          "x": 0.4167,
+          "y": 3.3252,
+          "cx": 5.0,
+          "cy": 3.75,
+          "x_emu": 381000,
+          "y_emu": 3040534,
+          "cx_emu": 4572000,
+          "cy_emu": 3429000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image7.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 11",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.6494,
+          "y": 4.0922,
+          "cx": 1.0,
+          "cy": 0.8333,
+          "x_emu": 2422584,
+          "y_emu": 3741887,
+          "cx_emu": 914400,
+          "cy_emu": 762000,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 12",
+        "prst": "line",
+        "box": {
+          "x": 3.6494,
+          "y": 4.3671,
+          "cx": 2.184,
+          "cy": 0.5584,
+          "x_emu": 3336984,
+          "y_emu": 3993312,
+          "cx_emu": 1997016,
+          "cy_emu": 510576,
+          "flipH": false,
+          "flipV": true
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "srgb": "FF0000"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 3.6494,
+          "by": 4.9254999999999995,
+          "ex": 5.8334,
+          "ey": 4.3671,
+          "bx_emu": 3336984,
+          "by_emu": 4503888,
+          "ex_emu": 5334000,
+          "ey_emu": 3993312
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 13",
+        "prst": "line",
+        "box": {
+          "x": 3.6494,
+          "y": 2.6926,
+          "cx": 2.184,
+          "cy": 1.3907,
+          "x_emu": 3336984,
+          "y_emu": 2462122,
+          "cx_emu": 1997016,
+          "cy_emu": 1271678,
+          "flipH": false,
+          "flipV": true
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "srgb": "FF0000"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 3.6494,
+          "by": 4.0833,
+          "ex": 5.8334,
+          "ey": 2.6926,
+          "bx_emu": 3336984,
+          "by_emu": 3733800,
+          "ex_emu": 5334000,
+          "ey_emu": 2462122
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 17",
+        "box": {
+          "x": 5.8506,
+          "y": 2.6926,
+          "cx": 2.2327,
+          "cy": 1.6745,
+          "x_emu": 5349814,
+          "y_emu": 2462122,
+          "cx_emu": 2041586,
+          "cy_emu": 1531190,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image8.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of living room (2/3)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of living room (2/3)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of living room (2/3)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.75,
+          "cx": 9.25,
+          "cy": 1.4167,
+          "x_emu": 457200,
+          "y_emu": 1600201,
+          "cx_emu": 8458200,
+          "cy_emu": 1295399,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 92500,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Note single pane sliding glass door with unsealed gap between sliding and stationary parts.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note single pane sliding glass door with unsealed gap between sliding and stationary parts.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Note single pane sliding glass door with unsealed gap between sliding and stationary parts.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 0.75,
+          "y": 3.2917,
+          "cx": 5.0,
+          "cy": 3.75,
+          "x_emu": 685800,
+          "y_emu": 3009899,
+          "cx_emu": 4572000,
+          "cy_emu": 3429000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image9.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 6.0417,
+          "y": 3.8333,
+          "cx": 3.6667,
+          "cy": 2.75,
+          "x_emu": 5524500,
+          "y_emu": 3505200,
+          "cx_emu": 3352799,
+          "cy_emu": 2514599,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image10.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of living room (3/3)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of living room (3/3)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of living room (3/3)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.4167,
+          "cx": 9.3333,
+          "cy": 1.8333,
+          "x_emu": 457200,
+          "y_emu": 1295401,
+          "cx_emu": 8534400,
+          "cy_emu": 1676400,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 55000,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Picture on left from earlier in Dec. 2014 shows old propane heater.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Picture on left from earlier in Dec. 2014 shows old propane heater.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Picture on right shows this week\u2019s installation of electric wall furnace.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Picture on right shows this week\u2019s installation of electric wall furnace.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "30,000 BTU, 40+ amps.  Can only afford to run for a few hours a day.  Full time would cost $400+/month and only heat one room.  Can\u2019t afford $10-20k to outfit entire house with efficient heat pumps.  Got quote earlier this  month for 12 amp heat pump for this one room.  It was $6k.  I can buy the parts for $3.25k and do myself when I have more money, but will still need to pull a permit and hire a plumber for $500 to hook up the refrigerant.  ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "30,000 BTU, 40+ amps.  Can only afford to run for a few hours a day.  Full time would cost $400+/month and only heat one room.  Can\u2019t afford $10-20k to outfit entire house with efficient heat pumps.  Got quote earlier this  month for 12 amp heat pump for this one room.  It was $6k.  I can buy the parts for $3.25k and do myself when I have more money, but will still need to pull a permit and hire a plumber for $500 to hook up the refrigerant.  ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Picture on left from earlier in Dec. 2014 shows old propane heater.\nPicture on right shows this week\u2019s installation of electric wall furnace.\n30,000 BTU, 40+ amps.  Can only afford to run for a few hours a day.  Full time would cost $400+/month and only heat one room.  Can\u2019t afford $10-20k to outfit entire house with efficient heat pumps.  Got quote earlier this  month for 12 amp heat pump for this one room.  It was $6k.  I can buy the parts for $3.25k and do myself when I have more money, but will still need to pull a permit and hire a plumber for $500 to hook up the refrigerant.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 7",
+        "box": {
+          "x": 2.1667,
+          "y": 3.3286,
+          "cx": 2.0079,
+          "cy": 3.8645,
+          "x_emu": 1981200,
+          "y_emu": 3043687,
+          "cx_emu": 1836050,
+          "cy_emu": 3533682,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image11.jpeg",
+        "crop": {
+          "l": 72479,
+          "b": 29378
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 8",
+        "box": {
+          "x": 5.2656,
+          "y": 3.8177,
+          "cx": 3.875,
+          "cy": 2.9062,
+          "x_emu": 4814887,
+          "y_emu": 3490913,
+          "cx_emu": 3543300,
+          "cy_emu": 2657475,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image12.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of 2nd bedroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of 2",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nd",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " bedroom",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of 2nd bedroom",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.3333,
+          "y": 1.4167,
+          "cx": 9.1667,
+          "cy": 1.1667,
+          "x_emu": 304800,
+          "y_emu": 1295400,
+          "cx_emu": 8382000,
+          "cy_emu": 1066800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "no",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Single pane windows replaced in 2nd and 3rd bedrooms Nov. - Dec. of 2014",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Single pane windows replaced in 2",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nd",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " and 3",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "rd",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " bedrooms Nov. - Dec. of 2014",
+                "sz": 1600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Trim finished just this week in one room, not in the other",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Trim finished just this week in one room, not in the other",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Note temperature is 47 degrees despite space heater being on 24-7.  Obviously, I have a serious problem here.  Walls on this side of the house are more poorly insulated than I anticipated.  Quality in this regard is very uneven throughout the house.  Also, floor is uninsulated above vented crawl space, which probably has a big effect.  When wood stove is run constantly, a space heater can keep the room tolerable.  Without it, it is miserable.  ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note temperature is 47 degrees despite space heater being on 24-7.  Obviously, I have a serious problem here.  Walls on this side of the house are more poorly insulated than I anticipated.  Quality in this regard is very uneven throughout the house.  Also, floor is uninsulated above vented crawl space, which probably has a big effect.  When wood stove is run constantly, a space heater can keep the room tolerable.  Without it, it is miserable.  ",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Single pane windows replaced in 2nd and 3rd bedrooms Nov. - Dec. of 2014\nTrim finished just this week in one room, not in the other\nNote temperature is 47 degrees despite space heater being on 24-7.  Obviously, I have a serious problem here.  Walls on this side of the house are more poorly insulated than I anticipated.  Quality in this regard is very uneven throughout the house.  Also, floor is uninsulated above vented crawl space, which probably has a big effect.  When wood stove is run constantly, a space heater can keep the room tolerable.  Without it, it is miserable.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 4.6667,
+          "y": 3.7106,
+          "cx": 4.4274,
+          "cy": 3.3205,
+          "x_emu": 4267200,
+          "y_emu": 3392958,
+          "cx_emu": 4048400,
+          "cy_emu": 3036300,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image13.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 1.4365,
+          "y": 3.5499,
+          "cx": 1.78,
+          "cy": 3.6803,
+          "x_emu": 1313546,
+          "y_emu": 3245992,
+          "cx_emu": 1627644,
+          "cy_emu": 3365265,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image14.jpeg",
+        "crop": {
+          "l": 40542,
+          "t": 23333,
+          "r": 38515,
+          "b": 18931
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 7",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 5.0833,
+          "y": 5.75,
+          "cx": 1.0,
+          "cy": 0.8333,
+          "x_emu": 4648200,
+          "y_emu": 5257800,
+          "cx_emu": 914400,
+          "cy_emu": 762000,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 9",
+        "prst": "line",
+        "box": {
+          "x": 4.1667,
+          "y": 4.5,
+          "cx": 0.9167,
+          "cy": 1.25,
+          "x_emu": 3810001,
+          "y_emu": 4114802,
+          "cx_emu": 838199,
+          "cy_emu": 1142998,
+          "flipH": true,
+          "flipV": true
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "srgb": "FF0000"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 5.083399999999999,
+          "by": 5.75,
+          "ex": 4.1667,
+          "ey": 4.5,
+          "bx_emu": 4648200,
+          "by_emu": 5257800,
+          "ex_emu": 3810001,
+          "ey_emu": 4114802
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 10",
+        "prst": "line",
+        "box": {
+          "x": 4.1667,
+          "y": 6.28,
+          "cx": 0.9167,
+          "cy": 0.3033,
+          "x_emu": 3810001,
+          "y_emu": 5742447,
+          "cx_emu": 838199,
+          "cy_emu": 277353,
+          "flipH": true,
+          "flipV": true
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "srgb": "FF0000"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 5.083399999999999,
+          "by": 6.5833,
+          "ex": 4.1667,
+          "ey": 6.28,
+          "bx_emu": 4648200,
+          "by_emu": 6019800,
+          "ex_emu": 3810001,
+          "ey_emu": 5742447
+        }
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.478,
+          "y": 0.0,
+          "cx": 9.0,
+          "cy": 1.25,
+          "x_emu": 437072,
+          "y_emu": 0,
+          "cx_emu": 8229600,
+          "cy_emu": 1143000,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of third bedroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of third bedroom",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of third bedroom",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.4775,
+          "y": 1.2253,
+          "cx": 8.9392,
+          "cy": 0.7747,
+          "x_emu": 436593,
+          "y_emu": 1120383,
+          "cx_emu": 8174007,
+          "cy_emu": 708417,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Single pane window replaced in November 2014, but hasn\u2019t been trimmed out or finished.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": 342900,
+              "indent": -342900,
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Single pane window replaced in November 2014, but hasn\u2019t been trimmed out or finished.",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Third bedroom is open to the bathroom since wall has been removed. ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": 342900,
+              "indent": -342900,
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Third bedroom is open to the bathroom since wall has been removed. ",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Single pane window replaced in November 2014, but hasn\u2019t been trimmed out or finished.\nThird bedroom is open to the bathroom since wall has been removed.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 3.75,
+          "y": 2.4167,
+          "cx": 2.8527,
+          "cy": 2.1395,
+          "x_emu": 3429000,
+          "y_emu": 2209800,
+          "cx_emu": 2608531,
+          "cy_emu": 1956398,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image15.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 0.4775,
+          "y": 5.2398,
+          "cx": 2.8559,
+          "cy": 2.1419,
+          "x_emu": 436593,
+          "y_emu": 4791253,
+          "cx_emu": 2611408,
+          "cy_emu": 1958556,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image16.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 7",
+        "box": {
+          "x": 6.9733,
+          "y": 2.4962,
+          "cx": 2.6406,
+          "cy": 1.9804,
+          "x_emu": 6376358,
+          "y_emu": 2282553,
+          "cx_emu": 2414523,
+          "cy_emu": 1810892,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image17.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 8",
+        "box": {
+          "x": 6.9733,
+          "y": 5.2398,
+          "cx": 2.8724,
+          "cy": 2.1543,
+          "x_emu": 6376358,
+          "y_emu": 4791253,
+          "cx_emu": 2626504,
+          "cy_emu": 1969878,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image18.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 9",
+        "box": {
+          "x": 3.8447,
+          "y": 5.2274,
+          "cx": 2.8889,
+          "cy": 2.1667,
+          "x_emu": 3515624,
+          "y_emu": 4779931,
+          "cx_emu": 2641600,
+          "cy_emu": 1981200,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image19.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 10",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 7.0833,
+          "y": 1.9167,
+          "cx": 2.3333,
+          "cy": 0.4712,
+          "x_emu": 6477000,
+          "y_emu": 1752600,
+          "cx_emu": 2133600,
+          "cy_emu": 430887,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Hole in floor for removed propane heater covered by duct tape",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Hole in floor for removed propane heater covered by duct tape",
+                "sz": 1100,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Hole in floor for removed propane heater covered by duct tape",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 11",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 4.0097,
+          "y": 2.0597,
+          "cx": 2.593,
+          "cy": 0.2861,
+          "x_emu": 3666465,
+          "y_emu": 1883404,
+          "cx_emu": 2371066,
+          "cy_emu": 261610,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "View of bedroom from 2nd bathroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "View of bedroom from 2",
+                "sz": 1100,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nd",
+                "sz": 1100,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " bathroom",
+                "sz": 1100,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "View of bedroom from 2nd bathroom",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 12",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.5162,
+          "y": 2.1523,
+          "cx": 2.593,
+          "cy": 0.2861,
+          "x_emu": 472057,
+          "y_emu": 1968043,
+          "cx_emu": 2371066,
+          "cy_emu": 261610,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "View of bathroom from bedroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "View of bathroom from bedroom",
+                "sz": 1100,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "View of bathroom from bedroom",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 13",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.521,
+          "y": 4.8256,
+          "cx": 2.593,
+          "cy": 0.2861,
+          "x_emu": 476370,
+          "y_emu": 4412551,
+          "cx_emu": 2371066,
+          "cy_emu": 261610,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Untrimmed window in third bedroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Untrimmed window in third bedroom",
+                "sz": 1100,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Untrimmed window in third bedroom",
+        "txBox": true
+      },
+      {
+        "kind": "sp",
+        "name": "TextBox 14",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.8447,
+          "y": 4.7686,
+          "cx": 6.0009,
+          "cy": 0.4712,
+          "x_emu": 3515624,
+          "y_emu": 4360366,
+          "cx_emu": 5487238,
+          "cy_emu": 430887,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "shape",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "square",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Overall views of bedroom showing ungrounded plugs, untrimmed windows, asbestos flooring and old recently removed single pane windows.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Overall views of bedroom showing ungrounded plugs, untrimmed windows, asbestos flooring and old recently removed single pane windows.",
+                "sz": 1100,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Overall views of bedroom showing ungrounded plugs, untrimmed windows, asbestos flooring and old recently removed single pane windows.",
+        "txBox": true
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of Second Bathroom",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of Second Bathroom",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of Second Bathroom",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.4167,
+          "y": 1.5833,
+          "cx": 9.1667,
+          "cy": 1.1667,
+          "x_emu": 381000,
+          "y_emu": 1447800,
+          "cx_emu": 8382000,
+          "cy_emu": 1066799,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Shower tile had been placed over unprotected drywall and was falling apart.  Walls were covered with broken mirrors which were used as wall tile and were a cutting hazard since some of the grout was starting to fall out.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": 342900,
+              "indent": -342900,
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Shower tile had been placed over unprotected drywall and was falling apart.  Walls were covered with broken mirrors which were used as wall tile and were a cutting hazard since some of the grout was starting to fall out.",
+                "sz": 1050,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Currently walls are torn out, old ungrounded wiring needs toi be replaced with modern GFI outlets and shower needs to be finished.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": 342900,
+              "indent": -342900,
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Currently walls are torn out, old ungrounded wiring needs ",
+                "sz": 1050,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "toi",
+                "sz": 1050,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " be replaced with modern GFI outlets and shower needs to be finished.",
+                "sz": 1050,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Note frost on single pane window in the afternoon (nearly warmest part of the day,  plenty of time to warm up)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": 342900,
+              "indent": -342900,
+              "bu": "char",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note frost on single pane window in the afternoon (nearly warmest part of the day,  plenty of time to warm up)",
+                "sz": 1050,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Shower tile had been placed over unprotected drywall and was falling apart.  Walls were covered with broken mirrors which were used as wall tile and were a cutting hazard since some of the grout was starting to fall out.\nCurrently walls are torn out, old ungrounded wiring needs toi be replaced with modern GFI outlets and shower needs to be finished.\nNote frost on single pane window in the afternoon (nearly warmest part of the day,  plenty of time to warm up)",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 0.3333,
+          "y": 3.0833,
+          "cx": 4.5,
+          "cy": 3.375,
+          "x_emu": 304800,
+          "y_emu": 2819400,
+          "cx_emu": 4114800,
+          "cy_emu": 3086100,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image20.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 5.2906,
+          "y": 3.5278,
+          "cx": 4.4444,
+          "cy": 3.3333,
+          "x_emu": 4837723,
+          "y_emu": 3225800,
+          "cx_emu": 4064000,
+          "cy_emu": 3048000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image21.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of Basement (1/2)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of Basement (1/2)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of Basement (1/2)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.25,
+          "y": 1.25,
+          "cx": 9.25,
+          "cy": 2.0,
+          "x_emu": 228600,
+          "y_emu": 1143001,
+          "cx_emu": 8458200,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Basement was used as a second bedroom in the summer ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Basement was used as a second bedroom in the summer ",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "2nd bedroom had broken single pane window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "2nd bedroom had broken single pane window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Note massive gap to outside under 2nd door and huge hole in wall with light coming in from outside (shown below).",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note massive gap to outside under 2",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nd",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " door and huge hole in wall with light coming in from outside (shown below).",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Basement completely inappropriate to use as bedroom in winter.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Basement completely inappropriate to use as bedroom in winter.",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Note broken window on door which is covered in packing tape and shown below (another DV incident)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note broken window on door which is covered in packing tape and shown below (another DV incident)",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Basement was used as a second bedroom in the summer \n2nd bedroom had broken single pane window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.\nNote massive gap to outside under 2nd door and huge hole in wall with light coming in from outside (shown below).\nBasement completely inappropriate to use as bedroom in winter.\nNote broken window on door which is covered in packing tape and shown below (another DV incident)",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 8",
+        "box": {
+          "x": 1.0833,
+          "y": 3.25,
+          "cx": 5.0,
+          "cy": 3.75,
+          "x_emu": 990600,
+          "y_emu": 2971800,
+          "cx_emu": 4572000,
+          "cy_emu": 3429000,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image22.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 15",
+        "box": {
+          "x": 6.5342,
+          "y": 3.8825,
+          "cx": 3.7264,
+          "cy": 2.7948,
+          "x_emu": 5974871,
+          "y_emu": 3550129,
+          "cx_emu": 3407433,
+          "cy_emu": 2555575,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image23.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 16",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 1.3333,
+          "y": 6.6667,
+          "cx": 1.4292,
+          "cy": 0.25,
+          "x_emu": 1219200,
+          "y_emu": 6096000,
+          "cx_emu": 1306902,
+          "cy_emu": 228600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 17",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 2.3333,
+          "y": 3.7248,
+          "cx": 0.4292,
+          "cy": 0.3585,
+          "x_emu": 2133600,
+          "y_emu": 3405996,
+          "cx_emu": 392502,
+          "cy_emu": 327804,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 18",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 7.9682,
+          "y": 4.7854,
+          "cx": 1.1152,
+          "cy": 1.1313,
+          "x_emu": 7286084,
+          "y_emu": 4375748,
+          "cx_emu": 1019715,
+          "cy_emu": 1034451,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      }
+    ]
+  },
+  {
+    "slide": 12,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of Basement (2/2)",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of Basement (2/2)",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of Basement (2/2)",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.25,
+          "y": 1.25,
+          "cx": 9.25,
+          "cy": 2.0,
+          "x_emu": 228600,
+          "y_emu": 1143001,
+          "cx_emu": 8458200,
+          "cy_emu": 1828800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Basement was used as a second bedroom in the summer ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Basement was used as a second bedroom in the summer ",
+                "sz": 1400,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "2nd bedroom had broken window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "2nd bedroom had broken window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Basement completely inappropriate to use as bedroom in winter.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Basement completely inappropriate to use as bedroom in winter.",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Note broken window on door which is covered in packing tape and shown below (another DV incident), ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note broken window on door which is covered in packing tape and shown below (another DV incident), ",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Note massive gap to outside under 2nd door and huge hole in wall with light coming in from outside (shown below).",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note massive gap to outside under 2",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nd",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " door and huge hole in wall with light coming in from outside (shown below).",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Also note that basement is open to crawl space /unfinished utility room and exposed wiring (shown below).",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Also note that basement is open to crawl space /unfinished utility room and exposed wiring (shown below).",
+                "sz": 1200,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Basement was used as a second bedroom in the summer \n2nd bedroom had broken window from domestic violence incident for which ex-wife was charged by AG.  Since then it has been replaced as recorded earlier.\nBasement completely inappropriate to use as bedroom in winter.\nNote broken window on door which is covered in packing tape and shown below (another DV incident), \nNote massive gap to outside under 2nd door and huge hole in wall with light coming in from outside (shown below).\nAlso note that basement is open to crawl space /unfinished utility room and exposed wiring (shown below).",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 15",
+        "box": {
+          "x": 0.3653,
+          "y": 3.5755,
+          "cx": 4.2222,
+          "cy": 3.1667,
+          "x_emu": 334034,
+          "y_emu": 3269471,
+          "cx_emu": 3860800,
+          "cy_emu": 2895600,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image24.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 16",
+        "box": {
+          "x": 4.4167,
+          "y": 4.4649,
+          "cx": 3.7778,
+          "cy": 2.8333,
+          "x_emu": 4038600,
+          "y_emu": 4082750,
+          "cx_emu": 3454400,
+          "cy_emu": 2590800,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image25.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 17",
+        "box": {
+          "x": 7.5,
+          "y": 3.0,
+          "cx": 2.4167,
+          "cy": 1.8125,
+          "x_emu": 6858000,
+          "y_emu": 2743200,
+          "cx_emu": 2209800,
+          "cy_emu": 1657350,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image26.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 18",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 6.7044,
+          "y": 4.8125,
+          "cx": 1.0,
+          "cy": 0.8333,
+          "x_emu": 6130506,
+          "y_emu": 4400550,
+          "cx_emu": 914400,
+          "cy_emu": 762000,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 19",
+        "prst": "line",
+        "box": {
+          "x": 7.7044,
+          "y": 4.8037,
+          "cx": 2.2123,
+          "cy": 0.8422,
+          "x_emu": 7044906,
+          "y_emu": 4392463,
+          "cx_emu": 2022895,
+          "cy_emu": 770087,
+          "flipH": false,
+          "flipV": true
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "srgb": "FF0000"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 7.7044,
+          "by": 5.6459,
+          "ex": 9.916699999999999,
+          "ey": 4.8037,
+          "bx_emu": 7044906,
+          "by_emu": 5162550,
+          "ex_emu": 9067801,
+          "ey_emu": 4392463
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 20",
+        "prst": "line",
+        "box": {
+          "x": 6.7044,
+          "y": 3.0,
+          "cx": 0.7956,
+          "cy": 1.8037,
+          "x_emu": 6130506,
+          "y_emu": 2743201,
+          "cx_emu": 727494,
+          "cy_emu": 1649262,
+          "flipH": false,
+          "flipV": true
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "srgb": "FF0000"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 6.7044,
+          "by": 4.8037,
+          "ex": 7.5,
+          "ey": 3.0,
+          "bx_emu": 6130506,
+          "by_emu": 4392463,
+          "ex_emu": 6858000,
+          "ey_emu": 2743201
+        }
+      }
+    ]
+  },
+  {
+    "slide": 13,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": {
+          "x": 0.3333,
+          "y": 0.1667,
+          "cx": 9.1667,
+          "cy": 1.3837,
+          "x_emu": 304800,
+          "y_emu": 152400,
+          "cx_emu": 8382000,
+          "cy_emu": 1265238,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Unworking Propane Heaters in most Rooms",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Unworking",
+                "sz": 3600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " Propane Heaters in most Rooms",
+                "sz": 3600,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Unworking Propane Heaters in most Rooms",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.3333,
+          "y": 1.25,
+          "cx": 9.3385,
+          "cy": 1.3333,
+          "x_emu": 304799,
+          "y_emu": 1143001,
+          "cx_emu": 8539163,
+          "cy_emu": 1219199,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 55000,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Propane was pulled by Amerigas due to dangerous piping which was undisclosed.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Propane was pulled by ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "Amerigas",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " due to dangerous piping which was undisclosed.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Rusted pipes (shown below)and main supply line running through concrete make replumbing entire house necessary to ever use again.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Rusted pipes (shown below)and main supply line running through concrete make ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "replumbing",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " entire house necessary to ever use again.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Propane heaters were inefficient and unsafe anyway.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Propane heaters were inefficient and unsafe anyway.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Propane was pulled by Amerigas due to dangerous piping which was undisclosed.\nRusted pipes (shown below)and main supply line running through concrete make replumbing entire house necessary to ever use again.\nPropane heaters were inefficient and unsafe anyway.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 6.714,
+          "y": 4.2498,
+          "cx": 4.5625,
+          "cy": 1.4906,
+          "x_emu": 6139312,
+          "y_emu": 3886020,
+          "cx_emu": 4171950,
+          "cy_emu": 1362974,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image27.jpeg",
+        "crop": {
+          "l": 935,
+          "t": 33189,
+          "r": -935,
+          "b": 23251
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 0.25,
+          "y": 2.4167,
+          "cx": 5.9167,
+          "cy": 1.9167,
+          "x_emu": 228600,
+          "y_emu": 2209800,
+          "cx_emu": 5410199,
+          "cy_emu": 1752600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 55000,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {
+            "lIns": 91440,
+            "tIns": 45720,
+            "rIns": 91440,
+            "bIns": 45720
+          }
+        },
+        "paras": [
+          {
+            "text": "Wood heat used on one side of house but",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Wood heat used on one side of house but",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Doesn\u2019t reach basement or other side of house",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Doesn\u2019t reach basement or other side of house",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Is only tolerable as whole house heat if someone is home most of the day to keep it going.  ",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Is only tolerable as whole house heat if someone is home most of the day to keep it going.  ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Is unworkable since I leave the house at 7:45 and get home at 6:30 most days, at best.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Is unworkable since I leave the house at 7:45 and get home at 6:30 most days, at best.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Wood heat used on one side of house but\nDoesn\u2019t reach basement or other side of house\nIs only tolerable as whole house heat if someone is home most of the day to keep it going.  \nIs unworkable since I leave the house at 7:45 and get home at 6:30 most days, at best.",
+        "txBox": true
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 4.2917,
+          "y": 4.1855,
+          "cx": 3.75,
+          "cy": 2.8125,
+          "x_emu": 3924299,
+          "y_emu": 3827253,
+          "cx_emu": 3429000,
+          "cy_emu": 2571750,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image28.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 0.2791,
+          "y": 4.2526,
+          "cx": 3.7778,
+          "cy": 2.8333,
+          "x_emu": 255197,
+          "y_emu": 3888537,
+          "cx_emu": 3454400,
+          "cy_emu": 2590800,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image29.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 14,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "State of Flooring",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "State of Flooring",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "State of Flooring",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.5,
+          "cx": 8.75,
+          "cy": 1.75,
+          "x_emu": 457200,
+          "y_emu": 1371601,
+          "cx_emu": 8001000,
+          "cy_emu": 1600200,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 92500,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Asbestos tile covers one side of house.  It is coming up in numerous places, as shown below.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Asbestos tile covers one side of house.  It is coming up in numerous places, as shown below.",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "50 year old nylon carpet covers other side of house, except for hole where old homemade fireplace used to exist (shown below) .  Old fireplace was removed because it was a fire hazard, didn\u2019t draft properly filling room with smoke when fire got low and sucked more heat up the chimney than it gave to room when fire was not low.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "50 year old nylon carpet covers other side of house, except for hole where old homemade fireplace used to exist (shown below) .  Old fireplace was removed because it was a fire hazard, didn\u2019t draft properly filling room with smoke when fire got low and sucked more heat up the chimney than it gave to room when fire was not low.",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Asbestos tile covers one side of house.  It is coming up in numerous places, as shown below.\n50 year old nylon carpet covers other side of house, except for hole where old homemade fireplace used to exist (shown below) .  Old fireplace was removed because it was a fire hazard, didn\u2019t draft properly filling room with smoke when fire got low and sucked more heat up the chimney than it gave to room when fire was not low.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 0.4167,
+          "y": 3.6667,
+          "cx": 4.25,
+          "cy": 3.1875,
+          "x_emu": 381000,
+          "y_emu": 3352800,
+          "cx_emu": 3886200,
+          "cy_emu": 2914650,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image30.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 5.1667,
+          "y": 3.6667,
+          "cx": 4.3333,
+          "cy": 3.25,
+          "x_emu": 4724400,
+          "y_emu": 3352800,
+          "cx_emu": 3962400,
+          "cy_emu": 2971800,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image31.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 15,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Misc. Issues",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Misc. Issues",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Misc. Issues",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.5,
+          "cx": 9.0,
+          "cy": 1.1667,
+          "x_emu": 457200,
+          "y_emu": 1371601,
+          "cx_emu": 8229600,
+          "cy_emu": 1066800,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 70000,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Note outside trim not finished on replaced widnows.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note outside trim not finished on replaced ",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "widnows",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": ".",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Note rotting wood and nails sticking up on outside deck.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Note rotting wood and nails sticking up on outside deck.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Why I don\u2019t allow the kids to play there.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Why I don\u2019t allow the kids to play there.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Note outside trim not finished on replaced widnows.\nNote rotting wood and nails sticking up on outside deck.\nWhy I don\u2019t allow the kids to play there.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 5.8889,
+          "y": 4.3993,
+          "cx": 4.1111,
+          "cy": 3.0833,
+          "x_emu": 5384800,
+          "y_emu": 4022705,
+          "cx_emu": 3759200,
+          "cy_emu": 2819400,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image32.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 3.6352,
+          "y": 2.8208,
+          "cx": 2.4481,
+          "cy": 1.8361,
+          "x_emu": 3324045,
+          "y_emu": 2579298,
+          "cx_emu": 2238555,
+          "cy_emu": 1678916,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image33.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 5",
+        "box": {
+          "x": 0.3333,
+          "y": 4.3993,
+          "cx": 3.5871,
+          "cy": 2.6903,
+          "x_emu": 304800,
+          "y_emu": 4022705,
+          "cx_emu": 3280061,
+          "cy_emu": 2460046,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image34.jpeg",
+        "crop": null
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle 6",
+        "ph": null,
+        "prst": "rect",
+        "box": {
+          "x": 3.1352,
+          "y": 5.8325,
+          "cx": 1.0,
+          "cy": 0.8333,
+          "x_emu": 2866845,
+          "y_emu": 5333280,
+          "cx_emu": 914400,
+          "cy_emu": 762000,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "38100",
+          "fill": {
+            "type": "solid",
+            "srgb": "FF0000"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 7",
+        "prst": "line",
+        "box": {
+          "x": 4.1352,
+          "y": 4.6568,
+          "cx": 1.9481,
+          "cy": 2.009,
+          "x_emu": 3781245,
+          "y_emu": 4258214,
+          "cx_emu": 1781355,
+          "cy_emu": 1837067,
+          "flipH": false,
+          "flipV": true
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "srgb": "FF0000"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 4.1352,
+          "by": 6.665799999999999,
+          "ex": 6.0833,
+          "ey": 4.6568,
+          "bx_emu": 3781245,
+          "by_emu": 6095281,
+          "ex_emu": 5562600,
+          "ey_emu": 4258214
+        }
+      },
+      {
+        "kind": "cxn",
+        "name": "Straight Connector 8",
+        "prst": "line",
+        "box": {
+          "x": 3.1352,
+          "y": 2.8208,
+          "cx": 0.5,
+          "cy": 3.0029,
+          "x_emu": 2866845,
+          "y_emu": 2579298,
+          "cx_emu": 457200,
+          "cy_emu": 2745896,
+          "flipH": false,
+          "flipV": true
+        },
+        "ln": {
+          "w": 38100,
+          "type": "solid",
+          "srgb": "FF0000"
+        },
+        "adj": [],
+        "ends": {
+          "bx": 3.1352,
+          "by": 5.8237000000000005,
+          "ex": 3.6352,
+          "ey": 2.8208,
+          "bx_emu": 2866845,
+          "by_emu": 5325194,
+          "ex_emu": 3324045,
+          "ey_emu": 2579298
+        }
+      }
+    ]
+  },
+  {
+    "slide": 16,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 90000,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Undisclosed Problems Preventing Sale",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Undisclosed Problems Preventing Sale",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Undisclosed Problems Preventing Sale",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.1667,
+          "y": 1.5833,
+          "cx": 4.75,
+          "cy": 5.4167,
+          "x_emu": 152400,
+          "y_emu": 1447800,
+          "cx_emu": 4343400,
+          "cy_emu": 4953000,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 70000,
+          "lnSpcReduction": 20000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Foundation problem discovered after buying the house has outside wall leaning over an inch in just 8\u2019.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Foundation problem discovered after buying the house has outside wall leaning over an inch in just 8\u2019.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "This was not disclosed when I bought the place and must be fixed before sale.  The problem is the foundation is not solid concrete.  It is a mixed concrete and rock, making jacking it up the normal way impossible since it is only strong in compression and not tension.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "This was not disclosed when I bought the place and must be fixed before sale.  The problem is the foundation is not solid concrete.  It is a mixed concrete and rock, making jacking it up the normal way impossible since it is only strong in compression and not tension.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Similar to the rubble trench foundations which Frank Lloyd Wright was famous for, but which are a nightmare to fix if not done properly.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 1,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Similar to the rubble trench foundations which Frank Lloyd Wright was famous for, but which are a nightmare to fix if not done properly.",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Foundation problem discovered after buying the house has outside wall leaning over an inch in just 8\u2019.\nThis was not disclosed when I bought the place and must be fixed before sale.  The problem is the foundation is not solid concrete.  It is a mixed concrete and rock, making jacking it up the normal way impossible since it is only strong in compression and not tension.\nSimilar to the rubble trench foundations which Frank Lloyd Wright was famous for, but which are a nightmare to fix if not done properly.",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 4.5521,
+          "y": 2.5104,
+          "cx": 6.0833,
+          "cy": 4.5625,
+          "x_emu": 4162425,
+          "y_emu": 2295525,
+          "cx_emu": 5562600,
+          "cy_emu": 4171950,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image35.jpeg",
+        "crop": null
+      }
+    ]
+  },
+  {
+    "slide": 17,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "sp",
+        "name": "Title 1",
+        "ph": "title",
+        "prst": null,
+        "box": null,
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Conclusions",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Conclusions",
+                "sz": "inherit",
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Conclusions",
+        "txBox": false
+      },
+      {
+        "kind": "sp",
+        "name": "Content Placeholder 2",
+        "ph": "body:1",
+        "prst": null,
+        "box": {
+          "x": 0.5,
+          "y": 1.75,
+          "cx": 9.0833,
+          "cy": 4.4167,
+          "x_emu": 457200,
+          "y_emu": 1600200,
+          "cx_emu": 8305800,
+          "cy_emu": 4038600,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "inherit"
+        },
+        "ln": null,
+        "style_ln": null,
+        "body": {
+          "autofit": "norm",
+          "fontScale": 85000,
+          "lnSpcReduction": 10000,
+          "anchor": "inherit",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [
+          {
+            "text": "Anyone who thinks this is a proper place to raise kids in winter needs to have their head examined.  It is bitterly cold and needs much work to be rentable, comfortably livable or even saleable at anything but a huge loss.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Anyone who thinks this is a proper place to raise kids in winter needs to have their head examined.  It is bitterly cold and needs much work to be rentable, comfortably livable or even saleable at anything but a huge loss.",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "This is only a small sampling of the problems I have with this house, some of which I\u2019m afraid to document in pictures given to people I don\u2019t trust.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "This is only a small sampling of the problems I have with this house, some of which I\u2019m afraid to document in pictures given to people I don\u2019t trust.",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "The worst part about this whole thing is that now I have to live here an extra month (the 2nd coldest month of the year), because somebody made themselves judge and jury of things had no understanding of and forced me to jump through numerous ridiculous hoops which delayed closing past Dec. 31, costing me tons of money in legal fees and forcing my kids to endure another month of mind-numbing cold.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "The worst part about this whole thing is that now I have to live here an extra month (the 2",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "nd",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " coldest month of the year), because somebody made themselves judge and jury of things had no understanding of and forced me to jump through numerous ridiculous hoops which delayed closing past Dec. 31, costing me tons of money in legal fees and forcing my kids to endure another month of mind-numbing cold.",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "I only bought this house because I thought I had a partner in life who could help me fix the place up and make it livable. A lawsuit over the driveway that cost me tens of thousands of dollars and tied up funds designated for fixing this house combined with my ex losing her mind, leaving me with full custody of the kids and alimony to pay conspired to cost me that dream.  Now, somebody who has no fucking idea what it is like to live here wants to take away my chance to get out of here by not allowing a loan to go through.  What are my other options: selling at a massive loss or walking a way and defaulting on the loan.  Are those options really preferable?  I think not.",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "I only bought this house because I thought I had a partner in life who could help me fix the place up and make it livable. ",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": "A",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              },
+              {
+                "t": " lawsuit over the driveway that cost me tens of thousands of dollars and tied up funds designated for fixing this house combined with my ex losing her mind, leaving me with full custody of the kids and alimony to pay conspired to cost me that dream.  Now, somebody who has no fucking idea what it is like to live here wants to take away my chance to get out of here by not allowing a loan to go through.  What are my other options: selling at a massive loss or walking a way and defaulting on the loan.  Are those options really preferable?  I think not.",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          },
+          {
+            "text": "Now that I\u2019ve been completely humiliated, \u201cMother, may I please have my loan?\u201d",
+            "soft_breaks": 0,
+            "pPr": {
+              "lvl": 0,
+              "algn": "inherit",
+              "marL": "inherit",
+              "indent": "inherit",
+              "bu": "inherit",
+              "lnSpcPct": "inherit",
+              "spcBef": "inherit"
+            },
+            "runs": [
+              {
+                "t": "Now that I\u2019ve been completely humiliated, \u201cMother, may I please have my loan?\u201d",
+                "sz": 1800,
+                "bold": "inherit",
+                "italic": "inherit",
+                "cap": "inherit",
+                "latin": "inherit",
+                "cs": "inherit",
+                "ea": "inherit",
+                "srgb": "inherit",
+                "scheme": "inherit",
+                "brightness": null,
+                "hlink": "none",
+                "sym": "none"
+              }
+            ]
+          }
+        ],
+        "text_join": "Anyone who thinks this is a proper place to raise kids in winter needs to have their head examined.  It is bitterly cold and needs much work to be rentable, comfortably livable or even saleable at anything but a huge loss.\nThis is only a small sampling of the problems I have with this house, some of which I\u2019m afraid to document in pictures given to people I don\u2019t trust.\nThe worst part about this whole thing is that now I have to live here an extra month (the 2nd coldest month of the year), because somebody made themselves judge and jury of things had no understanding of and forced me to jump through numerous ridiculous hoops which delayed closing past Dec. 31, costing me tons of money in legal fees and forcing my kids to endure another month of mind-numbing cold.\nI only bought this house because I thought I had a partner in life who could help me fix the place up and make it livable. A lawsuit over the driveway that cost me tens of thousands of dollars and tied up funds designated for fixing this house combined with my ex losing her mind, leaving me with full custody of the kids and alimony to pay conspired to cost me that dream.  Now, somebody who has no fucking idea what it is like to live here wants to take away my chance to get out of here by not allowing a loan to go through.  What are my other options: selling at a massive loss or walking a way and defaulting on the loan.  Are those options really preferable?  I think not.\nNow that I\u2019ve been completely humiliated, \u201cMother, may I please have my loan?\u201d",
+        "txBox": false
+      }
+    ]
+  }
+]

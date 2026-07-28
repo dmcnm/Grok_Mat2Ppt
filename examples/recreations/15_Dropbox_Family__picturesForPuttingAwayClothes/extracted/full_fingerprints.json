@@ -1,0 +1,335 @@
+[
+  {
+    "slide": 1,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 6",
+        "box": {
+          "x": 4.4632,
+          "y": 0.3512,
+          "cx": 3.0946,
+          "cy": 2.9969,
+          "x_emu": 4081124,
+          "y_emu": 321182,
+          "cx_emu": 2829709,
+          "cy_emu": 2740349,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 4",
+        "box": {
+          "x": 0.5504,
+          "y": 4.1519,
+          "cx": 3.6646,
+          "cy": 3.0786,
+          "x_emu": 503280,
+          "y_emu": 3796470,
+          "cx_emu": 3350938,
+          "cy_emu": 2815094,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image2.jpg",
+        "crop": {
+          "b": 8148
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 9",
+        "box": {
+          "x": 8.1844,
+          "y": 3.7107,
+          "cx": 2.193,
+          "cy": 3.5198,
+          "x_emu": 7483812,
+          "y_emu": 3393058,
+          "cx_emu": 2005279,
+          "cy_emu": 3218506,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image3.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 11",
+        "box": {
+          "x": 10.9275,
+          "y": 3.6888,
+          "cx": 2.0852,
+          "cy": 3.5417,
+          "x_emu": 9992075,
+          "y_emu": 3373009,
+          "cx_emu": 1906699,
+          "cy_emu": 3238555,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image4.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 12",
+        "box": {
+          "x": 0.7419,
+          "y": 0.3512,
+          "cx": 3.0946,
+          "cy": 2.9969,
+          "x_emu": 678436,
+          "y_emu": 321182,
+          "cx_emu": 2829709,
+          "cy_emu": 2740349,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image1.jpg",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 16",
+        "box": {
+          "x": 8.1844,
+          "y": 0.2492,
+          "cx": 3.709,
+          "cy": 2.9969,
+          "x_emu": 7483812,
+          "y_emu": 227875,
+          "cx_emu": 3391522,
+          "cy_emu": 2740350,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image5.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 19",
+        "box": {
+          "x": 4.5508,
+          "y": 4.4297,
+          "cx": 3.0069,
+          "cy": 2.8764,
+          "x_emu": 4161281,
+          "y_emu": 4050563,
+          "cx_emu": 2749552,
+          "cy_emu": 2630155,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image6.jpg",
+        "crop": {
+          "b": 6314
+        }
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "layout": "Title and Content",
+    "shapes": [
+      {
+        "kind": "pic",
+        "name": "Picture 3",
+        "box": {
+          "x": 0.4538,
+          "y": 0.3601,
+          "cx": 3.2349,
+          "cy": 3.2349,
+          "x_emu": 414917,
+          "y_emu": 329293,
+          "cx_emu": 2957958,
+          "cy_emu": 2957958,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image7.png",
+        "crop": null
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 2",
+        "box": {
+          "x": 8.1717,
+          "y": 4.8957,
+          "cx": 2.4245,
+          "cy": 2.7841,
+          "x_emu": 7472206,
+          "y_emu": 4476589,
+          "cx_emu": 2216995,
+          "cy_emu": 2545826,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image8.jpg",
+        "crop": {
+          "r": 10577
+        }
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 11",
+        "box": {
+          "x": 5.4441,
+          "y": 0.3601,
+          "cx": 3.6496,
+          "cy": 4.3754,
+          "x_emu": 4978097,
+          "y_emu": 329300,
+          "cx_emu": 3337175,
+          "cy_emu": 4000873,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image9.gif",
+        "crop": {
+          "t": 10343,
+          "b": 9782
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 13",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 6.0482,
+          "y": 2.4668,
+          "cx": 2.5408,
+          "cy": 2.2687,
+          "x_emu": 5530514,
+          "y_emu": 2255679,
+          "cx_emu": 2323323,
+          "cy_emu": 2074494,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "50800",
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 9",
+        "box": {
+          "x": 9.5319,
+          "y": 0.3601,
+          "cx": 3.6496,
+          "cy": 4.3754,
+          "x_emu": 8715929,
+          "y_emu": 329301,
+          "cx_emu": 3337175,
+          "cy_emu": 4000873,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image9.gif",
+        "crop": {
+          "t": 10343,
+          "b": 9782
+        }
+      },
+      {
+        "kind": "sp",
+        "name": "Rectangle: Rounded Corners 14",
+        "ph": null,
+        "prst": "roundRect",
+        "box": {
+          "x": 9.6345,
+          "y": 0.3601,
+          "cx": 3.4369,
+          "cy": 2.1067,
+          "x_emu": 8809801,
+          "y_emu": 329300,
+          "cx_emu": 3142718,
+          "cy_emu": 1926380,
+          "flipH": false,
+          "flipV": false
+        },
+        "fill": {
+          "type": "none"
+        },
+        "ln": {
+          "w": "50800",
+          "fill": {
+            "type": "solid",
+            "scheme": "tx1"
+          },
+          "noFill": false
+        },
+        "style_ln": {
+          "idx": "2",
+          "scheme": "accent1",
+          "shade": "50000"
+        },
+        "body": {
+          "autofit": "none",
+          "fontScale": null,
+          "lnSpcReduction": null,
+          "anchor": "ctr",
+          "wrap": "inherit",
+          "insets": {}
+        },
+        "paras": [],
+        "text_join": "",
+        "txBox": false
+      },
+      {
+        "kind": "pic",
+        "name": "Picture 20",
+        "box": {
+          "x": 0.6432,
+          "y": 3.5236,
+          "cx": 3.6496,
+          "cy": 3.4508,
+          "x_emu": 588117,
+          "y_emu": 3221937,
+          "cx_emu": 3337175,
+          "cy_emu": 3155449,
+          "flipH": false,
+          "flipV": false
+        },
+        "asset": "image10.jpg",
+        "crop": {
+          "r": 50317,
+          "b": 14066
+        }
+      }
+    ]
+  }
+]
